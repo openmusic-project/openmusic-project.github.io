@@ -1,5 +1,6 @@
-<meta http-equiv="refresh" content="0;om7/"> 
 
-This is a provisional hub for **OpenMusic** pages.
+## OpenMusic project:
 
-**The main information page is:** [http://repmus.ircam.fr/openmusic/](http://repmus.ircam.fr/openmusic/)
+- OM6: [https://github.com/openmusic-project/OM6](https://github.com/openmusic-project/OM6)
+- OM7: [https://github.com/openmusic-project/om7](https://github.com/openmusic-project/om7)
+- Libraries: [https://github.com/openmusic-project/](https://github.com/openmusic-project/)
