@@ -1,0 +1,13 @@
+theme: jekyll-theme-slate
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
+
+plugins_dir:
+  - jekyll-mentions
+
+title: OpenMusic-project
+description: Computer-Assisted Composition
+
+
+
+ 
