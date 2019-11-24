@@ -1,6 +1,6 @@
-# OM Libraries
+# OpenMusic Libraries
 
-OpenMusic **libraries** contain extra tools dedicated to specific purposes.
+OpenMusic libraries contain extra tools dedicated to specific purposes.
 
 A default folder for dynamically loadable libraries is created by OM:
 
