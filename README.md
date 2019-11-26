@@ -5,7 +5,7 @@ The **<a href="https://github.com/openmusic-project/" target="_blank">openmusic-
 
 ------ 
 
-- **[OpenMusic](https://openmusic-project.github.io/OM6/)** main application (downloads, sources, info...)
+- **[OpenMusic](https://openmusic-project.github.io/openmusic/)** main application (downloads, sources, info...)
 
 - **[OpenMusic Libraries](libraries)** : an extended set of add-on features for computer-assisted composition
 
