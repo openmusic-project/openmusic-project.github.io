@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 body { 
-	background-color: #404550;
+	background-color: #405550;
 	font-family: "Calibri";
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .header {
@@ -19,14 +19,19 @@ body {
 		color: white;
 	}
 
-	h1 { font-size: 32px; }
+	h1 { font-size: 34px; }
+	h3 { 
+		padding: 0px 0px 0px 0px;
+		font-weight: normal;
+	}
 }
 
 .inner { 
 	background-color: white;
-	max-width: 80%;
-	margin-left: 10%;
-	margin-right: 10%;
+	max-width: 1000px;
+	min-height: 600px;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 div.main_content, div.footer { 
