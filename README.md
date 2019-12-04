@@ -8,9 +8,9 @@ The <a href="https://github.com/openmusic-project/" target="_blank">openmusic-pr
 
 - [OpenMusic](openmusic) main application (downloads, sources, info...)
 
-- [OpenMusic Libraries](libraries) : an extended set of add-on features for computer-assisted composition
+- [OpenMusic Libraries](https://openmusic-project.github.io/libraries) : an extended set of add-on features for computer-assisted composition
 
-- [Resources and links about OpenMusic](links)
+- [Resources and links about OpenMusic](https://openmusic-project.github.io/links)
 
 ------ 
 
