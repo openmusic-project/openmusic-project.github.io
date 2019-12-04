@@ -18,7 +18,7 @@ You can also add extra libraries folder and register them in OM:
 **Note:** Libraries can also be loaded as "Remote User Libs" (see "Library" window, Menu "File").
 
 
->  See in the [Developer resources](https://openmusic-project.github.io/OM6/dev/) for instructions about how to write your own OM library.
+>  See in the [Developer resources](https://openmusic-project.github.io/openmusic/dev/index) for instructions about how to write your own OM library.
 
 ## Catalog
 
