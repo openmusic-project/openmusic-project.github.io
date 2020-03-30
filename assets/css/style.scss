@@ -3,20 +3,60 @@
 
 @import "{{ site.theme }}";
 
-.inner { max-width: 80%; }
+body { 
+	background-color: #404550;
+	font-family: "Calibri";
+	font-size: 16px;
+}
 
-#header_wrap .inner { padding: 10px 10px 10px 10px; }
+.header {
+	background-color: black;
+	padding: 20px 20px 20px 20px;
+	color: #DDD;
 
-header a:hover, a:focus { text-decoration: none; }
+	a:hover, a:focus, a:link { 
+		text-decoration: none; 
+		color: white;
+	}
 
-body { text-align: justify;	}
+	h1 { font-size: 32px; }
+}
 
-h1, h2, h3, h4, h5 { font-family: "Calibri"; }
+.inner { 
+	background-color: white;
+	max-width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
 
-h1 { font-size: 26px; }
-h2 { font-size: 24px; }
-h3 { font-size: 22px; }
-h4 { font-size: 20px; }
-h5 { font-size: 18px; }
+div.main_content, div.footer { 
+	padding: 20px 20px 20px 20px;
+}
+
+ul {
+	padding: 0px 0px 0px 20px;
+}
+
+p {
+	padding: 0px 0px 0px 0px;
+}
+
+table, td {
+	border: 1px solid;
+	padding: 10px 10px 10px 10px;
+}
+
+h2, h3, h4 {
+	padding: 10px 0px 10px 0px;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 22px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
 
 img { margin: 20px 20px 20px 20px; }
+
+div.footer p { 
+	font-size: 12px;
+}
