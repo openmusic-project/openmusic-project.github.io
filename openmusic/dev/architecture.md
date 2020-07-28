@@ -1,9 +1,9 @@
 
 # OM Architecture
 
-Below are detailed some important OM concepts.
+Below some important OM concepts are detailed.
 
-> **Note:** The follow sections are adapted from the OM 4 developer documentation an may contain some outdated information (class names, etc.)
+> **Note:** The following sections are adapted from the OM 4 developer documentation and may contain some outdated information (class names, etc.)
 
 ## Meta-Objects
 
