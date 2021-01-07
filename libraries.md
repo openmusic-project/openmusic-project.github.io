@@ -102,7 +102,7 @@ Most OpenMusic libraries can be found and downloaded from [https://github.com/op
 |[OM-Darwin](https://github.com/geofholbrook/om-darwin)| Genetic algorithm library | Geof Holbrook |
 |[SDIF-Edit4OM](https://github.com/j-bresson/SDIF-Edit/tree/master/OM) |A little "hack" to use SDIF-Edit instead of the default OM SDIF editor -- see https://github.com/j-bresson/SDIF-Edit|Jean Bresson, 2011|
 |[OM-JI](https://github.com/charlesneimog/OM-JI) | Library for Just Intonation composition, reconstructs the theory of Harry Partch, Erv Wilson, and Ben Johnston | Charles K. Neimog, 2020|
-
+|[OM-AIS](https://github.com/PHRaposo/OM-AIS) | All Interval Series library | Paulo Henrique Raposo, 2021|
 <br>
 
 |**[R-udp-player](https://sourceforge.net/projects/r-udp-player/)** | **A microtonal player to use with OM score objects' "OSC player" option.** | Ruben sverre Gjertsen | 
