@@ -105,7 +105,7 @@ Most OpenMusic libraries can be found and downloaded from [https://github.com/op
 |[OM-AIS](https://github.com/PHRaposo/OM-AIS) | All Interval Series library | Paulo Henrique Raposo, 2021|
 |[Cluster Engine](https://github.com/PHRaposo/Cluster-Engine-Library-for-OpenMusic) | A constraint solver for solving polyphonic constraint satisfaction problems  | Orjan Sandred and Paulo H. Raposo, 2021|
 |[Melodizer](https://github.com/sprockeelsd/Melodizer) | Melodizer is an OpenMusic objet allowing composers to increase their expression and composition abilities  | Damien Sprockreels, 2021|
-<br>
+
 
 |**[R-udp-player](https://sourceforge.net/projects/r-udp-player/)** | **A microtonal player to use with OM score objects' "OSC player" option.** | Ruben sverre Gjertsen | 
 
