@@ -3,7 +3,7 @@
 OpenMusic is based on the Common Lisp programming language. Creating an executable in Common Lisp means loading all the source code in the Lisp environment and build an "image" of it, i.e. another Lisp environment extended with the features defined in the code.
 It is also possible to compile and load OM source code in the Lisp environment and use it directly without saving a new image. Using OM sources therefore requires owning a Lisp compiler.
 
-OM 6 is currently developed with LispWorks 7.1.1 and relies on the graphical and GUI toolkits provided by this commercial Lisp environment. A free (limited) edition of LW6 is available on the [LispWorks](http://www.lispworks.com/) website, but unfortunately no free version of LW 7 at the moment.  
+OM 7 is currently developed with LispWorks 8.0.1 and relies on the graphical and GUI toolkits provided by this commercial Lisp environment. A free (limited) edition of LW7 is available on the [LispWorks](http://www.lispworks.com/) website, but unfortunately no free version of LW 8 at the moment.  
 
 The current OM sources can be compiled and run OM on **macOS**, **Windows** and **Linux** (see compilation instructions below).
 
@@ -17,7 +17,7 @@ Here are the successive steps to follow:
 - Download the latest OM sources.
 - Install OM Fonts and external dependencies (see the note and/or corresponding sections below)
 - Launch LispWorks
-- Load the file //OM 6.x.x/build/build-om.lisp//
+- Load the file //OM 7.x.x/build/build-om.lisp//
 - Evaluate: `(om::START-OPENMUSIC)`
 
 .. and you're (almost) done (see further precisions below).
@@ -33,7 +33,7 @@ In the _build-om.lisp_ file, you will find lines staring with `(load-om-projects
 LispWorks Personal has also a time limit of 5 hours for each session, after which it will exit as well (but still can be restarted).
 
 
-**See the [build instructions in the OM source repository](https://github.com/openmusic-project/OM6/) for further information on external dependencies; fonts installation, etc.**
+**See the [build instructions in the OM source repository](https://github.com/openmusic-project/openmusic/blob/master/BUILD.md) for further information on external dependencies; fonts installation, etc.**
 
 
 ## The OM Directory
