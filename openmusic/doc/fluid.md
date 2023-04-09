@@ -24,8 +24,10 @@ Press Command+Space and type Terminal and press enter/return key.
 Copy and paste the following command in Terminal app:
 
 ...
+
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ...
+
         
         
  and press enter/return key. Wait for the command to finish.
@@ -37,28 +39,33 @@ Copy and paste the following command in Terminal app:
  Now, copy/paste and run this command to make brew command available inside the Terminal: 
 
 ...
+
             echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+
 ...
 
 
 Copy and paste the following command:
 
 ...
+
         brew install fluidsynth
+
 ...
+
 
 
 Done! You can now use fluidsynth.
 
 
-###Usage
+### Usage
 
 You can create as much FluidSynth as your RAM allows. 
 
 For each instance of a Fluidsynth created it will be allocated a default port. Ports start from 0.
 
 
-### Setting Preferences
+### Setting up Preferences
 
 In order to use FluidSynth as your basic player, first go to the OM preferences MIDI tab:
 
@@ -69,14 +76,14 @@ Then select "**fluidsynth**" in the pop-up menu.
 
 This will allow to set the **fluidsynth** **player** as the default **player** for all your SCORE objects (chord, chord-seq, voice, etc.)  
 
+**Note:** Once **fluidsynth** is selected as the default **player**, **Shift of MIDI channels** will be set by default as **always** and **Number of channels** to **depending on approx**. 
+
 In case you have imported patches with different **players** settings, you can still change the **player** individualy using the SCORE's editor button <img src="./images/player-button.png" width="25px" style="margin: 0px;">.
 
 This panel will appear:
 
 <img src="./images/fluid/player.png" width="512px" align="center"> 
 
-
-**Note:** Once **fluidsynth** is selected as the default **player**, **Shift of MIDI channels** will be set by default as **always** and **Number of channels** to **depending on approx**. 
 
 
 ### Creating FluidSynth instances
@@ -93,7 +100,7 @@ Then press on **Load Synths** button
 If you need to delete the synth use the **Delete Synths** button.
 
 
-###SF2 managment
+### SF2 managment
 
 
 
