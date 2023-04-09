@@ -4,7 +4,8 @@
 ### Introduction
 
 Since version 7.2, FluidSynth is integrated to OM as a dynamic library.
-Howewver, you will need to install fluidsynth on Linux and Mac platforms.
+
+However, you will need to install fluidsynth on Linux and Mac platforms.
 
 
 ### Installing FluidSynth on Linux
@@ -16,12 +17,23 @@ One easy method to install on Mac is to use the Homebrew package manager. This w
 Here are the steps you must follow to install Homebrew and FluidSynht:
 
 Press Command+Space and type Terminal and press enter/return key.
+
 Copy and paste the following command in Terminal app:
+
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
- and press enter/return key. Wait for the command to finish. If you are prompted to enter a password, please type your Mac user's login password and press ENTER. Mind you, as you type your password, it won't be visible on your Terminal (for security reasons), but rest assured it will work.
-    Now, copy/paste and run this command to make brew command available inside the Terminal: 
+        
+ and press enter/return key. Wait for the command to finish.
+ 
+ If you are prompted to enter a password, please type your Mac user's login password and press ENTER. 
+ 
+ Mind you, as you type your password, it won't be visible on your Terminal (for security reasons), but rest assured it will work.
+ 
+ Now, copy/paste and run this command to make brew command available inside the Terminal: 
+ 
             echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+
 Copy and paste the following command:
+
         brew install fluidsynth
 
 Done! You can now use fluidsynth.
