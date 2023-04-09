@@ -74,20 +74,13 @@ In case you have imported patches with different **players** settings, you can s
 
 This panel will appear:
 
-<img src="./images/fluid/player.png" width="512px" align="center""> 
+<img src="./images/fluid/player.png" width="512px" align="center"> 
 
 
-It is possible to choose among different **players** for your score objects (chord, chord-seq, voice, etc.)  
-
-The selection of a player can be done using the _player_ button 
-
-<img src="./images/player-button.png" width="25px" style="margin: 0px;"> on the tool-bar of the editors, or by right/ctrl-clicking the boxes and using the "Player" menu.
+**Note:** Once **fluidsynth** is selected as the default **player**, **Shift of MIDI channels** will be set by default as **always** and **Number of channels** to **depending on approx**. 
 
 
-**Note:** Once **fluidsynth** is selected as the default **player**, **Shifting of MIDI channels** will be set by default as **always** and **NUmber of channels** to **depending on approx**. 
-
-
-###Creating FluidSynth instances
+### Creating FluidSynth instances
 
 In order to create FluidSynth instances, go to the **Fluidsynth** tab in the preference window.
 
@@ -100,6 +93,8 @@ Then press on **Load Synths** button
 
 If you need to delete the synth use the **Delete Synths** button.
 
+
+###SF2 managment
 
 
 
