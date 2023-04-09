@@ -10,10 +10,12 @@ However, you will need to install fluidsynth on Linux and Mac platforms.
 
 
 ### Installing FluidSynth on Linux
+
 You just have to use your package manager (apt for Debian, dnf for Fedora).
 
 ### Installing FluidSynth on Mac
-One easy method to install on Mac is to use the Homebrew package manager. This will also allow you to install Csound, Lilypond, etc.
+
+One easy method to install on Mac is to use the [Homebrew](https://brew.sh/) package manager. This will also allow you to install Csound, Lilypond, etc.
 
 Here are the steps you must follow to install Homebrew and FluidSynht:
 
@@ -22,7 +24,6 @@ Press Command+Space and type Terminal and press enter/return key.
 Copy and paste the following command in Terminal app:
 
 ...
-
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ...
         
@@ -36,7 +37,6 @@ Copy and paste the following command in Terminal app:
  Now, copy/paste and run this command to make brew command available inside the Terminal: 
 
 ...
- 
             echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 ...
 
@@ -44,7 +44,6 @@ Copy and paste the following command in Terminal app:
 Copy and paste the following command:
 
 ...
-
         brew install fluidsynth
 ...
 
