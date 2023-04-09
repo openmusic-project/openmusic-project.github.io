@@ -1,6 +1,7 @@
 ## FLUIDSYNTH AND OM
 
 > This information applies to OM v.7.2 and higher
+
 ### Introduction
 
 Since version 7.2, FluidSynth is integrated to OM as a dynamic library.
@@ -20,10 +21,11 @@ Press Command+Space and type Terminal and press enter/return key.
 
 Copy and paste the following command in Terminal app:
 
-...shell
+...
 
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ...
+        
         
  and press enter/return key. Wait for the command to finish.
  
@@ -38,6 +40,7 @@ Copy and paste the following command in Terminal app:
             echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 ...
 
+
 Copy and paste the following command:
 
 ...
@@ -45,22 +48,61 @@ Copy and paste the following command:
         brew install fluidsynth
 ...
 
+
 Done! You can now use fluidsynth.
 
-### Score player selection
 
-<img src="./images/box-menu.png" width="240px" align="right">
+###Usage
+
+You can create as much FluidSynth as your RAM allows. 
+
+For each instance of a Fluidsynth created it will be allocated a default port. Ports start from 0.
+
+
+### Setting Preferences
+
+In order to use FluidSynth as your basic player, first go to the OM preferences MIDI tab:
+
+
+<img src="./images/fluid/midi-prefs.png" width="512px" align="center">
+
+Then select "**fluidsynth**" in the pop-up menu.
+
+This will allow to set the **fluidsynth** **player** as the default **player** for all your SCORE objects (chord, chord-seq, voice, etc.)  
+
+In case you have imported patches with different **players** settings, you can still change the **player** individualy using the SCORE's editor button <img src="./images/player-button.png" width="25px" style="margin: 0px;">.
+
+This panel will appear:
+
+<img src="./images/fluid/player.png" width="512px" align="center""> 
+
 
 It is possible to choose among different **players** for your score objects (chord, chord-seq, voice, etc.)  
 
-The selection of a player can be done using the _player_ button <img src="./images/player-button.png" width="25px" style="margin: 0px;"> on the tool-bar of the editors, or by right/ctrl-clicking the boxes and using the "Player" menu.
+The selection of a player can be done using the _player_ button 
 
-Select the **OM MIDI player** to render the object via MIDI
+<img src="./images/player-button.png" width="25px" style="margin: 0px;"> on the tool-bar of the editors, or by right/ctrl-clicking the boxes and using the "Player" menu.
 
 
-**Note:** The //MIDI port mode// tab on the right allows to select a MIDI port to direct the MIDI output, to use the default MIDI port (as set in the Preferences) or to use individual notes' ports. 
+**Note:** Once **fluidsynth** is selected as the default **player**, **Shifting of MIDI channels** will be set by default as **always** and **NUmber of channels** to **depending on approx**. 
 
-=> _Before to go any further in testing, check that your object(s) player selection is correct._
+
+###Creating FluidSynth instances
+
+In order to create FluidSynth instances, go to the **Fluidsynth** tab in the preference window.
+
+Choose the number of synth you need in the **Number of Synths.** box and press **Apply** button.
+
+Then press on **Load Synths** button
+
+
+<img src="./images/fluid/fluid-prefs02.png" width="512px" align="center">
+
+If you need to delete the synth use the **Delete Synths** button.
+
+
+
+
 
 ### MIDI setup in OM Preferences
 
