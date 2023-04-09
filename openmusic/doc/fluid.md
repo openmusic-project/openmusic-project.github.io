@@ -20,7 +20,10 @@ Press Command+Space and type Terminal and press enter/return key.
 
 Copy and paste the following command in Terminal app:
 
+...
+Shell
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+...
         
  and press enter/return key. Wait for the command to finish.
  
@@ -29,12 +32,18 @@ Copy and paste the following command in Terminal app:
  Mind you, as you type your password, it won't be visible on your Terminal (for security reasons), but rest assured it will work.
  
  Now, copy/paste and run this command to make brew command available inside the Terminal: 
- 
+
+...
+Shell 
             echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+...
 
 Copy and paste the following command:
 
+...
+shell
         brew install fluidsynth
+...
 
 Done! You can now use fluidsynth.
 
