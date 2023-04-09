@@ -23,6 +23,7 @@ OM may be used as a general purpose functional/object/visual programming languag
 
 - **[OpenMusic User Manual](http://support.ircam.fr/docs/om/om6-manual/)**
 - [Hints about MIDI setup](doc/midi)
+- [FluidSynth and OM](doc/fluid)
 - [Reactive mode](doc/reactive)
 
 
