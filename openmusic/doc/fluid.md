@@ -111,7 +111,7 @@ You can then load individualy for each synth a different soudfont by clicking on
 
 It is possible do save the setup in a text file using the **Save** button. The **Load** button will load your setup. The format of the playlist is a pathname for each sf2 and looks something like this:
 
-<img src="./images/fluid/paths.png" width="512px" align="center">
+<img src="./images/fluid/paths.png" width="412px" align="center">
 
 
 
