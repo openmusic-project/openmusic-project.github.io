@@ -58,12 +58,6 @@ Copy and paste the following command:
 Done! You can now use fluidsynth.
 
 
-### Usage
-
-You can create as much FluidSynth as your RAM allows. 
-
-For each instance of a Fluidsynth created it will be allocated a default port. Ports start from 0.
-
 
 ### Setting up Preferences
 
@@ -87,16 +81,20 @@ Choose from this panel the desired **player**:
 
 ### Creating FluidSynth instances
 
+You can create as much FluidSynth instances as your RAM allows. 
+
+For each instance of a Fluidsynth created it will be allocated a default port. Ports start from 0.
+
 In order to create FluidSynth instances, go to the **Fluidsynth** tab in the preference window.
 
-Choose the number of synth you need in the **Number of Synths.** box and press **Apply** button.
+Choose the number of synths you need in the **Number of Synths.** box and press **Apply** button.
 
 Then press on **Load Synths** button
 
 
 <img src="./images/fluid/fluid-prefs02.png" width="512px" align="center">
 
-If you need to delete the synths use the **Delete Synths** button.
+If you need to delete synths use the **Delete Synths** button.
 
 
 ### SF2 managment
