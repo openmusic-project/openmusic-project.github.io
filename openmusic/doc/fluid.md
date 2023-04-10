@@ -105,7 +105,7 @@ By default, **SF2 File** button will load the soudfont into all the synth alread
 
 If you need to load different soundfonts for each synth, use the **SF2 setup** button.
 
-<img src="./images/fluid/sf2setup.png" width="512px" align="center">
+<img src="./images/fluid/sf2setup.png" width="256px" align="center">
 
 You can then load individualy for each synth a different soudfont by clicking on the folder button <img src="./images/folder-button.png" width="25px" style="margin: 0px;">
 
@@ -118,4 +118,4 @@ It is possible do save the setup in a text file using the **Save** button. The *
 ### Still not working ? 
 
 Please report/comment on the ForumNet thread :      
-[http://forumnet.ircam.fr/user-groups/openmusic/forum/topic/no-sound-in-scores/#post-12178](http://forumnet.ircam.fr/user-groups/openmusic/forum/topic/no-sound-in-scores/#post-12178)
+[https://discussion.forum.ircam.fr/c/openmusic/42](https://discussion.forum.ircam.fr/c/openmusic/42)

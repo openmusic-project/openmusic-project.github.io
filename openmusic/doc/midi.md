@@ -67,4 +67,4 @@ You can therefore also play using MicroPlayer via MIDI (but in this case, it wil
 ### Still not working ? 
 
 Please report/comment on the ForumNet thread :      
-[http://forumnet.ircam.fr/user-groups/openmusic/forum/topic/no-sound-in-scores/#post-12178](http://forumnet.ircam.fr/user-groups/openmusic/forum/topic/no-sound-in-scores/#post-12178)
+[https://discussion.forum.ircam.fr/c/openmusic/42](https://discussion.forum.ircam.fr/c/openmusic/42)
