@@ -68,3 +68,4 @@ You can therefore also play using MicroPlayer via MIDI (but in this case, it wil
 
 Please report/comment on the ForumNet thread :      
 [https://discussion.forum.ircam.fr/c/openmusic/42](https://discussion.forum.ircam.fr/c/openmusic/42)
+

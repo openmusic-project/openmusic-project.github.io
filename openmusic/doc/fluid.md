@@ -107,7 +107,7 @@ If you need to load different soundfonts for each synth, use the **SF2 setup** b
 
 <img src="./images/fluid/sf2setup.png" width="256px" align="center">
 
-You can then load individualy for each synth a different soudfont by clicking on the folder button <img src="./images/folder-button.png" width="25px" style="margin: 0px;">
+You can then load individualy for each synth a different soudfont by clicking on the folder button <img src="./images/fluid/folder-button.png" width="25px" style="margin: 0px;">
 
 It is possible do save the setup in a text file using the **Save** button. The **Load** button will load your setup. The format of the playlist is a pathname for each sf2 and looks something like this:
 
