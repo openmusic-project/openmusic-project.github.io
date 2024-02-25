@@ -97,6 +97,7 @@ Most OpenMusic libraries can be found and downloaded from [https://github.com/op
 |[FV-Morphologie](http://www.fredvoisin.com/web/spip.php?article113)|Lisp tools to analyse sequences of symbols or signs wich represent music... 		|Fred Voisin|
 |[OMPW](http://kiliansprotte.de/perm/ompw.html)|Abstraction layer for writing Lisp libraries that can be used in "pure" Common Lisp, but also in the OM or PWGL environments 		|Kilian Sprotte|
 |[GeLisp/OMGelisp](http://sourceforge.net/projects/gelisp/) |A portable and efficient wrapper for the Generic Constraints Development Environment (GECODE) library to Common Lisp. Provides a high level interface and a low level interface. Additionally, it provides an interface to OpenMusic. |Mauricio Toro Bermudez and Camilo Rueda|
+|[OMXmulti](https://sourceforge.net/projects/omxmulti/) | Replacement for both OpenMusic's regular “chord-seq” and “multi-seq” score editors | Yannick Chapuis and David Echevarria, 2014|
 |[COMUS](http://www.ufjf.br/comus/)|A collection of OM patches for image-to-sound conversion using several color systems (RGB, HSV, CMYK) and OM functions (BPF, BPC, 3DC). |Luiz E. Castelões|
 |[OM-Geste](https://github.com/marleynoe/OM-Geste)| Library for representation, processing and mapping of gesture data| Marlon Schumacher |
 |[OM-Darwin](https://github.com/geofholbrook/om-darwin)| Genetic algorithm library | Geof Holbrook |
