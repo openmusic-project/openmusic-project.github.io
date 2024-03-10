@@ -107,6 +107,7 @@ Most OpenMusic libraries can be found and downloaded from [https://github.com/op
 |[Cluster Engine](https://github.com/PHRaposo/Cluster-Engine-Library-for-OpenMusic) | A constraint solver for solving polyphonic constraint satisfaction problems  | Orjan Sandred and Paulo H. Raposo, 2021|
 |[Melodizer](https://github.com/sprockeelsd/Melodizer) | Melodizer is an OpenMusic objet allowing composers to increase their expression and composition abilities  | Damien Sprockreels, 2021|
 |[GA](https://github.com/governoladro/GA) | GA library is for the generation of musical phrases with genetic algorithms in OpenMusic  | Andrea Taroppi, 2023|
+|[omsib](https://github.com/PHRaposo/omsib) | Export scores from OpenMusic to Avid Sibelius Software | Paulo Henrique Raposo, 2024|
 
 <br>
 
