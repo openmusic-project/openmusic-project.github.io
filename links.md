@@ -27,6 +27,7 @@ A collection of essays written by composers about their use of OpenMusic and com
 
 ### 3rd party material & contributions
 
+  * Yoshiaki Onishi's [OpenMusic Tutorial Sessions](https://vimeo.com/showcase/7662343) [2022]
   * Algorithmic composer [OpenMusic tutorials](http://www.algorithmiccomposer.com/search?q=openmusic+tutorial) / [video](https://youtu.be/hbTLTsLuG50) [2010-2011]
   * Federico Bonacossa's [YouTube tutorials](http://www.youtube.com/watch?v=N4s83rEG028) [2013]
   * Didier Debril's [tutorial](http://www.deb8076.eu/IntroOpenMusic/index.html) [FR] / [Analyse Set Theory](http://www.deb8076.eu/AnalyseBeethovenST/index.html)
