@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+                      "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <!--
+							standard : HTML 4.01 Transitional (Standards mode)
+							dialog : /@c1545/@c6360/@c6361/@c1556/@c1602/@c1737/@c1737/_N16--><head>
+  <title>OpenMusic Documentation - Class-Array Editor</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta content="no-cache" http-equiv="Cache-Control">
+  <meta content="no-cache" http-equiv="Pragma">
+  <meta content="Fri, 01 Jan 1990 00:00:00 GMT" name="Expires" http-equiv="expires">
+  <meta content="text/css" http-equiv="Content-Style-Type">
+  <link href="../css/googleSearch.css" type="text/css" rel="stylesheet">
+  <link href="../wdgt/scImgMgr/scImgMgr.css" type="text/css" rel="stylesheet">
+  <script type="text/JavaScript">
+/*0*/ var scServices = {};
+/*1*/ scServices["scLoad"] = {loadFromRoot:function(pUrl){window.location.href="../)"+pUrl;}, getUrlFromRoot:function(pHref){if(!this.fRootOffset) this.fRootOffset = window.location.href.length -19; return pHref.substring(this.fRootOffset);}};
+</script>
+  <script src="../jslib/scCoLib.js" type="text/JavaScript"></script>
+  <script src="../jslib/scPaLib.js" type="text/JavaScript"></script>
+  <script src="../jslib/scTiLib.js" type="text/JavaScript"></script>
+  <script src="../jslib/scSiLib.js" type="text/JavaScript"></script>
+  <script src="../jslib/scTooltipMgr.js" type="text/JavaScript"></script>
+  <script src="../jslib/scDynUiMgr.js" type="text/JavaScript"></script>
+  <script src="../wdgt/scImgMgr/scImgMgr.js" type="text/JavaScript"></script>
+  <script src="../wdgt/scImgMgr/scImgMgr.locale.js" type="text/JavaScript"></script>
+  <script src="../wdgt/dokielMgr/dokielMgr.js" type="text/JavaScript"></script>
+  <script src="../wdgt/dokielMgr/dokielMgr.locale.js" type="text/JavaScript"></script>
+  <script src="../jslib/pageMemMgr.js" type="text/JavaScript"></script>
+  <script src="../wdgt/googleSearch/googleSearch.js" type="text/JavaScript"></script>
+  <script src="../wdgt/scrZoom/imgZoomMgr.js" type="text/JavaScript"></script>
+  <script src="../wdgt/outLeftScroll/outLeftDyn.js" type="text/JavaScript"></script>
+  <script src="../wdgt/relNotes/relNotes.js" type="text/JavaScript"></script>
+  <script src="../wdgt/secOutMgr/secOutMgr.js" type="text/JavaScript"></script>
+  <script type="text/JavaScript">
+imgZoomMgr.init("des:div.imgzFra","chi:img","par:/nsi:/des:a",.33,1,1,1,"Cliquez pour agrandir, Shift-click : nouvelle fenêtre");
+scImgMgr.registerAnimation("des:div.screenSeqFra",{auto:false,loop:false,counter:true});
+
+scImgMgr.registerZoom("des:a.overLnk");
+
+scImgMgr.setPathPgeFra("ide:tplb");
+
+scOnLoads[scOnLoads.length] = guideMem;
+
+</script>
+  <script type="text/JavaScript">scCoLib.fDebug = true;</script>
+  <meta name="generator" content="SCENARI 3.7 / ircamGuide 3.0.0 - http://scenari-platform.org/projects/dokielguide">
+  <link href="../skin/css/main.css" type="text/css" rel="stylesheet">
+  <link href="../skin/css/skin.css" type="text/css" rel="stylesheet">
+  <!--[if IE]><link href="../skin/css/ie.css" type="text/css" rel="stylesheet"/><![endif]-->
+  <!--[if lt IE 7]><link href="../skin/css/ie6.css" type="text/css" rel="stylesheet"/><![endif]--></head>
+ <body>
+  <div class="tplPage" id="tplf"><div id="tplh"><span class="hidden">Navigation g&eacute;n&eacute;rale : </span><!--outline : <treeContent><entry dialog="/@c1545/@c1545_Ahome/@c1545_Ahome/_Na" title="OpenMusic Documentation" position="uncle"><root>refDoc</root></entry><entry dialog="/@c1545/@c1545_Amap/@c1545_Amap/_Na" title="Plan" position="uncle"><root>refDoc</root></entry><entry dialog="/@c1545/@c1545_Atools/@c1545_Atools/_Ne" title="Glossaire" position="uncle"><root>refDoc</root></entry></treeContent>--><ul class=" sw_outMain_navList"><li class=" mainSel_no outRoot"><a href="OM-Documentation.html" target="_self" class=" mainSel_no mainElt_entry"><span>Guide</span></a></li><li class=" mainSel_no outMap"><a href="OM-Documentation_1.html" target="_self" class=" mainSel_no mainElt_entry"><span>Plan</span></a></li><li class=" mainSel_no toolGloss"><a href="OM-Documentation_2.html" target="_self" class=" mainSel_no mainElt_entry"><span>Glossaire</span></a></li></ul><div class="googleSearchFrom"><form onsubmit="googleSearch.setQueryVal(this);" target="_blank" action="http://www.google.com/search" method="get"><input name="q" type="hidden"><input size="15" name="text" class="googleSearchText" type="text"><a onclick="googleSearch.submit(scPaLib.findNode('anc:form',this));" href="javascript:void(0);" class="googleSearchSubmit"><img style="vertical-align: middle;" title="Recherche Google" src="../lib/googleSearch.gif" alt="Recherche Google"></a></form></div></div><div id="tplt"><img height="50" width="1" src="../tplRes/page/empty.gif" alt=""><img alt="" src="../res/logoom1.png" width="32" height="24"><span class="tplTi">OpenMusic Documentation</span><!--outline : <treeContent><entry dialog="/@c1545/@c6360/@c6361" title="OM 6.6 User Manual" position="ancestor"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1556" title="Basic Tools" position="ancestor"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602" title="Array" position="parent"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602/@c1737" title="Class-Array Editor" position="current"><root>section</root></entry></entry></entry></entry></treeContent>--><span class=" sw_outStack_navRoot"><span class="hidden">Hi&eacute;rarchie de section : </span><a href="OM-User-Manual.html" target="_self" class=" stkSel_no"><span>OM 6.6 User Manual</span></a><span class="stkSep"> &gt; </span><a href="BasicObjects.html" target="_self" class=" stkSel_no"><span>Basic Tools</span></a><span class="stkSep"> &gt; </span><a href="ClassArray.html" target="_self" class=" stkSel_no"><span>Array</span></a><span class="stkSep"> &gt; </span><span class=" stkSel_yes"><span>Class-Array Editor</span></span></span></div><div class="tplNav"><span class="hidden">Navigation : </span><!--navUiWidget pathDialog : "/@c1545/@c6360/@c6361/@c1556/@c1602/@c1736"--><a class="navPrev" target="_self" href="ArrayObject.html" title="page pr&eacute;c&eacute;dente(Class-Array Object)"><span>page pr&eacute;c&eacute;dente</span></a><!--navUiWidget pathDialog : "/@c1545/@c6360/@c6361/@c1556/@c1602/@c1738"--><span class="hidden"> | </span><a class="navNext" target="_self" href="ArrayTools.html" title="page suivante(Class-Array Tools)"><span>page suivante</span></a></div><div id="tplc" class=" tplc_out_yes"><noscript><div style="text-align: center;"><strong>Attention</strong>, votre navigateur ne supporte pas le <b>javascript</b> ou celui-ci &agrave; &eacute;t&eacute; d&eacute;sactiv&eacute;. Certaines fonctionnalit&eacute;s de ce guide sont restreintes.</div></noscript><div class="headCo "><h1 class="headCo_ti"><span>Class-Array Editor</span></h1><div class="headCo_co "><div><div class="infobloc "><div class="txt "><p class="text_p ">The <cite class="alt_is ">
+										<cite class="alt_is ">
+											<strong class="emphasis_is ">
+												<cite class="alt_is ">
+													<cite class="alt_is ">class-array</cite>
+													<strong class="emphasis_is ">
+														<cite class="alt_is ">
+															<cite class="alt_is ">
+																<strong class="emphasis_is ">
+																	<cite class="alt_is ">
+																	</cite>
+																</strong>
+															</cite>
+														</cite>
+														<cite class="alt_is ">editor</cite>
+													</strong>
+												</cite>
+											</strong>
+										</cite>
+									</cite> allows to visualize and edit &ndash; to a certain extent &ndash; the contents of a <cite class="alt_is ">
+										<cite class="alt_is ">class-array</cite>
+									</cite> object.</p></div></div><div class="part "><h2 id="tdN39" class="part_ti"><span>General Features</span></h2><div class="part_co "><div class="infobloc "><div class="caption"><div class="caption_co"><div style="position: relative;" class="imgzFra"><img alt="The class-array editor." src="../res/array-ed_scr.png" width="630" height="285"></div></div><div class="caption_ti">The class-array editor.<a target="_blank" class="caption_zm " href="../res/array-ed_scr_1.png" title="Zoom (nouvelle fen&ecirc;tre)"><span>Zoom</span></a></div></div><div class="txt "><p class="text_p ">In the c<cite class="alt_is ">lass-array</cite> editor, rows are represented by  a set of horizontal panes.</p><p class="text_p ">These panes can be :</p><ul class="simple_sl "><li class="simple_m "><span>
+														<strong class="emphasis_is ">
+															<cite class="alt_is ">
+																<cite class="alt_is ">BPF</cite>
+															</cite>-like views</strong>
+																	
+																
+															
+														, if the component values are <cite class="alt_is ">
+															<cite class="alt_is ">numbers</cite>
+														</cite></span></li><li class="simple_m "><span>
+														<strong class="emphasis_is ">
+															<cite class="alt_is ">
+																<cite class="alt_is ">list</cite>
+															</cite> views</strong>
+																	
+																
+															
+														, if the components are <cite class="alt_is ">
+															<cite class="alt_is ">other types of objects or values</cite>
+														</cite>.</span></li></ul><p class="text_p ">The following values can be displayed at the top of the editor by hovering the mouse over a component : </p><ul class="simple_sl "><li class="simple_m "><span>the <cite class="alt_is ">
+															<cite class="alt_is ">number</cite>
+														</cite> of the current component </span></li><li class="simple_m "><span> the <cite class="alt_is ">
+															<cite class="alt_is ">values</cite>
+														</cite> related to this component for each of the fields, such as coordinates, if values are available.</span></li></ul></div></div></div></div><div class="part "><h2 id="tdNc1" class="part_ti"><span>Displaying Options and Configuration</span></h2><div class="part_co "><div class="infobloc "><div class="infobloc_ti"><span>Palette</span></div><div class="txtRes "><table class="dk_txtRes_tab "><tr><td class="dk_txtRes_cellTxt "><div class="dk_txtRes_txt txt "><p class="text_p ">To zoom in/out on a selected region &ndash; a <cite class="alt_is ">
+																<cite class="alt_is ">components subset</cite>
+															</cite> &ndash; : use the <span class="iconButton_tim "><img class="sfile_icon-png_icon-gif_icon " alt="" src="../res/zoom_icon.png" width="24" height="23"></span> and <span class="iconButton_tim "><img class="sfile_icon-png_icon-gif_icon " alt="" src="../res/resizecurs_icon.png" width="24" height="23"></span> buttons of the palette.</p></div></td><td class="dk_txtRes_cellResRgt "><div class="caption "><div class="caption_co "><img alt="" src="../res/paletteeditor.png" width="84" height="52"></div></div></td></tr></table></div></div><div class="infobloc "><div class="infobloc_ti"><span>Options</span></div><div class="txtRes "><table class="dk_txtRes_tab "><tr><td class="dk_txtRes_cellResLft "><div class="caption "><div class="caption_co "><a target="_blank" class="overLnk" href="../res/option2.png" onclick="scImgMgr.loading(); return false;" title="Cliquez pour agrandir"><img alt="" src="../res/option2_1.png" width="300" height="196"></a></div></div></td><td class="dk_txtRes_cellTxt "><div class="dk_txtRes_txt txt "><ul class="simple_sl "><li class="simple_m "><span>To display or hide the lines of <cite class="alt_is ">BPFs</cite>, check the <code class="textCheckBox_tl ">Line</code> option.</span></li><li class="simple_m "><span>To apply a global grid to the editor, check the <code class="textCheckBox_tl ">Grid</code> option.</span></li><li class="simple_m "><span> To show or hide the <cite class="alt_is ">
+																	<cite class="alt_is ">user-defined field</cite>
+																</cite>, check the <code class="textCheckBox_tl ">Show Optional Fields</code> option. </span></li></ul><p class="text_p ">All the fields of  a simple <cite class="alt_is ">
+																<cite class="alt_is ">class-array</cite>
+															</cite> are user-defined. Consequently, all the rows of such arrays are hidden if this option is unchecked. Subclasses of class-arrays with &quot;predefined&quot; fields may remain visible.</p></div></td></tr></table></div></div><div class="infobloc "><div class="infobloc_ti"><span>Rows Configuration</span></div><div class="txt "><table><caption></caption><col class="col_tbcl " width="65.568281938326"><col class="col_tbcl " width="698.6784140969163"><tr class="row_tbtr "><td class="cell_tbtd "><p class="text_p ">
+																<span class="iconButton_tim "><img class="sfile_icon-png_icon-gif_icon " alt="" src="../res/openclose_icon.png" width="40" height="37"></span>
+															</p></td><td class="cell_tbtd "><p class="text_p ">Each row can be hidden or shown with a click on the triangle icons located on the upper left corner of each pane.</p></td></tr></table></div><div class="txt "><p class="text_p ">To save, recall or remove a given configuration, use the <code class="textButton_tl ">+</code> and <code class="textButton_tl ">-</code> buttons at the bottom of the editor. </p><p class="text_p ">To select a configuration, use the adjacent <code class="menuPath_tl ">pop up menu</code>, which contains all available or recorded configurations. </p></div><div class="caption "><div class="caption_co "><img alt="" src="../res/display-group.png" width="502" height="313"></div></div></div></div></div><div class="part "><h2 id="tdN1c0" class="part_ti"><span>Edition</span></h2><div class="part_co "><div class="infobloc "><div class="infobloc_ti"><span>BPF-Like Rows</span></div><div class="txt "><p class="text_p ">
+													<cite class="alt_is ">
+													</cite>
+													<strong class="emphasis_is ">
+														<cite class="alt_is ">
+															<cite class="alt_is ">BPF</cite>
+														</cite>-like rows</strong>
+													 offer some of the possibilities of <cite class="alt_is ">BPF</cite> editors :</p><ul class="simple_sl "><li class="simple_m "><span>hiding / showing lines</span></li><li class="simple_m "><span>moving points, in order to change the value(s) of the corresponding components.</span></li></ul><p class="text_p ">Points cannot me removed. </p></div><div class="caption "><div class="caption_co "><img alt="" src="../res/array-bpfed.png" width="444" height="92"></div></div></div><div class="infobloc "><div class="infobloc_ti"><span>List Rows</span></div><div class="txt "><p class="text_p ">
+													<strong class="emphasis_is ">
+														<cite class="alt_is ">
+															<cite class="alt_is ">List</cite>
+														</cite> rows</strong>
+													 display the contents of every components, with various types of representations depending on the type of data.</p><p class="text_p ">Objects with an editor &ndash;<cite class="alt_is "> BPFs</cite><cite class="alt_is ">
+													</cite>, <cite class="alt_is ">score</cite> objects, <cite class="alt_is ">arrays</cite>, etc.&ndash; can be open by a double click and edited individually.</p></div></div><div class="bloc note "><div class="bloc_ti note_ti"><span>Limits of Array Editors</span></div><div class="txt "><p class="text_p ">A big array may not represent all of its internal component values, in which case the internal components display may be automatically disabled.</p></div></div></div></div></div></div></div><span class="hidden">R&eacute;f&eacute;rences : </span></div><div class="tplo_out_yes" id="tplo"><div class="tplOTp"><div class="tplOBm"><div id="mnuFrm"><span class="hidden">Plan :</span><div onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" id="mnuFrmUp" style="display: none;"><span id="mnuFrmUpLeft"><a onclick="menuScrollTiTask.step(-20); return false;" href="#" id="mnuBtnUp"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></div><div id="mnuScroll"><!--outline : <treeContent><entry dialog="/@c1545/@c1545_Ahome/@c1545_Ahome/_Na" title="OpenMusic Documentation" position="uncle"><root>refDoc</root></entry><entry dialog="/@c1545/@c6360/@c6361" title="OM 6.6 User Manual" position="ancestor"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1550" title="Introduction" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1551" title="System Configuration and Installation" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1552" title="Going Through an OM Session" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1553" title="The OM Environment" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1554" title="Visual Programming I" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1555" title="Visual Programming II" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556" title="Basic Tools" position="ancestor"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1601" title="Curves and Functions" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602" title="Array" position="parent"><root>section</root><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602/@c1736" title="Class-Array Object" position="sibling"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602/@c1737" title="Class-Array Editor" position="current"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1602/@c1738" title="Class-Array Tools" position="sibling"><root>section</root></entry></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1603" title="TextFile" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1556/@c1604" title="Picture" position="uncle"><root>section</root></entry></entry><entry dialog="/@c1545/@c6360/@c6361/@c1557" title="Score Objects" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1558" title="Maquettes" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1559" title="Sheet" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1560" title="MIDI" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1561" title="Audio" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1562" title="SDIF" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1563" title="Lisp Programming" position="uncle"><root>section</root></entry><entry dialog="/@c1545/@c6360/@c6361/@c1564" title="Errors and Problems" position="uncle"><root>section</root></entry></entry><entry dialog="/@c1545/@c6360/@c6318" title="OpenMusic QuickStart" position="uncle"><root>section</root></entry></treeContent>--><ul class=" sw_outLeft_navList"><li class=" outLeftD1 outRoot"><a href="OM-Documentation.html" target="_self" class=" outLeftSel_no"><span>OpenMusic Documentation</span></a></li><li class=" outLeftD1 outSec"><a href="OM-User-Manual.html" target="_self" class=" outLeftSel_no"><span>OM 6.6 User Manual</span></a><ul><li class=" outLeftD2 outSec"><a href="00-Sommaire.html" target="_self" class=" outLeftSel_no"><span>Introduction</span></a></li><li class=" outLeftD2 outSec"><a href="Installation.html" target="_self" class=" outLeftSel_no"><span>System Configuration and Installation</span></a></li><li class=" outLeftD2 outSec"><a href="Goingthrough.html" target="_self" class=" outLeftSel_no"><span>Going Through an OM Session</span></a></li><li class=" outLeftD2 outSec"><a href="Environment.html" target="_self" class=" outLeftSel_no"><span>The OM Environment</span></a></li><li class=" outLeftD2 outSec"><a href="BasicVisualProgramming.html" target="_self" class=" outLeftSel_no"><span>Visual Programming I</span></a></li><li class=" outLeftD2 outSec"><a href="AdvancedVisualProgramming.html" target="_self" class=" outLeftSel_no"><span>Visual Programming II</span></a></li><li class=" outLeftD2 outSec"><a href="BasicObjects.html" target="_self" class=" outLeftSel_no"><span>Basic Tools</span></a><ul><li class=" outLeftD3 outSec"><a href="CurvesAndFunctions.html" target="_self" class=" outLeftSel_no"><span>Curves and Functions</span></a></li><li class=" outLeftD3 outSec"><a href="ClassArray.html" target="_self" class=" outLeftSel_no"><span>Array</span></a><ul><li class=" outLeftD4 outSec"><a href="ArrayObject.html" target="_self" class=" outLeftSel_no"><span>Class-Array Object</span></a></li><li class=" outLeftD4 outSec"><span class=" outLeftSel_yes" id="i3"><span>Class-Array Editor</span></span></li><li class=" outLeftD4 outSec"><a href="ArrayTools.html" target="_self" class=" outLeftSel_no"><span>Class-Array Tools</span></a></li></ul></li><li class=" outLeftD3 outSec"><a href="textfile.html" target="_self" class=" outLeftSel_no"><span>TextFile</span></a></li><li class=" outLeftD3 outSec"><a href="Picture.html" target="_self" class=" outLeftSel_no"><span>Picture</span></a></li></ul></li><li class=" outLeftD2 outSec"><a href="ScoreObjects.html" target="_self" class=" outLeftSel_no"><span>Score Objects</span></a></li><li class=" outLeftD2 outSec"><a href="Maquettes.html" target="_self" class=" outLeftSel_no"><span>Maquettes</span></a></li><li class=" outLeftD2 outSec"><a href="Sheet.html" target="_self" class=" outLeftSel_no"><span>Sheet</span></a></li><li class=" outLeftD2 outSec"><a href="MIDI.html" target="_self" class=" outLeftSel_no"><span>MIDI</span></a></li><li class=" outLeftD2 outSec"><a href="Audio.html" target="_self" class=" outLeftSel_no"><span>Audio</span></a></li><li class=" outLeftD2 outSec"><a href="SDIF.html" target="_self" class=" outLeftSel_no"><span>SDIF</span></a></li><li class=" outLeftD2 outSec"><a href="Lisp.html" target="_self" class=" outLeftSel_no"><span>Lisp Programming</span></a></li><li class=" outLeftD2 outSec"><a href="errors.html" target="_self" class=" outLeftSel_no"><span>Errors and Problems</span></a></li></ul></li><li class=" outLeftD1 outSec"><a href="QuickStart-Chapters.html" target="_self" class=" outLeftSel_no"><span>OpenMusic QuickStart</span></a></li></ul></div><div onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" id="mnuFrmDown" style="display: none;"><span id="mnuFrmDownLeft"><a onclick="menuScrollTiTask.step(20); return false;" href="#" id="mnuBtnDown"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></div></div></div></div></div><div class="tplNav"><span class="hidden">Navigation : </span><!--navUiWidget pathDialog : "/@c1545/@c6360/@c6361/@c1556/@c1602/@c1736"--><a class="navPrev" target="_self" href="ArrayObject.html" title="page pr&eacute;c&eacute;dente(Class-Array Object)"><span>page pr&eacute;c&eacute;dente</span></a><!--navUiWidget pathDialog : "/@c1545/@c6360/@c6361/@c1556/@c1602/@c1738"--><span class="hidden"> | </span><a class="navNext" target="_self" href="ArrayTools.html" title="page suivante(Class-Array Tools)"><span>page suivante</span></a></div><div id="tplb"><a target="_self" class="btnAbout " href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou<a target="_blank" class="btnSc " href="http://scenari-platform.org" title="R&eacute;alis&eacute; avec Scenari (nouvelle fen&ecirc;tre)"><span><img src="../skin/img/btnSc.png " alt="R&eacute;alis&eacute; avec Scenari"></span></a></div></div>
+  <script type="text/javascript">dokielMgr.init();scImgMgr.init();menuMgr.init();new dkSiRuleResizeMnu("tplo","tplf",190);new scSiRuleEnsureVisible("i3", "ide:mnuScroll");</script>
+ </body>
+</html>
