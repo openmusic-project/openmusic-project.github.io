@@ -13,6 +13,7 @@ The <a href="https://github.com/openmusic-project/" target="_blank">openmusic-pr
 - [Resources and links about OpenMusic](https://openmusic-project.github.io/links)
 
 - [OpenMusic manual](https://openmusic-project.github.io/openmusic/doc/om6-manual/co/00-Sommaire)
+
 ------ 
 
 This project is maintained by the <a href="http://repmus.ircam.fr/" target="_blank">Music Representation team</a> of the IRCAM <a href="https://www.stms-lab.fr/" target="_blank">STMS Lab</a>.
