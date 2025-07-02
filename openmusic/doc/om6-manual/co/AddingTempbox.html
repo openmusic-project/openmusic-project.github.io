@@ -1,0 +1,413 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>AddingTempbox</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="Maquettes.html"><span>Maquettes</span></a><span class="stkSep"> > </span><a href="TemporalBoxes.html"><span>TemporalBoxes</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Adding TemporalBoxes</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="TemporalBoxes.html" title="page pr&eacute;c&eacute;dente(TemporalBoxes)"><span>page précédente</span></a><span class="hidden"> | </span><a href="elementary.html" title="page suivante(Elementary Manipulations)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="adding-temporalboxes-in-a-maquette"><span>Adding TemporalBoxes in a Maquette</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p><strong>Patches</strong> and <strong>other maquettes</strong> can be included in maquettes, as well as <strong>instances</strong> or <strong>factory boxes</strong> such as notes , chords , chord-seqs , voices , audio files , midifiles , MIDI controlers .</p>
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="adding-boxes-from-a-patch"><span>Adding Boxes From a Patch</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Instances</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/addinstancesinmaq1.png" alt="This maquette contains a patch, a factory box and an instance box."></img></p>
+</div>
+
+<div class="caption_ti">
+
+<p>This maquette contains a patch, a factory box and an instance box.</p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>Factory , instance boxes and global variables can be droppped from a patch to a maquette editor.</p>
+<p>When an object is dropped in the maquette, a TemporalBox appears in the maquette. Its reference is the new factory or instance which is created from the current value of the object.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Patches and Maquettes</span></p>
+</div>
+
+<div class="txt">
+
+<p><strong>General and local</strong> <strong>patches or maquettes</strong> can be dropped in a maquette editor from the workspace or any other location. A reference to the patch, or maquette, is then created.</p>
+<ul>
+<li><span>If the master patch is a general patch <span class="iconButton_tim"><img src="../res/bluepatch_icon.png" alt="bluepatch_icon.png"></img></span> , a reference to the patch is created.</span></li>
+<li><span>If the master patch is a local patch <span class="iconButton_tim"><img src="../res/redpatch_icon.png" alt="redpatch_icon.png"></img></span>, a new independent reference patch is created.</span></li>
+</ul>
+<p>Adding a maquette into another maquette allows the conception of <strong>temporal hierarchic structures</strong> .</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/mmmmmmmm.png" alt="mmmmmmmm.png"></img></p>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>TemporalBoxes and Maquette Appearance</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Appearance.html"><span>Temporalboxes Appearance</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="bloc complement">
+
+<div class="bloc_ti complement_ti">
+
+<p><span>TemporalBox Icon</span></p>
+</div>
+
+<div class="txt">
+
+<p>To display the TemporalBox reference icon, select the <code>Show Box Icons</code> option of the <code>Maquette Preferences</code> tab</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="adding-boxes-directly-in-the-maquette-editor"><span>Adding Boxes Directly in the Maquette Editor</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Local Patches and Maquettes</span></p>
+</div>
+
+<div class="txt">
+
+<p>A <strong>new local patch or maquette</strong> can be added directly in a maquette.</p>
+<ul>
+<li><span>To add a local patch, keep <code>Cmd</code> pressed while dragging the mouse in the maquette editor. </span></li>
+<li><span>To add a local maquette, keep <code>SHIFT</code> + <code>Cmd</code> pressed while dragging the mouse in the maquette editor. </span></li>
+</ul>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/nmp.png" alt="nmp.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>A TemporalBox of equivalent size and representing a new local patch or maquette appear.</p>
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Adding Factory and Function Boxes</span></p>
+</div>
+
+<div class="txt">
+
+<p>Factory and function boxes can't be added directly in a maquette editor. They must be added in a patch located in the maquette.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/tempobj21.png" alt="tempobj21.png"></img></p>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Using Sub Patches in Maquettes</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="TempValues.html"><span>TemporalBoxes Value</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Adding and Deleting Boxes from the Outside of a Maquette</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Maquettes%20in%20Patches2.html"><span>Reference Mode</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="patch-and-temporal-patch"><span>Patch and "Temporal Patch"</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="caption">
+<div class="caption_co">
+<a href="../res/temppatch.png" class="overLnk" title="Cliquez pour agrandir"><img src="../res/temppatch_1.png" width="300" height="215" alt="temppatch_1.png"></img></a>
+</div>
+</div></td>
+<td><div class="dk_txtRes_txt txt">
+<p>Patches located in maquettes can be refered to as " <strong>temporal patches</strong> ". Basically, temporal patches show no difference with "standard" patches :</p>
+<ul>
+<li><span>they have the same editor</span></li>
+<li><span> can access the same boxes and functionalities</span></li>
+<li><span>they are manipulated the same way. </span></li>
+</ul>
+<p>Nevertheless, temporal patches have an additional feature. They can be used within the context of the maquette via a specific input and output : the <strong>temporal input</strong> and <strong>temporal output</strong> .</p>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Temporal Input</span></p>
+</div>
+
+<div class="txt">
+
+<p>The temporal input, or <strong>Tempin</strong> , allows to integrate the relation between the TemporalBox and the maquette – size, position, for instance – in the own program of the TemporalBox.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Temporal Output</span></p>
+</div>
+
+<div class="txt">
+
+<p>The temporal output, or <strong>Tempout</strong> , allows to express the musical value of a TemporalBox within the context of the maquette.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a>
+<ul>
+<li><a href="Maquette.html"><span>Creating a Maquette</span></a></li>
+<li><a href="TemporalBoxes.html"><span>TemporalBoxes</span></a>
+<ul>
+<li><span id="i3" class="outLeftSel_yes"><span>Adding TemporalBoxes</span></span></li>
+<li><a href="elementary.html"><span>Elementary Manipulations</span></a></li>
+<li><a href="Appearance.html"><span>Temporalboxes Appearance</span></a></li>
+<li><a href="TempValues.html"><span>TemporalBoxes Value</span></a></li>
+</ul></li>
+<li><a href="Editor.html"><span>The Maquette Editor</span></a></li>
+<li><a href="Programming%20Maquette.html"><span>Maquette Programming</span></a></li>
+<li><a href="Maquettes%20in%20Patches.html"><span>Maquettes in Patches</span></a></li>
+</ul></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="TemporalBoxes.html" title="page pr&eacute;c&eacute;dente(TemporalBoxes)"><span>page précédente</span></a><span class="hidden"> | </span><a href="elementary.html" title="page suivante(Elementary Manipulations)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

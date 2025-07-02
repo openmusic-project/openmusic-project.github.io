@@ -1,0 +1,530 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>SlotsBox</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a><span class="stkSep"> > </span><a href="Instances.html"><span>Instances</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Slots</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="GlobalVariables.html" title="page pr&eacute;c&eacute;dente(Global Variables)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Store.html" title="page suivante(The Store Object)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="reading-and-modifying-instances--slots"><span>Reading and Modifying Instances : Slots</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The slots box can read or modify the slots values – "fields" or parameters – of an instance or global variable.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>About Instance Boxes and Global Variables</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="InstanceBoxes.html"><span>Instance Boxes</span></a></li>
+<li><a href="GlobalVariables.html"><span>Global Variables</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="properties"><span>Properties</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Creating a Slots Box</span></p>
+</div>
+
+<div class="txt">
+
+<p>**** To create a slots box :</p>
+<ol>
+<li><p><code>Cmd</code> click in a patch editor and type a class name, as for any other box</p></li>
+<li><p>keep <code>SHIFT</code> pressed when validating.</p></li>
+</ol>
+<p>You can also</p>
+<ol>
+<li><p>create a factory box</p></li>
+<li><p>select it and press <code>Alt</code></p></li>
+<li><p>drag the box with <code>SHIFT</code> key pressed.</p></li>
+</ol>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Morphology</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/morhposlot.png" width="207" height="162" alt="morhposlot.png"></img>
+</div>
+</div></td>
+<td><div class="dk_txtRes_txt txt">
+<p>The structure and morphology of a slots box is similar to those of its corresponding factory box. The slots box also has a "self", and a number of parametric slots.</p>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>For instance, the slots box created out of a chord instance has the same inputs and outputs : self , lmidic for midicents, lvel for velocities, loffset for notes offsets , ldur for durations, lchan for midi channels. It also has the same icon.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/slots2.png" width="211" height="88" alt="slots2.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Behaviour</span></p>
+</div>
+
+<div class="txt">
+
+<p>When the slots box is evaluated :</p>
+<ul>
+<li><span>The outputs of slots return the values of an instance's corresponding slots. </span></li>
+<li><span>The inputs of slots can take values which are assigned tothe corresponding slots of the object.</span></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="using-the-slots-box-to-modify-an-instance"><span>Using the Slots Box to Modify an Instance</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>Using "slots" allows to read and modify the parameters of an object without creating new instances out of new factory boxes :</p>
+</div>
+
+</div>
+
+<div class="bloc warning">
+
+<div class="bloc_ti warning_ti">
+
+<p><span>Constraint</span></p>
+</div>
+
+<div class="txt">
+
+<p>The <strong>"self"</strong> <strong>input</strong> of slots must be connected to the <strong>"self" output</strong> of an object, in order to set the object whose slots are to be read and/or modified.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Reading Values</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/slots33.png" alt="slots33.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>To read the value(s) of an instance's slot :</p>
+<ol>
+<li><p>connect the instance to the "self" input of slots,</p></li>
+<li><p>evaluate the corresponding output of slots.</p></li>
+</ol>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Modifying the Values of an Object</span></p>
+</div>
+
+<div class="txt">
+
+<p>To modify the value(s) of an instance's slot :</p>
+<ol>
+<li><p>connect the instance to the "self" input of slots,</p></li>
+<li><p>enter new values in the relevant input of slots,</p></li>
+<li><p>evaluate slots</p></li>
+</ol>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/slots34.png" alt="slots34.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>Note that the reference of the object hasn't changed, despite the fact the object's content has changed.</p>
+</div>
+
+</div>
+
+<div class="bloc complement">
+
+<div class="bloc_ti complement_ti">
+
+<p><span>Applying Slots to Factory Boxes</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>The same procedures can apply to factory boxes.</p>
+<ol>
+<li><p>Before evaluating, you may need to lock the factory box before evaluating slots : otherwise, it will be reset to its default values.</p></li>
+<li><p>After evaluating, you may need to select the factory box and press <code class="keyboard_tl">m</code> to refresh the miniview.</p></li>
+</ol>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/slots32.png" width="300" height="266" alt="slots32.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="modifying-an-object-in-an-abstraction"><span>Modifying an Object in an Abstraction</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>With a slots box, an instance can be passed through the inputs of an abstraction and mainpulated without resorting to a new factory boxes, which would generate copies of the instance. This is sometimes necessary :</p>
+<ul>
+<li><p>for optimization purposes</p></li>
+<li><p>to ensure keeping the original instance one operates upon.</p></li>
+</ul>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/instanceconnect.png" width="97" height="292" alt="instanceconnect.png"></img>
+</div>
+</div></td>
+<td><div class="dk_txtRes_txt txt">
+<p>To read or modify the parametric values of an instance from <strong>inside an abstraction</strong> :</p>
+<table>
+<tbody>
+<tr class="odd">
+<td><p>1.</p></td>
+<td><p>add an input and an output to the abstraction</p></td>
+</tr>
+<tr class="even">
+<td><p>2.</p></td>
+<td><p>connect the self output of the instance to the sub patch input</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.</p></td>
+<td><p>connect the sub patch output to the self intput of an equivalent instance.</p></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="bloc example">
+
+<div class="bloc_ti example_ti">
+
+<p><span>1 - Using Instance Values in a Sub-Patch to Create a New Object</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/use-slots.png" alt="use-slots.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<ol>
+<li><p>In the sub patch editor, add a chord box and create a corresponding slots box.</p>
+<p>Add the items required to modify the values of the chord, and connect them to the .</p>
+<p>Connect these items to slots, and to the factory box.</p>
+<p>Connect the remaining inputs of the factory box to the corresponding outputs of slots box.</p></li>
+<li><p>Connect the <strong>input</strong> of the sub patch to the <strong>"self" input of slots</strong></p>
+<p>Connect the <strong>output</strong> of the sub patch to the "self" output of the factory box.</p>
+<p>Evaluate the factory box outside the patch.</p></li>
+</ol>
+<p>The input instance values are read and used for generating a new object.</p>
+</div>
+
+</div>
+
+<div class="bloc example">
+
+<div class="bloc_ti example_ti">
+
+<p><span>2 - Modifying an Instance in a Sub-Patch</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/modif-slots.png" alt="modif-slots.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>The input values of the instance are read and modified by the second slots box. Chord #2 is also modified, since chord #1 has been modified.</p>
+</div>
+
+</div>
+
+<div class="bloc tip">
+
+<div class="txt">
+
+<p>When the initial instance coming from a factory box is modified, you may need to refresh the box minivie in order to visualize the changes.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a>
+<ul>
+<li><a href="Abstraction.html"><span>Abstraction</span></a></li>
+<li><a href="EvalModes.html"><span>Evaluation Modes</span></a></li>
+<li><a href="HighOrder.html"><span>Higher-Order Functions</span></a></li>
+<li><a href="Control.html"><span>Control Structures</span></a></li>
+<li><a href="OMLoop.html"><span>Iterations: OMLoop</span></a></li>
+<li><a href="Instances.html"><span>Instances</span></a>
+<ul>
+<li><a href="InstanceBoxes.html"><span>Instance Boxes</span></a></li>
+<li><a href="GlobalVariables.html"><span>Global Variables</span></a></li>
+<li><span id="i3" class="outLeftSel_yes"><span>Slots</span></span></li>
+<li><a href="Store.html"><span>The Store Object</span></a></li>
+</ul></li>
+<li><a href="InterfaceBoxes.html"><span>Interface Boxes</span></a></li>
+<li><a href="Files.html"><span>Files</span></a></li>
+</ul></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="GlobalVariables.html" title="page pr&eacute;c&eacute;dente(Global Variables)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Store.html" title="page suivante(The Store Object)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

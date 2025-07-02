@@ -1,0 +1,406 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>Microintervals</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="MIDI.html"><span>MIDI</span></a><span class="stkSep"> > </span><a href="MIDI-Playback.html"><span>Rendering and Playback</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Microintervals</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="MIDI-Ports.html" title="page pr&eacute;c&eacute;dente(Managing MIDI Ports)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Record%20MIDI.html" title="page suivante(Recording / MIDI In)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="playing-microintervals-with-midi"><span>Playing Microintervals with MIDI</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The MIDI pitch unit correspond to 1 semi-tone, so microintervals, in principle, are not handled by this format.</p>
+<p>In OM however, pitches are expressed in <strong>midicents</strong>, which corresponds to MIDI pitch * 100.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Writing Microintervals</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Editor-Microintervals.html"><span>Microintervals Notation</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>Two possibilities exist to play microintervals in OM :</p>
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="using-midishare-the-default-midi-player"><span>Using MidiShare (The Default MIDI Player)</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>When playing microintervals, OpebnMusic uses a "trick" consisting in dispatching the notes on different MIDI channels depending on their micro-intervallic pitch.</p>
+<ul>
+<li><p>1/8 tones are sent to channel #2</p></li>
+<li><p>1/4 tones are sent to channel #3</p></li>
+<li><p>3/8 tones are sent to channel #4</p></li>
+</ul>
+<p>As a consequence, you just need to "depitch" the corresponding channels to the right values in order to obtain the right microintervalling rendering.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Modifying Pitches in MIDI : PitchBend</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="MIDI-Concepts.html"><span>Important MIDI Concepts</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="bloc warning">
+
+<div class="bloc_ti warning_ti">
+
+<p><span>Limitations of the Microintervals Playback</span></p>
+</div>
+
+<div class="txt">
+
+<p>1) This techniques works <strong>ONLY</strong> for 1/4 and 1/8th tones (other or smaller microintervals are not considered)</p>
+</div>
+
+<div class="txt">
+
+<p>2) MIDI channels must not be set or used for other purposes : they will be changed automatically by the OM player, so all the notes should initially be on channel 1.</p>
+</div>
+
+</div>
+
+<div class="bloc tip">
+
+<div class="bloc_ti tip_ti">
+
+<p><span>Setting the MIDI Channels for Microintervals</span></p>
+</div>
+
+<div class="txt">
+
+<p>In order to play 1/ or 1/8th tones in OM, channels 1, 2 and 3 must be depitched :</p>
+<ul>
+<li><p>Channel 2 of 1/8 tone</p></li>
+<li><p>Channel 3 of 2/8 tones (or 1/4 tone)</p></li>
+<li><p>Channel 4 of 3/8 tones</p></li>
+</ul>
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Channel 1</span></p>
+</div>
+
+<div class="txt">
+
+<p>Channel 1 does not need to be modified since 1/2 tones only will be kept on this channel.</p>
+</div>
+
+</div>
+
+<div class="bloc tip">
+
+<div class="bloc_ti tip_ti">
+
+<p><span>Procedure</span></p>
+</div>
+
+<div class="txt">
+
+<p>The <strong>pitchbend</strong> and <strong>pitchwheel</strong> functions can be use to set the pitch of the "microintervallic channels".</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>PitchBend/PitchWheel : MIDI-Send boxes</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="MIDI-Controls.html"><span>MIDI Player Controls</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Depitching with PitchWheel</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>The <strong>pitchweel</strong> function has more precision than pitchbend (this is the main difference between the two functions).</p>
+<p>The value range for the pitchwheel are 0 - 8192, which usually correspond to 1 tone pitch deviation.</p>
+<p>As a consequence, 1/8th tone corresponds to pitchwheel = 1024, 2/8th tones = 2048, and 3/8th tones = 3072.</p>
+<p>These values must be assigned respectively to channels 2, 3 and 4.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/pitchwheel-microtones.png" width="214" height="120" alt="pitchwheel-microtones.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="txt">
+
+<p>At evaluating the <strong>pitchwheel</strong> box, the MIDI channels will be modified and subsequent MIDI playback will render miucrotones accordingly.</p>
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Reset</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>To reset the pitchbend values pitchweel again with values = 0 for every channel:</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/pitchweel1.png" width="189" height="108" alt="pitchweel1.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="using-another-player"><span>Using Another Player</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The MicroPlayer allows to play MIDI objects with no microintervallic restriction.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Changing the Player / About MicroPlayer</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="ScorePlayer.html"><span>Score Players</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a>
+<ul>
+<li><a href="Intro.html"><span>Introduction</span></a></li>
+<li><a href="MIDI-Concepts.html"><span>Important MIDI Concepts</span></a></li>
+<li><a href="MIDI-Playback.html"><span>Rendering and Playback</span></a>
+<ul>
+<li><a href="MIDI-Params.html"><span>MIDI Parameters</span></a></li>
+<li><a href="MIDI-Controls.html"><span>MIDI Player Controls</span></a></li>
+<li><a href="MIDI-Utils.html"><span>MIDI Selection Tools</span></a></li>
+<li><a href="MIDI-Ports.html"><span>Managing MIDI Ports</span></a></li>
+<li><span id="i2" class="outLeftSel_yes"><span>Microintervals</span></span></li>
+<li><a href="Record%20MIDI.html"><span>Recording / MIDI In</span></a></li>
+</ul></li>
+<li><a href="MIDI-Objects.html"><span>MIDI Objects</span></a></li>
+</ul></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="MIDI-Ports.html" title="page pr&eacute;c&eacute;dente(Managing MIDI Ports)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Record%20MIDI.html" title="page suivante(Recording / MIDI In)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

@@ -1,0 +1,409 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>RhythmicObjects</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="ScoreObjects.html"><span>Score Objects</span></a><span class="stkSep"> > </span><a href="Score-Objects-Intro.html"><span>Presentation</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Rhythmic Objects</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="Note-Chord-Chord-seq.html" title="page pr&eacute;c&eacute;dente(Harmonic Objects)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Polyphonic.html" title="page suivante(Polyphonic Objects)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="rhythmic-objects"><span>Rhythmic Objects</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="part">
+
+<h2 id="the-voice-object"><span>The Voice Object</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>A voice is a melodico-rythmic line.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Inputs and Outputs</span></p>
+</div>
+
+<div class="txt">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><span class="iconButton_tim"><img src="../res/voice1_icon.png" alt="voice1_icon.png"></img></span></td>
+<td>The voice object has six inputs and outputs.</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li><p>"self" : a voice , measure or list of measures , or a chord-seq .</p></li>
+<li><p>"tree" : a <span id="i2" class="defRef_ul"><span>rhythm tree</span></span><sup><a href="#kFootBsktc3051"><span>[</span>1<span>]</span></a></sup>.</p></li>
+<li><p>"chords" : a chord, broadly speaking – chord, list of chords, a list or sub lists of midicents.</p></li>
+<li><p>"tempo" : speed of a quarter note.</p></li>
+<li><p>"legato" : an overlapping percentage between two chords, calculated from the second chord's duration.</p></li>
+<li><p>"ties" : sub lists – one sub list per chord – indicating notes to be tied to notes of the same value, in a next chord.</p></li>
+</ol>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>The combination of inputs programming and score edition allows a complete musical edition of the object.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<a href="../res/voiceex.png" class="overLnk" title="Cliquez pour agrandir"><img src="../res/voiceex_1.png" width="300" height="175" alt="voiceex_1.png"></img></a>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Programming Rhythm Trees Basics</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="RT.html"><span>Rhythm Trees</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Ties</span></p>
+</div>
+
+<div class="txt">
+
+<p>Ties are a specific parameter of rhythmic objects. To specified that a pitch must be tied to the next one, enter this pitch in a sub list in the "ties" input.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/ties.png" alt="ties.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>The rank of tied elements must match the rank of the corresponding chords or notes in the "midic" input. Otherwise, OM won't recognize the elements to be tied.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Detailed Information About Voices Edition</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Editor-Rhythm.html"><span>Rhythmic Objects : Voice Editor</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="measure-and-group"><span>Measure and Group</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><span class="iconButton_tim"><img src="../res/group3_icon.png" alt="group3_icon.png"></img></span> <span class="iconButton_tim"><img src="../res/measure3_icon.png" alt="measure3_icon.png"></img></span></td>
+<td>Groups and measures are complementary modules of the Score class.</td>
+</tr>
+</tbody>
+</table>
+<p>They have two inputs and outputs :</p>
+<ul>
+<li><span> "self" </span></li>
+<li><span> "<span id="i3" class="defRef_ul"><span>rhythm tree</span></span><sup><a href="#kFootBsktc3051"><span>[</span>1<span>]</span></a></sup>". </span></li>
+</ul>
+<p>They can also be isolated as distinct rhythmic elements within voice editors.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>About Measures and Groups within Voices :</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Editor-Rhythm.html"><span>Rhythmic Objects : Voice Editor</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Uses</span></p>
+</div>
+
+<div class="txt">
+
+<p>Groups and measures are used for :</p>
+<ul>
+<li><span>programming elementary rhythmic structures, which can be saved as instances or global variables for a subsequent use</span></li>
+<li><span>storing rhythmic structures once they have been extracted from a rhythm tree.</span></li>
+</ul>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/measureinstance.png" alt="Switching the chords and rhythms of two measures using measure instance boxes."></img></p>
+</div>
+
+<div class="caption_ti">
+
+<p>Switching the chords and rhythms of two measures using measure instance boxes.</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Getting Measures</span></p>
+</div>
+
+<div class="txt">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><span class="iconButton_tim"><img src="../res/getmes_icon.png" alt="getmes_icon.png"></img></span></td>
+<td>The <strong>get-measures</strong> function returns a list of measures from a voice .</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+<ol>
+<li><div id="kFootBsktc3051">
+
+<div class="footBskt_itti">
+
+<p>Rhythm Tree</p>
+</div>
+
+<div class="footBskt_itco">
+
+<div>
+
+<div class="dk_definitionMeta_def">
+
+<p>A rhythm tree expresses a rhythmic structure as a list.</p>
+<p>This list is made of :</p>
+<ul>
+<li><p>a duration, or number of measures,</p></li>
+<li><p>a list of measures.</p></li>
+</ul>
+<p>Each measure is made of</p>
+<ul>
+<li><p>a time signature</p></li>
+<li><p>a list or proportions, or rhythmic values.</p></li>
+</ul>
+<p>For instance : (1 (((4 4) (1 1 2))) is a rhythm of one measure, signature 4/4, with two quarter and one half note (proportions = 1/4 1/4 2/4 = 1/4 1/4 1/2).</p>
+<p>The term of "tree" refers to a recusrive structure: each item in the proportions list can in turn be expressed as a duration with a list of subdivisions.</p>
+<p>For instance the second beat in our measure could be subdivided as follows : ((4 4) (1 (1 (2 3)) 2)).</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</li>
+</ol>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a>
+<ul>
+<li><a href="Score-Objects-Intro.html"><span>Presentation</span></a>
+<ul>
+<li><a href="Note-Chord-Chord-seq.html"><span>Harmonic Objects</span></a></li>
+<li><span id="i4" class="outLeftSel_yes"><span>Rhythmic Objects</span></span></li>
+<li><a href="Polyphonic.html"><span>Polyphonic Objects</span></a></li>
+</ul></li>
+<li><a href="RT.html"><span>Rhythm Trees</span></a></li>
+<li><a href="ScorePlayer.html"><span>Score Players</span></a></li>
+<li><a href="ScoreEditors.html"><span>Score Editors</span></a></li>
+<li><a href="Quantification.html"><span>Quantification</span></a></li>
+<li><a href="ImportExport.html"><span>Export / Import</span></a></li>
+</ul></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="Note-Chord-Chord-seq.html" title="page pr&eacute;c&eacute;dente(Harmonic Objects)"><span>page précédente</span></a><span class="hidden"> | </span><a href="Polyphonic.html" title="page suivante(Polyphonic Objects)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

@@ -1,0 +1,475 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>AddingBoxes</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Adding Boxes Into a Patch</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="ProgrammingIntro.html" title="page pr&eacute;c&eacute;dente(Patch Introduction)"><span>page précédente</span></a><span class="hidden"> | </span><a href="ElementaryManips.html" title="page suivante(Elementary Manipulations)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="adding-boxes-into-a-patch"><span>Adding Boxes Into a Patch</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>There are four ways to add a box in a patch editor :</p>
+<ul>
+<li><span>via the main menu</span></li>
+<li><span>via the contextual menu</span></li>
+<li><span> typing the box's name directly in the patch editor</span></li>
+<li><span> via the Library window. </span></li>
+</ul>
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="menus"><span>Menus</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>This procedure is convenient if you don't know the exact name of the class or function you need.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Main menu</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/pickfun1.png" alt="pickfun1.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>Note that <span id="i3" class="defRef_ul"><span>functions</span></span><sup><a href="#kFootBsktc1872"><span>[</span>1<span>]</span></a></sup> and <span id="i4" class="defRef_ul"><span>classes</span></span><sup><a href="#kFootBsktc1871"><span>[</span>2<span>]</span></a></sup> are accessible via two distinct menus. <code>Classes</code> and <code>Functions</code> menus give access to the classes and functions of common packages : this is why they display the same names.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/addabox.png" alt="addabox.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>Select a class or a function and click somewhere with the<span class="iconButton_tim"><img src="../res/addcursor_icon.png" alt="addcursor_icon.png"></img></span> cursor in the patch editor to add the box there.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Patch Editor Contextual Menu</span></p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/context.png" alt="context.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p>To add a box via the contextual menu :</p>
+<ol>
+<li><p><code>Ctrl</code> / right click in the patch editor</p></li>
+<li><p>select <code>Functions</code> or <code>Classes</code>.</p></li>
+<li><p>choose a box in a menu item.</p></li>
+</ol>
+<p>The box will appear in the editor automatically.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="library-window"><span>Library Window</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The <span id="i5" class="defRef_ul"><span>packages</span></span><sup><a href="#kFootBsktc1884"><span>[</span>3<span>]</span></a></sup> in the <a href="Library.html"><span>Library</span></a> window contain the available OM classes and functions organized in thematic sub packages.</p>
+<ol>
+<li><p>Open the Library window :</p>
+<ul>
+<li><span>select <code>Windows / Library</code></span></li>
+<li><span>press <code>SHIFT</code> + <code>Cmd</code> + <code>p</code>.</span></li>
+</ul></li>
+<li><p>Double click on the lower part of a package to open the classes and functions panes.</p></li>
+<li><p>Drag and drop the function or class icon in the patch editor.</p></li>
+</ol>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/funpack.png" alt="funpack.png"></img></p>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Full Information about Packages and the Library Window</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="Packages.html"><span>Packages</span></a></li>
+<li><a href="Library.html"><span>Library</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="adding-a-box-directly-in-the-patch-editor"><span>Adding a Box Directly in the Patch Editor</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The name of a class or function can always be keyed in a patch editor directly.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Typing a Class or Function Name</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<ol>
+<li><p><code class="keyboard_tl"> Cmd</code> / right click in the editor : an "undefined" box appears.</p></li>
+<li><p>Type the relevant name in the text prompt and validate or click somewhere in the editor.</p></li>
+</ol>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/createnote.png" width="153" height="85" alt="createnote.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="txt">
+
+<p>Any OM or Lisp function can be created this way. This procedure may be especially useful since some classes and functions are not accessible via menus or packages. It implies being familiar with OM functions and classes names.</p>
+</div>
+
+</div>
+
+<div class="bloc note">
+
+<div class="bloc_ti note_ti">
+
+<p><span>Tip</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>Default values can be directly assigned to a function when entering its name in the "undefined" box. For instance, typing "om+ 5 7" allows to assign 5 and 7 as default values to om+.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/argtip.png" width="182" height="51" alt="argtip.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="bloc complement">
+
+<div class="bloc_ti complement_ti">
+
+<p><span>Specifying a Package Name</span></p>
+</div>
+
+<div class="txt">
+
+<p>In Lisp, a package is also a means to gather symbols, such as function names, class names, and so on, within a same specific name space. Some functions or classes can be declared in other packages if they were not designed for OM exclusive use, or if they come from specific libraries. In this case, adding a box directly in the patch editor requires typing the package name or nickname before its name.</p>
+<ol>
+<li><p>A package can be designated by a name or a nickname. For instance, the main OM package name is "openmusic", and has for nickname "om". This syntactically corresponds to :</p>
+<p><strong>"name-or-nickname-of-the-package::name-of-the-function"</strong>.</p></li>
+<li><p>To identify the package hosting a given function or class, type the following expression in the  <a href="MainWindows.html"><span>OM Listener</span></a> :</p>
+<p><strong>(package-name (symbol-package 'class-or-function-name))</strong></p>
+<p>The Listener will display the corresponding package.</p></li>
+</ol>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+<ol>
+<li><div id="kFootBsktc1872">
+
+<div class="footBskt_itti">
+
+<p>Function</p>
+</div>
+
+<div class="footBskt_itco">
+
+<div>
+
+<div class="dk_definitionMeta_def">
+
+<p>A  portion of code within a larger program, which performs a specific task. Operates upon 0 or more parameters and returns a value.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</li>
+<li><div id="kFootBsktc1871">
+
+<div class="footBskt_itti">
+
+<p>Class</p>
+</div>
+
+<div class="footBskt_itco">
+
+<div>
+
+<div class="dk_definitionMeta_def">
+
+<p>A category of objects sharing common properties – characteristics and behaviour. A class specifies the internal structure and behaviour of an object. In OM, it is represented in a patch by a factory box that can produce an instance of a class.</p>
+<p>See also : Object, Instance</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</li>
+<li><div id="kFootBsktc1884">
+
+<div class="footBskt_itti">
+
+<p>Package</p>
+</div>
+
+<div class="footBskt_itco">
+
+<div>
+
+<div class="dk_definitionMeta_def">
+
+<p>Contains functions or classes components belonging to a common category of programming items. Packages are provided at the installation of OM, but the can also be loaded dynamically or added by the user.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</li>
+</ol>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a>
+<ul>
+<li><a href="ProgrammingIntro.html"><span>Patch Introduction</span></a></li>
+<li><span id="i6" class="outLeftSel_yes"><span>Adding Boxes Into a Patch</span></span></li>
+<li><a href="ElementaryManips.html"><span>Elementary Manipulations</span></a></li>
+<li><a href="Boxes.html"><span>Boxes</span></a></li>
+<li><a href="BoxInputs.html"><span>Box Inputs</span></a></li>
+<li><a href="Connections.html"><span>Connections</span></a></li>
+<li><a href="Evaluation.html"><span>Evaluation</span></a></li>
+<li><a href="DocAndInfo.html"><span>Documentation and Info</span></a></li>
+<li><a href="Comments.html"><span>Comments</span></a></li>
+<li><a href="Pictures.html"><span>Pictures</span></a></li>
+<li><a href="SavingPatch.html"><span>Saving / Reloading a Patch</span></a></li>
+<li><a href="DeadBox.html"><span>Dead Boxes</span></a></li>
+</ul></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="ProgrammingIntro.html" title="page pr&eacute;c&eacute;dente(Patch Introduction)"><span>page précédente</span></a><span class="hidden"> | </span><a href="ElementaryManips.html" title="page suivante(Elementary Manipulations)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

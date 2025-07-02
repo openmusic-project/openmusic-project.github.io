@@ -1,0 +1,575 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>SDIF-Classes</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="SDIF.html"><span>SDIF</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>SDIF Classes</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="SDIF-Read.html" title="page pr&eacute;c&eacute;dente(Accessing SDIF Data)"><span>page précédente</span></a><span class="hidden"> | </span><a href="SDIF-Write.html" title="page suivante(Writing SDIF Files)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="sdif-classes"><span>SDIF Classes</span></h1>
+<div class="headCo_co">
+
+<div class="secOutFra">
+
+<div class="secOutTi">
+
+<p><a href="#"><span>Sommaire </span></a></p>
+</div>
+
+<div class="secOutUi">
+
+<ol>
+<li><a href="#pgN3a">SDIF Matrices</a></li>
+<li><a href="#pgNf0">SDIF Frames</a></li>
+<li><a href="#pgN1ae">SDIF Types</a></li>
+<li><a href="#pgN2af">Name/Value Tables</a></li>
+</ol>
+</div>
+
+</div>
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>OM provides a set of classes used to represent SDIF data. These class basically follow the structure and components of the SDIF format. Thay can be used to inspect or create data to write in SDIF files.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/sdif-classes.png" alt="sdif-classes.png"></img></p>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Creating SDIF Files in OM</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="SDIF-Write.html"><span>Writing SDIF Files</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="sdif-matrices"><span>SDIF Matrices</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>Matrices are the basic data structure in SDIF. They are made of an arbitrary number of elements (columns) and a number of fields (lines) depending on the SDIF types.</p>
+<p>The class <strong>SDIFMATRIX</strong> is a subclass of <a href="ClassArray.html"><span>CLASS-ARRAY</span></a>. It is initialized and created by specifying a number of components ( ) and the values of these components for a number of fields.</p>
+<p>The different fields are added like in the CLASS-ARRAY, as <a href="AdditionalInputs.html"><span>keyword inputs</span></a>.</p>
+<p>SDIF matrix has one required specific slot ( ) corresponding to the SDIF type signature of the matrix.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/sdifmatrix.png" alt="An SDIFMatrix of type &quot;1FQ0&quot; with 1 element and 3 fields."></img></p>
+</div>
+
+<div class="caption_ti">
+
+<p>An SDIFMatrix of type "1FQ0" with 1 element and 3 fields.</p>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>More about SDIF Matrices</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="SDIF-Intro.html"><span>Introduction to SDIF</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>More about the CLASS-ARRAY Object</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="ClassArray.html"><span>Array</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="bloc complement">
+
+<div class="bloc_ti complement_ti">
+
+<p><span>Alternative Matrix Class</span></p>
+</div>
+
+<div class="txt">
+
+<p>Sometimes large numbers of SDIF matrices have to be generated and stored by algorithmic processes where the potentialities of the CLASS-ARRAY object become heavy and unnecessary. In this case, the class <strong>RAW-SDIFMATRIX</strong> may be used instead.</p>
+<p>RAW-SDIFMATRIX contains the raw matrix data with no specific storage nor symbolic processing features. It is initialized with a type signature, a number of elements and fields, and a plain list of data corresponding to the matrix contents. This plain data can be written and stored directly on disk when writing the matrix to an SDIF file, which can significantly reduce the overall computation cost.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/raw-sdifmatrix.png" alt="raw-sdifmatrix.png"></img></p>
+</div>
+
+</div>
+
+<div class="txt">
+
+<p><strong>Note:</strong> In the RAW-SDIFMATRIX the data is specified column by column (or element by element) and not field by field as with the SDIFMatrix or CLASS-ARRAY.</p>
+<p>The data list for the same example matrix with two identical elements would therefore be (440.0 1 100.0 440.0 1 100.0)</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="sdif-frames"><span>SDIF Frames</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>An SDIF frame gathers one or several SDIF matrices in a time-stamped data unit.</p>
+<p>Frames of different types are identified by a signature, and frames of a given type can be grouped in streams thanks to their stream ID.</p>
+<p><strong>SDIFFRAME</strong> represents an SDIF frame object in the OM framework.</p>
+</div>
+
+<div class="caption">
+
+<div class="caption_co">
+
+<p><img src="../res/sdifframe.png" alt="sdifframe.png"></img></p>
+</div>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>SDIF Streams</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>SDIF frames can be groupped in streams, which can be used to discriminate, for instance, interleaved parallel descriptions in the SDIF file.</p>
+<p>SDIF streams are not real structural components in the SDIF format though, and are only impliciely created depending on the frames' <strong>stream ID</strong></p>
+<p>The <strong>SDIFSTREAM</strong> class can be used to group a sequence of frames in a common stream. It is an optional utility which allows in particular to automatically set the correct stream ID to every frames in it.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<a href="../res/sdifstream.png" class="overLnk" title="Cliquez pour agrandir"><img src="../res/sdifstream_1.png" width="300" height="208" alt="sdifstream_1.png"></img></a>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="txt">
+
+<p>An SDIFSTREAM a can also be created from an existing SDIF file using <strong>GETSDIFSTREAM</strong>. Internal extracted SDIFFrame and SDIFMatrix objects can then be inspected and manipulated in OM patches.</p>
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>Acessing Data from SDIF Files</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="SDIF-Read.html"><span>Accessing SDIF Data</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>More About SDIF Structure (Frames, Types, Streams...)</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="SDIF-Intro.html"><span>Introduction to SDIF</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="sdif-types"><span>SDIF Types</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>The class <strong>SDIFType</strong> allows to create SDIF type declatations to be embedded in SDIF files.</p>
+</div>
+
+</div>
+
+<div class="bloc warning">
+
+<div class="bloc_ti warning_ti">
+
+<p><span>Declare your SDIF types</span></p>
+</div>
+
+<div class="txt">
+
+<p>All non-standard frame and matrix types used in a file MUST be declared in this file beforehand.</p>
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>The second input of the SDIFTyep box ()allows to select between Frame or Matrix type.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/sdif-type-select.png" width="148" height="82" alt="sdif-type-select.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Frame Types</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>Frame types ( = 'f) are initialized with a four ACSCII characters and a > list.</p>
+<p>The description list is a list of lists of strings indicating the contained matrix type signatures and description label pairs.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/sdif-type-frame.png" width="194" height="169" alt="Frame type declaration&nbsp;: the frame type &quot;XFRA&quot; contains matrices of types &quot;XNFO&quot; (labelled &quot;InfoMat&quot;) and &quot;XMAT&quot; (labelled &quot;datamat&quot;)."></img>
+</div>
+<div class="caption_ti">
+Frame type declaration : the frame type "XFRA" contains matrices of types "XNFO" (labelled "InfoMat") and "XMAT" (labelled "datamat").
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+<div class="infobloc">
+
+<div class="infobloc_ti">
+
+<p><span>Matrix Types</span></p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>Matrix types ( = 'm) are also initialized with a four ACSCII characters signature and a description list.</p>
+<p>The description list is of strings indicating the matrix field names.</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/sdif-type-matrix.png" width="231" height="118" alt="MAtrix type declaration&nbsp;: the matrix type &quot;XMAT&quot; contains 3 fields labelled &quot;par1&quot;, &quot;par2&quot; and &quot;par3&quot;."></img>
+</div>
+<div class="caption_ti">
+MAtrix type declaration : the matrix type "XMAT" contains 3 fields labelled "par1", "par2" and "par3".
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="linkSet">
+
+<div class="linkSet_ti">
+
+<p><span>More About SDIF Types</span></p>
+</div>
+
+<div class="linkUL">
+
+<ul>
+<li><a href="SDIF-Intro.html"><span>Introduction to SDIF</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="part">
+
+<h2 id="namevalue-tables"><span>Name/Value Tables</span></h2>
+<div class="part_co">
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>Name/Value Tables (or NVT s) are global information stored in the SDIF file header.</p>
+<p>They are represented in OM by the class <strong>SDIFNVT</strong>.</p>
+</div>
+
+<div class="txtRes">
+
+<table>
+<colgroup>
+<col style="width: 50%"></col>
+<col style="width: 50%"></col>
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="dk_txtRes_txt txt">
+<p>An SDIFNVT is initialized with a list of name/value pairs, a table name and a table ID (optional).</p>
+</div></td>
+<td><div class="caption">
+<div class="caption_co">
+<img src="../res/sdif-nvt.png" width="286" height="158" alt="sdif-nvt.png"></img>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a>
+<ul>
+<li><a href="SDIF-Intro.html"><span>Introduction to SDIF</span></a></li>
+<li><a href="SDIFFile.html"><span>SDIFFile</span></a></li>
+<li><a href="SDIF-Read.html"><span>Accessing SDIF Data</span></a></li>
+<li><span id="i4" class="outLeftSel_yes"><span>SDIF Classes</span></span></li>
+<li><a href="SDIF-Write.html"><span>Writing SDIF Files</span></a></li>
+</ul></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="SDIF-Read.html" title="page pr&eacute;c&eacute;dente(Accessing SDIF Data)"><span>page précédente</span></a><span class="hidden"> | </span><a href="SDIF-Write.html" title="page suivante(Writing SDIF Files)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>

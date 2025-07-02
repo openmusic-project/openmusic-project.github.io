@@ -1,0 +1,197 @@
+<!doctype>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8"></meta>
+<meta name="generator" content="pandoc"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"></meta>
+<title>EvalModes</title>
+<style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<div id="tplf" class="tplPage">
+
+<div id="tplh">
+
+<p><span class="hidden">Navigation générale : </span></p>
+<ul>
+<li><a href="OM-Documentation.html"><span>Guide</span></a></li>
+<li><a href="OM-Documentation_1.html"><span>Plan</span></a></li>
+<li><a href="OM-Documentation_2.html"><span>Glossaire</span></a></li>
+</ul>
+</div>
+
+<div id="tplt">
+
+<p><img src="../tplRes/page/empty.gif" alt="empty.gif"></img><img src="../res/logoom1.png" alt="logoom1.png"></img><span class="tplTi">OpenMusic Documentation</span><span class="sw_outStack_navRoot"><span class="hidden">Hiérarchie de section : </span><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a><span class="stkSep"> > </span><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a><span class="stkSep"> > </span><span class="stkSel_yes"><span>Evaluation Modes</span></span></span></p>
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="RecursiveTree.html" title="page pr&eacute;c&eacute;dente(Recursive Trees)"><span>page précédente</span></a><span class="hidden"> | </span><a href="LockMode.html" title="page suivante(Lock Mode)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplc" class="tplc_out_yes">
+
+<div style="text-align: center;">
+
+<p><strong>Attention</strong>, votre navigateur ne supporte pas le <strong>javascript</strong> ou celui-ci à été désactivé. Certaines fonctionnalités de ce guide sont restreintes.</p>
+</div>
+
+<div class="headCo">
+
+<h1 id="evaluation-modes"><span>Evaluation Modes</span></h1>
+<div class="headCo_co">
+
+<div>
+
+<div class="infobloc">
+
+<div class="txt">
+
+<p>"Evaluation" refers to two different concepts :</p>
+<ul>
+<li><p>The <strong>user-evaluation</strong>, which is triggered <strong>by the user via the interface</strong> :</p>
+<p><code>Cmd</code> click on an outlet, or with a selection + <code>v</code> .</p></li>
+<li><p>The <strong>internal evaluation</strong>, which refers to an evaluation or to a series of evaluations <strong>resulting</strong> from a user-evaluation.</p></li>
+</ul>
+<p>This section deals with the <strong>control of internal evaluations</strong>.</p>
+</div>
+
+<div class="txt">
+
+<p>Boxes can be set on four different evaluation modes, in addition to the default mode, to control the transmission of resulting data in a program, or to perform specific tasks. These modes are :</p>
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><span>  <a href="LockMode.html"><span>  <strong><strong>lock</strong></strong> <strong>mode</strong></span></a>  : <span class="iconButton_tim"><img src="../res/lock_icon.png" class="sfile_icon-png_icon-gif_icon" width="57" height="56" alt="lock_icon.png"></img></span> </span></li>
+</ul></td>
+<td><ul>
+<li><span>  <a href="EvOnceMode.html"><span>  <strong><strong>evaluate-once</strong></strong> <strong>mode</strong></span></a>  : <span class="iconButton_tim"><img src="../res/once_icon.png" class="sfile_icon-png_icon-gif_icon" width="61" height="58" alt="once_icon.png"></img></span> </span></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><span>  <a href="LambdaMode.html"><span>  <strong><strong>lambda</strong></strong> <strong>mode</strong></span></a>  : <span class="iconButton_tim"><img src="../res/lambada_icon.png" class="sfile_icon-png_icon-gif_icon" width="60" height="56" alt="lambada_icon.png"></img></span> </span></li>
+</ul></td>
+<td><ul>
+<li><span>  <a href="RefMode.html"><span>  <strong><strong>reference</strong></strong> <strong>mode</strong></span></a>  : <span class="iconButton_tim"><img src="../res/refmode_icon.png" class="sfile_icon-png_icon-gif_icon" width="65" height="64" alt="refmode_icon.png"></img></span> </span></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="txt">
+
+<p>To select an evaluation mode :</p>
+<ol>
+<li><p>press <code>b</code> to set the box on "lock" mode</p></li>
+<li><p>click successively on the upper left label of the box to select other modes.</p></li>
+</ol>
+<p>To reset the box to its initial state, press <code>b</code> again.</p>
+<p>Duplication doesn't affect the state of a box that was set on a specific evaluation mode : the copy will have the same parameters and will be on the same mode as the master.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p><span class="hidden">Références : </span></p>
+</div>
+
+<div id="tplo" class="tplo_out_yes">
+
+<div class="tplOTp">
+
+<div class="tplOBm">
+
+<div id="mnuFrm">
+
+<p><span class="hidden">Plan :</span></p>
+<div id="mnuFrmUp" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&gt;=0) {menuScrollTiTask.fSpeed=-2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed-=2;" style="display: none;">
+
+<p><span id="mnuFrmUpLeft"><a href="#"></a></span><span id="mnuFrmUpCenter"></span><span id="mnuFrmUpRight"></span></p>
+</div>
+
+<div id="mnuScroll">
+
+<ul>
+<li><a href="OM-Documentation.html"><span>OpenMusic Documentation</span></a></li>
+<li><a href="OM-User-Manual.html"><span>OM 6.6 User Manual</span></a>
+<ul>
+<li><a href="00-Sommaire.html"><span>Introduction</span></a></li>
+<li><a href="Installation.html"><span>System Configuration and Installation</span></a></li>
+<li><a href="Goingthrough.html"><span>Going Through an OM Session</span></a></li>
+<li><a href="Environment.html"><span>The OM Environment</span></a></li>
+<li><a href="BasicVisualProgramming.html"><span>Visual Programming I</span></a></li>
+<li><a href="AdvancedVisualProgramming.html"><span>Visual Programming II</span></a>
+<ul>
+<li><a href="Abstraction.html"><span>Abstraction</span></a></li>
+<li><span id="i0" class="outLeftSel_yes"><span>Evaluation Modes</span></span>
+<ul>
+<li><a href="LockMode.html"><span>Lock Mode</span></a></li>
+<li><a href="EvOnceMode.html"><span>Evaluate-Once Mode</span></a></li>
+<li><a href="LambdaMode.html"><span>Lambda Mode</span></a></li>
+<li><a href="RefMode.html"><span>Reference Mode</span></a></li>
+</ul></li>
+<li><a href="HighOrder.html"><span>Higher-Order Functions</span></a></li>
+<li><a href="Control.html"><span>Control Structures</span></a></li>
+<li><a href="OMLoop.html"><span>Iterations: OMLoop</span></a></li>
+<li><a href="Instances.html"><span>Instances</span></a></li>
+<li><a href="InterfaceBoxes.html"><span>Interface Boxes</span></a></li>
+<li><a href="Files.html"><span>Files</span></a></li>
+</ul></li>
+<li><a href="BasicObjects.html"><span>Basic Tools</span></a></li>
+<li><a href="ScoreObjects.html"><span>Score Objects</span></a></li>
+<li><a href="Maquettes.html"><span>Maquettes</span></a></li>
+<li><a href="Sheet.html"><span>Sheet</span></a></li>
+<li><a href="MIDI.html"><span>MIDI</span></a></li>
+<li><a href="Audio.html"><span>Audio</span></a></li>
+<li><a href="SDIF.html"><span>SDIF</span></a></li>
+<li><a href="Lisp.html"><span>Lisp Programming</span></a></li>
+<li><a href="errors.html"><span>Errors and Problems</span></a></li>
+</ul></li>
+<li><a href="QuickStart-Chapters.html"><span>OpenMusic QuickStart</span></a></li>
+</ul>
+</div>
+
+<div id="mnuFrmDown" onmouseout="menuScrollTiTask.fSpeed=0;" onmouseover="if(menuScrollTiTask.fSpeed&lt;=0) {menuScrollTiTask.fSpeed=2; scTiLib.addTaskNow(menuScrollTiTask);}" onclick="menuScrollTiTask.fSpeed+=2;" style="display: none;">
+
+<p><span id="mnuFrmDownLeft"><a href="#"></a></span><span id="mnuFrmDownCenter"></span><span id="mnuFrmDownRight"></span></p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="tplNav">
+
+<p><span class="hidden">Navigation : </span><a href="RecursiveTree.html" title="page pr&eacute;c&eacute;dente(Recursive Trees)"><span>page précédente</span></a><span class="hidden"> | </span><a href="LockMode.html" title="page suivante(Lock Mode)"><span>page suivante</span></a></p>
+</div>
+
+<div id="tplb">
+
+<p><a href="OM-Documentation_3.html"><span>A propos...</span></a>(c) Ircam - Centre Pompidou</p>
+</div>
+
+</div>
+</body>
+</html>
+</!doctype>
