@@ -1,5 +1,5 @@
 
-Navigation :  | [Next](OM-User-Manual "Next\(OM User Manual\)")
+Navigation :  [Next](OM-User-Manual "Next\(OM User Manual\)")
 
 # OpenMusic Documentation
 
@@ -31,6 +31,6 @@ Plan :
   * [OM User Manual](OM-User-Manual)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation :  | [Next](OM-User-Manual "Next\(OM
+Navigation :  [Next](OM-User-Manual "Next\(OM
 User Manual\)")
 
