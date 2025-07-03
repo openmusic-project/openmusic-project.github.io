@@ -1,6 +1,5 @@
 Navigation : [Previous](ElementaryManips "page
-précédente\(Elementary Manipulations\)") | [page
-suivante](GraphicFeatures "Next\(Boxes Features\)")
+précédente\(Elementary Manipulations\)") | [Next](GraphicFeatures "Next\(Boxes Features\)")
 
 # Boxes
 
@@ -63,6 +62,5 @@ Plan :
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
 Navigation : [Previous](ElementaryManips "page
-précédente\(Elementary Manipulations\)") | [page
-suivante](GraphicFeatures "Next\(Boxes Features\)")
+précédente\(Elementary Manipulations\)") | [Next](GraphicFeatures "Next\(Boxes Features\)")
 

@@ -1,5 +1,6 @@
 
-Navigation : [Previous](Sum "page précédente\(Sum\)") | [Next](Count "Next\(Count\)")
+Navigation : [Previous](Sum "page précédente\(Sum\)") | 
+[Next](Count "Next\(Count\)")
 
 # Min and Max : Comparing Values
 

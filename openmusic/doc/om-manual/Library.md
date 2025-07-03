@@ -2,7 +2,7 @@
 Navigation : [Previous](WS-ImportExport "page précédente\(Import /
 Export\)") | [Next](Packages "Next\(Packages\)")
 
-## Library
+# Library
 
 
 The Library window encloses the OM programming tools, which are organized in

@@ -4,7 +4,7 @@ précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
 
 [ ](00-Sommaire) [](00-Sommaire) 
 
-## OM User Manual
+# OM User Manual
 
 This document is the kernel of the OpenMusic Software documentation. It is composed of the
 following sections :

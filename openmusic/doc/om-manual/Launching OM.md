@@ -1,5 +1,5 @@
-Navigation : [page precedente](Goingthrough "page précédente\(Going
-Through an OM Session\)") | [Next](Workspace\(s\) "page
+Navigation : [Previous](Goingthrough "page précédente\(Going
+Through an OM Session\)") | [Next](Workspace(s) "page
 suivante\(Workspace(s) Management\)")
 
 # Launching OM
@@ -119,7 +119,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Goingthrough "page précédente\(Going
-Through an OM Session\)") | [Next](Workspace\(s\) "page
-suivante\(Workspace\(s\) Management\)")
+Navigation : [Previous](Goingthrough "page précédente\(Going
+Through an OM Session\)") | [Next](Workspace(s) "page
+suivante\(Workspace(s) Management\)")
 

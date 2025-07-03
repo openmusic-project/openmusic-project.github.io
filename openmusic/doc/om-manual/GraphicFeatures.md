@@ -1,6 +1,5 @@
 
-Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [page
-suivante](DataBox "Next\(Data Boxes\)")
+Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [Next](DataBox "Next\(Data Boxes\)")
 
 # Boxes Graphic Features and Components
 
@@ -197,6 +196,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [page
-suivante](DataBox "Next\(Data Boxes\)")
+Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [Next](DataBox "Next\(Data Boxes\)")
 

@@ -2,7 +2,7 @@
 Navigation : [Previous](resources "page précédente\(Resources\)")
 | [Next](ProgrammingIntro "Next\(Patch Introduction\)")
 
-## Visual Programming I (Basic)
+# Visual Programming I (Basic)
 
 
 This section describes how to add, modify and connect boxes within patches,
