@@ -1,3 +1,7 @@
+Navigation : [Previous](QuickStart-Chapters "page
+précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
+"Next\(Starting a Session\)")
+
 # Summary
 
 References :
@@ -15,7 +19,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](QuickStart-Chapters "page
-précédente\(OpenMusic QuickStart\)") | [page suivante](1_StartSession
-"page suivante\(Starting a Session\)")
+Navigation : [Previous](QuickStart-Chapters "page
+précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
+"Next\(Starting a Session\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](REF4 "page précédente\(Removing Boxes\)")
+| [Next](Intercation2 "Next\(Interation \(2\)\)")
+
+
 # TemporalBoxes Interaction : Examples (1)
 
 Here is a series of basic examples showing how the graphic and musical
@@ -88,6 +92,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](REF4 "page précédente\(Removing Boxes\)")
-| [page suivante](Intercation2 "page suivante\(Interation \(2\)\)")
+Navigation : [Previous](REF4 "page précédente\(Removing Boxes\)")
+| [Next](Intercation2 "Next\(Interation \(2\)\)")
 

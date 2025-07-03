@@ -1,3 +1,7 @@
+Navigation : [Previous](3ManipPatch "page précédente\(Manipulating
+the Patch\)") | [Next](4aApplication "Next\(Chord &
+Musical Objects\)")
+
 # A Musical Application : Transposing a Chord with Om+
 
 Sous-sections :
@@ -26,7 +30,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](3ManipPatch "page précédente\(Manipulating
-the Patch\)") | [page suivante](4aApplication "page suivante\(Chord &
+Navigation : [Previous](3ManipPatch "page précédente\(Manipulating
+the Patch\)") | [Next](4aApplication "Next\(Chord &
 Musical Objects\)")
 

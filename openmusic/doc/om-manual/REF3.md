@@ -1,4 +1,8 @@
 
+Navigation : [Previous](addexamples "page précédente\(Examples\)")
+| [Next](REF4 "Next\(Removing Boxes\)")
+
+
 # Accessing TemporalBoxes of a Maquette from a Patch
 
 Accessing TemporalBoxes from a patch is especially necessary for removing them
@@ -74,6 +78,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](addexamples "page précédente\(Examples\)")
-| [page suivante](REF4 "page suivante\(Removing Boxes\)")
+Navigation : [Previous](addexamples "page précédente\(Examples\)")
+| [Next](REF4 "Next\(Removing Boxes\)")
 

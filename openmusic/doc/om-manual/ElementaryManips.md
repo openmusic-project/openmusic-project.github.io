@@ -1,3 +1,7 @@
+
+Navigation : [Previous](AddingBoxes "page précédente\(Adding Boxes
+Into a Patch\)") | [Next](Boxes "Next\(Boxes\)")
+
 # Elementary Manipulations
 
 This section provides information about specific commands regarding the
@@ -124,6 +128,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AddingBoxes "page précédente\(Adding Boxes
-Into a Patch\)") | [page suivante](Boxes "page suivante\(Boxes\)")
+Navigation : [Previous](AddingBoxes "page précédente\(Adding Boxes
+Into a Patch\)") | [Next](Boxes "Next\(Boxes\)")
 

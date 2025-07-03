@@ -1,3 +1,7 @@
+Navigation : [Previous](Maquettes%20in%20Patches "page
+précédente\(Maquettes in Patches\)") | [page
+suivante](Maquettes%20in%20Patches1 "Next\(Functional Mode\)")
+
 
 # Build Mode
 
@@ -132,7 +136,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Maquettes%20in%20Patches "page
+Navigation : [Previous](Maquettes%20in%20Patches "page
 précédente\(Maquettes in Patches\)") | [page
-suivante](Maquettes%20in%20Patches1 "page suivante\(Functional Mode\)")
+suivante](Maquettes%20in%20Patches1 "Next\(Functional Mode\)")
 

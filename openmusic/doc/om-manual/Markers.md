@@ -1,3 +1,7 @@
+Navigation : [Previous](player "page précédente\(The Palette\)") |
+[Next](Programming%20Maquette "Next\(Maquette
+Programming\)")
+
 
 # Markers and Temporal Anchors
 
@@ -97,7 +101,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](player "page précédente\(The Palette\)") |
-[page suivante](Programming%20Maquette "page suivante\(Maquette
+Navigation : [Previous](player "page précédente\(The Palette\)") |
+[Next](Programming%20Maquette "Next\(Maquette
 Programming\)")
 

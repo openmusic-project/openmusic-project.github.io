@@ -1,3 +1,7 @@
+
+Navigation : [Previous](BPF-BPC "page précédente\(BPF / BPC\)") |
+[Next](BPFEditors "Next\(Editors\)")
+
 # Multiple Objects : BPF/BPC-Lib
 
 ![](../res/libboxes.png)
@@ -64,6 +68,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BPF-BPC "page précédente\(BPF / BPC\)") |
-[page suivante](BPFEditors "page suivante\(Editors\)")
+Navigation : [Previous](BPF-BPC "page précédente\(BPF / BPC\)") |
+[Next](BPFEditors "Next\(Editors\)")
 

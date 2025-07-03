@@ -1,3 +1,7 @@
+
+Navigation : [Previous](3DC "page précédente\(3DC\)") | [page
+suivante](ClassArray "Next\(Array\)")
+
 # Multiple 3DCs : 3DC-Lib
 
 ## 3DC-Lib
@@ -106,6 +110,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](3DC "page précédente\(3DC\)") | [page
-suivante](ClassArray "page suivante\(Array\)")
+Navigation : [Previous](3DC "page précédente\(3DC\)") | [page
+suivante](ClassArray "Next\(Array\)")
 

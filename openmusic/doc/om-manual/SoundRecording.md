@@ -1,3 +1,7 @@
+Navigation : [Previous](SoundProcessing "page précédente\(Sound
+Processing\)") | [Next](Externals "Next\(External
+Libraries\)")
+
 # Recording
 
 OM offers basic functionalities for recording audio input into sound files.
@@ -70,7 +74,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SoundProcessing "page précédente\(Sound
-Processing\)") | [page suivante](Externals "page suivante\(External
+Navigation : [Previous](SoundProcessing "page précédente\(Sound
+Processing\)") | [Next](Externals "Next\(External
 Libraries\)")
 

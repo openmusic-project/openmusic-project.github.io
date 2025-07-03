@@ -1,3 +1,7 @@
+
+Navigation : [Previous](EvOnceMode "page précédente\(Evaluate-Once
+Mode\)") | [Next](RefMode "Next\(Reference Mode\)")
+
 # Lambda Mode
 
 ## Properties
@@ -87,6 +91,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](EvOnceMode "page précédente\(Evaluate-Once
-Mode\)") | [page suivante](RefMode "page suivante\(Reference Mode\)")
+Navigation : [Previous](EvOnceMode "page précédente\(Evaluate-Once
+Mode\)") | [Next](RefMode "Next\(Reference Mode\)")
 

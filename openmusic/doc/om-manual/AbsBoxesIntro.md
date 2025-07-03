@@ -1,3 +1,7 @@
+Navigation : [Previous](4-ImportExport "page
+précédente\(Import/Export\)") | [Next](OtherBoxes "page
+suivante\(Other Boxes\)")
+
 
 # Abstraction Boxes (Intro)
 
@@ -135,7 +139,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](4-ImportExport "page
-précédente\(Import/Export\)") | [page suivante](OtherBoxes "page
+Navigation : [Previous](4-ImportExport "page
+précédente\(Import/Export\)") | [Next](OtherBoxes "page
 suivante\(Other Boxes\)")
 

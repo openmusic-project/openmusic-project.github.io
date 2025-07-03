@@ -1,3 +1,7 @@
+Navigation : [Previous](2_progpatch "page précédente\(Programming
+a Simple Patch\)") | [Next](4_MusicalAp "Next\(A
+Musical Application\)")
+
 # Manipulating the Patch in the Workspace
 
 Covered Topics
@@ -27,7 +31,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](2_progpatch "page précédente\(Programming
-a Simple Patch\)") | [page suivante](4_MusicalAp "page suivante\(A
+Navigation : [Previous](2_progpatch "page précédente\(Programming
+a Simple Patch\)") | [Next](4_MusicalAp "Next\(A
 Musical Application\)")
 

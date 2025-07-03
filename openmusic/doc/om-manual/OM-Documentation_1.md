@@ -1,3 +1,7 @@
+      * [Listening to Microintervals](5cComplete)
+      * [Comments](5dComplete)
+    * [Saving and Quitting OM](6_Quit)
+
       * [Additional Information](02-SupportAndPubs)
       * [Elementary F.A.Q.](03-FAQ)
     * [System Configuration and Installation](Installation)

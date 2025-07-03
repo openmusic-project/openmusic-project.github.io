@@ -1,3 +1,7 @@
+Navigation : [Previous](GraphicFeatures "page précédente\(Boxes
+Features\)") | [Next](FunctionBoxes "Next\(Function
+Boxes\)")
+
 
 # Data Boxes
 
@@ -200,7 +204,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](GraphicFeatures "page précédente\(Boxes
-Features\)") | [page suivante](FunctionBoxes "page suivante\(Function
+Navigation : [Previous](GraphicFeatures "page précédente\(Boxes
+Features\)") | [Next](FunctionBoxes "Next\(Function
 Boxes\)")
 

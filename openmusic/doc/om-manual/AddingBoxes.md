@@ -1,3 +1,7 @@
+Navigation : [Previous](ProgrammingIntro "page précédente\(Patch
+Introduction\)") | [Next](ElementaryManips "page
+suivante\(Elementary Manipulations\)")
+
 
 # Adding Boxes Into a Patch
 
@@ -169,7 +173,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ProgrammingIntro "page précédente\(Patch
-Introduction\)") | [page suivante](ElementaryManips "page
+Navigation : [Previous](ProgrammingIntro "page précédente\(Patch
+Introduction\)") | [Next](ElementaryManips "page
 suivante\(Elementary Manipulations\)")
 

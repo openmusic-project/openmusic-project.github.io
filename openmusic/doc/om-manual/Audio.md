@@ -1,4 +1,8 @@
 
+Navigation : [Previous](MIDIContainer "page précédente\(MIDI
+Containers\)") | [Next](Sound "Next\(Sound Object\)")
+
+
 This section describes the different audio tools available in OM.
 
 OM provides basic facilities to import, read and manipulate sound files.
@@ -37,6 +41,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDIContainer "page précédente\(MIDI
-Containers\)") | [page suivante](Sound "page suivante\(Sound Object\)")
+Navigation : [Previous](MIDIContainer "page précédente\(MIDI
+Containers\)") | [Next](Sound "Next\(Sound Object\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](1_StartSession "page précédente\(Starting
+a Session\)") | [Next](3ManipPatch "Next\(Manipulating
+the Patch\)")
+
 # Programming a Simple Patch
 
 Covered Topics
@@ -62,7 +66,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](1_StartSession "page précédente\(Starting
-a Session\)") | [page suivante](3ManipPatch "page suivante\(Manipulating
+Navigation : [Previous](1_StartSession "page précédente\(Starting
+a Session\)") | [Next](3ManipPatch "Next\(Manipulating
 the Patch\)")
 

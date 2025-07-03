@@ -1,3 +1,7 @@
+Navigation : [Previous](PredComparison "page
+précédente\(Comparison Predicates\)") | [Next](PredExample "page
+suivante\(In Practice\)")
+
 
 # Type Predicates
 
@@ -238,7 +242,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PredComparison "page
-précédente\(Comparison Predicates\)") | [page suivante](PredExample "page
+Navigation : [Previous](PredComparison "page
+précédente\(Comparison Predicates\)") | [Next](PredExample "page
 suivante\(In Practice\)")
 

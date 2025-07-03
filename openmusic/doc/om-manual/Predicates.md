@@ -1,3 +1,7 @@
+Navigation : [Previous](Control "page précédente\(Control
+Structures\)") | [Next](PredComparison "page
+suivante\(Comparison Predicates\)")
+
 
 # Predicates : Testing Relations and Properties
 
@@ -75,7 +79,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Control "page précédente\(Control
-Structures\)") | [page suivante](PredComparison "page
+Navigation : [Previous](Control "page précédente\(Control
+Structures\)") | [Next](PredComparison "page
 suivante\(Comparison Predicates\)")
 

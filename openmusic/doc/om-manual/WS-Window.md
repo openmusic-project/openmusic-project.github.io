@@ -1,3 +1,7 @@
+Navigation : [Previous](Workspace "page précédente\(Workspace\)")
+| [Next](WS-Presentation "Next\(Presentation
+Options\)")
+
 
 # The Workspace Window
 
@@ -161,7 +165,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Workspace "page précédente\(Workspace\)")
-| [page suivante](WS-Presentation "page suivante\(Presentation
+Navigation : [Previous](Workspace "page précédente\(Workspace\)")
+| [Next](WS-Presentation "Next\(Presentation
 Options\)")
 

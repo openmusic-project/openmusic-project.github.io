@@ -1,3 +1,7 @@
+
+Navigation : [Previous](PatchValue "page précédente\(Patches\)") |
+[Next](InstancesValue "Next\(Instances\)")
+
 # Sub Maquettes
 
 Like patches, maquettes can be dropped or created in a maquette editor.
@@ -71,6 +75,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PatchValue "page précédente\(Patches\)") |
-[page suivante](InstancesValue "page suivante\(Instances\)")
+Navigation : [Previous](PatchValue "page précédente\(Patches\)") |
+[Next](InstancesValue "Next\(Instances\)")
 

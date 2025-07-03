@@ -1,3 +1,7 @@
+précédente\(Programming with the Tempin\)") | [page
+suivante](Maquettes%20in%20Patches "Next\(Maquettes in
+Patches\)")
+
  **Attention** , votre navigateur ne supporte pas le **javascript** ou celui-
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
@@ -110,8 +114,8 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Examplestempbox "page
+Navigation : [Previous](Examplestempbox "page
 précédente\(Programming with the Tempin\)") | [page
-suivante](Maquettes%20in%20Patches "page suivante\(Maquettes in
+suivante](Maquettes%20in%20Patches "Next\(Maquettes in
 Patches\)")
 

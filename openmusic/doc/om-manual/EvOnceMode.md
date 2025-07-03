@@ -1,3 +1,7 @@
+
+Navigation : [Previous](LockMode "page précédente\(Lock Mode\)") |
+[Next](LambdaMode "Next\(Lambda Mode\)")
+
 # Evaluate-Once Mode
 
 ## Properties
@@ -96,6 +100,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LockMode "page précédente\(Lock Mode\)") |
-[page suivante](LambdaMode "page suivante\(Lambda Mode\)")
+Navigation : [Previous](LockMode "page précédente\(Lock Mode\)") |
+[Next](LambdaMode "Next\(Lambda Mode\)")
 

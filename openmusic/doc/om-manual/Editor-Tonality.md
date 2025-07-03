@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-PageMode "page précédente\(Page
+Mode\)") | [Next](Editor-Microintervals "page
+suivante\(Microintervals Notation\)")
+
 
 # Tonal Display
 
@@ -184,7 +188,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-PageMode "page précédente\(Page
-Mode\)") | [page suivante](Editor-Microintervals "page
+Navigation : [Previous](Editor-PageMode "page précédente\(Page
+Mode\)") | [Next](Editor-Microintervals "page
 suivante\(Microintervals Notation\)")
 

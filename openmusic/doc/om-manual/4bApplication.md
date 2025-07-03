@@ -1,3 +1,7 @@
+Navigation : [Previous](4aApplication "page précédente\(Chord &
+Musical Objects\)") | [Next](4cApplication "page
+suivante\(Formalizing a Process\)")
+
 
 # Creating an Instance
 
@@ -63,7 +67,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](4aApplication "page précédente\(Chord &
-Musical Objects\)") | [page suivante](4cApplication "page
+Navigation : [Previous](4aApplication "page précédente\(Chord &
+Musical Objects\)") | [Next](4cApplication "page
 suivante\(Formalizing a Process\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Poly-Multi-Editor "page
+précédente\(Polyphonic Objects\)") | [Next](Editor-Tonality
+"Next\(Tonal Display\)")
+
 
 # Page Mode
 
@@ -114,7 +118,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Poly-Multi-Editor "page
-précédente\(Polyphonic Objects\)") | [page suivante](Editor-Tonality
-"page suivante\(Tonal Display\)")
+Navigation : [Previous](Poly-Multi-Editor "page
+précédente\(Polyphonic Objects\)") | [Next](Editor-Tonality
+"Next\(Tonal Display\)")
 

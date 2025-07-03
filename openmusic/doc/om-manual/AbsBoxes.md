@@ -1,3 +1,7 @@
+Navigation : [Previous](Abstraction "page
+précédente\(Abstraction\)") | [Next](BlueAbstraction "page
+suivante\(Standard Abstraction\)")
+
 
 # Abstraction Boxes
 
@@ -57,7 +61,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Abstraction "page
-précédente\(Abstraction\)") | [page suivante](BlueAbstraction "page
+Navigation : [Previous](Abstraction "page
+précédente\(Abstraction\)") | [Next](BlueAbstraction "page
 suivante\(Standard Abstraction\)")
 

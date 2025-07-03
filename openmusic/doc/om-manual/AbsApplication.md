@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsConversion "page
+précédente\(Conversions\)") | [Next](AbsInOuts "page
+suivante\(Inputs / Outputs\)")
+
 
 # Application
 
@@ -45,7 +49,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsConversion "page
-précédente\(Conversions\)") | [page suivante](AbsInOuts "page
+Navigation : [Previous](AbsConversion "page
+précédente\(Conversions\)") | [Next](AbsInOuts "page
 suivante\(Inputs / Outputs\)")
 

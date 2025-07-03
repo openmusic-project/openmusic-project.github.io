@@ -1,3 +1,7 @@
+Navigation : [Previous](Predicates "page
+précédente\(Predicates\)") | [Next](PredTypes "page
+suivante\(Type Predicates\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Comparison Predicates
@@ -333,7 +337,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Predicates "page
-précédente\(Predicates\)") | [page suivante](PredTypes "page
+Navigation : [Previous](Predicates "page
+précédente\(Predicates\)") | [Next](PredTypes "page
 suivante\(Type Predicates\)")
 

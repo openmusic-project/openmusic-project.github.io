@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [page
+suivante](DataBox "Next\(Data Boxes\)")
+
 # Boxes Graphic Features and Components
 
 This section deals with function boxes and factory boxes[1]. A [factory
@@ -193,6 +197,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Boxes "page précédente\(Boxes\)") | [page
-suivante](DataBox "page suivante\(Data Boxes\)")
+Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [page
+suivante](DataBox "Next\(Data Boxes\)")
 

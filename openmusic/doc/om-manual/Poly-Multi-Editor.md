@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Rhythm "page précédente\(Rhythmic
+Objects\)") | [Next](Editor-PageMode "Next\(Page
+Mode\)")
+
 
 # Polyphonic Objects : Poly and Multi-seq Editors
 
@@ -153,7 +157,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Rhythm "page précédente\(Rhythmic
-Objects\)") | [page suivante](Editor-PageMode "page suivante\(Page
+Navigation : [Previous](Editor-Rhythm "page précédente\(Rhythmic
+Objects\)") | [Next](Editor-PageMode "Next\(Page
 Mode\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](5dComplete "page précédente\(Comments\)")
+| [Next](OM-Documentation_1 "Next\(Plan\)")
+
+
 Covered Topics
 
   * Closing a patch
@@ -26,6 +30,6 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * Saving and Quitting OM
 
-Navigation : [page precedente](5dComplete "page précédente\(Comments\)")
-| [page suivante](OM-Documentation_1 "page suivante\(Plan\)")
+Navigation : [Previous](5dComplete "page précédente\(Comments\)")
+| [Next](OM-Documentation_1 "Next\(Plan\)")
 

@@ -1,3 +1,7 @@
+
+Navigation : [Previous](DataBox "page précédente\(Data Boxes\)") |
+[Next](FactoryBoxes "Next\(Objects – Factory Boxes\)")
+
 # Function Boxes
 
 Sommaire
@@ -301,6 +305,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](DataBox "page précédente\(Data Boxes\)") |
-[page suivante](FactoryBoxes "page suivante\(Objects – Factory Boxes\)")
+Navigation : [Previous](DataBox "page précédente\(Data Boxes\)") |
+[Next](FactoryBoxes "Next\(Objects – Factory Boxes\)")
 

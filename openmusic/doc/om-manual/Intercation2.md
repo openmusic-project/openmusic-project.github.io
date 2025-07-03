@@ -1,4 +1,8 @@
 
+Navigation : [Previous](REF5 "page précédente\(Interaction
+\(1\)\)") | [Next](Sheet "Next\(Sheet\)")
+
+
 # TemporalBoxes Interaction : Examples (2)
 
 ## Determining Colour and Pitch From "Posy" and "Offset"
@@ -123,6 +127,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](REF5 "page précédente\(Interaction
-\(1\)\)") | [page suivante](Sheet "page suivante\(Sheet\)")
+Navigation : [Previous](REF5 "page précédente\(Interaction
+\(1\)\)") | [Next](Sheet "Next\(Sheet\)")
 

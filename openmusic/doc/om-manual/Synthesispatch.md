@@ -1,3 +1,7 @@
+Navigation : [Previous](Synthpatchprog "page précédente\(The
+Synthesis Patch\)") | [Next](Synthpatchexample "page
+suivante\(Synthesis Patch Example\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Calculating the Value of a Maquette
@@ -127,7 +131,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Synthpatchprog "page précédente\(The
-Synthesis Patch\)") | [page suivante](Synthpatchexample "page
+Navigation : [Previous](Synthpatchprog "page précédente\(The
+Synthesis Patch\)") | [Next](Synthpatchexample "page
 suivante\(Synthesis Patch Example\)")
 

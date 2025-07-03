@@ -1,4 +1,8 @@
 
+Navigation : [Previous](MIDI-Objects "page précédente\(MIDI
+Objects\)") | [Next](MIDIEvent "Next\(MIDI Events\)")
+
+
 Sommaire
 
   1. Instantiation
@@ -177,6 +181,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Objects "page précédente\(MIDI
-Objects\)") | [page suivante](MIDIEvent "page suivante\(MIDI Events\)")
+Navigation : [Previous](MIDI-Objects "page précédente\(MIDI
+Objects\)") | [Next](MIDIEvent "Next\(MIDI Events\)")
 

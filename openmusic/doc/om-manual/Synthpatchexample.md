@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Synthesispatch "page précédente\(Maquette
+Value\)") | [Next](Seteval "Next\(Set-Eval Function\)")
+
+
 # Example : Building a Chord-Seq With a Synthesis Patch
 
 ![](../res/synthpatch.png)
@@ -125,6 +129,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Synthesispatch "page précédente\(Maquette
-Value\)") | [page suivante](Seteval "page suivante\(Set-Eval Function\)")
+Navigation : [Previous](Synthesispatch "page précédente\(Maquette
+Value\)") | [Next](Seteval "Next\(Set-Eval Function\)")
 

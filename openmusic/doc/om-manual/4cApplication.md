@@ -1,3 +1,7 @@
+Navigation : [Previous](4bApplication "page précédente\(Creating
+an Instance\)") | [Next](4dApplication "page
+suivante\(Materializing Results\)")
+
 
 # Formalizing the Transposition Process
 
@@ -50,7 +54,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](4bApplication "page précédente\(Creating
-an Instance\)") | [page suivante](4dApplication "page
+Navigation : [Previous](4bApplication "page précédente\(Creating
+an Instance\)") | [Next](4dApplication "page
 suivante\(Materializing Results\)")
 

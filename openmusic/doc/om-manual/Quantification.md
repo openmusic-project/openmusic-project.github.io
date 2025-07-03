@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Play "page précédente\(Play
+Controls\)") | [Next](ImportExport "Next\(Export /
+Import\)")
+
 # Quantification
 
 Quantification is the name of the process allowing to convert absolute
@@ -107,7 +111,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Play "page précédente\(Play
-Controls\)") | [page suivante](ImportExport "page suivante\(Export /
+Navigation : [Previous](Editor-Play "page précédente\(Play
+Controls\)") | [Next](ImportExport "Next\(Export /
 Import\)")
 

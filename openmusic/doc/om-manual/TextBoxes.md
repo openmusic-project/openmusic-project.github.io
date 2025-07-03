@@ -1,3 +1,7 @@
+
+Navigation : [Previous](GeneralFeatures "page précédente\(General
+Features\)") | [Next](CheckBox "Next\(Check Box\)")
+
 # Text Boxes
 
 Text boxes allow to input or visualize a text in a visual program. There exist
@@ -109,6 +113,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](GeneralFeatures "page précédente\(General
-Features\)") | [page suivante](CheckBox "page suivante\(Check Box\)")
+Navigation : [Previous](GeneralFeatures "page précédente\(General
+Features\)") | [Next](CheckBox "Next\(Check Box\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Sheet-Editor "page précédente\(Sheet
+Editor\)") | [Next](Sheet-Patch "Next\(Sheet
+Patches\)")
+
 # Building Sheets in Visual Programs
 
 As other musical objects, a sheet can be simply created in an OM patch. This
@@ -137,7 +141,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sheet-Editor "page précédente\(Sheet
-Editor\)") | [page suivante](Sheet-Patch "page suivante\(Sheet
+Navigation : [Previous](Sheet-Editor "page précédente\(Sheet
+Editor\)") | [Next](Sheet-Patch "Next\(Sheet
 Patches\)")
 

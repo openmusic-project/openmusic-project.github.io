@@ -1,3 +1,7 @@
+
+Navigation : [Previous](ListBoxes "page précédente\(List Boxes\)")
+| [Next](Slider "Next\(Slider Box\)")
+
 # Triggering Operations : The Button Box
 
 Button boxes are used for triggering operations. They don't return anything.
@@ -85,6 +89,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ListBoxes "page précédente\(List Boxes\)")
-| [page suivante](Slider "page suivante\(Slider Box\)")
+Navigation : [Previous](ListBoxes "page précédente\(List Boxes\)")
+| [Next](Slider "Next\(Slider Box\)")
 

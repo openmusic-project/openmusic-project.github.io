@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Microintervals "page
+précédente\(Microintervals Notation\)") | [Next](Quantification
+"Next\(Quantification\)")
+
 
 # Play Controls
 
@@ -82,7 +86,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Microintervals "page
-précédente\(Microintervals Notation\)") | [page suivante](Quantification
-"page suivante\(Quantification\)")
+Navigation : [Previous](Editor-Microintervals "page
+précédente\(Microintervals Notation\)") | [Next](Quantification
+"Next\(Quantification\)")
 

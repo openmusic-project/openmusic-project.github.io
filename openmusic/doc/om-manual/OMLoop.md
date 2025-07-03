@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Sequencial "page précédente\(Sequential
+Operators\)") | [Next](LoopIntro "Next\(Iteration\)")
+
+
 ![](../res/omloop2_icon.png)
 
 |
@@ -59,6 +63,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sequencial "page précédente\(Sequential
-Operators\)") | [page suivante](LoopIntro "page suivante\(Iteration\)")
+Navigation : [Previous](Sequencial "page précédente\(Sequential
+Operators\)") | [Next](LoopIntro "Next\(Iteration\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [page
+suivante](MIDI-Concepts "Next\(Important MIDI Concepts\)")
+
+
 ## The MIDI Protocol
 
 MIDI stands for Musical Instrument Digital Interface. It is a music industry
@@ -70,6 +74,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI "page précédente\(MIDI\)") | [page
-suivante](MIDI-Concepts "page suivante\(Important MIDI Concepts\)")
+Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [page
+suivante](MIDI-Concepts "Next\(Important MIDI Concepts\)")
 

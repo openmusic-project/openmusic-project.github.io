@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Collect "page précédente\(Collect\)") |
+[Next](MinMax "Next\(Min / Max\)")
+
 # Sum : Calculating Sums
 
 **![](../res/sum_icon.png) Sum** adds the successive input values.
@@ -104,6 +108,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Collect "page précédente\(Collect\)") |
-[page suivante](MinMax "page suivante\(Min / Max\)")
+Navigation : [Previous](Collect "page précédente\(Collect\)") |
+[Next](MinMax "Next\(Min / Max\)")
 

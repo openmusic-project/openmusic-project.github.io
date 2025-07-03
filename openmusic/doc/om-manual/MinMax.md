@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Sum "page précédente\(Sum\)") | [page
+suivante](Count "Next\(Count\)")
+
 # Min and Max : Comparing Values
 
 ** ![](../res/minmax_icon.png) Min ** and **max** compare the successive
@@ -82,6 +86,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sum "page précédente\(Sum\)") | [page
-suivante](Count "page suivante\(Count\)")
+Navigation : [Previous](Sum "page précédente\(Sum\)") | [page
+suivante](Count "Next\(Count\)")
 

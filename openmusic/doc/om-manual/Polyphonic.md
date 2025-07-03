@@ -1,3 +1,7 @@
+
+Navigation : [Previous](RhythmicObjects "page précédente\(Rhythmic
+Objects\)") | [Next](RT "Next\(Rhythm Trees\)")
+
 # Polyphonic Objects
 
 ## The Multi-Seq Object
@@ -123,6 +127,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RhythmicObjects "page précédente\(Rhythmic
-Objects\)") | [page suivante](RT "page suivante\(Rhythm Trees\)")
+Navigation : [Previous](RhythmicObjects "page précédente\(Rhythmic
+Objects\)") | [Next](RT "Next\(Rhythm Trees\)")
 

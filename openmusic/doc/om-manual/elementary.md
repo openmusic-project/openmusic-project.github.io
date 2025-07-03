@@ -1,3 +1,7 @@
+Navigation : [Previous](AddingTempbox "page précédente\(Adding
+TemporalBoxes\)") | [Next](Appearance "page
+suivante\(Temporalboxes Appearance\)")
+
 
 # Elementary Manipulations
 
@@ -135,7 +139,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AddingTempbox "page précédente\(Adding
-TemporalBoxes\)") | [page suivante](Appearance "page
+Navigation : [Previous](AddingTempbox "page précédente\(Adding
+TemporalBoxes\)") | [Next](Appearance "page
 suivante\(Temporalboxes Appearance\)")
 

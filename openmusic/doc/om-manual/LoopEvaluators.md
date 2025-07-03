@@ -1,3 +1,7 @@
+
+Navigation : [Previous](LoopGeneral "page précédente\(General
+Features\)") | [Next](Finally "Next\(Finally\)")
+
 # Evaluators : Eachtime, Finally, Initdo
 
 OMLoop has three evaluators :
@@ -51,6 +55,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopGeneral "page précédente\(General
-Features\)") | [page suivante](Finally "page suivante\(Finally\)")
+Navigation : [Previous](LoopGeneral "page précédente\(General
+Features\)") | [Next](Finally "Next\(Finally\)")
 

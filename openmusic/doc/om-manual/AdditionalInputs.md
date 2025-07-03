@@ -1,3 +1,7 @@
+
+Navigation : [Previous](StandardInputs "page précédente\(Standard
+Inputs\)") | [Next](Connections "Next\(Connections\)")
+
 # Additional Inputs : Optional, Keyword and Rest Arguments
 
 For practical issues, function boxes don't always show all possible inlets.
@@ -258,6 +262,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](StandardInputs "page précédente\(Standard
-Inputs\)") | [page suivante](Connections "page suivante\(Connections\)")
+Navigation : [Previous](StandardInputs "page précédente\(Standard
+Inputs\)") | [Next](Connections "Next\(Connections\)")
 

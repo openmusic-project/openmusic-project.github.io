@@ -1,3 +1,7 @@
+Navigation : [Previous](LoopAccumulators "page
+précédente\(Accumulators\)") | [Next](Sum "page
+suivante\(Sum\)")
+
 
 # Collect : Collecting Values
 
@@ -86,7 +90,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopAccumulators "page
-précédente\(Accumulators\)") | [page suivante](Sum "page
+Navigation : [Previous](LoopAccumulators "page
+précédente\(Accumulators\)") | [Next](Sum "page
 suivante\(Sum\)")
 

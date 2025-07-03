@@ -1,3 +1,7 @@
+Navigation : [Previous](Quantification "page
+précédente\(Quantification\)") | [Next](Export "page
+suivante\(Export\)")
+
 # Export / Import
 
 Score objects can be saved as external files under MIDI or other musical
@@ -123,7 +127,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Quantification "page
-précédente\(Quantification\)") | [page suivante](Export "page
+Navigation : [Previous](Quantification "page
+précédente\(Quantification\)") | [Next](Export "page
 suivante\(Export\)")
 

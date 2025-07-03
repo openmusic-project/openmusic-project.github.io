@@ -1,3 +1,7 @@
+Navigation : [Previous](LispFunctions "page précédente\(Lisp
+Function Boxes\)") | [Next](LispUserLib "Next\(Writing
+an OM Library\)")
+
 # Lisp Tools
 
 Several underlying Lisp functionalities are available from the OM patches, as
@@ -83,7 +87,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispFunctions "page précédente\(Lisp
-Function Boxes\)") | [page suivante](LispUserLib "page suivante\(Writing
+Navigation : [Previous](LispFunctions "page précédente\(Lisp
+Function Boxes\)") | [Next](LispUserLib "Next\(Writing
 an OM Library\)")
 

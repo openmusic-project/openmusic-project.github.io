@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Concepts "page précédente\(Important
+MIDI Concepts\)") | [Next](MIDI-Params "Next\(MIDI
+Parameters\)")
+
 # Rendering and Playback Control
 
 In OM, most "score" objects can be played via a MIDI synthesizer. Objects are
@@ -55,7 +59,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Concepts "page précédente\(Important
-MIDI Concepts\)") | [page suivante](MIDI-Params "page suivante\(MIDI
+Navigation : [Previous](MIDI-Concepts "page précédente\(Important
+MIDI Concepts\)") | [Next](MIDI-Params "Next\(MIDI
 Parameters\)")
 

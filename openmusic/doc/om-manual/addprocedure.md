@@ -1,3 +1,7 @@
+Navigation : [Previous](Maquettes%20in%20Patches2 "page
+précédente\(Reference Mode\)") | [Next](addexamples "page
+suivante\(Examples\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Reference Mode : Adding TemporalBoxes in a Maquette
@@ -179,7 +183,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Maquettes%20in%20Patches2 "page
-précédente\(Reference Mode\)") | [page suivante](addexamples "page
+Navigation : [Previous](Maquettes%20in%20Patches2 "page
+précédente\(Reference Mode\)") | [Next](addexamples "page
 suivante\(Examples\)")
 

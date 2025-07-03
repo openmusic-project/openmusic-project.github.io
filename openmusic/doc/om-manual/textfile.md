@@ -1,3 +1,7 @@
+Navigation : [Previous](ArrayTools "page précédente\(Class-Array
+Tools\)") | [Next](TextFileEdition "Next\(TextFile
+Edition\)")
+
 # TextFile
 
 ![](../res/textfilebox_icon.png)
@@ -46,7 +50,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ArrayTools "page précédente\(Class-Array
-Tools\)") | [page suivante](TextFileEdition "page suivante\(TextFile
+Navigation : [Previous](ArrayTools "page précédente\(Class-Array
+Tools\)") | [Next](TextFileEdition "Next\(TextFile
 Edition\)")
 

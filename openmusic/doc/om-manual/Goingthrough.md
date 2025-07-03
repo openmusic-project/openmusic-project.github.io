@@ -1,3 +1,7 @@
+Navigation : [Previous](InstallationWindows "page
+précédente\(Windows\)") | [Next](Launching%20OM "page
+suivante\(Launching OM\)")
+
 # Going Through an OM Session
 
 This section provides technical information regarding the main procedures of a
@@ -29,7 +33,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InstallationWindows "page
-précédente\(Windows\)") | [page suivante](Launching%20OM "page
+Navigation : [Previous](InstallationWindows "page
+précédente\(Windows\)") | [Next](Launching%20OM "page
 suivante\(Launching OM\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](LoopEvaluators "page
+précédente\(Evaluators\)") | [Next](Eachtime "page
+suivante\(EachTime\)")
+
 
 # Getting Results : Finally
 
@@ -92,7 +96,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopEvaluators "page
-précédente\(Evaluators\)") | [page suivante](Eachtime "page
+Navigation : [Previous](LoopEvaluators "page
+précédente\(Evaluators\)") | [Next](Eachtime "page
 suivante\(EachTime\)")
 

@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Slider "page précédente\(Slider Box\)") |
+[Next](InterfaceExample "Next\(Examples of Use\)")
+
 # Selecting Items and Triggering Actions: Pop-Up Menu Box
 
 Sommaire
@@ -156,6 +160,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Slider "page précédente\(Slider Box\)") |
-[page suivante](InterfaceExample "page suivante\(Examples of Use\)")
+Navigation : [Previous](Slider "page précédente\(Slider Box\)") |
+[Next](InterfaceExample "Next\(Examples of Use\)")
 

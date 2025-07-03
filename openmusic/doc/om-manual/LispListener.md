@@ -1,4 +1,8 @@
 
+Navigation : [Previous](LispEditor "page précédente\(The Lisp
+Editor\)") | [Next](LispInOM "Next\(Lisp Code in OM\)")
+
+
 ## The Listener Window
 
 The Listener window is the main interface with the Lisp under OM. It can be
@@ -133,6 +137,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispEditor "page précédente\(The Lisp
-Editor\)") | [page suivante](LispInOM "page suivante\(Lisp Code in OM\)")
+Navigation : [Previous](LispEditor "page précédente\(The Lisp
+Editor\)") | [Next](LispInOM "Next\(Lisp Code in OM\)")
 

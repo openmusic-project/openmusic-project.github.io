@@ -1,3 +1,7 @@
+Navigation : [Previous](OM-Documentation "page
+précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
+"Next\(Introduction\)")
+
 [ ](00-Sommaire) **[ ****](00-Sommaire)** This document is the
 kernel of the OpenMusic Software documentation. It is composed of the
 following sections :
@@ -97,7 +101,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OM-Documentation "page
-précédente\(OpenMusic Documentation\)") | [page suivante](00-Sommaire
-"page suivante\(Introduction\)")
+Navigation : [Previous](OM-Documentation "page
+précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
+"Next\(Introduction\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](SelfInputBox "page précédente\(The Self
+Input Box – Tempin\)") | [Next](EX2 "Next\(Temporal
+Relations\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Example 1 : Programming With the Self Input Box
@@ -72,7 +76,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SelfInputBox "page précédente\(The Self
-Input Box – Tempin\)") | [page suivante](EX2 "page suivante\(Temporal
+Navigation : [Previous](SelfInputBox "page précédente\(The Self
+Input Box – Tempin\)") | [Next](EX2 "Next\(Temporal
 Relations\)")
 

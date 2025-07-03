@@ -1,3 +1,7 @@
+Navigation : [Previous](5aComplete "page précédente\(Manipulating
+the Chord Box\)") | [Next](5cComplete "Next\(Listening
+to Microintervals\)")
+
 
 # Completing the Edition
 
@@ -45,7 +49,7 @@ Plan :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](5aComplete "page précédente\(Manipulating
-the Chord Box\)") | [page suivante](5cComplete "page suivante\(Listening
+Navigation : [Previous](5aComplete "page précédente\(Manipulating
+the Chord Box\)") | [Next](5cComplete "Next\(Listening
 to Microintervals\)")
 

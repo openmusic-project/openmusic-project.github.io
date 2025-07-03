@@ -1,3 +1,7 @@
+
+Navigation : [Previous](PredExample "page précédente\(In
+Practice\)") | [Next](OMIF "Next\(OMif\)")
+
 # Conditional Operators
 
 Conditional Operators
@@ -59,6 +63,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PredExample "page précédente\(In
-Practice\)") | [page suivante](OMIF "page suivante\(OMif\)")
+Navigation : [Previous](PredExample "page précédente\(In
+Practice\)") | [Next](OMIF "Next\(OMif\)")
 

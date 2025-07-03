@@ -1,3 +1,7 @@
+Navigation : [Previous](ReadingWriting "page précédente\(Reading /
+Writing\)") | [Next](BasicObjects "Next\(Basic
+Tools\)")
+
 
 # Designing an Iterative Process with the File-Box
 
@@ -180,7 +184,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ReadingWriting "page précédente\(Reading /
-Writing\)") | [page suivante](BasicObjects "page suivante\(Basic
+Navigation : [Previous](ReadingWriting "page précédente\(Reading /
+Writing\)") | [Next](BasicObjects "Next\(Basic
 Tools\)")
 

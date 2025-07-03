@@ -1,3 +1,7 @@
+
+Navigation : [Previous](BoxInputs "page précédente\(Box Inputs\)")
+| [Next](AdditionalInputs "Next\(Additional Inputs\)")
+
 # Standard Inputs
 
 ## Information and Default Values
@@ -128,6 +132,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BoxInputs "page précédente\(Box Inputs\)")
-| [page suivante](AdditionalInputs "page suivante\(Additional Inputs\)")
+Navigation : [Previous](BoxInputs "page précédente\(Box Inputs\)")
+| [Next](AdditionalInputs "Next\(Additional Inputs\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](DeadBox "page précédente\(Dead Boxes\)") |
+[Next](Abstraction "Next\(Abstraction\)")
+
+
 This section describes the following advanced programming concepts and tools :
 
   * defining options or control procedures within programs,
@@ -69,6 +73,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](DeadBox "page précédente\(Dead Boxes\)") |
-[page suivante](Abstraction "page suivante\(Abstraction\)")
+Navigation : [Previous](DeadBox "page précédente\(Dead Boxes\)") |
+[Next](Abstraction "Next\(Abstraction\)")
 

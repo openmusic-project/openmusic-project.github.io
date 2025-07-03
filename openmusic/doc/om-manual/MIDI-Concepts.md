@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Intro "page précédente\(Introduction\)") |
+[Next](MIDI-Playback "Next\(Rendering and Playback\)")
+
+
 MIDI communication is based on **messages** called **events**. When a sequence
 of notes is played, it is internally converted into a sequence of **MIDI
 events**.
@@ -180,6 +184,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Intro "page précédente\(Introduction\)") |
-[page suivante](MIDI-Playback "page suivante\(Rendering and Playback\)")
+Navigation : [Previous](Intro "page précédente\(Introduction\)") |
+[Next](MIDI-Playback "Next\(Rendering and Playback\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Lisp "page précédente\(Lisp
+Programming\)") | [Next](LispEditor "Next\(The Lisp
+Editor\)")
+
 # Introduction to Lisp
 
 This section is **not** a Common Lisp tutorial, but just expounds a few
@@ -196,7 +200,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Lisp "page précédente\(Lisp
-Programming\)") | [page suivante](LispEditor "page suivante\(The Lisp
+Navigation : [Previous](Lisp "page précédente\(Lisp
+Programming\)") | [Next](LispEditor "Next\(The Lisp
 Editor\)")
 

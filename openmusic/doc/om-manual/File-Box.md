@@ -1,3 +1,7 @@
+Navigation : [Previous](DefDirectories "page précédente\(Default
+Directories\)") | [Next](FileBoxIntro "page
+suivante\(Introduction\)")
+
 
 # File-Box : Iterative File Input/Output Processes
 
@@ -48,7 +52,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](DefDirectories "page précédente\(Default
-Directories\)") | [page suivante](FileBoxIntro "page
+Navigation : [Previous](DefDirectories "page précédente\(Default
+Directories\)") | [Next](FileBoxIntro "page
 suivante\(Introduction\)")
 

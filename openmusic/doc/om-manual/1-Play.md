@@ -1,3 +1,7 @@
+Navigation : [Previous](2-Instanciation "page
+précédente\(Instantiating Objects\)") | [Next](3-Editors "page
+suivante\(Editors\)")
+
 
 # Playback and Players
 
@@ -110,7 +114,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](2-Instanciation "page
-précédente\(Instantiating Objects\)") | [page suivante](3-Editors "page
+Navigation : [Previous](2-Instanciation "page
+précédente\(Instantiating Objects\)") | [Next](3-Editors "page
 suivante\(Editors\)")
 

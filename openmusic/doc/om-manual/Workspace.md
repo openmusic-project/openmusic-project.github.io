@@ -1,3 +1,7 @@
+Navigation : [Previous](Preferences "page
+précédente\(Preferences\)") | [Next](WS-Window "page
+suivante\(The Workspace Window\)")
+
 # Workspace
 
 Reminder
@@ -44,7 +48,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Preferences "page
-précédente\(Preferences\)") | [page suivante](WS-Window "page
+Navigation : [Previous](Preferences "page
+précédente\(Preferences\)") | [Next](WS-Window "page
 suivante\(The Workspace Window\)")
 

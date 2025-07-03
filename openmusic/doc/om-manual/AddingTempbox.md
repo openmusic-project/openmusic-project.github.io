@@ -1,3 +1,7 @@
+Navigation : [Previous](TemporalBoxes "page
+précédente\(TemporalBoxes\)") | [Next](elementary "page
+suivante\(Elementary Manipulations\)")
+
 
 # Adding TemporalBoxes in a Maquette
 
@@ -135,7 +139,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TemporalBoxes "page
-précédente\(TemporalBoxes\)") | [page suivante](elementary "page
+Navigation : [Previous](TemporalBoxes "page
+précédente\(TemporalBoxes\)") | [Next](elementary "page
 suivante\(Elementary Manipulations\)")
 

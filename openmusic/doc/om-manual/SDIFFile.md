@@ -1,3 +1,7 @@
+Navigation : [Previous](SDIF-Intro "page précédente\(Introduction
+to SDIF\)") | [Next](SDIF-Read "Next\(Accessing SDIF
+Data\)")
+
 # SDIF Files in OM : The SDIFFile Object
 
 SDIF files are handled in OM via the **SDIFFILE** object. SDIFFILE boxes (when
@@ -204,7 +208,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIF-Intro "page précédente\(Introduction
-to SDIF\)") | [page suivante](SDIF-Read "page suivante\(Accessing SDIF
+Navigation : [Previous](SDIF-Intro "page précédente\(Introduction
+to SDIF\)") | [Next](SDIF-Read "Next\(Accessing SDIF
 Data\)")
 

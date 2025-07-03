@@ -1,3 +1,7 @@
+Navigation : [Previous](LambdaMode "page précédente\(Lambda
+Mode\)") | [Next](HighOrder "Next\(Higher-Order
+Functions\)")
+
 
 # Reference Mode
 
@@ -67,7 +71,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LambdaMode "page précédente\(Lambda
-Mode\)") | [page suivante](HighOrder "page suivante\(Higher-Order
+Navigation : [Previous](LambdaMode "page précédente\(Lambda
+Mode\)") | [Next](HighOrder "Next\(Higher-Order
 Functions\)")
 

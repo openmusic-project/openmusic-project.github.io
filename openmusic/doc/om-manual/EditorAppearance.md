@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor "page précédente\(The Maquette
+Editor\)") | [Next](Grid%20and%20Rulers "Next\(Rulers
+and Grid\)")
+
 
 # Maquette Editor Appearance
 
@@ -126,7 +130,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor "page précédente\(The Maquette
-Editor\)") | [page suivante](Grid%20and%20Rulers "page suivante\(Rulers
+Navigation : [Previous](Editor "page précédente\(The Maquette
+Editor\)") | [Next](Grid%20and%20Rulers "Next\(Rulers
 and Grid\)")
 

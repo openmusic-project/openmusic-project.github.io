@@ -1,3 +1,7 @@
+
+Veuillez utiliser le bouton **Retour** de votre navigateur pour revenir au
+guide.
+
 of arguments for this function are: list+list, list+number, number+list and
 number+number.](../res/genericedito.png)
 

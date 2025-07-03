@@ -1,3 +1,7 @@
+Navigation : [Previous](Comments "page précédente\(Comments\)") |
+[Next](SavingPatch "Next\(Saving / Reloading a
+Patch\)")
+
 # Background Pictures
 
 Pictures can be added as a background or illustration for patch editors.
@@ -89,7 +93,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Comments "page précédente\(Comments\)") |
-[page suivante](SavingPatch "page suivante\(Saving / Reloading a
+Navigation : [Previous](Comments "page précédente\(Comments\)") |
+[Next](SavingPatch "Next\(Saving / Reloading a
 Patch\)")
 

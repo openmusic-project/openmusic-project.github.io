@@ -1,3 +1,7 @@
+Navigation : [Previous](Connections "page
+précédente\(Connections\)") | [Next](DocAndInfo "page
+suivante\(Documentation and Info\)")
+
 # Evaluation
 
 Evaluating a box means calling its inner function and parameters. If this box
@@ -188,7 +192,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Connections "page
-précédente\(Connections\)") | [page suivante](DocAndInfo "page
+Navigation : [Previous](Connections "page
+précédente\(Connections\)") | [Next](DocAndInfo "page
 suivante\(Documentation and Info\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](MaquetteEvaluation "page
+précédente\(Evaluation\)") | [Next](Synthesispatch "page
+suivante\(Maquette Value\)")
+
 
 # An Alternate Evaluation Tool : the Synthesis Patch
 
@@ -41,7 +45,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MaquetteEvaluation "page
-précédente\(Evaluation\)") | [page suivante](Synthesispatch "page
+Navigation : [Previous](MaquetteEvaluation "page
+précédente\(Evaluation\)") | [Next](Synthesispatch "page
 suivante\(Maquette Value\)")
 

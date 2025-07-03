@@ -1,3 +1,7 @@
+
+Navigation : [Previous](WhileLoop "page précédente\(While Loop\)")
+| [Next](LoopAccumulators "Next\(Accumulators\)")
+
 # Iterators and Infinite Loops
 
 If no iterator is used, or if an iterator is used the wrong way, OMLoop gets
@@ -77,6 +81,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](WhileLoop "page précédente\(While Loop\)")
-| [page suivante](LoopAccumulators "page suivante\(Accumulators\)")
+Navigation : [Previous](WhileLoop "page précédente\(While Loop\)")
+| [Next](LoopAccumulators "Next\(Accumulators\)")
 

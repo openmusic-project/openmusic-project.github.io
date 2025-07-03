@@ -1,3 +1,7 @@
+Navigation : [Previous](ScoreEditors "page précédente\(Score
+Editors\)") | [Next](Editors-Prefs "page
+suivante\(Preferences\)")
+
 
 # Overview
 
@@ -218,7 +222,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ScoreEditors "page précédente\(Score
-Editors\)") | [page suivante](Editors-Prefs "page
+Navigation : [Previous](ScoreEditors "page précédente\(Score
+Editors\)") | [Next](Editors-Prefs "page
 suivante\(Preferences\)")
 

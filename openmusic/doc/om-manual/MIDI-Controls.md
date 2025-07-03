@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Params "page précédente\(MIDI
+Parameters\)") | [Next](MIDI-Utils "Next\(MIDI
+Selection Tools\)")
+
 
 # MIDI Player Controls
 
@@ -150,7 +154,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Params "page précédente\(MIDI
-Parameters\)") | [page suivante](MIDI-Utils "page suivante\(MIDI
+Navigation : [Previous](MIDI-Params "page précédente\(MIDI
+Parameters\)") | [Next](MIDI-Utils "Next\(MIDI
 Selection Tools\)")
 

@@ -1,3 +1,7 @@
+
+Navigation : [Previous](OnListLoop "page précédente\(OnList
+Loop\)") | [Next](WhileLoop "Next\(While Loop\)")
+
 # ForLoop : Enumeration Between Two Values
 
 ## General Properties
@@ -73,6 +77,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OnListLoop "page précédente\(OnList
-Loop\)") | [page suivante](WhileLoop "page suivante\(While Loop\)")
+Navigation : [Previous](OnListLoop "page précédente\(OnList
+Loop\)") | [Next](WhileLoop "Next\(While Loop\)")
 

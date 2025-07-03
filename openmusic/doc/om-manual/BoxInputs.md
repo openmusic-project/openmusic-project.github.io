@@ -1,3 +1,7 @@
+Navigation : [Previous](OtherBoxes "page précédente\(Other
+Boxes\)") | [Next](StandardInputs "Next\(Standard
+Inputs\)")
+
 # Box Inputs
 
 Box inputs correspond to computation parameters. These parameters can
@@ -41,7 +45,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OtherBoxes "page précédente\(Other
-Boxes\)") | [page suivante](StandardInputs "page suivante\(Standard
+Navigation : [Previous](OtherBoxes "page précédente\(Other
+Boxes\)") | [Next](StandardInputs "Next\(Standard
 Inputs\)")
 

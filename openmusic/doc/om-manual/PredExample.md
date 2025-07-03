@@ -1,3 +1,7 @@
+Navigation : [Previous](PredTypes "page précédente\(Type
+Predicates\)") | [Next](ConditionalOps "page
+suivante\(Conditional Operators\)")
+
 
 # Predicates: In Practice
 
@@ -98,7 +102,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PredTypes "page précédente\(Type
-Predicates\)") | [page suivante](ConditionalOps "page
+Navigation : [Previous](PredTypes "page précédente\(Type
+Predicates\)") | [Next](ConditionalOps "page
 suivante\(Conditional Operators\)")
 

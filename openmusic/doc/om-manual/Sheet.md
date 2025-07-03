@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Intercation2 "page précédente\(Interation
+\(2\)\)") | [Next](Sheet-Editor "Next\(Sheet Editor\)")
+
+
 The **OMSheet** object is a special polyphonic container allowing to bring
 together heterogeneous musical objects on its different voices. The OMSheet
 editor has specific features ensuring space/time alignments between the
@@ -63,6 +67,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Intercation2 "page précédente\(Interation
-\(2\)\)") | [page suivante](Sheet-Editor "page suivante\(Sheet Editor\)")
+Navigation : [Previous](Intercation2 "page précédente\(Interation
+\(2\)\)") | [Next](Sheet-Editor "Next\(Sheet Editor\)")
 

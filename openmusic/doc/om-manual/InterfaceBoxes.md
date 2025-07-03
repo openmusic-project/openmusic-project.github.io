@@ -1,3 +1,7 @@
+Navigation : [Previous](Store "page précédente\(The Store
+Object\)") | [Next](GeneralFeatures "Next\(General
+Features\)")
+
 # Interface Boxes
 
 **The Interface Boxes** are used as side elements for the execution of
@@ -45,7 +49,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Store "page précédente\(The Store
-Object\)") | [page suivante](GeneralFeatures "page suivante\(General
+Navigation : [Previous](Store "page précédente\(The Store
+Object\)") | [Next](GeneralFeatures "Next\(General
 Features\)")
 

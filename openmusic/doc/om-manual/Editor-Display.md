@@ -1,3 +1,7 @@
+Navigation : [Previous](Editors-Prefs "page
+précédente\(Preferences\)") | [Next](Editor-Basics "page
+suivante\(Basic Editing\)")
+
 
 # Score Display
 
@@ -167,7 +171,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editors-Prefs "page
-précédente\(Preferences\)") | [page suivante](Editor-Basics "page
+Navigation : [Previous](Editors-Prefs "page
+précédente\(Preferences\)") | [Next](Editor-Basics "page
 suivante\(Basic Editing\)")
 

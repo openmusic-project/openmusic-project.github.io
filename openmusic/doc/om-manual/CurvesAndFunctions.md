@@ -1,4 +1,8 @@
 
+Navigation : [Previous](BasicObjects "page précédente\(Basic
+Tools\)") | [Next](BPF-BPC "Next\(BPF / BPC\)")
+
+
 The Functions package contains a set of classes and functions designed to
 create, edit and manipulate curves, also called  **Break Point Functions** and
 ** Break Point Curves ** . These can be accessed via the `Basic Tools /
@@ -40,6 +44,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BasicObjects "page précédente\(Basic
-Tools\)") | [page suivante](BPF-BPC "page suivante\(BPF / BPC\)")
+Navigation : [Previous](BasicObjects "page précédente\(Basic
+Tools\)") | [Next](BPF-BPC "Next\(BPF / BPC\)")
 

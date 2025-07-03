@@ -1,4 +1,8 @@
 
+Navigation : [Previous](OMIF "page précédente\(OMif\)") | [page
+suivante](Logical "Next\(Logical Operators\)")
+
+
 # Conditional : Multiple Conditions
 
 Conditional is very similar to omif : it tests if  **a set ** of conditions**
@@ -128,6 +132,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OMIF "page précédente\(OMif\)") | [page
-suivante](Logical "page suivante\(Logical Operators\)")
+Navigation : [Previous](OMIF "page précédente\(OMif\)") | [page
+suivante](Logical "Next\(Logical Operators\)")
 

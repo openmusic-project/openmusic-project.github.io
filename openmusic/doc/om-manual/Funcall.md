@@ -1,3 +1,7 @@
+Navigation : [Previous](HighOrder "page précédente\(Higher-Order
+Functions\)") | [Next](Mapcar "Next\(Mapcar -
+Iterations\)")
+
 
 # Lambda Mode Examples: Funcall - Using Functions as Data
 
@@ -118,7 +122,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](HighOrder "page précédente\(Higher-Order
-Functions\)") | [page suivante](Mapcar "page suivante\(Mapcar -
+Navigation : [Previous](HighOrder "page précédente\(Higher-Order
+Functions\)") | [Next](Mapcar "Next\(Mapcar -
 Iterations\)")
 

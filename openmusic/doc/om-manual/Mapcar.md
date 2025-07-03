@@ -1,3 +1,7 @@
+Navigation : [Previous](Funcall "page précédente\(Using Functions
+as Data\)") | [Next](LambdaPatch "Next\(Lambda
+Patches\)")
+
 
 # Lambda Mode Examples: Mapcar \- Iterations
 
@@ -104,7 +108,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Funcall "page précédente\(Using Functions
-as Data\)") | [page suivante](LambdaPatch "page suivante\(Lambda
+Navigation : [Previous](Funcall "page précédente\(Using Functions
+as Data\)") | [Next](LambdaPatch "Next\(Lambda
 Patches\)")
 

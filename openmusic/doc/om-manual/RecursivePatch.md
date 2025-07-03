@@ -1,3 +1,7 @@
+Navigation : [Previous](Recursion "page précédente\(Recursive
+Patches\)") | [Next](RecursiveTree "Next\(Recursive
+Trees\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Recursion in OM
@@ -116,7 +120,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Recursion "page précédente\(Recursive
-Patches\)") | [page suivante](RecursiveTree "page suivante\(Recursive
+Navigation : [Previous](Recursion "page précédente\(Recursive
+Patches\)") | [Next](RecursiveTree "Next\(Recursive
 Trees\)")
 

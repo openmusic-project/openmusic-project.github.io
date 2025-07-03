@@ -1,4 +1,8 @@
 
+Navigation : [Previous](SoundEditor "page précédente\(Sound
+Editor\)") | [Next](SoundTools "Next\(Sound Tools\)")
+
+
 OM currently relies on the  LibAudioStream libray for playback and rendering
 of audio files. The LibAudioStream player offers a multitrack architecture,
 sounds can be assigned to different tracks with particular volume and panning
@@ -202,6 +206,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SoundEditor "page précédente\(Sound
-Editor\)") | [page suivante](SoundTools "page suivante\(Sound Tools\)")
+Navigation : [Previous](SoundEditor "page précédente\(Sound
+Editor\)") | [Next](SoundTools "Next\(Sound Tools\)")
 

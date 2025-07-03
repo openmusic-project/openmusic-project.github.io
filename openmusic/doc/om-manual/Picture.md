@@ -1,3 +1,7 @@
+Navigation : [Previous](TextFileEnvironment "page
+précédente\(Outer Environment\)") | [Next](PictureBox "page
+suivante\(Picture Box\)")
+
 # The Picture Object
 
 The  **picture** object is used for representing and using pictures and/or
@@ -35,7 +39,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TextFileEnvironment "page
-précédente\(Outer Environment\)") | [page suivante](PictureBox "page
+Navigation : [Previous](TextFileEnvironment "page
+précédente\(Outer Environment\)") | [Next](PictureBox "page
 suivante\(Picture Box\)")
 

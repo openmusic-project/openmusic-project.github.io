@@ -1,4 +1,8 @@
 
+Navigation : [Previous](MIDIEvent "page précédente\(MIDI
+Events\)") | [Next](Audio "Next\(Audio\)")
+
+
 The MIDI containers are objects constituted of a set of simultaneous or
 sequencial MIDI events representing intermediate-level musical objects.
 
@@ -269,6 +273,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDIEvent "page précédente\(MIDI
-Events\)") | [page suivante](Audio "page suivante\(Audio\)")
+Navigation : [Previous](MIDIEvent "page précédente\(MIDI
+Events\)") | [Next](Audio "Next\(Audio\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](ArrayObject "page précédente\(Class-Array
+Object\)") | [Next](ArrayTools "Next\(Class-Array
+Tools\)")
+
 
 # Class-Array Editor
 
@@ -129,7 +133,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ArrayObject "page précédente\(Class-Array
-Object\)") | [page suivante](ArrayTools "page suivante\(Class-Array
+Navigation : [Previous](ArrayObject "page précédente\(Class-Array
+Object\)") | [Next](ArrayTools "Next\(Class-Array
 Tools\)")
 

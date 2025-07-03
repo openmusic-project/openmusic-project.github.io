@@ -1,3 +1,7 @@
+
+Navigation : [Previous](ListLoop "page précédente\(List Loop\)") |
+[Next](ForLoop "Next\(For Loop\)")
+
 # OnListLoop : Enumerating Subsets of Lists
 
 ## General Properties
@@ -92,6 +96,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ListLoop "page précédente\(List Loop\)") |
-[page suivante](ForLoop "page suivante\(For Loop\)")
+Navigation : [Previous](ListLoop "page précédente\(List Loop\)") |
+[Next](ForLoop "Next\(For Loop\)")
 

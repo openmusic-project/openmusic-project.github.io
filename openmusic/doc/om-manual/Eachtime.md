@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Finally "page précédente\(Finally\)") |
+[Next](Initdo "Next\(Initdo\)")
+
 # Executing Operations : EachTime
 
 ![](../res/eachtime_icon.png) **EachTime** **triggers successive evaluations**
@@ -123,6 +127,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Finally "page précédente\(Finally\)") |
-[page suivante](Initdo "page suivante\(Initdo\)")
+Navigation : [Previous](Finally "page précédente\(Finally\)") |
+[Next](Initdo "Next\(Initdo\)")
 

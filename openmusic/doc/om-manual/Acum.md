@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Count "page précédente\(Count\)") | [page
+suivante](LoopExample "Next\(Example : A Random Series\)")
+
 # Acum : Defining Accumulation Procedures
 
 **![](../res/acum_icon.png) Acum** is a generic module used for defining
@@ -109,6 +113,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Count "page précédente\(Count\)") | [page
-suivante](LoopExample "page suivante\(Example : A Random Series\)")
+Navigation : [Previous](Count "page précédente\(Count\)") | [page
+suivante](LoopExample "Next\(Example : A Random Series\)")
 

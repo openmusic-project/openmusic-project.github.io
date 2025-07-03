@@ -1,3 +1,7 @@
+
+Navigation : [Previous](ForLoop "page précédente\(For Loop\)") |
+[Next](InfiniteLoops "Next\(Infinite Loops\)")
+
 # WhileLoop : Defining Iteration Conditions
 
 ## General Properties
@@ -84,6 +88,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ForLoop "page précédente\(For Loop\)") |
-[page suivante](InfiniteLoops "page suivante\(Infinite Loops\)")
+Navigation : [Previous](ForLoop "page précédente\(For Loop\)") |
+[Next](InfiniteLoops "Next\(Infinite Loops\)")
 

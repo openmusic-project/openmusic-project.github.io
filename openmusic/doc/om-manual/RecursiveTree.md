@@ -1,3 +1,7 @@
+Navigation : [Previous](RecursivePatch "page précédente\(Recursion
+in OM\)") | [Next](EvalModes "Next\(Evaluation
+Modes\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Recursive Treatment of Tree Structures
@@ -91,7 +95,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RecursivePatch "page précédente\(Recursion
-in OM\)") | [page suivante](EvalModes "page suivante\(Evaluation
+Navigation : [Previous](RecursivePatch "page précédente\(Recursion
+in OM\)") | [Next](EvalModes "Next\(Evaluation
 Modes\)")
 

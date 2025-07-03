@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Externals "page précédente\(External
+Libraries\)") | [Next](SDIF "Next\(SDIF\)")
+
+
 The `Audio` tab in the OM Preferences window gathers a number of options
 related to audio features and sound processing in OM.
 
@@ -127,6 +131,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Externals "page précédente\(External
-Libraries\)") | [page suivante](SDIF "page suivante\(SDIF\)")
+Navigation : [Previous](Externals "page précédente\(External
+Libraries\)") | [Next](SDIF "Next\(SDIF\)")
 

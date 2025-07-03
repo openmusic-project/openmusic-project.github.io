@@ -1,3 +1,7 @@
+
+Navigation : [Previous](InfiniteLoops "page précédente\(Infinite
+Loops\)") | [Next](Collect "Next\(Collect\)")
+
 # Accumulators
 
 ## Function
@@ -88,6 +92,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InfiniteLoops "page précédente\(Infinite
-Loops\)") | [page suivante](Collect "page suivante\(Collect\)")
+Navigation : [Previous](InfiniteLoops "page précédente\(Infinite
+Loops\)") | [Next](Collect "Next\(Collect\)")
 

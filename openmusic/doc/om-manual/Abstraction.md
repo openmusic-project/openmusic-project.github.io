@@ -1,3 +1,7 @@
+Navigation : [Previous](AdvancedVisualProgramming "page
+précédente\(Visual Programming II\)") | [Next](AbsBoxes "page
+suivante\(Abstraction Boxes\)")
+
 # Abstraction
 
 Abstraction
@@ -74,7 +78,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AdvancedVisualProgramming "page
-précédente\(Visual Programming II\)") | [page suivante](AbsBoxes "page
+Navigation : [Previous](AdvancedVisualProgramming "page
+précédente\(Visual Programming II\)") | [Next](AbsBoxes "page
 suivante\(Abstraction Boxes\)")
 

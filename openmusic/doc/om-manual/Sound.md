@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Audio "page précédente\(Audio\)") | [page
+suivante](SoundEditor "Next\(Sound Editor\)")
+
+
 The main audio object in OM is the SOUND object.
 
 |
@@ -196,6 +200,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Audio "page précédente\(Audio\)") | [page
-suivante](SoundEditor "page suivante\(Sound Editor\)")
+Navigation : [Previous](Audio "page précédente\(Audio\)") | [page
+suivante](SoundEditor "Next\(Sound Editor\)")
 

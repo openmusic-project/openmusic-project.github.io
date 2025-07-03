@@ -1,3 +1,7 @@
+
+Navigation : [Previous](LoopIntro "page précédente\(Iteration\)")
+| [Next](LoopEvaluators "Next\(Evaluators\)")
+
 # General Features
 
 ![](../res/omloop2_icon.png)
@@ -163,6 +167,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopIntro "page précédente\(Iteration\)")
-| [page suivante](LoopEvaluators "page suivante\(Evaluators\)")
+Navigation : [Previous](LoopIntro "page précédente\(Iteration\)")
+| [Next](LoopEvaluators "Next\(Evaluators\)")
 

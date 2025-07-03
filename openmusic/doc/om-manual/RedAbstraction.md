@@ -1,3 +1,7 @@
+Navigation : [Previous](BlueAbstraction "page précédente\(Standard
+Abstraction\)") | [Next](AbsConversion "page
+suivante\(Conversions\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Internal Abstractions
@@ -99,7 +103,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BlueAbstraction "page précédente\(Standard
-Abstraction\)") | [page suivante](AbsConversion "page
+Navigation : [Previous](BlueAbstraction "page précédente\(Standard
+Abstraction\)") | [Next](AbsConversion "page
 suivante\(Conversions\)")
 

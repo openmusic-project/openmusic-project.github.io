@@ -1,3 +1,7 @@
+
+Navigation : [Previous](5bComplete "page précédente\(Completing
+the Edition\)") | [Next](5dComplete "Next\(Comments\)")
+
 # Listening to Microintervals
 
 Covered Topics
@@ -32,6 +36,6 @@ Plan :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](5bComplete "page précédente\(Completing
-the Edition\)") | [page suivante](5dComplete "page suivante\(Comments\)")
+Navigation : [Previous](5bComplete "page précédente\(Completing
+the Edition\)") | [Next](5dComplete "Next\(Comments\)")
 

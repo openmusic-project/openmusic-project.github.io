@@ -1,3 +1,7 @@
+Navigation : [Previous](InputsOutputs "page précédente\(Functional
+Components\)") | [Next](Synthpatchprog "Next\(The
+Synthesis Patch\)")
+
 
 # Evaluation of the Maquette
 
@@ -103,7 +107,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InputsOutputs "page précédente\(Functional
-Components\)") | [page suivante](Synthpatchprog "page suivante\(The
+Navigation : [Previous](InputsOutputs "page précédente\(Functional
+Components\)") | [Next](Synthpatchprog "Next\(The
 Synthesis Patch\)")
 

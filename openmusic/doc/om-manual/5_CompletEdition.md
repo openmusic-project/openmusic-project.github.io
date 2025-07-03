@@ -1,3 +1,7 @@
+Navigation : [Previous](4dApplication "page
+précédente\(Materializing Results\)") | [Next](5aComplete "page
+suivante\(Manipulating the Chord Box\)")
+
 # Manipulating and Visualizing Objects
 
 Sous-sections :
@@ -26,7 +30,7 @@ Plan :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](4dApplication "page
-précédente\(Materializing Results\)") | [page suivante](5aComplete "page
+Navigation : [Previous](4dApplication "page
+précédente\(Materializing Results\)") | [Next](5aComplete "page
 suivante\(Manipulating the Chord Box\)")
 

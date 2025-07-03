@@ -1,3 +1,7 @@
+Navigation : [Previous](MaquetteValue "page précédente\(Sub
+Maquettes\)") | [Next](Editor "Next\(The Maquette
+Editor\)")
+
 
 # Instances
 
@@ -55,7 +59,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MaquetteValue "page précédente\(Sub
-Maquettes\)") | [page suivante](Editor "page suivante\(The Maquette
+Navigation : [Previous](MaquetteValue "page précédente\(Sub
+Maquettes\)") | [Next](Editor "Next\(The Maquette
 Editor\)")
 

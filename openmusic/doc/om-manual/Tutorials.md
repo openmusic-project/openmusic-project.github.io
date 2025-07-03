@@ -1,4 +1,8 @@
 
+Navigation : [Previous](UserLibraries "page précédente\(Extra
+Libraries\)") | [Next](resources "Next\(Resources\)")
+
+
 The OM application and libraries generally come with a set of example patches
 and tutorial allowing to get into different aspects and features of the
 compositional environment.
@@ -54,6 +58,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](UserLibraries "page précédente\(Extra
-Libraries\)") | [page suivante](resources "page suivante\(Resources\)")
+Navigation : [Previous](UserLibraries "page précédente\(Extra
+Libraries\)") | [Next](resources "Next\(Resources\)")
 

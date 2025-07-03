@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsBoxesIntro "page
+précédente\(Abstraction Boxes\)") | [Next](BoxInputs "page
+suivante\(Box Inputs\)")
+
 
 # Other Boxes
 
@@ -70,7 +74,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsBoxesIntro "page
-précédente\(Abstraction Boxes\)") | [page suivante](BoxInputs "page
+Navigation : [Previous](AbsBoxesIntro "page
+précédente\(Abstraction Boxes\)") | [Next](BoxInputs "page
 suivante\(Box Inputs\)")
 

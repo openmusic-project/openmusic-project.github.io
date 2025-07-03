@@ -1,3 +1,7 @@
+Navigation : [Previous](1-Play "page précédente\(Playback and
+Players\)") | [Next](4-ImportExport "page
+suivante\(Import/Export\)")
+
 
 # Editors
 
@@ -150,7 +154,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](1-Play "page précédente\(Playback and
-Players\)") | [page suivante](4-ImportExport "page
+Navigation : [Previous](1-Play "page précédente\(Playback and
+Players\)") | [Next](4-ImportExport "page
 suivante\(Import/Export\)")
 

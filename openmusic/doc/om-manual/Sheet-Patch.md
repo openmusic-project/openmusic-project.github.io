@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Sheet-Box "page précédente\(Sheet Box\)")
+| [Next](MIDI "Next\(MIDI\)")
+
+
 In addition to their musical contents, OMSheets embed some programmatic
 aspects materialized as a list of internal patches.
 
@@ -111,6 +115,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sheet-Box "page précédente\(Sheet Box\)")
-| [page suivante](MIDI "page suivante\(MIDI\)")
+Navigation : [Previous](Sheet-Box "page précédente\(Sheet Box\)")
+| [Next](MIDI "Next\(MIDI\)")
 

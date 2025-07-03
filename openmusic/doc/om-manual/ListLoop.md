@@ -1,3 +1,7 @@
+Navigation : [Previous](LoopIterators "page
+précédente\(Iterators\)") | [Next](OnListLoop "page
+suivante\(OnList Loop\)")
+
 
 # ListLoop : Enumerating the Elements of a List
 
@@ -171,7 +175,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopIterators "page
-précédente\(Iterators\)") | [page suivante](OnListLoop "page
+Navigation : [Previous](LoopIterators "page
+précédente\(Iterators\)") | [Next](OnListLoop "page
 suivante\(OnList Loop\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Sound "page précédente\(Sound Object\)") |
+[Next](AudioPlayer "Next\(Audio Player\)")
+
+
 Double click on an initialized sound box to open its sound editor.
 
 ![](../res/soundeditor.png)
@@ -125,6 +129,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sound "page précédente\(Sound Object\)") |
-[page suivante](AudioPlayer "page suivante\(Audio Player\)")
+Navigation : [Previous](Sound "page précédente\(Sound Object\)") |
+[Next](AudioPlayer "Next\(Audio Player\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](RecursiveTree "page précédente\(Recursive
+Trees\)") | [Next](LockMode "Next\(Lock Mode\)")
+
+
 "Evaluation" refers to two different concepts :
 
   * The **user-evaluation** , which is triggered **by the user via the interface**  :
@@ -77,6 +81,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RecursiveTree "page précédente\(Recursive
-Trees\)") | [page suivante](LockMode "page suivante\(Lock Mode\)")
+Navigation : [Previous](RecursiveTree "page précédente\(Recursive
+Trees\)") | [Next](LockMode "Next\(Lock Mode\)")
 

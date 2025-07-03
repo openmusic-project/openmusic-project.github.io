@@ -1,3 +1,7 @@
+Navigation : [Previous](02-SupportAndPubs "page
+précédente\(Additional Information\)") | [Next](Installation
+"Next\(System Configuration and Installation\)")
+
 # Frequently Asked Questions - for Beginners
 
 Questions are presented via a thematic and elementary index to get onto this
@@ -307,7 +311,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](02-SupportAndPubs "page
-précédente\(Additional Information\)") | [page suivante](Installation
-"page suivante\(System Configuration and Installation\)")
+Navigation : [Previous](02-SupportAndPubs "page
+précédente\(Additional Information\)") | [Next](Installation
+"Next\(System Configuration and Installation\)")
 

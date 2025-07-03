@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Export "page précédente\(Export\)") |
+[Next](Maquettes "Next\(Maquettes\)")
+
 # Import
 
 Importing OM musical objects from external files can be done from the boxes'
@@ -133,6 +137,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Export "page précédente\(Export\)") |
-[page suivante](Maquettes "page suivante\(Maquettes\)")
+Navigation : [Previous](Export "page précédente\(Export\)") |
+[Next](Maquettes "Next\(Maquettes\)")
 

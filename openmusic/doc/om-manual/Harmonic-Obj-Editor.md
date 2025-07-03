@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Editor-Basics "page précédente\(Basic
+Editing\)") | [Next](Editor-Pitch "Next\(Pitches\)")
+
 # Harmonic Objects : Note, Chord and Chord-Seq Editors
 
 Notes ,  chords and  chord-seqs  constitute a hierarchy, whose note objects
@@ -48,6 +52,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Basics "page précédente\(Basic
-Editing\)") | [page suivante](Editor-Pitch "page suivante\(Pitches\)")
+Navigation : [Previous](Editor-Basics "page précédente\(Basic
+Editing\)") | [Next](Editor-Pitch "Next\(Pitches\)")
 

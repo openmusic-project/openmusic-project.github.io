@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Library "page précédente\(Library\)") |
+[Next](UserLibraries "Next\(Extra Libraries\)")
+
+
 Sommaire
 
   1. Packages of the Library Window
@@ -220,6 +224,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Library "page précédente\(Library\)") |
-[page suivante](UserLibraries "page suivante\(Extra Libraries\)")
+Navigation : [Previous](Library "page précédente\(Library\)") |
+[Next](UserLibraries "Next\(Extra Libraries\)")
 

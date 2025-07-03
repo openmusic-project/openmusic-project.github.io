@@ -1,3 +1,7 @@
+Navigation : [Previous](ConditionalOps "page
+précédente\(Conditional Operators\)") | [Next](Conditional "page
+suivante\(Conditional\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # OMif : If, Then, Else
@@ -110,7 +114,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ConditionalOps "page
-précédente\(Conditional Operators\)") | [page suivante](Conditional "page
+Navigation : [Previous](ConditionalOps "page
+précédente\(Conditional Operators\)") | [Next](Conditional "page
 suivante\(Conditional\)")
 

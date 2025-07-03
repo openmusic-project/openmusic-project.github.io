@@ -1,3 +1,7 @@
+
+Navigation : [Previous](RT "page précédente\(Rhythm Trees\)") |
+[Next](RT2 "Next\(Notation : in Practice\)")
+
 # Rhythm Trees Structure
 
 Traditionally, rhythm is broken up into several data : meter, measure(s) and
@@ -159,6 +163,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RT "page précédente\(Rhythm Trees\)") |
-[page suivante](RT2 "page suivante\(Notation : in Practice\)")
+Navigation : [Previous](RT "page précédente\(Rhythm Trees\)") |
+[Next](RT2 "Next\(Notation : in Practice\)")
 

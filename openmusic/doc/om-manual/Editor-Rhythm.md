@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Other-Slots "page précédente\(Other
+Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic
+Objects\)")
+
 
 # Rhythmic Objects : Voice Editor
 
@@ -233,7 +237,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Other-Slots "page précédente\(Other
-Slots\)") | [page suivante](Poly-Multi-Editor "page suivante\(Polyphonic
+Navigation : [Previous](Editor-Other-Slots "page précédente\(Other
+Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic
 Objects\)")
 

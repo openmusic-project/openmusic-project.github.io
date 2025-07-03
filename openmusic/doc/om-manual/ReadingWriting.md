@@ -1,3 +1,7 @@
+Navigation : [Previous](FileBoxIntro "page
+précédente\(Introduction\)") | [Next](FileBoxIterations "page
+suivante\(Designing Iterations\)")
+
 
 # Reading and Writing Files
 
@@ -174,7 +178,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](FileBoxIntro "page
-précédente\(Introduction\)") | [page suivante](FileBoxIterations "page
+Navigation : [Previous](FileBoxIntro "page
+précédente\(Introduction\)") | [Next](FileBoxIterations "page
 suivante\(Designing Iterations\)")
 

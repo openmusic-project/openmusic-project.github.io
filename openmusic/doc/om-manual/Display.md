@@ -1,3 +1,7 @@
+Navigation : [Previous](Edition "page précédente\(Edition
+Basics\)") | [Next](BPFLibEditors "Next\(BPF-Lib / BPC-
+Lib Editors\)")
+
 
 # Display Options
 
@@ -198,7 +202,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Edition "page précédente\(Edition
-Basics\)") | [page suivante](BPFLibEditors "page suivante\(BPF-Lib / BPC-
+Navigation : [Previous](Edition "page précédente\(Edition
+Basics\)") | [Next](BPFLibEditors "Next\(BPF-Lib / BPC-
 Lib Editors\)")
 

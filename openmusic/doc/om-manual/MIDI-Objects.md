@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Record%20MIDI "page précédente\(Recording
+/ MIDI In\)") | [Next](MIDIFile "Next\(MIDI File\)")
+
+
 MIDI events and data can be materialized and manipulated in OM patches using
 the library of MIDI objects.
 
@@ -32,6 +36,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Record%20MIDI "page précédente\(Recording
-/ MIDI In\)") | [page suivante](MIDIFile "page suivante\(MIDI File\)")
+Navigation : [Previous](Record%20MIDI "page précédente\(Recording
+/ MIDI In\)") | [Next](MIDIFile "Next\(MIDI File\)")
 

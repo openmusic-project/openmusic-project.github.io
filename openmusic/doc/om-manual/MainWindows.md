@@ -1,3 +1,7 @@
+Navigation : [Previous](Environment "page précédente\(The OM
+Environment\)") | [Next](Preferences "page
+suivante\(Preferences\)")
+
 # Windows of the OM Environment
 
 Sommaire
@@ -155,7 +159,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Environment "page précédente\(The OM
-Environment\)") | [page suivante](Preferences "page
+Navigation : [Previous](Environment "page précédente\(The OM
+Environment\)") | [Next](Preferences "page
 suivante\(Preferences\)")
 

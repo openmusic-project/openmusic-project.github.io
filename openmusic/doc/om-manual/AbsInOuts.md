@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsApplication "page
+précédente\(Application\)") | [Next](AbsInputBoxes "page
+suivante\(Input Boxes\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Inputs / Outputs
@@ -183,7 +187,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsApplication "page
-précédente\(Application\)") | [page suivante](AbsInputBoxes "page
+Navigation : [Previous](AbsApplication "page
+précédente\(Application\)") | [Next](AbsInputBoxes "page
 suivante\(Input Boxes\)")
 

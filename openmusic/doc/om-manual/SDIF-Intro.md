@@ -1,4 +1,8 @@
 
+Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [page
+suivante](SDIFFile "Next\(SDIFFile\)")
+
+
 Sommaire
 
   1. SDIF Frames and Streams
@@ -257,6 +261,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIF "page précédente\(SDIF\)") | [page
-suivante](SDIFFile "page suivante\(SDIFFile\)")
+Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [page
+suivante](SDIFFile "Next\(SDIFFile\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [page
+suivante](Sheet-Box "Next\(Sheet Box\)")
+
+
 Sommaire
 
   1. Creating Sheet Contents
@@ -263,6 +267,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sheet "page précédente\(Sheet\)") | [page
-suivante](Sheet-Box "page suivante\(Sheet Box\)")
+Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [page
+suivante](Sheet-Box "Next\(Sheet Box\)")
 

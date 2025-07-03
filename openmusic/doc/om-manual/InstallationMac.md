@@ -1,3 +1,7 @@
+Navigation : [Previous](Installation "page précédente\(System
+Configuration and Installation\)") | [Next](InstallationWindows
+"Next\(Windows\)")
+
 # Mac OS X
 
 Sommaire
@@ -136,7 +140,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Installation "page précédente\(System
-Configuration and Installation\)") | [page suivante](InstallationWindows
-"page suivante\(Windows\)")
+Navigation : [Previous](Installation "page précédente\(System
+Configuration and Installation\)") | [Next](InstallationWindows
+"Next\(Windows\)")
 

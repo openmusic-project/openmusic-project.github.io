@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Controls "page précédente\(MIDI
+Player Controls\)") | [Next](MIDI-Ports "Next\(Managing
+MIDI Ports\)")
+
 
 # MIDI Selection Tools
 
@@ -117,7 +121,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Controls "page précédente\(MIDI
-Player Controls\)") | [page suivante](MIDI-Ports "page suivante\(Managing
+Navigation : [Previous](MIDI-Controls "page précédente\(MIDI
+Player Controls\)") | [Next](MIDI-Ports "Next\(Managing
 MIDI Ports\)")
 

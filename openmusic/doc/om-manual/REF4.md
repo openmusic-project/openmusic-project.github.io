@@ -1,4 +1,8 @@
 
+Navigation : [Previous](REF3 "page précédente\(Accessing Boxes\)")
+| [Next](REF5 "Next\(Interaction \(1\)\)")
+
+
 # Removing TemporalBoxes from a Patch :
 
 ## Removealltemporalboxes / Removetemporalboxes :
@@ -170,6 +174,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](REF3 "page précédente\(Accessing Boxes\)")
-| [page suivante](REF5 "page suivante\(Interaction \(1\)\)")
+Navigation : [Previous](REF3 "page précédente\(Accessing Boxes\)")
+| [Next](REF5 "Next\(Interaction \(1\)\)")
 

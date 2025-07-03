@@ -1,3 +1,7 @@
+Navigation : [Previous](InterfaceExample "page
+précédente\(Examples of Use\)") | [Next](Pathnames "page
+suivante\(Pathnames\)")
+
 # Reading/Writing Files
 
 Files are often required to allow communication between programs, or to
@@ -38,7 +42,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InterfaceExample "page
-précédente\(Examples of Use\)") | [page suivante](Pathnames "page
+Navigation : [Previous](InterfaceExample "page
+précédente\(Examples of Use\)") | [Next](Pathnames "page
 suivante\(Pathnames\)")
 

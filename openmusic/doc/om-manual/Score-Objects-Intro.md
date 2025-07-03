@@ -1,3 +1,7 @@
+Navigation : [Previous](ScoreObjects "page précédente\(Score
+Objects\)") | [Next](Note-Chord-Chord-seq "page
+suivante\(Harmonic Objects\)")
+
 # Score Objects Presentation
 
 Sommaire
@@ -184,7 +188,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ScoreObjects "page précédente\(Score
-Objects\)") | [page suivante](Note-Chord-Chord-seq "page
+Navigation : [Previous](ScoreObjects "page précédente\(Score
+Objects\)") | [Next](Note-Chord-Chord-seq "page
 suivante\(Harmonic Objects\)")
 

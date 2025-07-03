@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Display "page précédente\(Display\)") |
+[Next](Tools "Next\(BPF / BPC Tools\)")
+
+
 # BPF-Lib / BPC-Lib Editors
 
 [](BPFEditors)All the information provided in the [ BPF and BPC
@@ -114,6 +118,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Display "page précédente\(Display\)") |
-[page suivante](Tools "page suivante\(BPF / BPC Tools\)")
+Navigation : [Previous](Display "page précédente\(Display\)") |
+[Next](Tools "Next\(BPF / BPC Tools\)")
 

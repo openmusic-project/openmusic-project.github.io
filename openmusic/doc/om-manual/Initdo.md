@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Eachtime "page précédente\(EachTime\)") |
+[Next](LoopIterators "Next\(Iterators\)")
+
 # Prior Evaluation(s) : Initdo
 
 ![](../res/finally_icon.png) This evaluator can execute one or several
@@ -93,6 +97,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Eachtime "page précédente\(EachTime\)") |
-[page suivante](LoopIterators "page suivante\(Iterators\)")
+Navigation : [Previous](Eachtime "page précédente\(EachTime\)") |
+[Next](LoopIterators "Next\(Iterators\)")
 

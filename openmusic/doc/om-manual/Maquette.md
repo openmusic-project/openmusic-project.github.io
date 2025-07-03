@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
+| [Next](TemporalBoxes "Next\(TemporalBoxes\)")
+
+
 Sommaire
 
   1. General Features
@@ -189,6 +193,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Maquettes "page précédente\(Maquettes\)")
-| [page suivante](TemporalBoxes "page suivante\(TemporalBoxes\)")
+Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
+| [Next](TemporalBoxes "Next\(TemporalBoxes\)")
 

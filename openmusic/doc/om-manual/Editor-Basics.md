@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Display "page précédente\(Score
+Display\)") | [Next](Harmonic-Obj-Editor "page
+suivante\(Harmonic Objects\)")
+
 
 # Basic Editing
 
@@ -200,7 +204,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Display "page précédente\(Score
-Display\)") | [page suivante](Harmonic-Obj-Editor "page
+Navigation : [Previous](Editor-Display "page précédente\(Score
+Display\)") | [Next](Harmonic-Obj-Editor "page
 suivante\(Harmonic Objects\)")
 

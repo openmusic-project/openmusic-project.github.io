@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Acum "page précédente\(Acum\)") | [page
+suivante](Instances "Next\(Instances\)")
+
 # A Basic Example : Building a Random Series
 
 We will build a random series of fifteen notes withing a range of 5000 and
@@ -114,6 +118,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Acum "page précédente\(Acum\)") | [page
-suivante](Instances "page suivante\(Instances\)")
+Navigation : [Previous](Acum "page précédente\(Acum\)") | [page
+suivante](Instances "Next\(Instances\)")
 

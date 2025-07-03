@@ -1,3 +1,7 @@
+Navigation : [Previous](QuittingSaving "page précédente\(Quitting
+OM and Saving\)") | [Next](MainWindows "page
+suivante\(Environment Windows\)")
+
 # The OM Environment
 
 This volume documents the OpenMusic environment general features. All required
@@ -33,7 +37,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](QuittingSaving "page précédente\(Quitting
-OM and Saving\)") | [page suivante](MainWindows "page
+Navigation : [Previous](QuittingSaving "page précédente\(Quitting
+OM and Saving\)") | [Next](MainWindows "page
 suivante\(Environment Windows\)")
 

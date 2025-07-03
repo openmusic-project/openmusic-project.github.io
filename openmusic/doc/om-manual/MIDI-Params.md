@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Playback "page précédente\(Rendering
+and Playback\)") | [Next](MIDI-Controls "Next\(MIDI
+Player Controls\)")
+
 
 # MIDI Parameters in OM Score Objects
 
@@ -117,7 +121,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Playback "page précédente\(Rendering
-and Playback\)") | [page suivante](MIDI-Controls "page suivante\(MIDI
+Navigation : [Previous](MIDI-Playback "page précédente\(Rendering
+and Playback\)") | [Next](MIDI-Controls "Next\(MIDI
 Player Controls\)")
 

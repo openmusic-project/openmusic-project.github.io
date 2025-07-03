@@ -1,3 +1,7 @@
+Navigation : [Previous](Grid%20and%20Rulers "page
+précédente\(Rulers and Grid\)") | [Next](Markers "page
+suivante\(Markers / Anchors\)")
+
 
 # The Palette
 
@@ -184,7 +188,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Grid%20and%20Rulers "page
-précédente\(Rulers and Grid\)") | [page suivante](Markers "page
+Navigation : [Previous](Grid%20and%20Rulers "page
+précédente\(Rulers and Grid\)") | [Next](Markers "page
 suivante\(Markers / Anchors\)")
 

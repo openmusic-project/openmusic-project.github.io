@@ -1,4 +1,8 @@
 
+Navigation : [Previous](MIDIFile "page précédente\(MIDI File\)") |
+[Next](MIDIContainer "Next\(MIDI Containers\)")
+
+
 All OM score and MIDI objects can be traduced (with more or less precision or
 data loss) into a list of time-tagged MIDI events.
 
@@ -179,6 +183,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDIFile "page précédente\(MIDI File\)") |
-[page suivante](MIDIContainer "page suivante\(MIDI Containers\)")
+Navigation : [Previous](MIDIFile "page précédente\(MIDI File\)") |
+[Next](MIDIContainer "Next\(MIDI Containers\)")
 

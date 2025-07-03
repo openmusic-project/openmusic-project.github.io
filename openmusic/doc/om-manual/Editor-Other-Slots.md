@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Editor-Pitch "page précédente\(Pitches\)")
+| [Next](Editor-Rhythm "Next\(Rhythmic Objects\)")
+
 # Editing Other Slots
 
 ## Displaying Modes
@@ -153,6 +157,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Pitch "page précédente\(Pitches\)")
-| [page suivante](Editor-Rhythm "page suivante\(Rhythmic Objects\)")
+Navigation : [Previous](Editor-Pitch "page précédente\(Pitches\)")
+| [Next](Editor-Rhythm "Next\(Rhythmic Objects\)")
 

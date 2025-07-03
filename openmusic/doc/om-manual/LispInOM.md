@@ -1,3 +1,7 @@
+Navigation : [Previous](LispListener "page précédente\(The
+Listener\)") | [Next](LispFunctions "Next\(Lisp
+Function Boxes\)")
+
 # Lisp Code in OM
 
 ## Use of User-Defined Lisp Functions in OM
@@ -169,7 +173,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispListener "page précédente\(The
-Listener\)") | [page suivante](LispFunctions "page suivante\(Lisp
+Navigation : [Previous](LispListener "page précédente\(The
+Listener\)") | [Next](LispFunctions "Next\(Lisp
 Function Boxes\)")
 

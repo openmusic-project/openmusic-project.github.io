@@ -1,3 +1,7 @@
+Navigation : [Previous](EvalModes "page précédente\(Evaluation
+Modes\)") | [Next](EvOnceMode "Next\(Evaluate-Once
+Mode\)")
+
 
 # Lock Mode
 
@@ -89,7 +93,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](EvalModes "page précédente\(Evaluation
-Modes\)") | [page suivante](EvOnceMode "page suivante\(Evaluate-Once
+Navigation : [Previous](EvalModes "page précédente\(Evaluation
+Modes\)") | [Next](EvOnceMode "Next\(Evaluate-Once
 Mode\)")
 

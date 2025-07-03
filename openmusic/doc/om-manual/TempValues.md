@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Appearance "page précédente\(Temporalboxes
+Appearance\)") | [Next](PatchValue "Next\(Patches\)")
+
 # TemporalBoxes Value
 
 Each box in the maquette has a value. This value can be a musical value and/or
@@ -38,6 +42,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Appearance "page précédente\(Temporalboxes
-Appearance\)") | [page suivante](PatchValue "page suivante\(Patches\)")
+Navigation : [Previous](Appearance "page précédente\(Temporalboxes
+Appearance\)") | [Next](PatchValue "Next\(Patches\)")
 

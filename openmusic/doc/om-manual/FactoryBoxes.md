@@ -1,3 +1,7 @@
+Navigation : [Previous](FunctionBoxes "page précédente\(Function
+Boxes\)") | [Next](1-Visualization "page
+suivante\(Visualization\)")
+
 
 # Objects - Factory Boxes
 
@@ -83,7 +87,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](FunctionBoxes "page précédente\(Function
-Boxes\)") | [page suivante](1-Visualization "page
+Navigation : [Previous](FunctionBoxes "page précédente\(Function
+Boxes\)") | [Next](1-Visualization "page
 suivante\(Visualization\)")
 

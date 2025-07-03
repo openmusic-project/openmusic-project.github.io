@@ -1,3 +1,7 @@
+Navigation : [Previous](Intro_1 "page précédente\(Summary\)") |
+[Next](2_progpatch "Next\(Programming a Simple
+Patch\)")
+
 # Starting a Session
 
 Covered Topics
@@ -51,7 +55,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](Intro_1 "page précédente\(Summary\)") |
-[page suivante](2_progpatch "page suivante\(Programming a Simple
+Navigation : [Previous](Intro_1 "page précédente\(Summary\)") |
+[Next](2_progpatch "Next\(Programming a Simple
 Patch\)")
 

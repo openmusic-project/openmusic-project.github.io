@@ -1,3 +1,7 @@
+Navigation : [Previous](Mapcar "page précédente\(Mapcar -
+Iterations\)") | [Next](LambdaTest "Next\(Test
+Functions\)")
+
 
 # Lambda Mode Examples: Lambda Patches
 
@@ -77,7 +81,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Mapcar "page précédente\(Mapcar -
-Iterations\)") | [page suivante](LambdaTest "page suivante\(Test
+Navigation : [Previous](Mapcar "page précédente\(Mapcar -
+Iterations\)") | [Next](LambdaTest "Next\(Test
 Functions\)")
 

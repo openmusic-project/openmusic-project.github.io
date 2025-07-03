@@ -1,3 +1,7 @@
+
+Navigation : [Previous](File-Box "page précédente\(File-Box\)") |
+[Next](ReadingWriting "Next\(Reading / Writing\)")
+
 # Introduction to the File-Box
 
 Programming with the File-Box takes place in an internal editor, which
@@ -144,6 +148,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](File-Box "page précédente\(File-Box\)") |
-[page suivante](ReadingWriting "page suivante\(Reading / Writing\)")
+Navigation : [Previous](File-Box "page précédente\(File-Box\)") |
+[Next](ReadingWriting "Next\(Reading / Writing\)")
 

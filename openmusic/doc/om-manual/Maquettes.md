@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Import "page précédente\(Import\)") |
+[Next](Maquette "Next\(Creating a Maquette\)")
+
+
 A maquette is an object, which represents both a  **musical "container[1]"**
 and a  **visual program** .
 
@@ -55,6 +59,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Import "page précédente\(Import\)") |
-[page suivante](Maquette "page suivante\(Creating a Maquette\)")
+Navigation : [Previous](Import "page précédente\(Import\)") |
+[Next](Maquette "Next\(Creating a Maquette\)")
 

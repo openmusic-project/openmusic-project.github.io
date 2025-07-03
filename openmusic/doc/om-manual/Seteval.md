@@ -1,3 +1,7 @@
+Navigation : [Previous](Synthpatchexample "page
+précédente\(Synthesis Patch Example\)") | [Next](TempProgramming
+"Next\(TempBoxes Programming\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Assigning a Synthesis Patch to a Maquette with the Set-Eval Function
@@ -93,7 +97,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Synthpatchexample "page
-précédente\(Synthesis Patch Example\)") | [page suivante](TempProgramming
-"page suivante\(TempBoxes Programming\)")
+Navigation : [Previous](Synthpatchexample "page
+précédente\(Synthesis Patch Example\)") | [Next](TempProgramming
+"Next\(TempBoxes Programming\)")
 

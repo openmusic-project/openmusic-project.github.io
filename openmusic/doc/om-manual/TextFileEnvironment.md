@@ -1,3 +1,7 @@
+
+Navigation : [Previous](TextFileEdition "page précédente\(TextFile
+Edition\)") | [Next](Picture "Next\(Picture\)")
+
 # TextFile and Outer Environment
 
 ## Importing / Exporting Contents
@@ -177,6 +181,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TextFileEdition "page précédente\(TextFile
-Edition\)") | [page suivante](Picture "page suivante\(Picture\)")
+Navigation : [Previous](TextFileEdition "page précédente\(TextFile
+Edition\)") | [Next](Picture "Next\(Picture\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](CurvesAndFunctions "page
+précédente\(Curves and Functions\)") | [Next](MultiBPF "page
+suivante\(BPF/BPC-Libs\)")
+
 
 # 2D Objects : BPF / BPC
 
@@ -156,7 +160,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](CurvesAndFunctions "page
-précédente\(Curves and Functions\)") | [page suivante](MultiBPF "page
+Navigation : [Previous](CurvesAndFunctions "page
+précédente\(Curves and Functions\)") | [Next](MultiBPF "page
 suivante\(BPF/BPC-Libs\)")
 

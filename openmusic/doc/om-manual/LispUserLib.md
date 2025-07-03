@@ -1,4 +1,8 @@
 
+Navigation : [Previous](LowLevel "page précédente\(Lisp Tools\)")
+| [Next](LispForOM "Next\(Writing Code for OM\)")
+
+
 See[](http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
 doc/userlibrary "http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
 doc/userlibrary \(nouvelle fenêtre\)")
@@ -38,6 +42,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LowLevel "page précédente\(Lisp Tools\)")
-| [page suivante](LispForOM "page suivante\(Writing Code for OM\)")
+Navigation : [Previous](LowLevel "page précédente\(Lisp Tools\)")
+| [Next](LispForOM "Next\(Writing Code for OM\)")
 

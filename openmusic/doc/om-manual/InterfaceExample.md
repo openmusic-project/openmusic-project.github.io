@@ -1,3 +1,7 @@
+
+Navigation : [Previous](MenuBoxes "page précédente\(Pop-Up Menu
+Box\)") | [Next](Files "Next\(Files\)")
+
 # Using the Interface Boxes : Example
 
 ## Building a Triad with an Item-List-Box, a Button-Box, and a Check Box
@@ -109,6 +113,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MenuBoxes "page précédente\(Pop-Up Menu
-Box\)") | [page suivante](Files "page suivante\(Files\)")
+Navigation : [Previous](MenuBoxes "page précédente\(Pop-Up Menu
+Box\)") | [Next](Files "Next\(Files\)")
 

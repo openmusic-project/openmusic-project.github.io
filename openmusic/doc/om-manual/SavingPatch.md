@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Pictures "page précédente\(Pictures\)") |
+[Next](DeadBox "Next\(Dead Boxes\)")
+
 # Saving / Reloading a Patch
 
 ## Saving
@@ -72,6 +76,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Pictures "page précédente\(Pictures\)") |
-[page suivante](DeadBox "page suivante\(Dead Boxes\)")
+Navigation : [Previous](Pictures "page précédente\(Pictures\)") |
+[Next](DeadBox "Next\(Dead Boxes\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](PictureBox "page précédente\(Picture
+Box\)") | [Next](ScoreObjects "Next\(Score Objects\)")
+
+
 The  **picture editor** allows to edit the contents of the picture object and
 to add figures or sketches.
 
@@ -185,6 +189,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PictureBox "page précédente\(Picture
-Box\)") | [page suivante](ScoreObjects "page suivante\(Score Objects\)")
+Navigation : [Previous](PictureBox "page précédente\(Picture
+Box\)") | [Next](ScoreObjects "Next\(Score Objects\)")
 

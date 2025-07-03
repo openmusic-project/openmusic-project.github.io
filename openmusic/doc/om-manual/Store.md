@@ -1,3 +1,7 @@
+
+Navigation : [Previous](SlotsBox "page précédente\(Slots\)") |
+[Next](InterfaceBoxes "Next\(Interface Boxes\)")
+
 # The Store Object
 
 The  ** store ** object is a **general-purpose object** , which is designed to
@@ -202,6 +206,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SlotsBox "page précédente\(Slots\)") |
-[page suivante](InterfaceBoxes "page suivante\(Interface Boxes\)")
+Navigation : [Previous](SlotsBox "page précédente\(Slots\)") |
+[Next](InterfaceBoxes "Next\(Interface Boxes\)")
 

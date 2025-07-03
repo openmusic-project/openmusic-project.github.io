@@ -1,3 +1,7 @@
+
+Navigation : [Previous](CheckBox "page précédente\(Check Box\)") |
+[Next](Button "Next\(Button\)")
+
 # Selection : List Boxes
 
 List selection boxes allow to select one or several items among a list, return
@@ -121,6 +125,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](CheckBox "page précédente\(Check Box\)") |
-[page suivante](Button "page suivante\(Button\)")
+Navigation : [Previous](CheckBox "page précédente\(Check Box\)") |
+[Next](Button "Next\(Button\)")
 

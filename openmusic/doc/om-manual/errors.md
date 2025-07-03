@@ -1,3 +1,7 @@
+Navigation : [Previous](LispForOM "page précédente\(Writing Code
+for OM\)") | [Next](QuickStart-Chapters "page
+suivante\(OpenMusic QuickStart\)")
+
 # Errors and Problems
 
 ## Warnings
@@ -81,7 +85,7 @@ Plan :
     * Errors and Problems
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispForOM "page précédente\(Writing Code
-for OM\)") | [page suivante](QuickStart-Chapters "page
+Navigation : [Previous](LispForOM "page précédente\(Writing Code
+for OM\)") | [Next](QuickStart-Chapters "page
 suivante\(OpenMusic QuickStart\)")
 

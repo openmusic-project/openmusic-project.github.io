@@ -1,4 +1,8 @@
 
+Navigation : [Previous](LambdaTest "page précédente\(Test
+Functions\)") | [Next](Predicates "Next\(Predicates\)")
+
+
 It is sometimes necessary or useful to be able to control the execution of a
 process. This can be done by
 
@@ -45,6 +49,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LambdaTest "page précédente\(Test
-Functions\)") | [page suivante](Predicates "page suivante\(Predicates\)")
+Navigation : [Previous](LambdaTest "page précédente\(Test
+Functions\)") | [Next](Predicates "Next\(Predicates\)")
 

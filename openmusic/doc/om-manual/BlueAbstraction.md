@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsBoxes "page précédente\(Abstraction
+Boxes\)") | [Next](RedAbstraction "Next\(Internal
+Abstractions\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Standard Abstraction
@@ -113,7 +117,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsBoxes "page précédente\(Abstraction
-Boxes\)") | [page suivante](RedAbstraction "page suivante\(Internal
+Navigation : [Previous](AbsBoxes "page précédente\(Abstraction
+Boxes\)") | [Next](RedAbstraction "Next\(Internal
 Abstractions\)")
 

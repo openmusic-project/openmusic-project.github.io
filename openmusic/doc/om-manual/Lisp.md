@@ -1,3 +1,7 @@
+Navigation : [Previous](SDIF-Write "page précédente\(Writing SDIF
+Files\)") | [Next](LispIntro "Next\(Introduction to
+Lisp\)")
+
 # Lisp Programming
 
 OpenMusic is a visual programming language entirely built on top of the
@@ -54,7 +58,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIF-Write "page précédente\(Writing SDIF
-Files\)") | [page suivante](LispIntro "page suivante\(Introduction to
+Navigation : [Previous](SDIF-Write "page précédente\(Writing SDIF
+Files\)") | [Next](LispIntro "Next\(Introduction to
 Lisp\)")
 

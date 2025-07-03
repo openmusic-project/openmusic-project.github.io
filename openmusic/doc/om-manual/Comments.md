@@ -1,4 +1,8 @@
 
+Navigation : [Previous](DocAndInfo "page précédente\(Documentation
+and Info\)") | [Next](Pictures "Next\(Pictures\)")
+
+
 Sommaire
 
   1. Creating a comment
@@ -181,6 +185,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](DocAndInfo "page précédente\(Documentation
-and Info\)") | [page suivante](Pictures "page suivante\(Pictures\)")
+Navigation : [Previous](DocAndInfo "page précédente\(Documentation
+and Info\)") | [Next](Pictures "Next\(Pictures\)")
 

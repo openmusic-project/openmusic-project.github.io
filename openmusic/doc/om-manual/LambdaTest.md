@@ -1,3 +1,7 @@
+Navigation : [Previous](LambdaPatch "page précédente\(Lambda
+Patches\)") | [Next](Control "Next\(Control
+Structures\)")
+
 
 # Lambda Mode Examples: Test Functions
 
@@ -147,7 +151,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LambdaPatch "page précédente\(Lambda
-Patches\)") | [page suivante](Control "page suivante\(Control
+Navigation : [Previous](LambdaPatch "page précédente\(Lambda
+Patches\)") | [Next](Control "Next\(Control
 Structures\)")
 

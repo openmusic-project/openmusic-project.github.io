@@ -1,3 +1,7 @@
+Navigation : [Previous](InstallationMac "page précédente\(Mac OS
+X\)") | [Next](Goingthrough "Next\(Going Through an OM
+Session\)")
+
 # Windows
 
 Sommaire
@@ -132,7 +136,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InstallationMac "page précédente\(Mac OS
-X\)") | [page suivante](Goingthrough "page suivante\(Going Through an OM
+Navigation : [Previous](InstallationMac "page précédente\(Mac OS
+X\)") | [Next](Goingthrough "Next\(Going Through an OM
 Session\)")
 

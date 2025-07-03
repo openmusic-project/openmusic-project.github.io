@@ -1,3 +1,7 @@
+Navigation : [Previous](LispIntro "page précédente\(Introduction
+to Lisp\)") | [Next](LispListener "Next\(The
+Listener\)")
+
 # Writing/Evaluating Lisp Code : The Lisp Editor
 
 ![](../res/LispEditor_1.png)
@@ -174,7 +178,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispIntro "page précédente\(Introduction
-to Lisp\)") | [page suivante](LispListener "page suivante\(The
+Navigation : [Previous](LispIntro "page précédente\(Introduction
+to Lisp\)") | [Next](LispListener "Next\(The
 Listener\)")
 

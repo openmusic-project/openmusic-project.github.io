@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Sheet-Patch "page précédente\(Sheet
+Patches\)") | [Next](Intro "Next\(Introduction\)")
+
+
 Sous-sections :
 
   * [Introduction](Intro)
@@ -33,6 +37,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Sheet-Patch "page précédente\(Sheet
-Patches\)") | [page suivante](Intro "page suivante\(Introduction\)")
+Navigation : [Previous](Sheet-Patch "page précédente\(Sheet
+Patches\)") | [Next](Intro "Next\(Introduction\)")
 

@@ -1,4 +1,8 @@
 
+Navigation : [Previous](resources "page précédente\(Resources\)")
+| [Next](ProgrammingIntro "Next\(Patch Introduction\)")
+
+
 This section describes how to add, modify and connect boxes within patches,
 access required information through the OM graphic interface. It also aims to
 answer practical problems that will necessarily be raised from the first steps
@@ -40,6 +44,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](resources "page précédente\(Resources\)")
-| [page suivante](ProgrammingIntro "page suivante\(Patch Introduction\)")
+Navigation : [Previous](resources "page précédente\(Resources\)")
+| [Next](ProgrammingIntro "Next\(Patch Introduction\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsInOuts "page précédente\(Inputs /
+Outputs\)") | [Next](Recursion "Next\(Recursive
+Patches\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Input Boxes
@@ -129,7 +133,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsInOuts "page précédente\(Inputs /
-Outputs\)") | [page suivante](Recursion "page suivante\(Recursive
+Navigation : [Previous](AbsInOuts "page précédente\(Inputs /
+Outputs\)") | [Next](Recursion "Next\(Recursive
 Patches\)")
 

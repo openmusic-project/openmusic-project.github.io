@@ -1,3 +1,7 @@
+Navigation : [Previous](ScorePlayer "page précédente\(Score
+Players\)") | [Next](Editor-Overview "page
+suivante\(Overview\)")
+
 # Score Editors
 
 Sous-sections :
@@ -54,7 +58,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ScorePlayer "page précédente\(Score
-Players\)") | [page suivante](Editor-Overview "page
+Navigation : [Previous](ScorePlayer "page précédente\(Score
+Players\)") | [Next](Editor-Overview "page
 suivante\(Overview\)")
 

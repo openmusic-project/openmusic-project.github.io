@@ -1,3 +1,7 @@
+Navigation : [Previous](Launching%20OM "page précédente\(Launching
+OM\)") | [Next](QuittingSaving "Next\(Quitting OM and
+Saving\)")
+
 # Workspace(s) Management
 
 A workspace has two functions :
@@ -190,7 +194,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Launching%20OM "page précédente\(Launching
-OM\)") | [page suivante](QuittingSaving "page suivante\(Quitting OM and
+Navigation : [Previous](Launching%20OM "page précédente\(Launching
+OM\)") | [Next](QuittingSaving "Next\(Quitting OM and
 Saving\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](OMLoop "page précédente\(Iterations:
+OMLoop\)") | [Next](LoopGeneral "Next\(General
+Features\)")
+
 
 # Iteration (Introduction)
 
@@ -75,7 +79,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OMLoop "page précédente\(Iterations:
-OMLoop\)") | [page suivante](LoopGeneral "page suivante\(General
+Navigation : [Previous](OMLoop "page précédente\(Iterations:
+OMLoop\)") | [Next](LoopGeneral "Next\(General
 Features\)")
 

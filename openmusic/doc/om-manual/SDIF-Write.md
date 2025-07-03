@@ -1,4 +1,8 @@
 
+Navigation : [Previous](SDIF-Classes "page précédente\(SDIF
+Classes\)") | [Next](Lisp "Next\(Lisp Programming\)")
+
+
 ## SDIF-Buffer
 
 The class **SDIF-BUFFER** allows to gather SDIF objects and makes the
@@ -89,6 +93,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIF-Classes "page précédente\(SDIF
-Classes\)") | [page suivante](Lisp "page suivante\(Lisp Programming\)")
+Navigation : [Previous](SDIF-Classes "page précédente\(SDIF
+Classes\)") | [Next](Lisp "Next\(Lisp Programming\)")
 

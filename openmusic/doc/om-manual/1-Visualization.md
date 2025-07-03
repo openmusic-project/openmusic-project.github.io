@@ -1,3 +1,7 @@
+Navigation : [Previous](FactoryBoxes "page précédente\(Objects –
+Factory Boxes\)") | [Next](2-Instanciation "page
+suivante\(Instantiating Objects\)")
+
 
 # Visualization
 
@@ -114,7 +118,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](FactoryBoxes "page précédente\(Objects –
-Factory Boxes\)") | [page suivante](2-Instanciation "page
+Navigation : [Previous](FactoryBoxes "page précédente\(Objects –
+Factory Boxes\)") | [Next](2-Instanciation "page
 suivante\(Instantiating Objects\)")
 

@@ -1,3 +1,7 @@
+
+Navigation : [Previous](MultiBPF "page précédente\(BPF/BPC-
+Libs\)") | [Next](Edition "Next\(Edition Basics\)")
+
 # BPFs and BPCs Editors
 
 BPFs and BPCs editors are globally similar with a few specificities. Out of
@@ -39,6 +43,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MultiBPF "page précédente\(BPF/BPC-
-Libs\)") | [page suivante](Edition "page suivante\(Edition Basics\)")
+Navigation : [Previous](MultiBPF "page précédente\(BPF/BPC-
+Libs\)") | [Next](Edition "Next\(Edition Basics\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](1-Visualization "page
+précédente\(Visualization\)") | [Next](1-Play "page
+suivante\(Playback and Players\)")
+
 
 # Instantiating Objects
 
@@ -254,7 +258,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](1-Visualization "page
-précédente\(Visualization\)") | [page suivante](1-Play "page
+Navigation : [Previous](1-Visualization "page
+précédente\(Visualization\)") | [Next](1-Play "page
 suivante\(Playback and Players\)")
 

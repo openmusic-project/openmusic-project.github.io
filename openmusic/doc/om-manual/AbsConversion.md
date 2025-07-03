@@ -1,4 +1,7 @@
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+Navigation : [Previous](RedAbstraction "page précédente\(Internal
+Abstractions\)") | [Next](AbsApplication "page
+suivante\(Application\)")
+
 
 # Conversions
 
@@ -75,7 +78,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RedAbstraction "page précédente\(Internal
-Abstractions\)") | [page suivante](AbsApplication "page
+Navigation : [Previous](RedAbstraction "page précédente\(Internal
+Abstractions\)") | [Next](AbsApplication "page
 suivante\(Application\)")
 

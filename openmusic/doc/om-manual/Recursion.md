@@ -1,3 +1,7 @@
+Navigation : [Previous](AbsInputBoxes "page précédente\(Input
+Boxes\)") | [Next](RecursivePatch "Next\(Recursion in
+OM\)")
+
 
 # Recursive Patches
 
@@ -116,7 +120,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AbsInputBoxes "page précédente\(Input
-Boxes\)") | [page suivante](RecursivePatch "page suivante\(Recursion in
+Navigation : [Previous](AbsInputBoxes "page précédente\(Input
+Boxes\)") | [Next](RecursivePatch "Next\(Recursion in
 OM\)")
 

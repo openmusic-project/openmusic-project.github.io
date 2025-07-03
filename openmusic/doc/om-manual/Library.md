@@ -1,4 +1,8 @@
 
+Navigation : [Previous](WS-ImportExport "page précédente\(Import /
+Export\)") | [Next](Packages "Next\(Packages\)")
+
+
 The Library window encloses the OM programming tools, which are organized in
 **packages** and  **sub packages** . They can be used in various OM documents.
 These tools are classes[1], functions[2] and methods[3], among which a number
@@ -69,6 +73,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](WS-ImportExport "page précédente\(Import /
-Export\)") | [page suivante](Packages "page suivante\(Packages\)")
+Navigation : [Previous](WS-ImportExport "page précédente\(Import /
+Export\)") | [Next](Packages "Next\(Packages\)")
 

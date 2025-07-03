@@ -1,3 +1,7 @@
+
+Navigation : [Previous](InstanceBoxes "page précédente\(Instance
+Boxes\)") | [Next](SlotsBox "Next\(Slots\)")
+
 # Global Variables
 
 Sommaire
@@ -188,6 +192,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InstanceBoxes "page précédente\(Instance
-Boxes\)") | [page suivante](SlotsBox "page suivante\(Slots\)")
+Navigation : [Previous](InstanceBoxes "page précédente\(Instance
+Boxes\)") | [Next](SlotsBox "Next\(Slots\)")
 

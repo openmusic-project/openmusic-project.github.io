@@ -1,3 +1,7 @@
+Navigation : [Previous](Maquette "page précédente\(Creating a
+Maquette\)") | [Next](AddingTempbox "Next\(Adding
+TemporalBoxes\)")
+
 # TemporalBoxes
 
 The boxes used within maquettes are called  **TemporalBoxes** .
@@ -82,7 +86,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Maquette "page précédente\(Creating a
-Maquette\)") | [page suivante](AddingTempbox "page suivante\(Adding
+Navigation : [Previous](Maquette "page précédente\(Creating a
+Maquette\)") | [Next](AddingTempbox "Next\(Adding
 TemporalBoxes\)")
 

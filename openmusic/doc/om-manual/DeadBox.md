@@ -1,3 +1,7 @@
+Navigation : [Previous](SavingPatch "page précédente\(Saving /
+Reloading a Patch\)") | [Next](AdvancedVisualProgramming "page
+suivante\(Visual Programming II\)")
+
 # Missing References : Dead Boxes
 
 An item used in a patch may sometimes be missing. ** Dead boxes **
@@ -87,7 +91,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SavingPatch "page précédente\(Saving /
-Reloading a Patch\)") | [page suivante](AdvancedVisualProgramming "page
+Navigation : [Previous](SavingPatch "page précédente\(Saving /
+Reloading a Patch\)") | [Next](AdvancedVisualProgramming "page
 suivante\(Visual Programming II\)")
 

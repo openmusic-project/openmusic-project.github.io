@@ -1,4 +1,8 @@
 
+Navigation : [Previous](Picture "page précédente\(Picture\)") |
+[Next](PictureEditor "Next\(Picture Editor\)")
+
+
 Sommaire
 
   1. Initializing the Picture Box
@@ -246,6 +250,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Picture "page précédente\(Picture\)") |
-[page suivante](PictureEditor "page suivante\(Picture Editor\)")
+Navigation : [Previous](Picture "page précédente\(Picture\)") |
+[Next](PictureEditor "Next\(Picture Editor\)")
 

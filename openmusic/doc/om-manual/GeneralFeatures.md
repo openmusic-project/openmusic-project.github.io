@@ -1,3 +1,7 @@
+
+Navigation : [Previous](InterfaceBoxes "page précédente\(Interface
+Boxes\)") | [Next](TextBoxes "Next\(Text Boxes\)")
+
 # General Features
 
 To access dialog Items, go to `Classes / Kernel / Interface Boxes /` in the OM
@@ -116,6 +120,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InterfaceBoxes "page précédente\(Interface
-Boxes\)") | [page suivante](TextBoxes "page suivante\(Text Boxes\)")
+Navigation : [Previous](InterfaceBoxes "page précédente\(Interface
+Boxes\)") | [Next](TextBoxes "Next\(Text Boxes\)")
 

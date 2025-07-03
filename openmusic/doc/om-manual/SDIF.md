@@ -1,3 +1,7 @@
+Navigation : [Previous](SoundPreferences "page précédente\(Audio
+Preferences\)") | [Next](SDIF-Intro "Next\(Introduction
+to SDIF\)")
+
 # SDIF
 
 SDIF (Sound Description Interchange Format) is an open standard format for the
@@ -45,7 +49,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SoundPreferences "page précédente\(Audio
-Preferences\)") | [page suivante](SDIF-Intro "page suivante\(Introduction
+Navigation : [Previous](SoundPreferences "page précédente\(Audio
+Preferences\)") | [Next](SDIF-Intro "Next\(Introduction
 to SDIF\)")
 

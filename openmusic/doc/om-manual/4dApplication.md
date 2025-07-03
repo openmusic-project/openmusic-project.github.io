@@ -1,3 +1,7 @@
+Navigation : [Previous](4cApplication "page
+précédente\(Formalizing a Process\)") | [Next](5_CompletEdition
+"Next\(Manipulating and Visualizing Objects\)")
+
 
 # Materializing Results
 
@@ -32,7 +36,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](4cApplication "page
-précédente\(Formalizing a Process\)") | [page suivante](5_CompletEdition
-"page suivante\(Manipulating and Visualizing Objects\)")
+Navigation : [Previous](4cApplication "page
+précédente\(Formalizing a Process\)") | [Next](5_CompletEdition
+"Next\(Manipulating and Visualizing Objects\)")
 

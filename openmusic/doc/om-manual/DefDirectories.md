@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Pathnames "page précédente\(Pathnames\)")
+| [Next](File-Box "Next\(File-Box\)")
+
 # Default Directories
 
 Default directories can be used for the storage of external input, output and
@@ -96,6 +100,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Pathnames "page précédente\(Pathnames\)")
-| [page suivante](File-Box "page suivante\(File-Box\)")
+Navigation : [Previous](Pathnames "page précédente\(Pathnames\)")
+| [Next](File-Box "Next\(File-Box\)")
 

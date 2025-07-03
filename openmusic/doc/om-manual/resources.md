@@ -1,3 +1,7 @@
+Navigation : [Previous](Tutorials "page précédente\(Tutorials\)")
+| [Next](BasicVisualProgramming "Next\(Visual
+Programming I\)")
+
 # Resources
 
 Resources are images or icons dedicated to the visual interface of OM. The
@@ -142,7 +146,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Tutorials "page précédente\(Tutorials\)")
-| [page suivante](BasicVisualProgramming "page suivante\(Visual
+Navigation : [Previous](Tutorials "page précédente\(Tutorials\)")
+| [Next](BasicVisualProgramming "Next\(Visual
 Programming I\)")
 

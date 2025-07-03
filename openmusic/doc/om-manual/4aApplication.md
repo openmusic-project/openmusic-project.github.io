@@ -1,3 +1,7 @@
+Navigation : [Previous](4_MusicalAp "page précédente\(A Musical
+Application\)") | [Next](4bApplication "Next\(Creating
+an Instance\)")
+
 
 # The Chord Object - & Musical Objects in General -
 
@@ -87,7 +91,7 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](4_MusicalAp "page précédente\(A Musical
-Application\)") | [page suivante](4bApplication "page suivante\(Creating
+Navigation : [Previous](4_MusicalAp "page précédente\(A Musical
+Application\)") | [Next](4bApplication "Next\(Creating
 an Instance\)")
 

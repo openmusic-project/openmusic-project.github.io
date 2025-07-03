@@ -1,3 +1,7 @@
+
+Navigation : [Previous](ImportExport "page précédente\(Export /
+Import\)") | [Next](Import "Next\(Import\)")
+
 # Export
 
 Exporting OM score objects as external files can be done from the boxes'
@@ -92,6 +96,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ImportExport "page précédente\(Export /
-Import\)") | [page suivante](Import "page suivante\(Import\)")
+Navigation : [Previous](ImportExport "page précédente\(Export /
+Import\)") | [Next](Import "Next\(Import\)")
 

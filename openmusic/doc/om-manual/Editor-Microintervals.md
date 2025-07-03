@@ -1,3 +1,7 @@
+Navigation : [Previous](Editor-Tonality "page précédente\(Tonal
+Display\)") | [Next](Editor-Play "Next\(Play
+Controls\)")
+
 
 # Microintervals Notation
 
@@ -128,7 +132,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Editor-Tonality "page précédente\(Tonal
-Display\)") | [page suivante](Editor-Play "page suivante\(Play
+Navigation : [Previous](Editor-Tonality "page précédente\(Tonal
+Display\)") | [Next](Editor-Play "Next\(Play
 Controls\)")
 

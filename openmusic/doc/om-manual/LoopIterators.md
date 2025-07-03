@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Initdo "page précédente\(Initdo\)") |
+[Next](ListLoop "Next\(List Loop\)")
+
 # Iterators
 
 ## Function
@@ -93,6 +97,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Initdo "page précédente\(Initdo\)") |
-[page suivante](ListLoop "page suivante\(List Loop\)")
+Navigation : [Previous](Initdo "page précédente\(Initdo\)") |
+[Next](ListLoop "Next\(List Loop\)")
 

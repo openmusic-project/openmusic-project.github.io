@@ -1,3 +1,7 @@
+
+Navigation : [Previous](3-Editors "page précédente\(Editors\)") |
+[Next](AbsBoxesIntro "Next\(Abstraction Boxes\)")
+
 # Importing/Exporting Factory Box Values
 
 ## Instances Files
@@ -118,6 +122,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](3-Editors "page précédente\(Editors\)") |
-[page suivante](AbsBoxesIntro "page suivante\(Abstraction Boxes\)")
+Navigation : [Previous](3-Editors "page précédente\(Editors\)") |
+[Next](AbsBoxesIntro "Next\(Abstraction Boxes\)")
 

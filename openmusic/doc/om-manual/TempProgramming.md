@@ -1,3 +1,7 @@
+Navigation : [Previous](Seteval "page précédente\(Set-Eval
+Function\)") | [Next](SelfInputBox "Next\(The Self
+Input Box – Tempin\)")
+
 
 # Programming with TemporalBoxes
 
@@ -41,7 +45,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Seteval "page précédente\(Set-Eval
-Function\)") | [page suivante](SelfInputBox "page suivante\(The Self
+Navigation : [Previous](Seteval "page précédente\(Set-Eval
+Function\)") | [Next](SelfInputBox "Next\(The Self
 Input Box – Tempin\)")
 

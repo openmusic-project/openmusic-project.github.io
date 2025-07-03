@@ -1,3 +1,7 @@
+Navigation : [Previous](RefMode "page précédente\(Reference
+Mode\)") | [Next](Funcall "Next\(Using Functions as
+Data\)")
+
 
 # Higher-Order Programs and Functions
 
@@ -167,7 +171,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RefMode "page précédente\(Reference
-Mode\)") | [page suivante](Funcall "page suivante\(Using Functions as
+Navigation : [Previous](RefMode "page précédente\(Reference
+Mode\)") | [Next](Funcall "Next\(Using Functions as
 Data\)")
 

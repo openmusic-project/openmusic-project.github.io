@@ -1,3 +1,7 @@
+Navigation : [Previous](Score-Objects-Intro "page
+précédente\(Presentation\)") | [Next](RhythmicObjects "page
+suivante\(Rhythmic Objects\)")
+
 
 # Notes, Chords and Chord-Seqs
 
@@ -267,7 +271,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Score-Objects-Intro "page
-précédente\(Presentation\)") | [page suivante](RhythmicObjects "page
+Navigation : [Previous](Score-Objects-Intro "page
+précédente\(Presentation\)") | [Next](RhythmicObjects "page
 suivante\(Rhythmic Objects\)")
 

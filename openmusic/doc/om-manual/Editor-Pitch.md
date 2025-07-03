@@ -1,3 +1,7 @@
+Navigation : [Previous](Harmonic-Obj-Editor "page
+précédente\(Harmonic Objects\)") | [Next](Editor-Other-Slots
+"Next\(Other Slots\)")
+
 
 # Editing Pitches
 
@@ -213,7 +217,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Harmonic-Obj-Editor "page
-précédente\(Harmonic Objects\)") | [page suivante](Editor-Other-Slots
-"page suivante\(Other Slots\)")
+Navigation : [Previous](Harmonic-Obj-Editor "page
+précédente\(Harmonic Objects\)") | [Next](Editor-Other-Slots
+"Next\(Other Slots\)")
 

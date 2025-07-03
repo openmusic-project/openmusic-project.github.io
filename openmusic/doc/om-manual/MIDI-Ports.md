@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Utils "page précédente\(MIDI
+Selection Tools\)") | [Next](Microintervals "page
+suivante\(Microintervals\)")
+
 
 # Managing MIDI Ports
 
@@ -106,7 +110,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Utils "page précédente\(MIDI
-Selection Tools\)") | [page suivante](Microintervals "page
+Navigation : [Previous](MIDI-Utils "page précédente\(MIDI
+Selection Tools\)") | [Next](Microintervals "page
 suivante\(Microintervals\)")
 

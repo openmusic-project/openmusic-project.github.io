@@ -1,3 +1,7 @@
+Navigation : [Previous](5cComplete "page précédente\(Listening to
+Microintervals\)") | [Next](6_Quit "Next\(Saving and
+Quitting OM\)")
+
 
 # Comments
 
@@ -43,7 +47,7 @@ Plan :
       * Comments
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](5cComplete "page précédente\(Listening to
-Microintervals\)") | [page suivante](6_Quit "page suivante\(Saving and
+Navigation : [Previous](5cComplete "page précédente\(Listening to
+Microintervals\)") | [Next](6_Quit "Next\(Saving and
 Quitting OM\)")
 

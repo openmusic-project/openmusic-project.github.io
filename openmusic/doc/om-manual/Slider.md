@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Button "page précédente\(Button\)") |
+[Next](MenuBoxes "Next\(Pop-Up Menu Box\)")
+
 # Controlling Values : Slider Box
 
 Sommaire
@@ -143,6 +147,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Button "page précédente\(Button\)") |
-[page suivante](MenuBoxes "page suivante\(Pop-Up Menu Box\)")
+Navigation : [Previous](Button "page précédente\(Button\)") |
+[Next](MenuBoxes "Next\(Pop-Up Menu Box\)")
 

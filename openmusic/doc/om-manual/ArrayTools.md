@@ -1,3 +1,7 @@
+
+Navigation : [Previous](ArrayEditor "page précédente\(Class-Array
+Editor\)") | [Next](textfile "Next\(TextFile\)")
+
 # Class-Array Tools Overview
 
 The values of array components can be accessed and modified via specific
@@ -156,6 +160,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ArrayEditor "page précédente\(Class-Array
-Editor\)") | [page suivante](textfile "page suivante\(TextFile\)")
+Navigation : [Previous](ArrayEditor "page précédente\(Class-Array
+Editor\)") | [Next](textfile "Next\(TextFile\)")
 

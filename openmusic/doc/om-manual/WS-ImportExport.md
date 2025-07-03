@@ -1,3 +1,7 @@
+Navigation : [Previous](WS-Presentation "page
+précédente\(Presentation Options\)") | [Next](Library "page
+suivante\(Library\)")
+
 
 # Import / Export
 
@@ -154,7 +158,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](WS-Presentation "page
-précédente\(Presentation Options\)") | [page suivante](Library "page
+Navigation : [Previous](WS-Presentation "page
+précédente\(Presentation Options\)") | [Next](Library "page
 suivante\(Library\)")
 

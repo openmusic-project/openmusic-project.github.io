@@ -1,4 +1,8 @@
 
+Navigation : [Previous](LispInOM "page précédente\(Lisp Code in
+OM\)") | [Next](LowLevel "Next\(Lisp Tools\)")
+
+
 Writing a function or procedure in Lisp can be more convenient that the
 creation of a visual program. ** Lisp Function boxes ** are abstractions
 defined in Lisp textually. Like visual abstractions
@@ -146,6 +150,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispInOM "page précédente\(Lisp Code in
-OM\)") | [page suivante](LowLevel "page suivante\(Lisp Tools\)")
+Navigation : [Previous](LispInOM "page précédente\(Lisp Code in
+OM\)") | [Next](LowLevel "Next\(Lisp Tools\)")
 

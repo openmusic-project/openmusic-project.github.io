@@ -1,3 +1,7 @@
+Navigation : [Previous](RT1 "page précédente\(Rhythm Trees
+Structure\)") | [Next](ScorePlayer "Next\(Score
+Players\)")
+
 
 # Notation : in Practice
 
@@ -152,7 +156,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RT1 "page précédente\(Rhythm Trees
-Structure\)") | [page suivante](ScorePlayer "page suivante\(Score
+Navigation : [Previous](RT1 "page précédente\(Rhythm Trees
+Structure\)") | [Next](ScorePlayer "Next\(Score
 Players\)")
 

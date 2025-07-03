@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Instances "page précédente\(Instances\)")
+| [Next](GlobalVariables "Next\(Global Variables\)")
+
 # Instance Boxes
 
 An instance can be materialized out of any output of a factory box, provided
@@ -187,6 +191,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Instances "page précédente\(Instances\)")
-| [page suivante](GlobalVariables "page suivante\(Global Variables\)")
+Navigation : [Previous](Instances "page précédente\(Instances\)")
+| [Next](GlobalVariables "Next\(Global Variables\)")
 

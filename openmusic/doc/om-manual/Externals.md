@@ -1,3 +1,7 @@
+Navigation : [Previous](SoundRecording "page
+précédente\(Recording\)") | [Next](SoundPreferences "page
+suivante\(Audio Preferences\)")
+
 # External Libraries
 
 Advanced sound analysis, porcessing and synthesis tools are available in
@@ -143,7 +147,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SoundRecording "page
-précédente\(Recording\)") | [page suivante](SoundPreferences "page
+Navigation : [Previous](SoundRecording "page
+précédente\(Recording\)") | [Next](SoundPreferences "page
 suivante\(Audio Preferences\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](OM-User-Manual "page précédente\(OM 6.6
+User Manual\)") | [Next](01-Presentation "page
+suivante\(OpenMusic Presentation\)")
+
 # Introduction
 
 Sous-sections :
@@ -32,7 +36,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](OM-User-Manual "page précédente\(OM 6.6
-User Manual\)") | [page suivante](01-Presentation "page
+Navigation : [Previous](OM-User-Manual "page précédente\(OM 6.6
+User Manual\)") | [Next](01-Presentation "page
 suivante\(OpenMusic Presentation\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](AudioPlayer "page précédente\(Audio
+Player\)") | [Next](SoundProcessing "Next\(Sound
+Processing\)")
+
 # Sound Tools
 
 A few utility functions related to sound objects are accessible in the
@@ -60,7 +64,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AudioPlayer "page précédente\(Audio
-Player\)") | [page suivante](SoundProcessing "page suivante\(Sound
+Navigation : [Previous](AudioPlayer "page précédente\(Audio
+Player\)") | [Next](SoundProcessing "Next\(Sound
 Processing\)")
 

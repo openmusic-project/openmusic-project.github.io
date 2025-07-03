@@ -1,3 +1,7 @@
+Navigation : [Previous](RT2 "page précédente\(Notation : in
+Practice\)") | [Next](ScoreEditors "Next\(Score
+Editors\)")
+
 # Score Players
 
 OM mainly relies on the MidiShare libray for MIDI playback and rendering of
@@ -82,7 +86,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](RT2 "page précédente\(Notation : in
-Practice\)") | [page suivante](ScoreEditors "page suivante\(Score
+Navigation : [Previous](RT2 "page précédente\(Notation : in
+Practice\)") | [Next](ScoreEditors "Next\(Score
 Editors\)")
 

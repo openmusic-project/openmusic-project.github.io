@@ -1,3 +1,7 @@
+Navigation : [Previous](01-Presentation "page
+précédente\(OpenMusic Presentation\)") | [Next](03-FAQ "page
+suivante\(Elementary F.A.Q.\)")
+
 # Additional Supports and Publications
 
 Sommaire
@@ -80,7 +84,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](01-Presentation "page
-précédente\(OpenMusic Presentation\)") | [page suivante](03-FAQ "page
+Navigation : [Previous](01-Presentation "page
+précédente\(OpenMusic Presentation\)") | [Next](03-FAQ "page
 suivante\(Elementary F.A.Q.\)")
 

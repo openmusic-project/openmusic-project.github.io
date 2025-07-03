@@ -1,3 +1,7 @@
+
+Navigation : [Previous](BPFLibEditors "page précédente\(BPF-Lib /
+BPC-Lib Editors\)") | [Next](3D "Next\(3D Objects\)")
+
 # BPF and BPC Tools
 
 This section details a set of important concept and tools. Among these, a
@@ -175,6 +179,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BPFLibEditors "page précédente\(BPF-Lib /
-BPC-Lib Editors\)") | [page suivante](3D "page suivante\(3D Objects\)")
+Navigation : [Previous](BPFLibEditors "page précédente\(BPF-Lib /
+BPC-Lib Editors\)") | [Next](3D "Next\(3D Objects\)")
 

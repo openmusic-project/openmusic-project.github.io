@@ -1,3 +1,7 @@
+Navigation : [Previous](00-Sommaire "page
+précédente\(Introduction\)") | [Next](02-SupportAndPubs "page
+suivante\(Additional Information\)")
+
 # OpenMusic Presentation
 
 Sommaire
@@ -90,7 +94,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](00-Sommaire "page
-précédente\(Introduction\)") | [page suivante](02-SupportAndPubs "page
+Navigation : [Previous](00-Sommaire "page
+précédente\(Introduction\)") | [Next](02-SupportAndPubs "page
 suivante\(Additional Information\)")
 

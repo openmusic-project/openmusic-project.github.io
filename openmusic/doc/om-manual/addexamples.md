@@ -1,3 +1,7 @@
+Navigation : [Previous](addprocedure "page précédente\(Adding
+TemporalBoxes\)") | [Next](REF3 "Next\(Accessing
+Boxes\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Adding TemporalBoxes : Examples
@@ -134,7 +138,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](addprocedure "page précédente\(Adding
-TemporalBoxes\)") | [page suivante](REF3 "page suivante\(Accessing
+Navigation : [Previous](addprocedure "page précédente\(Adding
+TemporalBoxes\)") | [Next](REF3 "Next\(Accessing
 Boxes\)")
 

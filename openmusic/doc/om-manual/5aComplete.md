@@ -1,3 +1,7 @@
+Navigation : [Previous](5_CompletEdition "page
+précédente\(Manipulating and Visualizing Objects\)") | [page
+suivante](5bComplete "Next\(Completing the Edition\)")
+
 
 # Manipulating the Chord Box
 
@@ -34,7 +38,7 @@ Plan :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](5_CompletEdition "page
+Navigation : [Previous](5_CompletEdition "page
 précédente\(Manipulating and Visualizing Objects\)") | [page
-suivante](5bComplete "page suivante\(Completing the Edition\)")
+suivante](5bComplete "Next\(Completing the Edition\)")
 

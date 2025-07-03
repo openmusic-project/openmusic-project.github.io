@@ -1,3 +1,7 @@
+
+Navigation : [Previous](errors "page précédente\(Errors and
+Problems\)") | [Next](Intro_1 "Next\(Summary\)")
+
 using OM and design a simple program. All steps, from launching to quitting
 the application, are thoroughly presented in video clips.
 
@@ -25,6 +29,6 @@ Plan :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [page precedente](errors "page précédente\(Errors and
-Problems\)") | [page suivante](Intro_1 "page suivante\(Summary\)")
+Navigation : [Previous](errors "page précédente\(Errors and
+Problems\)") | [Next](Intro_1 "Next\(Summary\)")
 

@@ -1,3 +1,7 @@
+
+Navigation : [Previous](Packages "page précédente\(Packages\)") |
+[Next](Tutorials "Next\(Tutorials\)")
+
 # Extra Libraries
 
 In addition to the standard OM functionalities, extra tools (classes,
@@ -225,6 +229,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Packages "page précédente\(Packages\)") |
-[page suivante](Tutorials "page suivante\(Tutorials\)")
+Navigation : [Previous](Packages "page précédente\(Packages\)") |
+[Next](Tutorials "Next\(Tutorials\)")
 

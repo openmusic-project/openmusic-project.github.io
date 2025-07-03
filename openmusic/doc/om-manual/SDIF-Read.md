@@ -1,4 +1,8 @@
 
+Navigation : [Previous](SDIFFile "page précédente\(SDIFFile\)") |
+[Next](SDIF-Classes "Next\(SDIF Classes\)")
+
+
 Sommaire
 
   1. File Overview / General Information
@@ -301,6 +305,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIFFile "page précédente\(SDIFFile\)") |
-[page suivante](SDIF-Classes "page suivante\(SDIF Classes\)")
+Navigation : [Previous](SDIFFile "page précédente\(SDIFFile\)") |
+[Next](SDIF-Classes "Next\(SDIF Classes\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](ElementaryManips "page
+précédente\(Elementary Manipulations\)") | [page
+suivante](GraphicFeatures "Next\(Boxes Features\)")
+
 # Boxes
 
 Boxes are the main elements at stake in the composition of a patch. Each box
@@ -58,7 +62,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](ElementaryManips "page
+Navigation : [Previous](ElementaryManips "page
 précédente\(Elementary Manipulations\)") | [page
-suivante](GraphicFeatures "page suivante\(Boxes Features\)")
+suivante](GraphicFeatures "Next\(Boxes Features\)")
 

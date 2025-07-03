@@ -1,3 +1,7 @@
+
+Navigation : [Previous](3D "page précédente\(3D Objects\)") |
+[Next](3DC-Lib "Next\(3DC-Lib\)")
+
 # 3D Curves
 
 ## The 3DC Object
@@ -175,6 +179,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](3D "page précédente\(3D Objects\)") |
-[page suivante](3DC-Lib "page suivante\(3DC-Lib\)")
+Navigation : [Previous](3D "page précédente\(3D Objects\)") |
+[Next](3DC-Lib "Next\(3DC-Lib\)")
 

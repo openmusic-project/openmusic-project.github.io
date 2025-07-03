@@ -1,3 +1,7 @@
+Navigation : [Previous](AdditionalInputs "page
+précédente\(Additional Inputs\)") | [Next](Evaluation "page
+suivante\(Evaluation\)")
+
 # Connections
 
 A connection is a link between the outlet of a box and the inlet of another
@@ -92,7 +96,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](AdditionalInputs "page
-précédente\(Additional Inputs\)") | [page suivante](Evaluation "page
+Navigation : [Previous](AdditionalInputs "page
+précédente\(Additional Inputs\)") | [Next](Evaluation "page
 suivante\(Evaluation\)")
 

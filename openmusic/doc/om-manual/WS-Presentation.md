@@ -1,3 +1,7 @@
+Navigation : [Previous](WS-Window "page précédente\(The Workspace
+Window\)") | [Next](WS-ImportExport "Next\(Import /
+Export\)")
+
 
 # Presentation Options
 
@@ -158,7 +162,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](WS-Window "page précédente\(The Workspace
-Window\)") | [page suivante](WS-ImportExport "page suivante\(Import /
+Navigation : [Previous](WS-Window "page précédente\(The Workspace
+Window\)") | [Next](WS-ImportExport "Next\(Import /
 Export\)")
 

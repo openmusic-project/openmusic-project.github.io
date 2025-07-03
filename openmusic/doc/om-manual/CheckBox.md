@@ -1,3 +1,7 @@
+
+Navigation : [Previous](TextBoxes "page précédente\(Text Boxes\)")
+| [Next](ListBoxes "Next\(List Boxes\)")
+
 # Controlling Operations : the Check Box
 
 The  **check-box** object resembles a [predicate](Predicates). If the box
@@ -109,6 +113,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TextBoxes "page précédente\(Text Boxes\)")
-| [page suivante](ListBoxes "page suivante\(List Boxes\)")
+Navigation : [Previous](TextBoxes "page précédente\(Text Boxes\)")
+| [Next](ListBoxes "Next\(List Boxes\)")
 

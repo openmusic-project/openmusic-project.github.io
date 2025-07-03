@@ -1,3 +1,7 @@
+Navigation : [Previous](Conditional "page
+précédente\(Conditional\)") | [Next](Sequencial "page
+suivante\(Sequential Operators\)")
+
 
 # Logical Operators
 
@@ -209,7 +213,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Conditional "page
-précédente\(Conditional\)") | [page suivante](Sequencial "page
+Navigation : [Previous](Conditional "page
+précédente\(Conditional\)") | [Next](Sequencial "page
 suivante\(Sequential Operators\)")
 

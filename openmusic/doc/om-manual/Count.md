@@ -1,3 +1,7 @@
+
+Navigation : [Previous](MinMax "page précédente\(Min / Max\)") |
+[Next](Acum "Next\(Acum\)")
+
 # Count : Counting Items
 
 ![](../res/count_icon.png) ** Count ** is a counter. Its internal value
@@ -103,6 +107,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MinMax "page précédente\(Min / Max\)") |
-[page suivante](Acum "page suivante\(Acum\)")
+Navigation : [Previous](MinMax "page précédente\(Min / Max\)") |
+[Next](Acum "Next\(Acum\)")
 

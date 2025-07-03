@@ -1,3 +1,7 @@
+Navigation : [Previous](MIDI-Ports "page précédente\(Managing MIDI
+Ports\)") | [Next](Record%20MIDI "Next\(Recording /
+MIDI In\)")
+
 
 # Playing Microintervals with MIDI
 
@@ -141,7 +145,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](MIDI-Ports "page précédente\(Managing MIDI
-Ports\)") | [page suivante](Record%20MIDI "page suivante\(Recording /
+Navigation : [Previous](MIDI-Ports "page précédente\(Managing MIDI
+Ports\)") | [Next](Record%20MIDI "Next\(Recording /
 MIDI In\)")
 

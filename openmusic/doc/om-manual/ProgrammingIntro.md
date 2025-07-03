@@ -1,3 +1,7 @@
+Navigation : [Previous](BasicVisualProgramming "page
+précédente\(Visual Programming I\)") | [Next](AddingBoxes "page
+suivante\(Adding Boxes Into a Patch\)")
+
 # Introduction to Patch Programming
 
 Almost all programming in OpenMusic is done in patches, which are visual
@@ -104,7 +108,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BasicVisualProgramming "page
-précédente\(Visual Programming I\)") | [page suivante](AddingBoxes "page
+Navigation : [Previous](BasicVisualProgramming "page
+précédente\(Visual Programming I\)") | [Next](AddingBoxes "page
 suivante\(Adding Boxes Into a Patch\)")
 

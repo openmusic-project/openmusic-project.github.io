@@ -1,3 +1,7 @@
+Navigation : [Previous](Logical "page précédente\(Logical
+Operators\)") | [Next](OMLoop "Next\(Iterations:
+OMLoop\)")
+
 
 # Sequential Operators
 
@@ -129,7 +133,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Logical "page précédente\(Logical
-Operators\)") | [page suivante](OMLoop "page suivante\(Iterations:
+Navigation : [Previous](Logical "page précédente\(Logical
+Operators\)") | [Next](OMLoop "Next\(Iterations:
 OMLoop\)")
 

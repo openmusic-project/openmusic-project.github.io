@@ -1,3 +1,7 @@
+Navigation : [Previous](TempValues "page précédente\(TemporalBoxes
+Value\)") | [Next](MaquetteValue "Next\(Sub
+Maquettes\)")
+
 
 # Patches
 
@@ -158,7 +162,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TempValues "page précédente\(TemporalBoxes
-Value\)") | [page suivante](MaquetteValue "page suivante\(Sub
+Navigation : [Previous](TempValues "page précédente\(TemporalBoxes
+Value\)") | [Next](MaquetteValue "Next\(Sub
 Maquettes\)")
 

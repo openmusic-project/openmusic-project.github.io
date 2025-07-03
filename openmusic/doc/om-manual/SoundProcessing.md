@@ -1,4 +1,8 @@
 
+Navigation : [Previous](SoundTools "page précédente\(Sound
+Tools\)") | [Next](SoundRecording "Next\(Recording\)")
+
+
 Sommaire
 
   1. General Principles
@@ -149,6 +153,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SoundTools "page précédente\(Sound
-Tools\)") | [page suivante](SoundRecording "page suivante\(Recording\)")
+Navigation : [Previous](SoundTools "page précédente\(Sound
+Tools\)") | [Next](SoundRecording "Next\(Recording\)")
 

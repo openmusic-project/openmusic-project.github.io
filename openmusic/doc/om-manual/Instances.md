@@ -1,3 +1,7 @@
+Navigation : [Previous](LoopExample "page précédente\(Example : A
+Random Series\)") | [Next](InstanceBoxes "page
+suivante\(Instance Boxes\)")
+
 # Instances
 
 An instance represents an **exemplar** of a given class. When a factory box is
@@ -52,7 +56,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LoopExample "page précédente\(Example : A
-Random Series\)") | [page suivante](InstanceBoxes "page
+Navigation : [Previous](LoopExample "page précédente\(Example : A
+Random Series\)") | [Next](InstanceBoxes "page
 suivante\(Instance Boxes\)")
 

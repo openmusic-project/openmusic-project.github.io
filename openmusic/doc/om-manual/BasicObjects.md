@@ -1,3 +1,7 @@
+Navigation : [Previous](FileBoxIterations "page
+précédente\(Designing Iterations\)") | [Next](CurvesAndFunctions
+"Next\(Curves and Functions\)")
+
 # Basic Tools
 
 The OM **** Basic Tools ** ** are designed for the  manipulation of data not
@@ -31,7 +35,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](FileBoxIterations "page
-précédente\(Designing Iterations\)") | [page suivante](CurvesAndFunctions
-"page suivante\(Curves and Functions\)")
+Navigation : [Previous](FileBoxIterations "page
+précédente\(Designing Iterations\)") | [Next](CurvesAndFunctions
+"Next\(Curves and Functions\)")
 

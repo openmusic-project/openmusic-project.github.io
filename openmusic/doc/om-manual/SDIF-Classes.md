@@ -1,3 +1,7 @@
+Navigation : [Previous](SDIF-Read "page précédente\(Accessing SDIF
+Data\)") | [Next](SDIF-Write "Next\(Writing SDIF
+Files\)")
+
 # SDIF Classes
 
 Sommaire
@@ -214,7 +218,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](SDIF-Read "page précédente\(Accessing SDIF
-Data\)") | [page suivante](SDIF-Write "page suivante\(Writing SDIF
+Navigation : [Previous](SDIF-Read "page précédente\(Accessing SDIF
+Data\)") | [Next](SDIF-Write "Next\(Writing SDIF
 Files\)")
 

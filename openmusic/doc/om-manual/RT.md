@@ -1,3 +1,7 @@
+Navigation : [Previous](Polyphonic "page précédente\(Polyphonic
+Objects\)") | [Next](RT1 "Next\(Rhythm Trees
+Structure\)")
+
 # Rhythm Trees
 
 Rhythmic objects - and polyphonic objects - integrate a rhythmic parameter,
@@ -48,7 +52,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Polyphonic "page précédente\(Polyphonic
-Objects\)") | [page suivante](RT1 "page suivante\(Rhythm Trees
+Navigation : [Previous](Polyphonic "page précédente\(Polyphonic
+Objects\)") | [Next](RT1 "Next\(Rhythm Trees
 Structure\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](GlobalVariables "page précédente\(Global
+Variables\)") | [Next](Store "Next\(The Store
+Object\)")
+
 
 # Reading and Modifying Instances : Slots
 
@@ -214,7 +218,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](GlobalVariables "page précédente\(Global
-Variables\)") | [page suivante](Store "page suivante\(The Store
+Navigation : [Previous](GlobalVariables "page précédente\(Global
+Variables\)") | [Next](Store "Next\(The Store
 Object\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Programming%20Maquette "page
+précédente\(Maquette Programming\)") | [Next](MaquetteEvaluation
+"Next\(Evaluation\)")
+
 
 # Using TemporalBoxes as Functional Components : Inputs and Outputs
 
@@ -136,7 +140,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Programming%20Maquette "page
-précédente\(Maquette Programming\)") | [page suivante](MaquetteEvaluation
-"page suivante\(Evaluation\)")
+Navigation : [Previous](Programming%20Maquette "page
+précédente\(Maquette Programming\)") | [Next](MaquetteEvaluation
+"Next\(Evaluation\)")
 

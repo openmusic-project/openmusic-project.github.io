@@ -1,3 +1,7 @@
+Navigation : [Previous](TempProgramming "page
+précédente\(TempBoxes Programming\)") | [Next](Examplestempbox
+"Next\(Programming with the Tempin\)")
+
 ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # The Self Input Box - Tempin
@@ -218,7 +222,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](TempProgramming "page
-précédente\(TempBoxes Programming\)") | [page suivante](Examplestempbox
-"page suivante\(Programming with the Tempin\)")
+Navigation : [Previous](TempProgramming "page
+précédente\(TempBoxes Programming\)") | [Next](Examplestempbox
+"Next\(Programming with the Tempin\)")
 

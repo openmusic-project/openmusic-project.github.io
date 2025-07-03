@@ -1,3 +1,7 @@
+
+Navigation : [Previous](textfile "page précédente\(TextFile\)") |
+[Next](TextFileEnvironment "Next\(Outer Environment\)")
+
 # TextFile Edition
 
 ## The Text Editor
@@ -123,6 +127,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](textfile "page précédente\(TextFile\)") |
-[page suivante](TextFileEnvironment "page suivante\(Outer Environment\)")
+Navigation : [Previous](textfile "page précédente\(TextFile\)") |
+[Next](TextFileEnvironment "Next\(Outer Environment\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](PictureEditor "page précédente\(Picture
+Editor\)") | [Next](Score-Objects-Intro "page
+suivante\(Presentation\)")
+
 # Score Objects
 
 **Score objects** basically refer to the musical categories of objects found
@@ -35,7 +39,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](PictureEditor "page précédente\(Picture
-Editor\)") | [page suivante](Score-Objects-Intro "page
+Navigation : [Previous](PictureEditor "page précédente\(Picture
+Editor\)") | [Next](Score-Objects-Intro "page
 suivante\(Presentation\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Evaluation "page
+précédente\(Evaluation\)") | [Next](Comments "page
+suivante\(Comments\)")
+
 # Documentation and Info
 
 There exist several way to get information about a box in an OM patch,
@@ -98,7 +102,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Evaluation "page
-précédente\(Evaluation\)") | [page suivante](Comments "page
+Navigation : [Previous](Evaluation "page
+précédente\(Evaluation\)") | [Next](Comments "page
 suivante\(Comments\)")
 

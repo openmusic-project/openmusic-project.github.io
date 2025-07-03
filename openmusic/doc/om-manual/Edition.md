@@ -1,4 +1,8 @@
 
+Navigation : [Previous](BPFEditors "page précédente\(Editors\)") |
+[Next](Display "Next\(Display\)")
+
+
 # Edition Basics
 
 Sommaire
@@ -170,6 +174,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](BPFEditors "page précédente\(Editors\)") |
-[page suivante](Display "page suivante\(Display\)")
+Navigation : [Previous](BPFEditors "page précédente\(Editors\)") |
+[Next](Display "Next\(Display\)")
 

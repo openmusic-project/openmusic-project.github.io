@@ -1,3 +1,7 @@
+Navigation : [Previous](InstancesValue "page
+précédente\(Instances\)") | [Next](EditorAppearance "page
+suivante\(Editor Appearance\)")
+
 # The Maquette Editor
 
 Most programming operations with the maquette take place in the maquette
@@ -47,7 +51,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](InstancesValue "page
-précédente\(Instances\)") | [page suivante](EditorAppearance "page
+Navigation : [Previous](InstancesValue "page
+précédente\(Instances\)") | [Next](EditorAppearance "page
 suivante\(Editor Appearance\)")
 

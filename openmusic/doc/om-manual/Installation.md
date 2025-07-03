@@ -1,4 +1,8 @@
 
+Navigation : [Previous](03-FAQ "page précédente\(Elementary
+F.A.Q.\)") | [Next](InstallationMac "Next\(Mac OS X\)")
+
+
 Sous-sections :
 
   * [Mac OS X](InstallationMac)
@@ -29,6 +33,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](03-FAQ "page précédente\(Elementary
-F.A.Q.\)") | [page suivante](InstallationMac "page suivante\(Mac OS X\)")
+Navigation : [Previous](03-FAQ "page précédente\(Elementary
+F.A.Q.\)") | [Next](InstallationMac "Next\(Mac OS X\)")
 

@@ -1,3 +1,7 @@
+Navigation : [Previous](Note-Chord-Chord-seq "page
+précédente\(Harmonic Objects\)") | [Next](Polyphonic "page
+suivante\(Polyphonic Objects\)")
+
 
 # Rhythmic Objects
 
@@ -157,7 +161,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](Note-Chord-Chord-seq "page
-précédente\(Harmonic Objects\)") | [page suivante](Polyphonic "page
+Navigation : [Previous](Note-Chord-Chord-seq "page
+précédente\(Harmonic Objects\)") | [Next](Polyphonic "page
 suivante\(Polyphonic Objects\)")
 

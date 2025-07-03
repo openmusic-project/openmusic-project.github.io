@@ -1,3 +1,7 @@
+Navigation : [Previous](LispUserLib "page précédente\(Writing an
+OM Library\)") | [Next](errors "Next\(Errors and
+Problems\)")
+
 # Writing Code for OM
 
 See [http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
@@ -36,7 +40,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [page precedente](LispUserLib "page précédente\(Writing an
-OM Library\)") | [page suivante](errors "page suivante\(Errors and
+Navigation : [Previous](LispUserLib "page précédente\(Writing an
+OM Library\)") | [Next](errors "Next\(Errors and
 Problems\)")
 
