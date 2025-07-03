@@ -1,6 +1,5 @@
 
-Navigation : [Previous](Sum "page précédente\(Sum\)") | [page
-suivante](Count "Next\(Count\)")
+Navigation : [Previous](Sum "page précédente\(Sum\)") | [Next](Count "Next\(Count\)")
 
 # Min and Max : Comparing Values
 
@@ -86,6 +85,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Sum "page précédente\(Sum\)") | [page
-suivante](Count "Next\(Count\)")
+Navigation : [Previous](Sum "page précédente\(Sum\)") | [Next](Count "Next\(Count\)")
 

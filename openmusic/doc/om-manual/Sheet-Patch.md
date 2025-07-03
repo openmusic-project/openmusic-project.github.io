@@ -2,6 +2,7 @@
 Navigation : [Previous](Sheet-Box "page précédente\(Sheet Box\)")
 | [Next](MIDI "Next\(MIDI\)")
 
+# Sheet Patches
 
 In addition to their musical contents, OMSheets embed some programmatic
 aspects materialized as a list of internal patches.

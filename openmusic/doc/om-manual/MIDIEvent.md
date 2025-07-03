@@ -2,6 +2,8 @@
 Navigation : [Previous](MIDIFile "page précédente\(MIDI File\)") |
 [Next](MIDIContainer "Next\(MIDI Containers\)")
 
+# MIDI Events
+
 
 All OM score and MIDI objects can be traduced (with more or less precision or
 data loss) into a list of time-tagged MIDI events.

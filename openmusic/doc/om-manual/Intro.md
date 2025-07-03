@@ -1,7 +1,7 @@
 
-Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [page
-suivante](MIDI-Concepts "Next\(Important MIDI Concepts\)")
+Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [Next](MIDI-Concepts "Next\(Important MIDI Concepts\)")
 
+# Introduction to MIDI in OpenMusic
 
 ## The MIDI Protocol
 
@@ -74,6 +74,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [page
-suivante](MIDI-Concepts "Next\(Important MIDI Concepts\)")
+Navigation : [Previous](MIDI "page précédente\(MIDI\)") | [Next](MIDI-Concepts "Next\(Important MIDI Concepts\)")
 

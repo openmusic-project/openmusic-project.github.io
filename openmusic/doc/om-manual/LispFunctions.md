@@ -2,6 +2,7 @@
 Navigation : [Previous](LispInOM "page précédente\(Lisp Code in
 OM\)") | [Next](LowLevel "Next\(Lisp Tools\)")
 
+# Lisp Function Boxes
 
 Writing a function or procedure in Lisp can be more convenient that the
 creation of a visual program. ** Lisp Function boxes ** are abstractions

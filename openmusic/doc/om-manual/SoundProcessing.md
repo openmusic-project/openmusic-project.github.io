@@ -2,6 +2,7 @@
 Navigation : [Previous](SoundTools "page précédente\(Sound
 Tools\)") | [Next](SoundRecording "Next\(Recording\)")
 
+# Sound Processing Functions
 
 Sommaire
 

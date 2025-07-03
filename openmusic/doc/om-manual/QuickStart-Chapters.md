@@ -2,6 +2,9 @@
 Navigation : [Previous](errors "page précédente\(Errors and
 Problems\)") | [Next](Intro_1 "Next\(Summary\)")
 
+# OpenMusic QuickStart
+
+This quickstart aims at providing fundamental notions and guidelines to start 
 using OM and design a simple program. All steps, from launching to quitting
 the application, are thoroughly presented in video clips.
 

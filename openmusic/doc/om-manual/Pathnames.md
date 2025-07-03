@@ -1,6 +1,5 @@
 
-Navigation : [Previous](Files "page précédente\(Files\)") | [page
-suivante](DefDirectories "Next\(Default Directories\)")
+Navigation : [Previous](Files "page précédente\(Files\)") | [Next](DefDirectories "Next\(Default Directories\)")
 
 # Creating and Using Pathnames
 
@@ -219,6 +218,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Files "page précédente\(Files\)") | [page
-suivante](DefDirectories "Next\(Default Directories\)")
+Navigation : [Previous](Files "page précédente\(Files\)") | [Next](DefDirectories "Next\(Default Directories\)")
 

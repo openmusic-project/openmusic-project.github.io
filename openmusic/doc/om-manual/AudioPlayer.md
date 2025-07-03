@@ -2,6 +2,7 @@
 Navigation : [Previous](SoundEditor "page précédente\(Sound
 Editor\)") | [Next](SoundTools "Next\(Sound Tools\)")
 
+# The Audio Player
 
 OM currently relies on the  LibAudioStream libray for playback and rendering
 of audio files. The LibAudioStream player offers a multitrack architecture,

@@ -2,6 +2,8 @@
 Navigation : [Previous](3DC-Lib "page précédente\(3DC-Lib\)") |
 [Next](ArrayObject "Next\(Class-Array Object\)")
 
+# Array
+
 
 The class-array is an original tool for the manipulation of **arrays** , that
 is, matrices[1] and other bidimensional data structures. It is specifically

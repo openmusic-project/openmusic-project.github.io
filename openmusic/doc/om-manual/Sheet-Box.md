@@ -19,10 +19,10 @@ You can insert in a sheet most of the standard OM musical objects :
 
 ## Connecting Objects
 
-Objects are to be connected to the <voices> input of the OMSheet in order to
+Objects are to be connected to the \<voices\> input of the OMSheet in order to
 be included in it.
 
-<voices> expects to receive a list, each element corresponding to one new
+\<voices\> expects to receive a list, each element corresponding to one new
 sheet track.
 
 [![](../res/make-sheet_1.png)](../res/make-sheet.png "Cliquez pour agrandir")
@@ -95,7 +95,7 @@ agrandir")
 
 ## Sheet Patches
 
-The other input of the OMSheet box (<patch-list>) allows you to
+The other input of the OMSheet box (\<patch-list\>) allows you to
 programmatically set the patches used internally in the sheet.
 
 Programming Inside the Sheet

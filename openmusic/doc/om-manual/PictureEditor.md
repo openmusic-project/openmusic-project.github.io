@@ -2,6 +2,8 @@
 Navigation : [Previous](PictureBox "page précédente\(Picture
 Box\)") | [Next](ScoreObjects "Next\(Score Objects\)")
 
+# Picture Editor
+
 
 The  **picture editor** allows to edit the contents of the picture object and
 to add figures or sketches.

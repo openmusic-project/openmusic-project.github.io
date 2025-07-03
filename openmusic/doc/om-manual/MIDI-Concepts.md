@@ -2,6 +2,7 @@
 Navigation : [Previous](Intro "page précédente\(Introduction\)") |
 [Next](MIDI-Playback "Next\(Rendering and Playback\)")
 
+# MIDI Basic Concepts
 
 MIDI communication is based on **messages** called **events**. When a sequence
 of notes is played, it is internally converted into a sequence of **MIDI

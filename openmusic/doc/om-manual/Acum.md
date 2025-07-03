@@ -1,6 +1,5 @@
 
-Navigation : [Previous](Count "page précédente\(Count\)") | [page
-suivante](LoopExample "Next\(Example : A Random Series\)")
+Navigation : [Previous](Count "page précédente\(Count\)") | [Next](LoopExample "Next\(Example : A Random Series\)")
 
 # Acum : Defining Accumulation Procedures
 
@@ -113,6 +112,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Count "page précédente\(Count\)") | [page
-suivante](LoopExample "Next\(Example : A Random Series\)")
+Navigation : [Previous](Count "page précédente\(Count\)") | [Next](LoopExample "Next\(Example : A Random Series\)")
 

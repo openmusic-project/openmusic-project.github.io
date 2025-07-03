@@ -1,7 +1,7 @@
 
-Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [page
-suivante](Sheet-Box "Next\(Sheet Box\)")
+Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [Next](Sheet-Box "Next\(Sheet Box\)")
 
+# Sheet Editor
 
 Sommaire
 
@@ -267,6 +267,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [page
-suivante](Sheet-Box "Next\(Sheet Box\)")
+Navigation : [Previous](Sheet "page précédente\(Sheet\)") | [Next](Sheet-Box "Next\(Sheet Box\)")
 

@@ -2,6 +2,9 @@
 Navigation : [Previous](LowLevel "page précédente\(Lisp Tools\)")
 | [Next](LispForOM "Next\(Writing Code for OM\)")
 
+# Writing an OM Library
+
+See [](../../dev/userlib) 
 
 See[](http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
 doc/userlibrary "http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-

@@ -1,6 +1,5 @@
 
-Navigation : [Previous](Acum "page précédente\(Acum\)") | [page
-suivante](Instances "Next\(Instances\)")
+Navigation : [Previous](Acum "page précédente\(Acum\)") | [Next](Instances "Next\(Instances\)")
 
 # A Basic Example : Building a Random Series
 
@@ -118,6 +117,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Acum "page précédente\(Acum\)") | [page
-suivante](Instances "Next\(Instances\)")
+Navigation : [Previous](Acum "page précédente\(Acum\)") | [Next](Instances "Next\(Instances\)")
 

@@ -2,6 +2,7 @@
 Navigation : [Previous](Externals "page précédente\(External
 Libraries\)") | [Next](SDIF "Next\(SDIF\)")
 
+# Audio Preferences
 
 The `Audio` tab in the OM Preferences window gathers a number of options
 related to audio features and sound processing in OM.

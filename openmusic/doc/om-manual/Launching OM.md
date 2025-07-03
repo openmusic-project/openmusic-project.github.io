@@ -1,6 +1,6 @@
 Navigation : [page precedente](Goingthrough "page précédente\(Going
 Through an OM Session\)") | [Next](Workspace\(s\) "page
-suivante\(Workspace\(s\) Management\)")
+suivante\(Workspace(s) Management\)")
 
 # Launching OM
 

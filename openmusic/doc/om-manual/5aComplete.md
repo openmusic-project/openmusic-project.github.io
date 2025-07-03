@@ -1,6 +1,5 @@
 Navigation : [Previous](5_CompletEdition "page
-précédente\(Manipulating and Visualizing Objects\)") | [page
-suivante](5bComplete "Next\(Completing the Edition\)")
+précédente\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "Next\(Completing the Edition\)")
 
 
 # Manipulating the Chord Box
@@ -39,6 +38,5 @@ Plan :
     * [Saving and Quitting OM](6_Quit)
 
 Navigation : [Previous](5_CompletEdition "page
-précédente\(Manipulating and Visualizing Objects\)") | [page
-suivante](5bComplete "Next\(Completing the Edition\)")
+précédente\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "Next\(Completing the Edition\)")
 

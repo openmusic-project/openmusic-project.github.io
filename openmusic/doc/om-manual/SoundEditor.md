@@ -2,6 +2,7 @@
 Navigation : [Previous](Sound "page précédente\(Sound Object\)") |
 [Next](AudioPlayer "Next\(Audio Player\)")
 
+# The Sound Editor
 
 Double click on an initialized sound box to open its sound editor.
 

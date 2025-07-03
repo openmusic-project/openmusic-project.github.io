@@ -1,6 +1,7 @@
 
 Navigation :  | [Next](OM-User-Manual "Next\(OM User Manual\)")
 
+## OpenMusic Documentation
 
 OpenMusic (OM) is a visual programming language designed for music
 composition. Visual programs (called "patches") can be created by connecting

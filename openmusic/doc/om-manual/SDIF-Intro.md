@@ -1,7 +1,7 @@
 
-Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [page
-suivante](SDIFFile "Next\(SDIFFile\)")
+Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [Next](SDIFFile "Next\(SDIFFile\)")
 
+# Introduction to SDIF
 
 Sommaire
 
@@ -261,6 +261,5 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [page
-suivante](SDIFFile "Next\(SDIFFile\)")
+Navigation : [Previous](SDIF "page précédente\(SDIF\)") | [Next](SDIFFile "Next\(SDIFFile\)")
 

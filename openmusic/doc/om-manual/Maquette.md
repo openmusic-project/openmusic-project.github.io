@@ -2,6 +2,8 @@
 Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
 | [Next](TemporalBoxes "Next\(TemporalBoxes\)")
 
+# Creating a Maquette
+
 
 Sommaire
 

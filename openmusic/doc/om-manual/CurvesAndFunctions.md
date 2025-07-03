@@ -2,6 +2,8 @@
 Navigation : [Previous](BasicObjects "page précédente\(Basic
 Tools\)") | [Next](BPF-BPC "Next\(BPF / BPC\)")
 
+# Curves and Functions
+
 
 The Functions package contains a set of classes and functions designed to
 create, edit and manipulate curves, also called  **Break Point Functions** and

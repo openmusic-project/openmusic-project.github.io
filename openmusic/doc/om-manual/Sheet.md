@@ -3,6 +3,8 @@ Navigation : [Previous](Intercation2 "page précédente\(Interation
 \(2\)\)") | [Next](Sheet-Editor "Next\(Sheet Editor\)")
 
 
+# Sheet
+
 The **OMSheet** object is a special polyphonic container allowing to bring
 together heterogeneous musical objects on its different voices. The OMSheet
 editor has specific features ensuring space/time alignments between the

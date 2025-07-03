@@ -2,6 +2,8 @@
 Navigation : [Previous](MIDIEvent "page précédente\(MIDI
 Events\)") | [Next](Audio "Next\(Audio\)")
 
+# MIDI Containers
+
 
 The MIDI containers are objects constituted of a set of simultaneous or
 sequencial MIDI events representing intermediate-level musical objects.

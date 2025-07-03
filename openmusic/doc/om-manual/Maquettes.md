@@ -2,6 +2,8 @@
 Navigation : [Previous](Import "page précédente\(Import\)") |
 [Next](Maquette "Next\(Creating a Maquette\)")
 
+# Maquettes
+
 
 A maquette is an object, which represents both a  **musical "container[1]"**
 and a  **visual program** .

@@ -2,6 +2,7 @@
 Navigation : [Previous](Sheet-Patch "page précédente\(Sheet
 Patches\)") | [Next](Intro "Next\(Introduction\)")
 
+# MIDI
 
 Sous-sections :
 

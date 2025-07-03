@@ -3,7 +3,7 @@ Navigation : [Previous](SDIF-Classes "page précédente\(SDIF
 Classes\)") | [Next](Lisp "Next\(Lisp Programming\)")
 
 
-## SDIF-Buffer
+# SDIF-Buffer
 
 The class **SDIF-BUFFER** allows to gather SDIF objects and makes the
 connection with "real" SDIF files.

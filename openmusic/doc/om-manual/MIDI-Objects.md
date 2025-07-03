@@ -2,6 +2,7 @@
 Navigation : [Previous](Record%20MIDI "page précédente\(Recording
 / MIDI In\)") | [Next](MIDIFile "Next\(MIDI File\)")
 
+# MIDI Objects
 
 MIDI events and data can be materialized and manipulated in OM patches using
 the library of MIDI objects.

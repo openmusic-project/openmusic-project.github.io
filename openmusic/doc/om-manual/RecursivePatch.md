@@ -2,7 +2,7 @@ Navigation : [Previous](Recursion "page précédente\(Recursive
 Patches\)") | [Next](RecursiveTree "Next\(Recursive
 Trees\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Recursion in OM
 

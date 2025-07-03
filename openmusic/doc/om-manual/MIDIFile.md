@@ -2,6 +2,8 @@
 Navigation : [Previous](MIDI-Objects "page précédente\(MIDI
 Objects\)") | [Next](MIDIEvent "Next\(MIDI Events\)")
 
+# MIDI File
+
 
 Sommaire
 
