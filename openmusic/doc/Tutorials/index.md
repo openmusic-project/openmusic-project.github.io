@@ -29,7 +29,7 @@ the new user.
 
 --Matthew Lima, August 2003  
   
-![Tip](/figures/images/tip.gif)|
+![Tip](/figures/images/tip.gif)
 
 You can use the Last Saved function in the menu File->Last Saved in the patch
 view to restore the patch to its original condition, provided you've not saved
