@@ -5,8 +5,8 @@ OpenMusic Documentation
 Navigation générale :
 
 *   Guide
-*   [Plan](OM-Documentation_1)
-*   [Glossaire](OM-Documentation_2)
+*   [Plan](./OM-Documentation_1)
+*   [Glossaire](./OM-Documentation_2.md)
 
 [![Recherche Google](../lib/googleSearch.gif "Recherche Google")](javascript:void\(0\);)
 
