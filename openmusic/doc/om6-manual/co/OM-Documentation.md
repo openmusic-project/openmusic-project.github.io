@@ -42,4 +42,4 @@ Plan :
 
 Navigation : | [page suivante](OM-User-Manual.md "page suivante(OM 6.6 User Manual)")
 
-[A propos...](OM-Documentation_3.md)(c) Ircam - Centre Pompidou[![Réalisé avec Scenari](../skin/img/btnSc.png )](http://scenari-platform.org "Réalisé avec Scenari (nouvelle fenêtre)")
+[A propos...](OM-Documentation_3.md)(c) Ircam - Centre Pompidou
