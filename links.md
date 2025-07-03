@@ -3,9 +3,10 @@
 
 ### Main documentation
 
-The OpenMusic main documentation and user manuals edited and hosted at IRCAM (last updated for OM 6.6, 2011):
+The OpenMusic main documentation and user manuals:
 
 - [User Manual / QuickStart tutorials](https://openmusic-project.github.io/openmusic/doc/om-manual/OM-Documentation)
+- [OM Tutorials](https://openmusic-project.github.io/openmusic/doc/Tutorials/index)
 - [Libraries](http://support.ircam.fr/docs/om-libraries/main/) 
  
 
@@ -13,7 +14,6 @@ The OpenMusic main documentation and user manuals edited and hosted at IRCAM (la
 
 Some older online tutorial pages:
 
-- [OM Tutorials](http://recherche.ircam.fr/equipes/repmus/OpenMusic/user-doc/DocFiles/Tutorial/): Online pages corresponding to the tutorial patches available in OM.
 - [Zn Tutorial](http://recherche.ircam.fr/equipes/repmus/OpenMusic/user-doc/DocFiles/znTutorial/). Algebraic tools for music analysis and composition (by. M. Andreatta).
 - [L'analyse type Set Theorie dans Open Music](http://recherche.ircam.fr/equipes/repmus/Analyse/openmusic/om_set_theory.html)
 
