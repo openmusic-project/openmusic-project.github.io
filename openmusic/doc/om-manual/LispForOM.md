@@ -4,10 +4,7 @@ Problems\)")
 
 # Writing Code for OM
 
-See [http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/codeforOM](http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/codeforOM "http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/codeforOM \(nouvelle fenêtre\)")
+See [Developer resources](../../dev/index) 
 
 References :
 
