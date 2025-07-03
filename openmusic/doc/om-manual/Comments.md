@@ -3,6 +3,8 @@ Navigation : [Previous](DocAndInfo "page précédente\(Documentation
 and Info\)") | [Next](Pictures "Next\(Pictures\)")
 
 
+## Comments
+
 Sommaire
 
   1. Creating a comment

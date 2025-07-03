@@ -1,6 +1,5 @@
 
-Navigation :  | [Next](OM-User-Manual "Next\(OM 6.6
-User Manual\)")
+Navigation :  | [Next](OM-User-Manual "Next\(OM User Manual\)")
 
 
 OpenMusic (OM) is a visual programming language designed for music
@@ -28,9 +27,9 @@ References :
 Plan :
 
   * OpenMusic Documentation
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation :  | [Next](OM-User-Manual "Next\(OM 6.6
+Navigation :  | [Next](OM-User-Manual "Next\(OM
 User Manual\)")
 

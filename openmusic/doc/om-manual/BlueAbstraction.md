@@ -2,7 +2,7 @@ Navigation : [Previous](AbsBoxes "page précédente\(Abstraction
 Boxes\)") | [Next](RedAbstraction "Next\(Internal
 Abstractions\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Standard Abstraction
 

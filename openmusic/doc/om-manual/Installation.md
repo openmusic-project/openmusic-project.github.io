@@ -2,6 +2,8 @@
 Navigation : [Previous](03-FAQ "page précédente\(Elementary
 F.A.Q.\)") | [Next](InstallationMac "Next\(Mac OS X\)")
 
+## System Configuration and Installation
+
 
 Sous-sections :
 

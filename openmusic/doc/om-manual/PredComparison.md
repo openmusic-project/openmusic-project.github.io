@@ -2,7 +2,6 @@ Navigation : [Previous](Predicates "page
 précédente\(Predicates\)") | [Next](PredTypes "page
 suivante\(Type Predicates\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Comparison Predicates
 

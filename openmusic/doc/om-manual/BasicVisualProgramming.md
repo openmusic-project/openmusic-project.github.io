@@ -2,6 +2,8 @@
 Navigation : [Previous](resources "page précédente\(Resources\)")
 | [Next](ProgrammingIntro "Next\(Patch Introduction\)")
 
+## Visual Programming I (Basic)
+
 
 This section describes how to add, modify and connect boxes within patches,
 access required information through the OM graphic interface. It also aims to

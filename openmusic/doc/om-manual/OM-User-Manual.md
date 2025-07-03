@@ -2,8 +2,11 @@ Navigation : [Previous](OM-Documentation "page
 précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
 "Next\(Introduction\)")
 
-[ ](00-Sommaire) [](00-Sommaire) This document is the
-kernel of the OpenMusic Software documentation. It is composed of the
+[ ](00-Sommaire) [](00-Sommaire) 
+
+## OM User Manual
+
+This document is the kernel of the OpenMusic Software documentation. It is composed of the
 following sections :
 
 [**Introduction** ](00-Sommaire)

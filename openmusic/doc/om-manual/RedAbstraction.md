@@ -2,7 +2,7 @@ Navigation : [Previous](BlueAbstraction "page précédente\(Standard
 Abstraction\)") | [Next](AbsConversion "page
 suivante\(Conversions\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Internal Abstractions
 

@@ -2,7 +2,7 @@ Navigation : [Previous](AbsApplication "page
 précédente\(Application\)") | [Next](AbsInputBoxes "page
 suivante\(Input Boxes\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Inputs / Outputs
 

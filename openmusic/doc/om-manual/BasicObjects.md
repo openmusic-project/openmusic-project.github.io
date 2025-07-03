@@ -4,7 +4,7 @@ précédente\(Designing Iterations\)") | [Next](CurvesAndFunctions
 
 # Basic Tools
 
-The OM **** Basic Tools ** ** are designed for the  manipulation of data not
+The OM **Basic Tools ** are designed for the  manipulation of data not
 necessarily aimed at musical applications, such as list, curves, arrays, text,
 mathematical functions, pictures, etc.
 

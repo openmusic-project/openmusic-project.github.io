@@ -2,6 +2,8 @@
 Navigation : [Previous](LambdaTest "page précédente\(Test
 Functions\)") | [Next](Predicates "Next\(Predicates\)")
 
+## Control Structures
+
 
 It is sometimes necessary or useful to be able to control the execution of a
 process. This can be done by

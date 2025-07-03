@@ -1,5 +1,5 @@
 Navigation : [Previous](Workspace\(s\) "page
-précédente\(Workspace\(s\) Management\)") | [Next](Environment
+précédente\(Workspace(s) Management\)") | [Next](Environment
 "Next\(The OM Environment\)")
 
 # Quitting OM and Saving
@@ -77,6 +77,6 @@ Plan :
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
 Navigation : [Previous](Workspace\(s\) "page
-précédente\(Workspace\(s\) Management\)") | [Next](Environment
+précédente\(Workspace(s) Management\)") | [Next](Environment
 "Next\(The OM Environment\)")
 

@@ -2,6 +2,8 @@
 Navigation : [Previous](WS-ImportExport "page précédente\(Import /
 Export\)") | [Next](Packages "Next\(Packages\)")
 
+## Library
+
 
 The Library window encloses the OM programming tools, which are organized in
 **packages** and  **sub packages** . They can be used in various OM documents.

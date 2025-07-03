@@ -2,7 +2,7 @@ Navigation : [Previous](AbsInOuts "page précédente\(Inputs /
 Outputs\)") | [Next](Recursion "Next\(Recursive
 Patches\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Input Boxes
 

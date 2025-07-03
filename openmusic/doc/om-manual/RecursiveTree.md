@@ -2,7 +2,6 @@ Navigation : [Previous](RecursivePatch "page précédente\(Recursion
 in OM\)") | [Next](EvalModes "Next\(Evaluation
 Modes\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Recursive Treatment of Tree Structures
 

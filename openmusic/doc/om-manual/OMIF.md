@@ -2,7 +2,7 @@ Navigation : [Previous](ConditionalOps "page
 précédente\(Conditional Operators\)") | [Next](Conditional "page
 suivante\(Conditional\)")
 
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # OMif : If, Then, Else
 

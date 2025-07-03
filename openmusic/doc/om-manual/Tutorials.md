@@ -3,6 +3,8 @@ Navigation : [Previous](UserLibraries "page précédente\(Extra
 Libraries\)") | [Next](resources "Next\(Resources\)")
 
 
+## Examples Patches and Tutorials
+
 The OM application and libraries generally come with a set of example patches
 and tutorial allowing to get into different aspects and features of the
 compositional environment.

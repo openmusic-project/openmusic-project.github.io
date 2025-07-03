@@ -3,6 +3,8 @@ Navigation : [Previous](MainWindows "page précédente\(Environment
 Windows\)") | [Next](Workspace "Next\(Workspace\)")
 
 
+## Preferences
+
 The OM interface and programming components are ruled by a series of default
 parameters that can be modified via the ` Preferences` pane during an OM
 session. These parameters are associated to and saved with the workspace that
