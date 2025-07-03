@@ -12,6 +12,7 @@ The <a href="https://github.com/openmusic-project/" target="_blank">openmusic-pr
 
 - [Resources and links about OpenMusic](https://openmusic-project.github.io/links)
 
+- [OpenMusic Documentation](https://openmusic-project.github.io/openmusic/doc/om6-manual/om-manual/OM-Documentation)
 
 ------ 
 

@@ -1,0 +1,56 @@
+
+# Formalizing the Transposition Process
+
+Covered Topics
+
+  * Explication of the process, objects and concepts
+
+  * Getting acquainted with the properties of the objects used in the program : accessing information and documentation
+
+  * Applying the process with simple values
+
+Keywords
+
+List[1], Atom[2]
+
+## Main Link to the User Manual
+
+Voir aussi
+
+  * [Documentation and Info](DocAndInfo)
+  * [Boxes](Boxes)
+
+References :
+
+  1. List
+
+A finite ordered sequence of elements delineated by two parenthesis, where
+each element itself is an atom or a list.
+
+See also : Atom.
+
+  2. Atom
+
+An elementary item, number, symbol, string. An atom can be part of a list.
+
+Plan :
+
+  * [OpenMusic Documentation](OM-Documentation)
+  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OpenMusic QuickStart](QuickStart-Chapters)
+    * [Summary](Intro_1)
+    * [Starting a Session](1_StartSession)
+    * [Programming a Simple Patch](2_progpatch)
+    * [Manipulating the Patch](3ManipPatch)
+    * [A Musical Application](4_MusicalAp)
+      * [Chord & Musical Objects](4aApplication)
+      * [Creating an Instance](4bApplication)
+      * Formalizing a Process
+      * [Materializing Results](4dApplication)
+    * [Manipulating and Visualizing Objects](5_CompletEdition)
+    * [Saving and Quitting OM](6_Quit)
+
+Navigation : [page precedente](4bApplication "page précédente\(Creating
+an Instance\)") | [page suivante](4dApplication "page
+suivante\(Materializing Results\)")
+

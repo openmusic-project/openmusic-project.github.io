@@ -1,0 +1,41 @@
+# The Picture Object
+
+The  **picture** object is used for representing and using pictures and/or
+simple vector graphics in OM patches.
+
+All picture editing operations can be done either on the box using visual
+programming or in the picture editor (double click on the box to open).
+
+References :
+
+Plan :
+
+  * [OpenMusic Documentation](OM-Documentation)
+  * [OM 6.6 User Manual](OM-User-Manual)
+    * [Introduction](00-Sommaire)
+    * [System Configuration and Installation](Installation)
+    * [Going Through an OM Session](Goingthrough)
+    * [The OM Environment](Environment)
+    * [Visual Programming I](BasicVisualProgramming)
+    * [Visual Programming II](AdvancedVisualProgramming)
+    * [Basic Tools](BasicObjects)
+      * [Curves and Functions](CurvesAndFunctions)
+      * [Array](ClassArray)
+      * [TextFile](textfile)
+      * Picture
+        * [Picture Box](PictureBox)
+        * [Picture Editor](PictureEditor)
+    * [Score Objects](ScoreObjects)
+    * [Maquettes](Maquettes)
+    * [Sheet](Sheet)
+    * [MIDI](MIDI)
+    * [Audio](Audio)
+    * [SDIF](SDIF)
+    * [Lisp Programming](Lisp)
+    * [Errors and Problems](errors)
+  * [OpenMusic QuickStart](QuickStart-Chapters)
+
+Navigation : [page precedente](TextFileEnvironment "page
+précédente\(Outer Environment\)") | [page suivante](PictureBox "page
+suivante\(Picture Box\)")
+
