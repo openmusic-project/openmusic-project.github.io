@@ -8,11 +8,12 @@ The <a href="https://github.com/openmusic-project/" target="_blank">openmusic-pr
 
 - [OpenMusic](openmusic) main application (downloads, sources, info...)
 
+- [OpenMusic Documentation](https://openmusic-project.github.io/openmusic/doc/om-manual/OM-Documentation)
+
 - [OpenMusic Libraries](https://openmusic-project.github.io/libraries) : an extended set of add-on features for computer-assisted composition
 
 - [Resources and links about OpenMusic](https://openmusic-project.github.io/links)
 
-- [OpenMusic Documentation](https://openmusic-project.github.io/openmusic/doc/om6-manual/om-manual/OM-Documentation)
 
 ------ 
 
