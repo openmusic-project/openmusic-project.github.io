@@ -1,7 +1,4 @@
 
-|  
----|---|---  
-  
 OpenMusic (OM) is a visual programming language designed for music
 composition. Visual programs (called "patches") can be created by connecting
 graphical modules together, corresponding to musical objects or data

@@ -5,7 +5,7 @@
 
 The OpenMusic main documentation and user manuals edited and hosted at IRCAM (last updated for OM 6.6, 2011):
 
-- [Online User Manual / QuickStart tutorials](http://support.ircam.fr/docs/om/om6-manual/)
+- [User Manual / QuickStart tutorials](https://openmusic-project.github.io/openmusic/doc/om-manual/OM-Documentation)
 - [Libraries](http://support.ircam.fr/docs/om-libraries/main/) 
  
 
