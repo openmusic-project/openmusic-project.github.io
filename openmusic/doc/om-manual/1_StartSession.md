@@ -16,7 +16,7 @@ Patch[1], Workspace[2], Listener[3]
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Going Through an OM Session](Goingthrough)
   * [Windows of the OM Environment](MainWindows)

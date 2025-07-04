@@ -119,7 +119,7 @@ agrandir")
   
 ---|---  
   
-Voir aussi
+See also
 
   * [Higher-Order Programs and Functions](HighOrder)
 

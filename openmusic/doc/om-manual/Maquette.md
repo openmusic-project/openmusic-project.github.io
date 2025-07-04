@@ -33,7 +33,7 @@ two types of maquettes :
   
 ---|---|---|---  
   
-Voir aussi
+See also
 
   * [Abstraction Boxes](AbsBoxes)
 

@@ -19,7 +19,7 @@ Midicents[1]
 
 ## Main Link to the User Manual
 
-Voir aussi
+See also
 
   * [Score Display](Editor-Display)
   * [Editing Pitches](Editor-Pitch)

@@ -19,7 +19,7 @@ List[1], Atom[2]
 
 ## Main Link to the User Manual
 
-Voir aussi
+See also
 
   * [Documentation and Info](DocAndInfo)
   * [Boxes](Boxes)

@@ -12,7 +12,7 @@ Covered Topics
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Score Display](Editor-Display)
   * [Score Players](ScorePlayer)

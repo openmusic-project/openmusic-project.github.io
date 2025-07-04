@@ -17,7 +17,7 @@ in OM patches immediately.
 
   2. `Cmd` click in the patch and type the name of the function or class. 
 
-Voir aussi
+See also
 
   * [Writing/Evaluating Lisp Code : The Lisp Editor](LispEditor)
 

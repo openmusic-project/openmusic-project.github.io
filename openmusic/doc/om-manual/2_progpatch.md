@@ -17,7 +17,7 @@ Function[2], Om Function[3], Argument[4], Evaluation [1]
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Introduction to Patch Programming](ProgrammingIntro)
   * [Box Inputs](BoxInputs)

@@ -17,7 +17,7 @@ Contextual menu[1]
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Comments](Comments)
   * [Preferences](Preferences)

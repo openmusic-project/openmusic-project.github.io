@@ -12,7 +12,7 @@ Covered Topics
 
 ## Main Link to the User Manual
 
-Voir aussi
+See also
 
   * [Lock Mode](LockMode)
   * [Score Objects](ScoreObjects)

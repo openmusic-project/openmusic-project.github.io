@@ -31,7 +31,7 @@ Evaluation[1]
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Elementary Manipulations](ElementaryManips)
   * [Box Inputs](BoxInputs)

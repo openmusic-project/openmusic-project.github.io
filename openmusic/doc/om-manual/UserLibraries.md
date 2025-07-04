@@ -80,7 +80,7 @@ editor
   
 ---|---  
   
-Voir aussi
+See also
 
   * [Adding Boxes Into a Patch](AddingBoxes)
 

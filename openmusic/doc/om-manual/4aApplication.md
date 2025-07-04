@@ -21,7 +21,7 @@ Class[1], Object[2], FactoryBox[3], Instance[4], Offset[5]
 
 ## Main Links to the User Manual
 
-Voir aussi
+See also
 
   * [Boxes Graphic Features and Components](GraphicFeatures)
   * [Boxes](Boxes)
