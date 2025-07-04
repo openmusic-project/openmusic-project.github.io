@@ -68,7 +68,7 @@ OpenMusic Tutorials
 
 [The Patch:](tut.gen.5.sgm#AEN2685)
 
-[Tutorial 6: Four basic operations on a 12-tone row](tut.gen.6.)
+[Tutorial 6: Four basic operations on a 12-tone row](tut.gen.6)
 
     
 
