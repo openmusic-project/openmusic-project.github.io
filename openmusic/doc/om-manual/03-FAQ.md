@@ -290,7 +290,7 @@ References :
 Plan :
 
   * [OpenMusic Documentation](OM-Documentation)
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
     * [Introduction](00-Sommaire)
       * [OpenMusic Presentation](01-Presentation)
       * [Additional Information](02-SupportAndPubs)

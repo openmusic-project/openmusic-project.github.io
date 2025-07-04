@@ -1,4 +1,4 @@
-Navigation : [Previous](OM-User-Manual "page précédente\(OM 6.6
+Navigation : [Previous](OM-User-Manual "page précédente\(OM
 User Manual\)") | [Next](01-Presentation "page
 suivante\(OpenMusic Presentation\)")
 
@@ -15,7 +15,7 @@ References :
 Plan :
 
   * [OpenMusic Documentation](OM-Documentation)
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
     * Introduction
       * [OpenMusic Presentation](01-Presentation)
       * [Additional Information](02-SupportAndPubs)
@@ -36,7 +36,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OM-User-Manual "page précédente\(OM 6.6
+Navigation : [Previous](OM-User-Manual "page précédente\(OM
 User Manual\)") | [Next](01-Presentation "page
 suivante\(OpenMusic Presentation\)")
 

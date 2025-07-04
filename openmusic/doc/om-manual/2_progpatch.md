@@ -56,7 +56,7 @@ instance, the (om+ x y) function has two arguments : x and y.
 Plan :
 
   * [OpenMusic Documentation](OM-Documentation)
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
   * [OpenMusic QuickStart](QuickStart-Chapters)
     * [Summary](Intro_1)
     * [Starting a Session](1_StartSession)

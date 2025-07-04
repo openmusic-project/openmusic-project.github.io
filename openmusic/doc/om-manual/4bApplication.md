@@ -53,7 +53,7 @@ Click and press `v` or `Cmd` click on an outlet.
 Plan :
 
   * [OpenMusic Documentation](OM-Documentation)
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
   * [OpenMusic QuickStart](QuickStart-Chapters)
     * [Summary](Intro_1)
     * [Starting a Session](1_StartSession)

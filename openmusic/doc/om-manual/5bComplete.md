@@ -35,7 +35,7 @@ midicents, C4# to 61, i.e. 6100 midicents, and so on.
 Plan :
 
   * [OpenMusic Documentation](OM-Documentation)
-  * [OM 6.6 User Manual](OM-User-Manual)
+  * [OM User Manual](OM-User-Manual)
   * [OpenMusic QuickStart](QuickStart-Chapters)
     * [Summary](Intro_1)
     * [Starting a Session](1_StartSession)
