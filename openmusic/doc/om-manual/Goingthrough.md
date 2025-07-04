@@ -9,11 +9,11 @@ session, from starting to quitting OM.
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * Going Through an OM Session
       * [Launching OM](Launching%20OM)

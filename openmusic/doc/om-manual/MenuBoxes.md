@@ -4,7 +4,7 @@ Navigation : [Previous](Slider "page précédente\(Slider Box\)") |
 
 # Selecting Items and Triggering Actions: Pop-Up Menu Box
 
-Sommaire
+Contents
 
   1. Features
   2. Settings
@@ -123,11 +123,11 @@ Choosing and Listening to a Sound with a Pop-Up-Menu Box
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

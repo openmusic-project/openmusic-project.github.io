@@ -5,7 +5,7 @@ Objects\)") | [Next](MIDIEvent "Next\(MIDI Events\)")
 # MIDI File
 
 
-Sommaire
+Contents
 
   1. Instantiation
   2. Editor
@@ -155,11 +155,11 @@ MIDI file and loading the file in a MIDIFile box.
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

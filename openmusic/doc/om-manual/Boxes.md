@@ -22,11 +22,11 @@ Operates upon 0 or more parameters and returns a value.
 A box used for creating an instance, or exemplar, of a given class within a
 visual program.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

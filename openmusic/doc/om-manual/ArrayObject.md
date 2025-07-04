@@ -4,7 +4,7 @@ Navigation : [Previous](ClassArray "page précédente\(Array\)") |
 
 # Class-Array Object
 
-Sommaire
+Contents
 
   1. Properties
   2. Rows and Columns
@@ -214,11 +214,11 @@ existing classes, or super-classes. Code is compartmentalized and reused by
 creating collections of attributes and behaviors called objects which can be
 based on previously created objects.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

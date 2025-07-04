@@ -29,11 +29,11 @@ References :
 A Lisp communication interface displaying results of computations, warnings or
 error messages, and where Lisp expressions - programs - can be evaluated.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

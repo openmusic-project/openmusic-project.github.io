@@ -135,11 +135,11 @@ A hybrid of visual program and sequencer, a programming unit provided with a
 time dimension, where musical material is organized in a time oriented
 structure.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

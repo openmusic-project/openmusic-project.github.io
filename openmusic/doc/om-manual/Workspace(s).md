@@ -170,11 +170,11 @@ to defining at least one method.
 For instance, the OM+ function is made of four methods : 1. number + list / 2.
 list + number / 3. number + number / 4. list + list
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
       * [Launching OM](Launching%20OM)

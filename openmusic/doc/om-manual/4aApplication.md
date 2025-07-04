@@ -74,7 +74,7 @@ Temporal position of an object.
 
 In a chord, each note can have a specific offset.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

@@ -95,11 +95,11 @@ OpenMusic's working environment. Each session starts with choosing a
 workspace, the equivalent of a desktop where programs are created and
 organized, and where items can be stored.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
       * Launching OM

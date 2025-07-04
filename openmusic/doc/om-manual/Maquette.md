@@ -5,7 +5,7 @@ Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
 # Creating a Maquette
 
 
-Sommaire
+Contents
 
   1. General Features
   2. Creating General Maquettes
@@ -169,11 +169,11 @@ References :
 A TemporalBox refers to an object in a maquette : an instance, a patch, or
 another maquette.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

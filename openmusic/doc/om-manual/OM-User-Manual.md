@@ -1,15 +1,15 @@
 Navigation : [Previous](OM-Documentation "page
-précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
+précédente\(OpenMusic Documentation\)") | [Next](00-Contents
 "Next\(Introduction\)")
 
-[ ](00-Sommaire) [](00-Sommaire) 
+[ ](00-Contents) [](00-Contents) 
 
 # OM User Manual
 
 This document is the kernel of the OpenMusic Software documentation. It is composed of the
 following sections :
 
-[**Introduction** ](00-Sommaire)
+[**Introduction** ](00-Contents)
 
 Basic concepts, entries to the user manual, additional information and
 publications.
@@ -83,11 +83,11 @@ Understanding and handling error messages.
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * OM User Manual
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)
@@ -105,6 +105,6 @@ Plan :
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
 Navigation : [Previous](OM-Documentation "page
-précédente\(OpenMusic Documentation\)") | [Next](00-Sommaire
+précédente\(OpenMusic Documentation\)") | [Next](00-Contents
 "Next\(Introduction\)")
 

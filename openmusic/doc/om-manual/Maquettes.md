@@ -35,11 +35,11 @@ including other containers as well. For instance, a chord-seq that contains
 chords, a chord that contains notes, a maquette that contains temporal
 objects, etc.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

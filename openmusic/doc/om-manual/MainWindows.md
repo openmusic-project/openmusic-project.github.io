@@ -4,7 +4,7 @@ suivante\(Preferences\)")
 
 # Windows of the OM Environment
 
-Sommaire
+Contents
 
   1. Workspace Window
   2. Lisp Listener
@@ -132,11 +132,11 @@ Contains functions or classes components belonging to a common category of
 programming items. Packages are provided at the installation of OM, but the
 can also be loaded dynamically or added by the user.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

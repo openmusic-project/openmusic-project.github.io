@@ -78,11 +78,11 @@ An instance of OM object that has been saved in order to be used in other
 programs. Global variables are visible from the `Library` window and stored as
 .omi files in the `Globals` folder of the workspace.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

@@ -4,7 +4,7 @@ suivante\(Elementary F.A.Q.\)")
 
 # Additional Supports and Publications
 
-Sommaire
+Contents
 
   1. OpenMusic website
   2. Discussion Groups
@@ -60,11 +60,11 @@ Editions Delatour France - IRCAM Centre Pompidou.
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
       * [OpenMusic Presentation](01-Presentation)
       * Additional Information
       * [Elementary F.A.Q.](03-FAQ)

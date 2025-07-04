@@ -37,7 +37,7 @@ See also : Atom.
 
 An elementary item, number, symbol, string. An atom can be part of a list.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

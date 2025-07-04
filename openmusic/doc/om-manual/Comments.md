@@ -5,7 +5,7 @@ and Info\)") | [Next](Pictures "Next\(Pictures\)")
 
 # Comments
 
-Sommaire
+Contents
 
   1. Creating a comment
   2. Editing a comment
@@ -154,11 +154,11 @@ New preferences will apply to new comments only.
   
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

@@ -110,11 +110,11 @@ In object oriented programming, a slot represents and attribute of a class.
 For instance, the class "note" in OM has 4 slots : pitch, duration, velocity,
 and MIDI channel.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

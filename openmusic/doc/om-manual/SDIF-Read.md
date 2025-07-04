@@ -4,7 +4,7 @@ Navigation : [Previous](SDIFFile "page précédente\(SDIFFile\)") |
 
 # Accessing SDIF Data
 
-Sommaire
+Contents
 
   1. File Overview / General Information
   2. Get SDIF Data
@@ -280,11 +280,11 @@ More About OM Representation of SDIF NVTs
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

@@ -12,11 +12,11 @@ Sous-sections :
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * System Configuration and Installation
       * [Mac OS X](InstallationMac)
       * [Windows](InstallationWindows)

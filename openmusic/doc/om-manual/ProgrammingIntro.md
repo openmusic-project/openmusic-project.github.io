@@ -75,11 +75,11 @@ A midicent is a unit representing one cent of the usual MIDI pitch unit, that
 is, a half-tone. For instance, a C4 corresponds to 60 in MIDI, and to 6000
 midicents, C4# to 61, i.e. 6100 midicents, and so on.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

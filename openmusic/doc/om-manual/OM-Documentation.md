@@ -25,7 +25,7 @@ which are not documented in this manual.
 
 References :
 
-Plan :
+Contents :
 
   * OpenMusic Documentation
   * [OM User Manual](OM-User-Manual)

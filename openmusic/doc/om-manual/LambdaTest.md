@@ -118,11 +118,11 @@ number by another. If two numbers,  a and  b , when divided by the same  n
 
 -> If remainder ( a  /  n ) = remainder ( b /  n ),  a =  b , modulo  n . 
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

@@ -5,7 +5,7 @@ Navigation : [Previous](Library "page précédente\(Library\)") |
 
 # Packages
 
-Sommaire
+Contents
 
   1. Packages of the Library Window
   2. Packages Content
@@ -197,11 +197,11 @@ structure, but with arguments typed differently.
 
 See also : Method
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

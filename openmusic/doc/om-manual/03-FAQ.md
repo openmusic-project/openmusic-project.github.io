@@ -287,11 +287,11 @@ What are the basis to start using OM ?
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
       * [OpenMusic Presentation](01-Presentation)
       * [Additional Information](02-SupportAndPubs)
       * Elementary F.A.Q.

@@ -5,7 +5,7 @@ Tools\)")
 
 # Designing an Iterative Process with the File-Box
 
-Sommaire
+Contents
 
   1. Getting Results : Finally
   2. InitDo : Performing Initial Operations
@@ -149,11 +149,11 @@ The **content of the text** displayed in the textfile box shows :
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

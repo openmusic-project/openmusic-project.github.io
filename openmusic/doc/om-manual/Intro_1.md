@@ -6,7 +6,7 @@ précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

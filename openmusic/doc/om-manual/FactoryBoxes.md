@@ -43,11 +43,11 @@ be saved as a global variable.
 ⤷ `SHIFT` click on an outlet - especially the first outlet representing the
 self, the whole object - of a factory box to materialize an instance.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

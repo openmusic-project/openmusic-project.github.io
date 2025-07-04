@@ -67,11 +67,11 @@ evaluation of an upstream box connected to it.
 A user evaluation triggers one or more internal evaluation of the box and of
 possible upstream boxes connected to it.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

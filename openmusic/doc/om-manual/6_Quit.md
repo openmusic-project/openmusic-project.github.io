@@ -1,6 +1,6 @@
 
 Navigation : [Previous](5dComplete "page précédente\(Comments\)")
-| [Next](OM-Documentation_1 "Next\(Plan\)")
+| [Next](OM-Documentation_1 "Next\(Contents\)")
 
 # Saving and Quitting OM
 
@@ -18,7 +18,7 @@ Voir aussi
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -32,5 +32,5 @@ Plan :
     * Saving and Quitting OM
 
 Navigation : [Previous](5dComplete "page précédente\(Comments\)")
-| [Next](OM-Documentation_1 "Next\(Plan\)")
+| [Next](OM-Documentation_1 "Next\(Contents\)")
 

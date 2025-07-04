@@ -1,13 +1,14 @@
+Navigation : [Previous](OM-User-Manual "page précédente\(OM
+User Manual\)") | [Next](01-Presentation "page
+suivante\(OpenMusic Presentation\)")
 
-Navigation : [Previous](Tools "page précédente\(BPF / BPC
-Tools\)") | [Next](3DC "Next\(3DC\)")
-
-# 3D Objects
+# Introduction
 
 Sous-sections :
 
-  * [3DC](3DC)
-  * [3DC-Lib](3DC-Lib)
+  * [OpenMusic Presentation](01-Presentation)
+  * [Additional Information](02-SupportAndPubs)
+  * [Elementary F.A.Q.](03-FAQ)
 
 References :
 
@@ -15,24 +16,16 @@ Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Contents)
+    * Introduction
+      * [OpenMusic Presentation](01-Presentation)
+      * [Additional Information](02-SupportAndPubs)
+      * [Elementary F.A.Q.](03-FAQ)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)
     * [Visual Programming I](BasicVisualProgramming)
     * [Visual Programming II](AdvancedVisualProgramming)
     * [Basic Tools](BasicObjects)
-      * [Curves and Functions](CurvesAndFunctions)
-        * [BPF / BPC](BPF-BPC)
-        * [BPF/BPC-Libs](MultiBPF)
-        * [Editors](BPFEditors)
-        * [BPF / BPC Tools](Tools)
-        * 3D Objects
-          * [3DC](3DC)
-          * [3DC-Lib](3DC-Lib)
-      * [Array](ClassArray)
-      * [TextFile](textfile)
-      * [Picture](Picture)
     * [Score Objects](ScoreObjects)
     * [Maquettes](Maquettes)
     * [Sheet](Sheet)
@@ -43,6 +36,7 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Tools "page précédente\(BPF / BPC
-Tools\)") | [Next](3DC "Next\(3DC\)")
+Navigation : [Previous](OM-User-Manual "page précédente\(OM
+User Manual\)") | [Next](01-Presentation "page
+suivante\(OpenMusic Presentation\)")
 

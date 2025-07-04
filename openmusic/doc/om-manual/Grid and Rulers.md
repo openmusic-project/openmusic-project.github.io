@@ -158,11 +158,11 @@ Memento :
 4, ![](../res/16_icon.png)= 8, ![](../res/32_icon.png)= 16,
 ![](../res/641_icon.png)= 32, ![](../res/128_icon.png)= 64
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

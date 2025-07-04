@@ -4,7 +4,7 @@ Boxes\)") | [Next](SlotsBox "Next\(Slots\)")
 
 # Global Variables
 
-Sommaire
+Contents
 
   1. General Properties
   2. Using a Global Variable
@@ -159,11 +159,11 @@ an instance of a class.
 
 See also : Object, Instance
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

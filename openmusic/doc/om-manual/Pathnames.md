@@ -186,11 +186,11 @@ Corresponds to the "directory'' concept in many host file systems: the name of
 a group of related files (typically those belonging to a single user or
 project).
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

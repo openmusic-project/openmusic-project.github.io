@@ -30,7 +30,7 @@ A pop up menu that allows to choose actions to be performed upon an object.
 
 ⤷ `Ctrl` click or right click in an OM window or on one of its item.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

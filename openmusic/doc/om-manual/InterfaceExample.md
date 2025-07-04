@@ -76,11 +76,11 @@ Converts a note name or list of note names into corresponding midi cents
 values. The reference is the standard notation, where the medium C (6000
 midicents) = C3.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

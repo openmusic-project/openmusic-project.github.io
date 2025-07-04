@@ -214,11 +214,11 @@ note can be considered a chord.
 An argument represents a parameter upon which a function operates. For
 instance, the (om+ x y) function has two arguments : x and y.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

@@ -42,7 +42,7 @@ organized, and where items can be stored.
 A Lisp communication interface displaying results of computations, warnings or
 error messages, and where Lisp expressions - programs - can be evaluated.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

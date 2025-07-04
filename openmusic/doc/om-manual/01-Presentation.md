@@ -1,10 +1,10 @@
-Navigation : [Previous](00-Sommaire "page
+Navigation : [Previous](00-Contents "page
 précédente\(Introduction\)") | [Next](02-SupportAndPubs "page
 suivante\(Additional Information\)")
 
 # OpenMusic Presentation
 
-Sommaire
+Contents
 
   1. Visual Programs
   2. List Processing
@@ -70,11 +70,11 @@ Some functions, called ** generic functions **, consist of a set of
 
 References :
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
       * OpenMusic Presentation
       * [Additional Information](02-SupportAndPubs)
       * [Elementary F.A.Q.](03-FAQ)
@@ -94,7 +94,7 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](00-Sommaire "page
+Navigation : [Previous](00-Contents "page
 précédente\(Introduction\)") | [Next](02-SupportAndPubs "page
 suivante\(Additional Information\)")
 

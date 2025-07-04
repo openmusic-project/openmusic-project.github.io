@@ -4,7 +4,7 @@ Configuration and Installation\)") | [Next](InstallationWindows
 
 # Mac OS X
 
-Sommaire
+Contents
 
   1. System Configuration
   2. Installation
@@ -117,11 +117,11 @@ References :
 A library is a set of tools, or framework, used by an application - like OM -
 to execute specific tasks.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
       * Mac OS X
       * [Windows](InstallationWindows)

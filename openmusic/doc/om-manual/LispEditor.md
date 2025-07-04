@@ -149,11 +149,11 @@ package name (or "nickname"), separated by " : :", before the usual name ( Ex.
 The default package in OM is "OPENMUSIC" or "OM". The default package in
 Common Lisp is "CL-USER".
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

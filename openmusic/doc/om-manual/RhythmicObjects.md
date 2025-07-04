@@ -131,11 +131,11 @@ subdivisions.
 For instance the second beat in our measure could be subdivided as follows :
 ((4 4) (1 (1 (2 3)) 2)).
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
-    * [Introduction](00-Sommaire)
+    * [Introduction](00-Contents)
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
     * [The OM Environment](Environment)

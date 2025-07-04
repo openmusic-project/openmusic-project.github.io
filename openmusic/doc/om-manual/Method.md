@@ -55,7 +55,7 @@ Lisp functions cannot be open in the OM graphic interface.
 
 References :
 
-Plan :
+Contents :
 
   * Methods
 

@@ -50,7 +50,7 @@ triggers the calculus that will determine the value of these expressions.
 Any kind of box can be evaluated and return something. To evaluate a box, ⤷
 Click and press `v` or `Cmd` click on an outlet.
 
-Plan :
+Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
