@@ -1,6 +1,6 @@
 OpenMusic Tutorials  
 ---  
-[Prev](tut.gen.6.)| Chapter 1. Using Musical Objects I|
+[Prev](tut.gen.6)| Chapter 1. Using Musical Objects I|
 [Next](tut.gen.8.sgm)  
   
 * * *
@@ -74,7 +74,7 @@ probably see some more notes change to the more exact 8th-tone temperament.
 
 * * *
 
-[Prev](tut.gen.6.)| [Home](index)| [Next](tut.gen.8.sgm)  
+[Prev](tut.gen.6)| [Home](index)| [Next](tut.gen.8.sgm)  
 ---|---|---  
 Tutorial 6: Four basic operations on a 12-tone row| [Up](tut.gen.1-9)|
 Tutorial 8: Construction of a harmonic series

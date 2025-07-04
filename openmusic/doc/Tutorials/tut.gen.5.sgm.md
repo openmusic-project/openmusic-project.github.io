@@ -1,7 +1,7 @@
 OpenMusic Tutorials  
 ---  
 [Prev](tut.gen.4.sgm)| Chapter 1. Using Musical Objects I|
-[Next](tut.gen.6.)  
+[Next](tut.gen.6)  
   
 * * *
 
@@ -48,7 +48,7 @@ from the pull-down menu)
 
 * * *
 
-[Prev](tut.gen.4.sgm)| [Home](index)| [Next](tut.gen.6.)  
+[Prev](tut.gen.4.sgm)| [Home](index)| [Next](tut.gen.6)  
 ---|---|---  
 Tutorial 4: Inverting an interval II| [Up](tut.gen.1-9)| Tutorial 6: Four
 basic operations on a 12-tone row

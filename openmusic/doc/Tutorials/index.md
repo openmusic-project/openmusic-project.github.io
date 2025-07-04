@@ -53,7 +53,7 @@ it yourself. This is useful since OM has no Undo function.
 
 [Tutorial 5: Retrograde](tut.gen.5.sgm)
 
-[Tutorial 6: Four basic operations on a 12-tone row](tut.gen.6.)
+[Tutorial 6: Four basic operations on a 12-tone row](tut.gen.6)
 
 [Tutorial 7: Changing melodic contour](tut.gen.7.sgm)
 

@@ -72,13 +72,13 @@ OpenMusic Tutorials
 
     
 
-[Topics](tut.gen.6.#AEN2708)
+[Topics](tut.gen.6#AEN2708)
 
-[Key Modules Used](tut.gen.6.#AEN2711)
+[Key Modules Used](tut.gen.6#AEN2711)
 
-[The Concept:](tut.gen.6.#AEN2728)
+[The Concept:](tut.gen.6#AEN2728)
 
-[The Patch:](tut.gen.6.#AEN2732)
+[The Patch:](tut.gen.6#AEN2732)
 
 [Tutorial 7: Changing melodic contour](tut.gen.7.sgm)
 
