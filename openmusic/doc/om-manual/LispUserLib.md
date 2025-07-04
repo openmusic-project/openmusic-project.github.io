@@ -4,15 +4,9 @@ Navigation : [Previous](LowLevel "page précédente\(Lisp Tools\)")
 
 # Writing an OM Library
 
-See [](../../dev/userlib) 
+See [Writing User Libraries](../../dev/userlib) 
 
-See[](http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/userlibrary "http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/userlibrary \(nouvelle fenêtre\)")
-[http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/userlibrary](http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/userlibrary "http://recherche.ircam.fr/equipes/repmus/OpenMusic/dev-
-doc/userlibrary \(nouvelle fenêtre\)")
+
 
 References :
 

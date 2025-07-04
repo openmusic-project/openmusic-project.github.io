@@ -5,8 +5,8 @@ Lisp\)")
 # Lisp Programming
 
 OpenMusic is a visual programming language entirely built on top of the
-[Common Lisp](http://www.cs.cmu.edu/Groups/AI/cltl/cltl2
-"http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 \(nouvelle fenêtre\)")
+[Common Lisp](https://common-lisp.net/
+"https://common-lisp.net/ \(nouvelle fenêtre\)")
 programming language. Hence, the visual environment can be linked with this
 underlying language in many different ways.
 

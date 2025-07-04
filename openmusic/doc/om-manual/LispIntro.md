@@ -33,8 +33,8 @@ Links of Interest
 For a more complete overview of the language, the reader should consult
 specialized books or references. Here are some links of interest :
 
-  * [Common Lisp the Language, 2nd edition](http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 "http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 \(nouvelle fenêtre\)")  : a reference book on the common Lisp standard by Guy L. Steele
-  * [Lisp as a second language, composing programs and music](http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index "http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index \(nouvelle fenêtre\)")  : a music-oriented tutorial by Peter Desain and Henkjan Honing
+  * [Common Lisp the Language, 2nd edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html "http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html \(nouvelle fenêtre\)")  : a reference book on the common Lisp standard by Guy L. Steele
+  * [Lisp as a second language, composing programs and music](http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index.html "http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index.html \(nouvelle fenêtre\)")  : a music-oriented tutorial by Peter Desain and Henkjan Honing
 
 ## S-expressions
 
