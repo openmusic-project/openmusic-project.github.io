@@ -1,4 +1,4 @@
-Navigation : [Previous](Workspace\(s\) "page
+Navigation : [Previous](Workspace(s) "page
 précédente\(Workspace(s) Management\)") | [Next](Environment
 "Next\(The OM Environment\)")
 
@@ -60,7 +60,7 @@ Contents :
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
       * [Launching OM](Launching%20OM)
-      * [Workspace(s) Management](Workspace\(s\))
+      * [Workspace(s) Management](Workspace(s))
       * Quitting OM and Saving
     * [The OM Environment](Environment)
     * [Visual Programming I](BasicVisualProgramming)
@@ -76,7 +76,7 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Workspace\(s\) "page
+Navigation : [Previous](Workspace(s) "page
 précédente\(Workspace(s) Management\)") | [Next](Environment
 "Next\(The OM Environment\)")
 

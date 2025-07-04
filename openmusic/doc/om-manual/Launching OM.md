@@ -66,7 +66,7 @@ available for a first use.
 Workspace(s) in the OM Environment, Workspaces Management :
 
   * [Workspace](Workspace)
-  * [Workspace(s) Management](Workspace\(s\))
+  * [Workspace(s) Management](Workspace(s))
 
 Former Ircam Workspaces
 
@@ -103,7 +103,7 @@ Contents :
     * [System Configuration and Installation](Installation)
     * [Going Through an OM Session](Goingthrough)
       * Launching OM
-      * [Workspace(s) Management](Workspace\(s\))
+      * [Workspace(s) Management](Workspace(s))
       * [Quitting OM and Saving](QuittingSaving)
     * [The OM Environment](Environment)
     * [Visual Programming I](BasicVisualProgramming)

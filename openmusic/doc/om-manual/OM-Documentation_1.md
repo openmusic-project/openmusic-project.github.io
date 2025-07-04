@@ -9,7 +9,7 @@
       * [Windows](InstallationWindows)
     * [Going Through an OM Session](Goingthrough)
       * [Launching OM](Launching%20OM)
-      * [Workspace(s) Management](Workspace\(s\))
+      * [Workspace(s) Management](Workspace(s))
       * [Quitting OM and Saving](QuittingSaving)
     * [The OM Environment](Environment)
       * [Environment Windows](MainWindows)
