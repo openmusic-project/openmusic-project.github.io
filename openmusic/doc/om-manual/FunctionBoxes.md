@@ -196,6 +196,7 @@ The Generic Function Editor
 Editing the OM sources
 
   * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
 
   * (Sometimes) in the reference documentation of the function (typing `d`)
 
@@ -301,8 +302,8 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
-    * [Reactive mode](Reactive)
     * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 

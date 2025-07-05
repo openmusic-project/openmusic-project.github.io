@@ -46,6 +46,7 @@ Contents :
       * [SDIF Classes](SDIF-Classes)
       * [Writing SDIF Files](SDIF-Write)
     * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 

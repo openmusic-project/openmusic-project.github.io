@@ -1,6 +1,6 @@
-Navigation : [Previous](SDIF-Write "page
-précédente\(SDIF-Buffer\)") | [Next](03-FAQ "page
-suivante\(Elementary F.A.Q.\)")
+Navigation : [Previous](LispForOM "page
+précédente\(Writing Code for OM\)") | [Next](errors "page
+suivante\(Errors and Problems\)")
 
 
 
@@ -106,12 +106,12 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
-    * [Reactive mode](Reactive)
     * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](SDIF-Write "page
-précédente\(SDIF-Buffer\)") | [Next](Lisp "page
-suivante\(Lisp Programming\)")
+Navigation : [Previous](LispForOM "page
+précédente\(Writing Code for OM\)") | [Next](errors "page
+suivante\(Errors and Problems\)")
 

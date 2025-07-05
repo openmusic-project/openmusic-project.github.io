@@ -114,8 +114,8 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
-    * [Reactive mode](Reactive)
     * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 

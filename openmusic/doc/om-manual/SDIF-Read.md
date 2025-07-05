@@ -297,13 +297,13 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
-    * [Reactive mode](Reactive)
       * [Introduction to SDIF](SDIF-Intro)
       * [SDIFFile](SDIFFile)
       * Accessing SDIF Data
       * [SDIF Classes](SDIF-Classes)
       * [Writing SDIF Files](SDIF-Write)
     * [Lisp Programming](Lisp)
+    * [Reactive mode](Reactive)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
