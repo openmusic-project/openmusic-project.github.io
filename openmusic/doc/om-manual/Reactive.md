@@ -4,7 +4,7 @@ suivante\(Errors and Problems\)")
 
 
 
-## Reactive visual programs in OM
+# Reactive visual programs in OM
 
 
 The reactive mode in OM is an intermediate model for visual programming inheriting both from the off-line, demand-driven, computation paradigm of OpenMusic, and the reactive features of interactive/real-time systems. 
@@ -16,7 +16,7 @@ It is based on the existing OM semantics and conservative with regard to this se
 The OM reactive mode is available in OM >= 6.9.
 
 
-### How to Use It:
+## How to Use It:
 
 <img src="../res/reactive-boxes.png" width="200px" align="right">
 
@@ -43,7 +43,7 @@ Modifications can be:
 
   * In order to check what is going on, you can use a reactive `print` or `text-box` and connect it to your patch.
 
-### Receiving from external applications: 
+## Receiving from external applications: 
 
 <img src="../res/om-receive.png" width="320px" align="right">
 
@@ -67,13 +67,13 @@ This feature is compatible with the existing "lambda pre-processing" of incoming
 
 
 
-### Example: Collecting/processing incoming MIDI using MIDI-IN
+## Example: Collecting/processing incoming MIDI using MIDI-IN
 
 <img src="../res/midi-in.png" width="750px">
 
 
 ------
-### Resources
+## Resources
 
   * J. Bresson, J.-L. Giavitto (2014) [A reactive extension of the OpenMusic visual programming language](https://hal.archives-ouvertes.fr/hal-00965747), Journal of Visual Languages and Computing.       
   _This paper gives a formal semantics of the reactive model in OM, as well as preliminary orientation for its implementation. An extended state of the art and study of related works is given._

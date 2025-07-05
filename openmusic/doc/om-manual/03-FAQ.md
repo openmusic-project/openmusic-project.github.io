@@ -66,7 +66,7 @@ What are the basis to start using OM ?
 
 [ How can I personalize my working environment ?](Preferences)
 
-  * **E** **rror / Crash** [](errors)
+  * **Error / Crash** [](errors)
 
 [ What do I do if an error occurs ?](errors)
 
