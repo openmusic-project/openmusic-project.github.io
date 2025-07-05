@@ -188,6 +188,7 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
+    * [Reactive mode](Reactive)
     * [Lisp Programming](Lisp)
       * Introduction to Lisp
       * [The Lisp Editor](LispEditor)

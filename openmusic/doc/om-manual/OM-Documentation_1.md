@@ -235,6 +235,7 @@
       * [External Libraries](Externals)
       * [Audio Preferences](SoundPreferences)
     * [SDIF](SDIF)
+    * [Reactive mode](Reactive)
       * [Introduction to SDIF](SDIF-Intro)
       * [SDIFFile](SDIFFile)
       * [Accessing SDIF Data](SDIF-Read)

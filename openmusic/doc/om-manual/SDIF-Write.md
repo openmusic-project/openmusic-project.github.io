@@ -84,6 +84,7 @@ Contents :
     * [MIDI](MIDI)
     * [Audio](Audio)
     * [SDIF](SDIF)
+    * [Reactive mode](Reactive)
       * [Introduction to SDIF](SDIF-Intro)
       * [SDIFFile](SDIFFile)
       * [Accessing SDIF Data](SDIF-Read)

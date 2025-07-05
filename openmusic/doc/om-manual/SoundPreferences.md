@@ -128,6 +128,7 @@ Contents :
       * [External Libraries](Externals)
       * Audio Preferences
     * [SDIF](SDIF)
+    * [Reactive mode](Reactive)
     * [Lisp Programming](Lisp)
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
