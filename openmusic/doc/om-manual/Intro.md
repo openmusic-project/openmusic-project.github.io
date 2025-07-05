@@ -27,11 +27,11 @@ About MIDI
 
 ### Score player selection
 
-<img src="./images/box-menu.png" width="240px" align="right">
+<img src="../res/box-menu.png" width="240px" align="right">
 
 It is possible to choose among different **players** for your score objects (chord, chord-seq, voice, etc.)  
 
-The selection of a player can be done using the _player_ button <img src="./images/player-button.png" width="25px" style="margin: 0px;"> on the tool-bar of the editors, or by right/ctrl-clicking the boxes and using the "Player" menu.
+The selection of a player can be done using the _player_ button <img src="../res/player-button.png" width="25px" style="margin: 0px;"> on the tool-bar of the editors, or by right/ctrl-clicking the boxes and using the "Player" menu.
 
 Select the **OM MIDI player** to render the object via MIDI
 
@@ -42,7 +42,7 @@ Select the **OM MIDI player** to render the object via MIDI
 
 ### MIDI setup in OM Preferences
 
-<img src="./images/midi-prefs-612.png" width="300px" align="right">
+<img src="../res/midi-prefs-612.png" width="300px" align="right">
 
 Most of the MIDI settings are in the **MIDI** tab of OM Preferences.
 
@@ -60,7 +60,7 @@ My personal pick for quick and easy testing and playback on MacOSX is **[SimpleS
 
 When you click on the setup button, the following dialog appears, which allows to select devices and synthesizers to connect to your MIDI ports.
 
-<img src="./images/portmidi-setup-612.png" width="650px">
+<img src="../res/portmidi-setup-612.png" width="650px">
 
 => **Add in/out ports using the `+` button (remove them with the `-` buttons).**    
 For the moment you might be interested in **one OUT port only (#0)**.
