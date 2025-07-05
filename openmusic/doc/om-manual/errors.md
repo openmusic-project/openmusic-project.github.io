@@ -1,5 +1,4 @@
-Navigation : [Previous](LispForOM "page précédente\(Writing Code
-for OM\)") | [Next](QuickStart-Chapters "page
+Navigation : [Previous](Reactive "page précédente\(Reactive visual programs in OM\)") | [Next](QuickStart-Chapters "page
 suivante\(OpenMusic QuickStart\)")
 
 # Errors and Problems
@@ -86,7 +85,6 @@ Contents :
     * Errors and Problems
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LispForOM "page précédente\(Writing Code
-for OM\)") | [Next](QuickStart-Chapters "page
+Navigation : [Previous](Reactive "page précédente\(Reactive visual programs in OM\)") | [Next](QuickStart-Chapters "page
 suivante\(OpenMusic QuickStart\)")
 

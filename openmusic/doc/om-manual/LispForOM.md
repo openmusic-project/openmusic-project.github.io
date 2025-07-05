@@ -1,6 +1,5 @@
 Navigation : [Previous](LispUserLib "page précédente\(Writing an
-OM Library\)") | [Next](errors "Next\(Errors and
-Problems\)")
+OM Library\)") | [Next](Reactive "Next\(Reactive visual programs in OM\)")
 
 # Writing Code for OM
 
@@ -39,6 +38,5 @@ Contents :
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
 Navigation : [Previous](LispUserLib "page précédente\(Writing an
-OM Library\)") | [Next](errors "Next\(Errors and
-Problems\)")
+OM Library\)") | [Next](Reactive "Next\(Reactive visual programs in OM\)")
 

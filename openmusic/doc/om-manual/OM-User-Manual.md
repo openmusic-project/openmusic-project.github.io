@@ -77,6 +77,11 @@ Using (and understanding) the SDIF sound description data in OM.
 
 How to program in Lisp and integrate Lisp code in the OM environment.
 
+ [ **Chater 14 : The Reactive mode in OM**](Reactive)
+
+The reactive mode in OM is an intermediate model for visual programming
+based on a "dataflow-oriented" approach. 
+
  [ **Errors and Problems** ](errors)
 
 Understanding and handling error messages.
