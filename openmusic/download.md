@@ -1,7 +1,7 @@
 
 # Download and Installation
 
-**Get the latest OM6 release here:** [https://github.com/openmusic-project/OM6/releases](https://github.com/openmusic-project/OM6/releases)
+**Get the latest OpenMusic release here:** [https://github.com/openmusic-project/releases](https://github.com/openmusic-project/releases)
 
 
 Please check back every now and then for new builds, fixes and new features -- and be sure to follow announcements on the various forums.
@@ -10,8 +10,8 @@ Please direct bug-reports, questions and feedback to the [discussion forum](http
 
 ### License and sources distribution
 
-OM sources are free and [available](https://github.com/openmusic-project/OM6/) under the GNU Public License (GPL). 
-They can be compiled on compatible Lisp platforms using [LispWorks](http://www.lispworks.com/), for which IRCAM owns professional distribution license. Currently LispWork provides no free personal version of LW 7.1 required to compile OM.
+OM sources are free and [available](https://github.com/openmusic-project/openmusic/) under the GNU Public License (GPL). 
+They can be compiled on compatible Lisp platforms using [LispWorks](http://www.lispworks.com/), for which IRCAM owns professional distribution license. Currently LispWork provides a [personal version] (https://www.lispworks.com/downloads/index.html) of LW required to load OM.
 
 
 
@@ -23,8 +23,6 @@ Multiple versions of OM are allowed (installation will not override previous ver
 
 OM relies on a number of external libraries that are all included in the application bundle (_OM 6x.x/Contents/Frameworks/_).
 
-
-> **Known issue with MacOS 10.10 (Yosemite):** if you get a message like _Foreign function libsndfile::\|%cffi-foreign-function/SF_OPEN\| trying to call unresolved external function "sf_open"_ when trying to load a sound file in OM, you need to open your OM 6.xx.app package (right-click + open package folder) and replace [libsndfile.dylib](http://repmus.ircam.fr/_media/openmusic/fixpatches/libsndfile.dylib.zip) in _Contents/Frameworks/_.
 
 
 ## Windows 
