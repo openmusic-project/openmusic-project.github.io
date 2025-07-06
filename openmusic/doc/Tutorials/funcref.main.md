@@ -352,7 +352,7 @@ based addressing
 
 [sin](sin) \-- returns the sine of `_radians_`
 
-[sort.](sort.) \-- returns a sorted list according to a test
+[sort.](sort) \-- returns a sorted list according to a test
 
 [sqr](sqr) \-- returns the square of `_n_`
 

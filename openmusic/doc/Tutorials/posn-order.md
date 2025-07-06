@@ -37,7 +37,7 @@ list (the first is considered the 0th element.
 
 Generates an index or ordinal positions for a given sort function. The
 function or symbol at `_test_` is used to sort the list, as in the [`sort.`
-function](sort.). However, instead of returning the sorted list, `posn-
+function](sort). However, instead of returning the sorted list, `posn-
 order` returns an index of the operation- a list of numbers indicating the
 ordinal positions that the elements would have in the new list after the
 sorting is performed.

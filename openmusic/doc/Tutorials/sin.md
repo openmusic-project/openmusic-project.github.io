@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](sequence)| | [Next](sort.)  
+[Prev](sequence)| | [Next](sort)  
   
 * * *
 
@@ -36,7 +36,7 @@ Computes the sine of the angle `_radians_` , expressed in radians.
 
 * * *
 
-[Prev](sequence)| [Home](index)| [Next](sort.)  
+[Prev](sequence)| [Home](index)| [Next](sort)  
 ---|---|---  
 sequence| [Up](funcref.main)| sort.
 

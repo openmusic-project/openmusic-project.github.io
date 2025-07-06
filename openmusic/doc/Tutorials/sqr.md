@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](sort.)| | [Next](sqrt)  
+[Prev](sort)| | [Next](sqrt)  
   
 * * *
 
@@ -36,7 +36,7 @@ Returns the square of `_n_` , i.e. `_n_` times itself.
 
 * * *
 
-[Prev](sort.)| [Home](index)| [Next](sqrt)  
+[Prev](sort)| [Home](index)| [Next](sqrt)  
 ---|---|---  
 sort.| [Up](funcref.main)| sqrt
 

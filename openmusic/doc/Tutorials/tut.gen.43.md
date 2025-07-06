@@ -15,7 +15,7 @@ Using musical classes as data types for [_methods_](glossary#METHOD)
 
 ## Key Modules Used
 
-[`x-append`](x-append), [`sort.`](sort.), [`remove-dup`](remove-
+[`x-append`](x-append), [`sort.`](sort), [`remove-dup`](remove-
 dup), [**Note**](note), [**Chord**](chord)
 
 ## The Concept:
@@ -87,7 +87,7 @@ and will sort all notes from lowest to highest.
 First, we create the new method and drag the [**Chord**](chord) classes
 from the `Packages` folder to the inputs. We connect the `_lmidic_` output of
 both to the [`x-append`](x-append) function, which combines the midics
-into a single list. Then we connect that to [`sort.`](sort.) (note the
+into a single list. Then we connect that to [`sort.`](sort) (note the
 period at the end of the name) which will arrange them, by default, in
 ascending order. Next, they are passed to [`remove-dup`](remove-dup),
 which, by default, removes duplicate elements from the list. Now we're ready

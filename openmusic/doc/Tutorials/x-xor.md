@@ -70,7 +70,7 @@ This function is not commutative; the list elements will not be compared in
 the same order if the lists are reversed, and the output, while containing the
 same elements regardless, will not contain them in the same order. If you need
 to be sure that the resulting list is always in the same order regardless of
-input, use the [`sort.`](sort.) function.  
+input, use the [`sort.`](sort) function.  
   
 ---|---  
   
