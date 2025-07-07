@@ -1,7 +1,7 @@
 Navigation :
 
   * [Guide](OM-Documentation)
-  * [Plan](OM-Documentation_1)
+  * [Contents](OM-Documentation_1)
   * Glossary
 
 
@@ -23,24 +23,10 @@ An absolute pathname, also referred to as an absolute path or a full path, is
 the location of a filesystem object - file, directory or link- relative to the
 **root directory**.
 
-Referents...
+See also :
 
   * [Pathnames](Pathnames)
 
-    
-
-### Abstraction
-
-Abstraction is a procedure that permits to abstract a program, that is, a
-process, a patch, into a box that can then be used into another program. In
-other words, an abstraction box represents a patch in another patch and acts
-as a function.
-
-Referents...
-
-  * [Abstraction Boxes](AbsBoxesIntro#i4)
-
-    
 
 ### Abstraction
 
@@ -54,18 +40,33 @@ Abstraction aims at using a program as a  **function** within another program.
   * From a formal view, an abstraction results from the  **conversion of one or several elements of a program into variables** . 
   * Consequently, in practical terms, an abstraction must have at least one outlet to ** communicate with the external environment **. 
 
-Referents...
+See also :
 
   * [Abstraction](Abstraction#i0)
 
     
+  
+
+### Abstraction Boxes
+
+Abstraction is a procedure that permits to abstract a program, that is, a
+process, a patch, into a box that can then be used into another program. In
+other words, an abstraction box represents a patch in another patch and acts
+as a function.
+
+See also :
+
+  * [Abstraction Boxes](AbsBoxesIntro#i4)
+
+    
+
 
 ### Argument
 
 An argument represents a parameter upon which a function operates. For
 instance, the (om+ x y) function has two arguments : x and y.
 
-Referents...
+See also :
 
   * [Function Boxes](FunctionBoxes#i5)
   * [Function Boxes](FunctionBoxes#i6)
@@ -80,7 +81,7 @@ Referents...
 
 An elementary item, number, symbol, string. An atom can be part of a list.
 
-Referents...
+See also :
 
   * [Formalizing a Process](4cApplication#i2)
 
@@ -91,7 +92,7 @@ Referents...
 A "break-point" function is a function defined by a finite number of points
 (x,y).
 
-Referents...
+See also :
 
   * [BPF / BPC](BPF-BPC#i2)
 
@@ -138,7 +139,7 @@ NTHCDR 3 (A B C D) = (D).
 
 And so on...
 
-Referents...
+See also :
 
   * [Type Predicates](PredTypes#i2)
   * [Type Predicates](PredTypes#i3)
@@ -153,7 +154,7 @@ Referents...
 OM name of a chord sequence. By extension, a note sequence, since a single
 note can be considered a chord.
 
-Referents...
+See also :
 
   * [Instantiating Objects](2-Instanciation#i6)
 
@@ -168,7 +169,7 @@ an instance of a class.
 
 See also : Object, Instance
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i8)
   * [Library](Library#i0)
@@ -191,7 +192,7 @@ functions and methods to be used in Lisp programs.
 
 See also : Class, Function, Generic Function, Method, Instance.
 
-Referents...
+See also :
 
   * [Function Boxes](FunctionBoxes#i9)
 
@@ -207,7 +208,7 @@ OM offers two conditional operators : ** omif ** and ** **conditional** **,
 which operate according to the following paradigm : "IF A, THEN do B, ELSE do
 C".
 
-Referents...
+See also :
 
   * [Conditional Operators](ConditionalOps#i0)
 
@@ -220,7 +221,7 @@ including other containers as well. For instance, a chord-seq that contains
 chords, a chord that contains notes, a maquette that contains temporal
 objects, etc.
 
-Referents...
+See also :
 
   * [Maquettes](Maquettes#i0)
 
@@ -232,7 +233,7 @@ A pop up menu that allows to choose actions to be performed upon an object.
 
 ⤷ `Ctrl` click or right click in an OM window or on one of its item.
 
-Referents...
+See also :
 
   * [Comments](5dComplete#i1)
 
@@ -243,7 +244,7 @@ Referents...
 Reducing the number of arguments of a lambda function by assigning values to
 some of them.
 
-Referents...
+See also :
 
   * [Higher-Order Functions](HighOrder#i3)
 
@@ -260,7 +261,7 @@ Corresponds to the "directory'' concept in many host file systems: the name of
 a group of related files (typically those belonging to a single user or
 project).
 
-Referents...
+See also :
 
   * [Pathnames](Pathnames#i9)
 
@@ -277,7 +278,7 @@ triggers the calculus that will determine the value of these expressions.
 Any kind of box can be evaluated and return something. To evaluate a box, ⤷
 Click and press `v` or `Cmd` click on an outlet.
 
-Referents...
+See also :
 
   * [Boxes Features](GraphicFeatures#i6)
   * [Introduction to Lisp](LispIntro#i4)
@@ -292,7 +293,7 @@ Referents...
 A box used for creating an instance, or exemplar, of a given class within a
 visual program.
 
-Referents...
+See also :
 
   * [Boxes](Boxes#i1)
   * [Boxes Features](GraphicFeatures#i3)
@@ -306,7 +307,7 @@ A first-class object is an entity which can be passed as a parameter to a
 function, returned from a function, or assigned into the variable of a
 program.
 
-Referents...
+See also :
 
   * [Higher-Order Functions](HighOrder#i2)
 
@@ -317,7 +318,7 @@ Referents...
 A  portion of code within a larger program, which performs a specific task.
 Operates upon 0 or more parameters and returns a value.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i9)
   * [Library](Library#i1)
@@ -337,7 +338,7 @@ must have inputs or outputs that can be connected to external variable
 elements. The resulting functional abstraction can then be embedded into other
 programs to be used as a functional component.
 
-Referents...
+See also :
 
   * [Abstraction Boxes](AbsBoxesIntro#i2)
   * [Abstraction Boxes](AbsBoxesIntro#i3)
@@ -358,7 +359,7 @@ structure, but with arguments typed differently.
 
 See also : Method
 
-Referents...
+See also :
 
   * [Packages](Packages#i9)
   * [Function Boxes](FunctionBoxes#i8)
@@ -371,7 +372,7 @@ An instance of OM object that has been saved in order to be used in other
 programs. Global variables are visible from the `Library` window and stored as
 .omi files in the `Globals` folder of the workspace.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i6)
   * [Packages](Packages#i7)
@@ -399,7 +400,7 @@ a quintuplet.
 
 ![](../res/group1_icon.png)
 
-Referents...
+See also :
 
   * [Rhythm Trees Structure](RT1#i3)
 
@@ -418,7 +419,7 @@ be saved as a global variable.
 ⤷ `SHIFT` click on an outlet - especially the first outlet representing the
 self, the whole object - of a factory box to materialize an instance.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i7)
   * [Objects - Factory Boxes](FactoryBoxes#i1)
@@ -437,7 +438,7 @@ Referents...
 An instance is an exemplar of a class of objects. Instantiation is the process
 of creating an instance of a class using a factory box.
 
-Referents...
+See also :
 
   * [Instantiating Objects](2-Instanciation#i2)
 
@@ -448,7 +449,7 @@ Referents...
 Evaluation of a box by OM, triggered by a user evaluation, or by the internal
 evaluation of an upstream box connected to it.
 
-Referents...
+See also :
 
   * [Evaluate-Once Mode](EvOnceMode#i2)
   * [Evaluate-Once Mode](EvOnceMode#i4)
@@ -461,7 +462,7 @@ The repetition of a process within a computer program.
 
 See also : Recursion.
 
-Referents...
+See also :
 
   * [Visual Programming II](AdvancedVisualProgramming#i1)
 
@@ -472,7 +473,7 @@ Referents...
 Iteration is the repetition of a process in order to apply it to a series of
 items.
 
-Referents...
+See also :
 
   * [Iteration](LoopIntro#i0)
 
@@ -488,7 +489,7 @@ Referents...
 A library is a set of tools, or framework, used by an application - like OM -
 to execute specific tasks.
 
-Referents...
+See also :
 
   * [Mac OS X](InstallationMac#i4)
   * [Windows](InstallationWindows#i4)
@@ -500,7 +501,7 @@ Referents...
 A Lisp communication interface displaying results of computations, warnings or
 error messages, and where Lisp expressions - programs - can be evaluated.
 
-Referents...
+See also :
 
   * [Function Boxes](FunctionBoxes#i7)
   * [Lisp Programming](Lisp#i0)
@@ -523,7 +524,7 @@ package name (or "nickname"), separated by " : :", before the usual name ( Ex.
 The default package in OM is "OPENMUSIC" or "OM". The default package in
 Common Lisp is "CL-USER".
 
-Referents...
+See also :
 
   * [The Lisp Editor](LispEditor#i5)
 
@@ -536,7 +537,7 @@ each element itself is an atom or a list.
 
 See also : Atom.
 
-Referents...
+See also :
 
   * [Formalizing a Process](4cApplication#i1)
 
@@ -555,7 +556,7 @@ A hybrid of visual program and sequencer, a programming unit provided with a
 time dimension, where musical material is organized in a time oriented
 structure.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i5)
   * [The Workspace Window](WS-Window#i3)
@@ -571,7 +572,7 @@ such as :
 
 4 5 6
 
-Referents...
+See also :
 
   * [Array](ClassArray#i0)
 
@@ -586,7 +587,7 @@ to defining at least one method.
 For instance, the OM+ function is made of four methods : 1. number + list / 2.
 list + number / 3. number + number / 4. list + list
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i10)
   * [Library](Library#i2)
@@ -602,7 +603,7 @@ A midicent is a unit representing one cent of the usual MIDI pitch unit, that
 is, a half-tone. For instance, a C4 corresponds to 60 in MIDI, and to 6000
 midicents, C4# to 61, i.e. 6100 midicents, and so on.
 
-Referents...
+See also :
 
   * [Patch Introduction](ProgrammingIntro#i3)
   * [Completing the Edition](5bComplete#i1)
@@ -617,7 +618,7 @@ number by another. If two numbers,  a and  b , when divided by the same  n
 
 -> If remainder ( a  /  n ) = remainder ( b /  n ),  a =  b , modulo  n . 
 
-Referents...
+See also :
 
   * [Test Functions](LambdaTest#i0)
 
@@ -635,7 +636,7 @@ Converts a note name or list of note names into corresponding midi cents
 values. The reference is the standard notation, where the medium C (6000
 midicents) = C3.
 
-Referents...
+See also :
 
   * [Examples of Use](InterfaceExample#i2)
 
@@ -645,7 +646,7 @@ Name
 
 The name of a group of files that can be thought of as the "same'' file
 
-Referents...
+See also :
 
   * [Pathnames](Pathnames#i7)
 
@@ -666,7 +667,7 @@ characteristics. A note has a pitch. An A4 is a 440 Hz note.
 
 See also : Class, Instance, Object Oriented Programming.
 
-Referents...
+See also :
 
   * [Chord & Musical Objects](4aApplication#i2)
 
@@ -678,7 +679,7 @@ Temporal position of an object.
 
 In a chord, each note can have a specific offset.
 
-Referents...
+See also :
 
   * [Chord & Musical Objects](4aApplication#i5)
 
@@ -689,7 +690,7 @@ Referents...
 A function that has been specifically designed for OpenMusic, and that doesn't
 belong to Lisp.
 
-Referents...
+See also :
 
   * [Programming a Simple Patch](2_progpatch#i3)
 
@@ -714,7 +715,7 @@ In OM
   * the omand box returns "true" if  ** all ** its inputs return "true". Otherwise, it returns "nil". 
   * the omor box returns "true" if one of its inputs return "true". Otherwise, it returns "nil".
 
-Referents...
+See also :
 
   * [Logical Operators](Logical#i2)
 
@@ -731,7 +732,7 @@ Contains functions or classes components belonging to a common category of
 programming items. Packages are provided at the installation of OM, but the
 can also be loaded dynamically or added by the user.
 
-Referents...
+See also :
 
   * [Environment Windows](MainWindows#i4)
   * [Adding Boxes Into a Patch](AddingBoxes#i5)
@@ -743,7 +744,7 @@ Referents...
 A package represents a category of programming tools that encloses related
 functions and classes. It can be organized in sub packages.
 
-Referents...
+See also :
 
   * [Packages](Packages#i4)
 
@@ -755,7 +756,7 @@ A parent directory is the directory in which a given directory is located. In
 an absolute path, the parent directoy is the predecessor of the current
 directory.
 
-Referents...
+See also :
 
   * [Pathnames](Pathnames#i5)
 
@@ -769,7 +770,7 @@ A programming unit where objects and functions - boxes - are interconnected to
 build a musical algorithm, that is, a sequence of instructions. A patch can
 also be embedded as a box within another patch.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i4)
   * [The Workspace Window](WS-Window#i2)
@@ -785,7 +786,7 @@ maquettes, or global variables. The corresponding documents are kept in the
 Workspace folder. Conversely, a "non-persistent" object lays within a program
 but cannot be manipulated as an independent file.
 
-Referents...
+See also :
 
   * [Workspace(s) Management](Workspace\(s\)#i3)
   * [Instances](Instances#i0)
@@ -811,7 +812,7 @@ predicates that test if an object belongs to a specific type, and so on.
 In OM, predicates are often used as ****conditions** ****** for the execution
 of a program.
 
-Referents...
+See also :
 
   * [Predicates](Predicates#i0)
 
@@ -823,7 +824,7 @@ A predicate verifies the property of a thing or a relation between two things.
 It has two possible answers : "true", and "false", that is, "t", or "nil" in
 Lisp.
 
-Referents...
+See also :
 
   * [While Loop](WhileLoop#i2)
 
@@ -842,7 +843,7 @@ In order no to "call itself" infinitely, a recursive function must include a
 ** termination condition **. A termination condition is a necessary condition
 so that the function doesn't call itself.
 
-Referents...
+See also :
 
   * [Recursive Patches](Recursion#i1)
 
@@ -853,7 +854,7 @@ Referents...
 A relative pathname tells the location of a filesystem object relative to the
 directory **in which the user is currently working**.
 
-Referents...
+See also :
 
   * [Pathnames](Pathnames#i4)
 
@@ -885,7 +886,7 @@ subdivisions.
 For instance the second beat in our measure could be subdivided as follows :
 ((4 4) (1 (1 (2 3)) 2)).
 
-Referents...
+See also :
 
   * [Presentation](Score-Objects-Intro#i4)
   * [Rhythmic Objects](RhythmicObjects#i2)
@@ -903,7 +904,7 @@ In object oriented programming, a slot represents and attribute of a class.
 For instance, the class "note" in OM has 4 slots : pitch, duration, velocity,
 and MIDI channel.
 
-Referents...
+See also :
 
   * [Instantiating Objects](2-Instanciation#i4)
   * [Instantiating Objects](2-Instanciation#i9)
@@ -915,7 +916,7 @@ Referents...
 
 A characters chain between two inverted commas.
 
-Referents...
+See also :
 
   * [Text Boxes](TextBoxes#i2)
   * [Pathnames](Pathnames#i6)
@@ -933,7 +934,7 @@ existing classes, or super-classes. Code is compartmentalized and reused by
 creating collections of attributes and behaviors called objects which can be
 based on previously created objects.
 
-Referents...
+See also :
 
   * [Class-Array Object](ArrayObject#i4)
 
@@ -947,7 +948,7 @@ Memento :
 4, ![](../res/16_icon.png)= 8, ![](../res/32_icon.png)= 16,
 ![](../res/641_icon.png)= 32, ![](../res/128_icon.png)= 64
 
-Referents...
+See also :
 
   * [Rulers and Grid](Grid%20and%20Rulers#i3)
 
@@ -964,7 +965,7 @@ such as an audio file, a chord object or a patch.
 
 See also : Maquette.
 
-Referents...
+See also :
 
   * [Resources](resources#i3)
 
@@ -975,7 +976,7 @@ Referents...
 A TemporalBox refers to an object in a maquette : an instance, a patch, or
 another maquette.
 
-Referents...
+See also :
 
   * [Creating a Maquette](Maquette#i5)
 
@@ -986,7 +987,7 @@ Referents...
 A user evaluation triggers one or more internal evaluation of the box and of
 possible upstream boxes connected to it.
 
-Referents...
+See also :
 
   * [Evaluate-Once Mode](EvOnceMode#i3)
 
@@ -998,7 +999,7 @@ OpenMusic's working environment. Each session starts with choosing a
 workspace, the equivalent of a desktop where programs are created and
 organized, and where items can be stored.
 
-Referents...
+See also :
 
   * [Launching OM](Launching%20OM#i2)
   * [Patch Introduction](ProgrammingIntro#i2)
