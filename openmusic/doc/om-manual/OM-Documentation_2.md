@@ -8,14 +8,16 @@ Navigation :
 
 # Glossary
 
-Sommaire :  |  [A-B](#sec_ab) | [C](#sec_c) | D-F | G-H | I | J-L | M | N-O | P | Q-R | S | T-Z |
+Sommaire :  |  [A-B](#sec_ab) | [C](#sec_c) | [D-F](#sec_df) | [G-H](#sec_gh) | [I](#sec_i) | [J-L](#sec_jl) | [M](#sec_m) | [N-O](#sec_no) | [P](#sec_p) | [Q-R](#sec_qr) | [S](#sec_s) | [T-Z](#sec_tz) |
+
 
 <a id="sec_ab"></a>
-##  A-B
+
+## A-B
 
      
 
-Absolute Pathname
+### Absolute Pathname
 
 An absolute pathname, also referred to as an absolute path or a full path, is
 the location of a filesystem object - file, directory or link- relative to the
@@ -27,7 +29,7 @@ Referents...
 
     
 
-Abstraction
+### Abstraction
 
 Abstraction is a procedure that permits to abstract a program, that is, a
 process, a patch, into a box that can then be used into another program. In
@@ -40,7 +42,7 @@ Referents...
 
     
 
-Abstraction
+### Abstraction
 
 A program or patch can be more or less complex, and comprise one or several
 components "layers", like a tree structure. Such structures consist of patches
@@ -58,7 +60,7 @@ Referents...
 
     
 
-Argument
+### Argument
 
 An argument represents a parameter upon which a function operates. For
 instance, the (om+ x y) function has two arguments : x and y.
@@ -74,7 +76,7 @@ Referents...
 
     
 
-Atom
+### Atom
 
 An elementary item, number, symbol, string. An atom can be part of a list.
 
@@ -84,7 +86,7 @@ Referents...
 
     
 
-Break Point Function
+### Break Point Function
 
 A "break-point" function is a function defined by a finite number of points
 (x,y).
@@ -93,12 +95,14 @@ Referents...
 
   * [BPF / BPC](BPF-BPC#i2)
 
+
 <a id="sec_c"></a>
+
 ## C
 
     
 
-CAR, CDR, CADR, CDDR, CADDR...
+### CAR, CDR, CADR, CDDR, CADDR...
 
 Elementary Lisp functions, allowing the access to one or more elements in a
 list.
@@ -144,7 +148,7 @@ Referents...
 
     
 
-Chord-Seq
+### Chord-Seq
 
 OM name of a chord sequence. By extension, a note sequence, since a single
 note can be considered a chord.
@@ -155,7 +159,7 @@ Referents...
 
     
 
-Class
+### Class
 
 A category of objects sharing common properties - characteristics and
 behaviour. A class specifies the internal structure and behaviour of an
@@ -179,7 +183,7 @@ Referents...
 
     
 
-CLOS - Common Lisp Object System -
+### CLOS - Common Lisp Object System -
 
 CLOS is an object-oriented programming protocol defined in the Common Lisp
 language specification. It is based on classes, instances of classes, generic
@@ -193,7 +197,7 @@ Referents...
 
     
 
-Conditional Operators
+### Conditional Operators
 
 Conditional operators execute an operation if one or more preconditions are
 fulfilled. If these conditions are not fulfilled, they can possibly execute
@@ -209,7 +213,7 @@ Referents...
 
     
 
-Container
+### Container
 
 In OM, a container is an object that contains a number of sub objects,
 including other containers as well. For instance, a chord-seq that contains
@@ -222,7 +226,7 @@ Referents...
 
     
 
-Contextual menu
+### Contextual menu
 
 A pop up menu that allows to choose actions to be performed upon an object.
 
@@ -234,7 +238,7 @@ Referents...
 
     
 
-Currying
+### Currying
 
 Reducing the number of arguments of a lambda function by assigning values to
 some of them.
@@ -243,11 +247,14 @@ Referents...
 
   * [Higher-Order Functions](HighOrder#i3)
 
+
+<a id="sec_df"></a>
+
 ## D-F
 
     
 
-Directory
+### Directory
 
 Corresponds to the "directory'' concept in many host file systems: the name of
 a group of related files (typically those belonging to a single user or
@@ -259,7 +266,7 @@ Referents...
 
     
 
-Evaluation
+### Evaluation
 
 In Lisp, evaluating an expression amounts to interpreting and reducing its
 contents in order to return a result.
@@ -280,7 +287,7 @@ Referents...
 
     
 
-Factory Box
+### Factory Box
 
 A box used for creating an instance, or exemplar, of a given class within a
 visual program.
@@ -293,7 +300,7 @@ Referents...
 
     
 
-First Class Object
+### First Class Object
 
 A first-class object is an entity which can be passed as a parameter to a
 function, returned from a function, or assigned into the variable of a
@@ -305,7 +312,7 @@ Referents...
 
     
 
-Function
+### Function
 
 A  portion of code within a larger program, which performs a specific task.
 Operates upon 0 or more parameters and returns a value.
@@ -322,7 +329,7 @@ Referents...
 
     
 
-Functional Abstraction
+### Functional Abstraction
 
 A functional abstraction is a program whose some elements can become
 variables, via connections to the outside environment. Hence, this program
@@ -337,11 +344,13 @@ Referents...
   * [Visual Programming II](AdvancedVisualProgramming#i0)
   * [Inputs / Outputs](AbsInOuts#i2)
 
+<a id="sec_gh"></a>
+
 ## G-H
 
     
 
-Generic Function
+### Generic Function
 
 In object oriented programming, a generic function is a collection of methods
 - elementary specialized functions - with the same name and argument
@@ -356,7 +365,7 @@ Referents...
 
     
 
-Global variable
+### Global variable
 
 An instance of OM object that has been saved in order to be used in other
 programs. Global variables are visible from the `Library` window and stored as
@@ -373,7 +382,7 @@ Referents...
 
     
 
-Group
+### Group
 
 An internal subdivision, that is, a list of proportions within a measure. A
 group can enclose a sub group. Basic examples are tuplets, groups of eighth,
@@ -394,11 +403,13 @@ Referents...
 
   * [Rhythm Trees Structure](RT1#i3)
 
+<a id="sec_i"></a>
+
 ## I
 
     
 
-Instance
+### Instance
 
 An actual object created at runtime, out of a given class. In OM, more
 specifically, an object created when evaluating a factory box. An instance can
@@ -421,7 +432,7 @@ Referents...
 
     
 
-Instantiation
+### Instantiation
 
 An instance is an exemplar of a class of objects. Instantiation is the process
 of creating an instance of a class using a factory box.
@@ -432,7 +443,7 @@ Referents...
 
     
 
-Internal Evaluation
+### Internal Evaluation
 
 Evaluation of a box by OM, triggered by a user evaluation, or by the internal
 evaluation of an upstream box connected to it.
@@ -444,7 +455,7 @@ Referents...
 
     
 
-Iteration
+### Iteration
 
 The repetition of a process within a computer program.
 
@@ -456,7 +467,7 @@ Referents...
 
     
 
-Iteration
+### Iteration
 
 Iteration is the repetition of a process in order to apply it to a series of
 items.
@@ -465,11 +476,14 @@ Referents...
 
   * [Iteration](LoopIntro#i0)
 
+
+<a id="sec_jl"></a>
+
 ## J-L
 
     
 
-Library
+### Library
 
 A library is a set of tools, or framework, used by an application - like OM -
 to execute specific tasks.
@@ -481,7 +495,7 @@ Referents...
 
     
 
-Lisp Listener
+### Lisp Listener
 
 A Lisp communication interface displaying results of computations, warnings or
 error messages, and where Lisp expressions - programs - can be evaluated.
@@ -494,7 +508,7 @@ Referents...
 
     
 
-Lisp Package
+### Lisp Package
 
 In Lisp, a package is a means to gather symbols, such as functions, variables
 or class names, within a same specific name space. You are always working in a
@@ -515,7 +529,7 @@ Referents...
 
     
 
-List
+### List
 
 A finite ordered sequence of elements delineated by two parenthesis, where
 each element itself is an atom or a list.
@@ -526,11 +540,14 @@ Referents...
 
   * [Formalizing a Process](4cApplication#i1)
 
+
+<a id="sec_m"></a>
+
 ## M
 
     
 
-Maquette
+### Maquette
 
 ![](../res/maqutte_icon.png)
 
@@ -545,7 +562,7 @@ Referents...
 
     
 
-Matrix
+### Matrix
 
 A matrix is a rectangular array of m*n numbers, with m rows and n columns,
 such as :
@@ -560,7 +577,7 @@ Referents...
 
     
 
-Method
+### Method
 
 An elementary function or part of a generic function defining rules for its
 behaviour depending on a type of argument. Defining a generic function amounts
@@ -579,7 +596,7 @@ Referents...
 
     
 
-Midicent
+### Midicent
 
 A midicent is a unit representing one cent of the usual MIDI pitch unit, that
 is, a half-tone. For instance, a C4 corresponds to 60 in MIDI, and to 6000
@@ -592,7 +609,7 @@ Referents...
 
     
 
-Modulo
+### Modulo
 
 In computing, the modulo operation finds the **remainder** of division of one
 number by another. If two numbers,  a and  b , when divided by the same  n
@@ -604,11 +621,15 @@ Referents...
 
   * [Test Functions](LambdaTest#i0)
 
+
+<a id="sec_no"></a>
+
+
 ## N-O
 
     
 
-n->mc
+### n->mc
 
 Converts a note name or list of note names into corresponding midi cents
 values. The reference is the standard notation, where the medium C (6000
@@ -630,7 +651,7 @@ Referents...
 
     
 
-Object
+### Object
 
 A thing provided with properties - characteristics and behaviour. An object is
 defined by a class and shares the same characteristics with other objects
@@ -651,7 +672,7 @@ Referents...
 
     
 
-Offset
+### Offset
 
 Temporal position of an object.
 
@@ -663,7 +684,7 @@ Referents...
 
     
 
-OM Function
+### OM Function
 
 A function that has been specifically designed for OpenMusic, and that doesn't
 belong to Lisp.
@@ -674,7 +695,7 @@ Referents...
 
     
 
-Omor, Omand
+### Omor, Omand
 
 Omor ![](../res/or_icon.png)and omand ![](../res/and_icon.png) are ** boolean
 logical operators ** that stand for the "and" and "or" coordinating
@@ -697,11 +718,14 @@ Referents...
 
   * [Logical Operators](Logical#i2)
 
+
+<a id="sec_p"></a>
+
 ## P
 
     
 
-Package
+### Package
 
 Contains functions or classes components belonging to a common category of
 programming items. Packages are provided at the installation of OM, but the
@@ -714,7 +738,7 @@ Referents...
 
     
 
-Package
+### Package
 
 A package represents a category of programming tools that encloses related
 functions and classes. It can be organized in sub packages.
@@ -725,7 +749,7 @@ Referents...
 
     
 
-Parent Directory
+### Parent Directory
 
 A parent directory is the directory in which a given directory is located. In
 an absolute path, the parent directoy is the predecessor of the current
@@ -737,7 +761,7 @@ Referents...
 
     
 
-Patch
+### Patch
 
 ![](../res/patch_icon.png)
 
@@ -753,7 +777,7 @@ Referents...
 
     
 
-Persistent object/document, Persistence
+### Persistent object/document, Persistence
 
 A persistent object corresponds to a "real" file that is kept somewhere in the
 hard drive of the computer. Examples of persistent objects in OM are patches,
@@ -768,7 +792,7 @@ Referents...
 
     
 
-Predicate
+### Predicate
 
 The concept of predicate refers to a **property** , or to a **relation**
 between the terms of a proposition.
@@ -793,7 +817,7 @@ Referents...
 
     
 
-Predicate
+### Predicate
 
 A predicate verifies the property of a thing or a relation between two things.
 It has two possible answers : "true", and "false", that is, "t", or "nil" in
@@ -803,11 +827,13 @@ Referents...
 
   * [While Loop](WhileLoop#i2)
 
+<a id="sec_qr"></a>
+
 ## Q-R
 
     
 
-Recursion
+### Recursion
 
 In computer science, recursion is the application of a function within its own
 definition. This method allows to solve complex problems.
@@ -822,7 +848,7 @@ Referents...
 
     
 
-Relative Pathname
+### Relative Pathname
 
 A relative pathname tells the location of a filesystem object relative to the
 directory **in which the user is currently working**.
@@ -833,7 +859,7 @@ Referents...
 
     
 
-Rhythm Tree
+### Rhythm Tree
 
 A rhythm tree expresses a rhythmic structure as a list.
 
@@ -865,11 +891,13 @@ Referents...
   * [Rhythmic Objects](RhythmicObjects#i2)
   * [Rhythmic Objects](RhythmicObjects#i3)
 
+<a id="sec_s"></a>
+
 ## S
 
     
 
-Slot
+### Slot
 
 In object oriented programming, a slot represents and attribute of a class.
 For instance, the class "note" in OM has 4 slots : pitch, duration, velocity,
@@ -883,7 +911,7 @@ Referents...
 
     
 
-String
+### String
 
 A characters chain between two inverted commas.
 
@@ -895,7 +923,7 @@ Referents...
 
     
 
-Subclass
+### Subclass
 
 A subclass is derived from a preexisting class, by inheritance. In object-
 oriented programming, objects are defined by classes. New objects can be
@@ -911,7 +939,7 @@ Referents...
 
     
 
-Subdivisions of the Whole Note
+### Subdivisions of the Whole Note
 
 Memento :
 
@@ -923,11 +951,13 @@ Referents...
 
   * [Rulers and Grid](Grid%20and%20Rulers#i3)
 
+<a id="sec_tz"></a>
+
 ## T-Z
 
     
 
-Temporal object
+### Temporal object
 
 In a maquette, any object provided with an explicit or computable duration,
 such as an audio file, a chord object or a patch.
@@ -940,7 +970,7 @@ Referents...
 
     
 
-TemporalBox
+### TemporalBox
 
 A TemporalBox refers to an object in a maquette : an instance, a patch, or
 another maquette.
@@ -951,7 +981,7 @@ Referents...
 
     
 
-User Evaluation
+### User Evaluation
 
 A user evaluation triggers one or more internal evaluation of the box and of
 possible upstream boxes connected to it.
@@ -962,7 +992,7 @@ Referents...
 
     
 
-Workspace
+### Workspace
 
 OpenMusic's working environment. Each session starts with choosing a
 workspace, the equivalent of a desktop where programs are created and
@@ -974,4 +1004,4 @@ Referents...
   * [Patch Introduction](ProgrammingIntro#i2)
   * [Starting a Session](1_StartSession#i2)
 
-[A propos...](OM-Documentation_3)
+[About...](OM-Documentation_3)
