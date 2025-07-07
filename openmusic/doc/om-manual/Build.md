@@ -1,6 +1,4 @@
-Navigation : [Previous](Maquettes%20in%20Patches "page
-précédente\(Maquettes in Patches\)") | [page
-suivante](Maquettes%20in%20Patches1 "Next\(Functional Mode\)")
+Navigation : [Previous](Maquettes%20in%20Patches "Maquettes in Patches") | [Next](Maquettes%20in%20Patches1 "Functional Mode")
 
 
 # Build Mode
@@ -137,7 +135,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Maquettes%20in%20Patches "page
-précédente\(Maquettes in Patches\)") | [page
-suivante](Maquettes%20in%20Patches1 "Next\(Functional Mode\)")
+Navigation : [Previous](Maquettes%20in%20Patches "Maquettes in Patches") | [Next](Maquettes%20in%20Patches1 "Functional Mode")
 

@@ -177,7 +177,7 @@ constructed.
 * * *
 
 [Prev](tut.gen.23)| [Home](index)| [Next](tut.gen.25)  
----|---|---  
+
 Tutorial 23: [**Chord-seq**](chord-seq): Onsets and durations II|
 [Up](tut.gen.22-27)| Tutorial 25: [**Voice**](voice) II
 

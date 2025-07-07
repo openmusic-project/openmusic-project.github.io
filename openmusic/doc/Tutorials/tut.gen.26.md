@@ -21,8 +21,7 @@ developed by Carlos Agon.
 ## The Concept:
 
 ![Note](figures/images/note.gif)|  **If you work in Finale**  
----|---  
- |
+
 
 While it is possible to edit musical objects in OM, if you are a Finale user,
 it is often faster to use OM's import and export capabilites to move objects
