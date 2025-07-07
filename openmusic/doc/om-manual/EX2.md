@@ -1,9 +1,7 @@
-précédente\(Programming with the Tempin\)") | [page
-suivante](Maquettes%20in%20Patches "Next\(Maquettes in
-Patches\)")
+Navigation : [Previous](Examplestempbox "Programming with the Tempin") | [Next](Maquettes%20in%20Patches "Maquettes in
+Patches")
 
- **Attention** , votre navigateur ne supporte pas le **javascript** ou celui-
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
+
 
 # Example 2 : Defining Temporal Relations Between TemporalBoxes
 
@@ -116,7 +114,6 @@ Contents :
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
 Navigation : [Previous](Examplestempbox "page
-précédente\(Programming with the Tempin\)") | [page
-suivante](Maquettes%20in%20Patches "Next\(Maquettes in
-Patches\)")
+précédente\(Programming with the Tempin\)") | [Next](Maquettes%20in%20Patches "Maquettes in
+Patches")
 

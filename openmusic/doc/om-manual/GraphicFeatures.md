@@ -1,5 +1,4 @@
-
-Navigation : [Previous](Boxes "page précédente\(Boxes\)") | [Next](DataBox "Next\(Data Boxes\)")
+Navigation : [Previous](Boxes "Boxes") | [Next](DataBox "Data Boxes")
 
 # Boxes Graphic Features and Components
 

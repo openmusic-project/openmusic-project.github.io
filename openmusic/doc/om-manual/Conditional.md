@@ -1,6 +1,5 @@
 
-Navigation : [Previous](OMIF "page précédente\(OMif\)") | [page
-suivante](Logical "Next\(Logical Operators\)")
+Navigation : [Previous](OMIF "OMif") | [Next](Logical "Logical Operators")
 
 
 # Conditional : Multiple Conditions
@@ -133,6 +132,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OMIF "page précédente\(OMif\)") | [page
-suivante](Logical "Next\(Logical Operators\)")
+Navigation : [Previous](OMIF "OMif") | [Next](Logical "Logical Operators")
 
