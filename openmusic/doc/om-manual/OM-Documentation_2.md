@@ -1,16 +1,21 @@
-  * [Launching OM](Launching%20OM#i2)
-  * [Patch Introduction](ProgrammingIntro#i2)
-  * [Starting a Session](1_StartSession#i2)
+Navigation :
 
-    
+  * [Guide](OM-Documentation)
+  * [Plan](OM-Documentation_1)
+  * Glossary
 
-Referents...
 
-  * [Pathnames](Pathnames#i8)
 
-    
+# Glossary
 
-Absoluate Pathname
+Sommaire :  |  [A-B](#sec_ab) | [C](#sec_c) | D-F | G-H | I | J-L | M | N-O | P | Q-R | S | T-Z |
+
+<a id="sec_ab"></a>
+##  A-B
+
+     
+
+Absolute Pathname
 
 An absolute pathname, also referred to as an absolute path or a full path, is
 the location of a filesystem object - file, directory or link- relative to the
@@ -18,7 +23,7 @@ the location of a filesystem object - file, directory or link- relative to the
 
 Referents...
 
-  * [Pathnames](Pathnames#i3)
+  * [Pathnames](Pathnames)
 
     
 
@@ -88,6 +93,7 @@ Referents...
 
   * [BPF / BPC](BPF-BPC#i2)
 
+<a id="sec_c"></a>
 ## C
 
     
@@ -160,7 +166,7 @@ See also : Object, Instance
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i8)
+  * [Workspace(s) Management](Workspace\(s\)#i8)
   * [Library](Library#i0)
   * [Packages](Packages#i5)
   * [Packages](Packages#i8)
@@ -306,7 +312,7 @@ Operates upon 0 or more parameters and returns a value.
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i9)
+  * [Workspace(s) Management](Workspace\(s\)#i9)
   * [Library](Library#i1)
   * [Packages](Packages#i6)
   * [Adding Boxes Into a Patch](AddingBoxes#i3)
@@ -358,7 +364,7 @@ programs. Global variables are visible from the `Library` window and stored as
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i6)
+  * [Workspace(s) Management](Workspace\(s\)#i6)
   * [Packages](Packages#i7)
   * [Import/Export](4-ImportExport#i3)
   * [Visual Programming II](AdvancedVisualProgramming#i3)
@@ -403,7 +409,7 @@ self, the whole object - of a factory box to materialize an instance.
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i7)
+  * [Workspace(s) Management](Workspace\(s\)#i7)
   * [Objects - Factory Boxes](FactoryBoxes#i1)
   * [Instantiating Objects](2-Instanciation#i3)
   * [Instantiating Objects](2-Instanciation#i8)
@@ -534,7 +540,7 @@ structure.
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i5)
+  * [Workspace(s) Management](Workspace\(s\)#i5)
   * [The Workspace Window](WS-Window#i3)
 
     
@@ -565,7 +571,7 @@ list + number / 3. number + number / 4. list + list
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i10)
+  * [Workspace(s) Management](Workspace\(s\)#i10)
   * [Library](Library#i2)
   * [Function Boxes](FunctionBoxes#i11)
   * [The Lisp Editor](LispEditor#i3)
@@ -741,7 +747,7 @@ also be embedded as a box within another patch.
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i4)
+  * [Workspace(s) Management](Workspace\(s\)#i4)
   * [The Workspace Window](WS-Window#i2)
   * [Starting a Session](1_StartSession#i1)
 
@@ -757,7 +763,7 @@ but cannot be manipulated as an independent file.
 
 Referents...
 
-  * [Workspace(s) Management](Workspace(s)#i3)
+  * [Workspace(s) Management](Workspace\(s\)#i3)
   * [Instances](Instances#i0)
 
     
@@ -968,3 +974,4 @@ Referents...
   * [Patch Introduction](ProgrammingIntro#i2)
   * [Starting a Session](1_StartSession#i2)
 
+[A propos...](OM-Documentation_3)

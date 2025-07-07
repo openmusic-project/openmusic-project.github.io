@@ -120,7 +120,7 @@ Our new transcription is:
 * * *
 
 [Prev](tut.gen.26)| [Home](index)| [Next](tut.gen.28-29)  
----|---|---  
+
 Tutorial 26: Editing rhythm with the [**Voice**](voice) graphic editor|
 [Up](tut.gen.22-27)| Playing MIDI II
 
