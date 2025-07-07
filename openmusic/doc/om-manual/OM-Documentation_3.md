@@ -15,5 +15,5 @@ Auteur  |  Coralie Diatkine
   
 
 
-[Home](https://openmusic-project.github.io/README)
+[Home](../../../README)
 
