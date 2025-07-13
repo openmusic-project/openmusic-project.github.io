@@ -10,6 +10,12 @@ Covered Topics
 
   * Importing tutorial patches and maquettes, storing items in the workspace : **Workspace** and **Elements** folders
 
+
+<video width="640" height="480" controls>
+  <source src="../videos/1StartSession.mp4" type="video/mp4">
+</video>
+
+
 Keywords
 
 Patch[1], Workspace[2], Listener[3]
