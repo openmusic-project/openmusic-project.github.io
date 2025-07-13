@@ -5,9 +5,8 @@ précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
 # Summary
 
 
-<video width="320" height="240" controls>
-  <source src="../videos/0Intro.mp4" type="video/mp4">
-</video>
+<video src="../videos/0Intro.mp4" width=180/>
+
 
 References :
 
