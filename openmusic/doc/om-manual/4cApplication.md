@@ -12,6 +12,12 @@ Covered Topics
   * Getting acquainted with the properties of the objects used in the program : accessing information and documentation
 
   * Applying the process with simple values
+  
+  
+<video width="640" height="480" controls>
+  <source src="../videos/4cApplication.mp4" type="video/mp4">
+</video>
+
 
 Keywords
 

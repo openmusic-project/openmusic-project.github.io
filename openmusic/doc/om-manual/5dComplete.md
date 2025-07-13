@@ -10,6 +10,10 @@ Covered Topics
   * Adding and manipulating a comment box
 
   * Text edition 
+  
+<video width="640" height="480" controls>
+  <source src="../videos/5dChord.mp4" type="video/mp4">
+</video>
 
 Keyword
 

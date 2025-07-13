@@ -14,6 +14,12 @@ Covered Topics
   * Boxes properties and morphology : inputs, arguments, default values and outputs
 
   * Viewing and listening to the content of a chord
+  
+  
+<video width="640" height="480" controls>
+  <source src="../videos/4aApplication.mp4" type="video/mp4">
+</video>
+
 
 Keywords
 

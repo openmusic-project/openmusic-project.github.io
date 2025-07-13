@@ -9,6 +9,10 @@ Covered Topics
   * Closing a patch
 
   * Quitting and saving dialog windows
+  
+<video width="640" height="480" controls>
+  <source src="../videos/6SaveandQuit.mp4" type="video/mp4">
+</video>
 
 ## Main Link to the User Manual
 

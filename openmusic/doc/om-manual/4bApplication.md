@@ -12,6 +12,11 @@ Covered Topics
   * Applying lists of parametric values to a chord object
 
   * Materializing and visualizing the chord object
+  
+<video width="640" height="480" controls>
+  <source src="../videos/4bApplication.mp4" type="video/mp4">
+</video>
+
 
 Good to Know
 

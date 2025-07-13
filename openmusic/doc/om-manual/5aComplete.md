@@ -9,6 +9,11 @@ Covered Topics
   * Protecting the chord
 
   * Displaying and playing the chord 
+  
+<video width="640" height="480" controls>
+  <source src="../videos/5aChord.mp4" type="video/mp4">
+</video>
+  
 
 ## Main Link to the User Manual
 

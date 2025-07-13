@@ -9,6 +9,11 @@ Covered Topics
 
   * Connecting and evaluating boxes
   * Using the "self" and "pitch" chord inputs 
+  
+<video width="640" height="480" controls>
+  <source src="../videos/4dApplication.mp4" type="video/mp4">
+</video>
+  
 
 ## Main Link to the User Manual
 

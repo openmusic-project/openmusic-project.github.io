@@ -9,6 +9,11 @@ Covered Topics
   * Naming, duplicating and storing the patch
 
   * Deleting items from the workspace
+  
+<video width="640" height="480" controls>
+  <source src="../videos/3ManipPatch.mp4" type="video/mp4">
+</video>
+
 
 ## Main Link to the User Manual
 

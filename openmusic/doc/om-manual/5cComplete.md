@@ -9,6 +9,10 @@ Covered Topics
   * An overview of the Microplayer application
 
   * Modifying scales and timbres
+  
+<video width="640" height="480" controls>
+  <source src="../videos/5cChord.mp4" type="video/mp4">
+</video>  
 
 ## Main Links to the User Manual
 

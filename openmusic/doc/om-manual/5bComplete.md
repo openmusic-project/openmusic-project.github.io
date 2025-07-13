@@ -12,6 +12,10 @@ Covered Topics
   * Transposition procedures, including microtonal transposition
 
   * Playing notes : limits of Midishare
+  
+<video width="640" height="480" controls>
+  <source src="../videos/5bChord.mp4" type="video/mp4">
+</video>  
 
 Keywords
 
