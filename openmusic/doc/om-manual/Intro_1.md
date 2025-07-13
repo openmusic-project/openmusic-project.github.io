@@ -4,6 +4,8 @@ précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
 
 # Summary
 
+![](../videos/0Intro.mp4)
+
 References :
 
 Contents :
