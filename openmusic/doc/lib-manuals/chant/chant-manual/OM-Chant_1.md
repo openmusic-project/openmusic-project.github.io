@@ -11,8 +11,6 @@ Navigation generale :
 
 ![](../tplRes/map/empty.gif)OM-Chant 2.0 User Manual
 
- **Attention** , votre navigateur ne supporte pas le **javascript** ou celui-
-ci a ete desactive. Certaines fonctionnalites de ce guide sont restreintes.
 
 # Plan
 
