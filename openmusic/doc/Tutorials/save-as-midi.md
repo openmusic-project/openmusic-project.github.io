@@ -16,14 +16,13 @@ save-as-midi
 
 ## Syntax
 
-`` **save-as-midi**` object `
+   **save-as-midi**  ` object  `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  any OM score class object|  **Voice** , **Poly** , **Chord-seq** ,
-**Multi-seq** , etc.  
+_self_ |  any OM score class object|  **Voice** , **Poly** , **Chord-seq** , **Multi-seq** , etc.  
   
 ## Output
 
@@ -33,7 +32,7 @@ first| a tree|
   
 ## Description
 
-`save-as-midi` takes any OM score class object and produces a MIDI file.
+ save-as-midi  takes any OM score class object and produces a MIDI file.
 Evaluating this box opens a save dialog box where you specify where you want
 to save the document.
 

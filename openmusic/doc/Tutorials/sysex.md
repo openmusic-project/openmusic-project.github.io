@@ -16,14 +16,14 @@ sysex
 
 ## Syntax
 
-`` **sysex**` databytes &optional port `
+   **sysex** ` databytes &optional port  `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _databytes_`|  a list of integers| defaults to 1 1 1  
-` _port_`|  an integer or list thereof| optional; The MIDI port(s) to send on  
+_databytes_ |  a list of integers| defaults to 1 1 1  
+_port_ |  an integer or list thereof| optional; The MIDI port(s) to send on  
   
 ## Output
 
@@ -34,13 +34,13 @@ anyway.
   
 ## Description
 
-This module sends out `_databytes_` as a system exclusive message. The system
+This module sends out  _databytes_  as a system exclusive message. The system
 exclusive message is reserved by the MIDI standard for commands specific to a
 particular MIDI device or manufacturer. Sysex data always begins with the byte
 $F0 and ends with $F7; you don't need to include these as they are added
-automatically by `sysex`.
+automatically by  sysex .
 
-The optional input `_port_` allows you to specify which MIDI port the
+The optional input  _port_  allows you to specify which MIDI port the
 message(s) will go out on.
 
 ![Note](figures/images/note.gif)|  **OM and MIDI**  

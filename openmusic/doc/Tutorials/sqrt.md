@@ -12,17 +12,17 @@ OpenMusic Reference
   
 sqrt  
   
-(lisp module) \-- returns the principal square root of `_number_`  
+(lisp module) \-- returns the principal square root of  _number_   
 
 ## Syntax
 
-`` **sqrt**` number `
+   **sqrt**  ` number  `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _number_`|  a number|  
+_number_ |  a number|  
   
 ## Output
 
@@ -32,8 +32,8 @@ first| a number|
   
 ## Description
 
-Returns the principal (positive) square root of `_number_` , i.e. the number
-which when multiplied by itself yields `_number_`.
+Returns the principal (positive) square root of  _number_  , i.e. the number
+which when multiplied by itself yields  _number_ .
 
 * * *
 

@@ -12,17 +12,17 @@ OpenMusic Reference
   
 sin  
   
-(lisp module) \-- returns the sine of `_radians_`  
+(lisp module) \-- returns the sine of  _radians_   
 
 ## Syntax
 
-`` **sin**` radians `
+   **sin**  ` radians  `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _radians_`|  a number| the angle whose sine to compute, in radians  
+_radians_ |  a number| the angle whose sine to compute, in radians  
   
 ## Output
 
@@ -32,7 +32,7 @@ first| a number|
   
 ## Description
 
-Computes the sine of the angle `_radians_` , expressed in radians.
+Computes the sine of the angle  _radians_  , expressed in radians.
 
 * * *
 

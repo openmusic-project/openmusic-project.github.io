@@ -12,17 +12,17 @@ OpenMusic Reference
   
 sqr  
   
-(lisp module) \-- returns the square of `_n_`  
+(lisp module) \-- returns the square of  _n_   
 
 ## Syntax
 
-`` **sqr**` n `
+   **sqr**  ` n `  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a number|  
+_n_ |  a number|  
   
 ## Output
 
@@ -32,7 +32,7 @@ first| a number|
   
 ## Description
 
-Returns the square of `_n_` , i.e. `_n_` times itself.
+Returns the square of  _n_  , i.e.  _n_  times itself.
 
 * * *
 

@@ -17,13 +17,13 @@ addressing
 
 ## Syntax
 
-`` **second**` list `
+   **second**  ` list  `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree|  
+_list_ |  a list or tree|  
   
 ## Output
 
@@ -33,7 +33,7 @@ first| any|
   
 ## Description
 
-This function returns the [_cadr_](glossary#CADR) of `_list_` , the
+This function returns the [_cadr_](glossary#CADR) of  _list_  , the
 second element of the list. In this case, 'second' refers to human numbering,
 where addresses start with one, and not zero.
 
