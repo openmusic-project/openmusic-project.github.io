@@ -17,13 +17,13 @@ from a **Maquette**
 
 ## Syntax
 
-`` **temporalboxes**` self `
+ **temporalboxes** ` self `
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a **Maquette**|  in 'itself' mode  
+ _self_ |  a **Maquette**|  in ` itself ` mode  
   
 ## Output
 
