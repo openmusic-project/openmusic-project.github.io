@@ -16,9 +16,6 @@ OpenMusic Reference
 [addbox2maquette](addbox2maquette) \-- places a
 [**Temporalbox**](temporalbox) inside a **Maquette**
 
-[an-integer-between](an-integer-between) \-- defines a Screamer variable
-within the specified interval
-
 [aftertouch](aftertouch) \-- sends a MIDI aftertouch message
 
 [align-chords](align-chords) \-- combines chords falling within a certain
@@ -27,7 +24,6 @@ threshold duration into a single element
 [append](append) \-- appends one list to another
 
 [apply](apply) \-- returns the result of the evaluation of  _function_ 
-
 
 [approx-m](approx-m) \-- rounds off midics to fit whole-number divisions
 of the octave
