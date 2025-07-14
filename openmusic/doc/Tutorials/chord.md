@@ -16,18 +16,17 @@ Chord
 
 ## Syntax
 
-`` **Chord**` self lmidic lvel ldur lchan `
+   **Chord**  `self lmidic lvel ldur lchan ` 
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Chord**](chord) object, [**Note**](note) object, list
-of [**Note**](note)s, a midic, a list of midics|  
-` _lmidic_`|  list of midics|  
-` _lvel_`|  list of integers between 0 and 127|  
-` _loffset_`|  list of offsets in milliseconds|  
-` _ldur_`|  list of durations in milliseconds|  
+  _self_ | [ **Chord**](chord) object, [**Note**](note) object, list of [**Note**](note)s, a midic, a list of midics|  
+  _lmidic_ |  list of midics|  
+  _lvel_ |  list of integers between 0 and 127|  
+  _loffset_ |  list of offsets in milliseconds|  
+  _ldur_ |  list of durations in milliseconds|  
   
 ## Notes
 

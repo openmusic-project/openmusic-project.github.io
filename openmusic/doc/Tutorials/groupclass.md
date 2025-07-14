@@ -16,14 +16,14 @@ Group
 
 ## Syntax
 
-`` **Group**` self tree `
+   **Group** ` self tree ` 
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Group**](groupclass) object|  
-` _tree_`|  a rhythm tree|  
+  _self_ | [ **Group**](groupclass) object|  
+  _tree_ |  a rhythm tree|  
   
 ## Notes
 

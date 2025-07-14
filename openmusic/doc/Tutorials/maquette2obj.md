@@ -18,8 +18,7 @@ maquette2obj
 
 ## Syntax
 
-`` **maquette2obj**` maquette mode &optional tempi measures max/ forbid offset
-precis `
+ **maquette2obj** ` maquette mode &optional tempi measures max/ forbid offset precis `
 
 ## Inputs
 

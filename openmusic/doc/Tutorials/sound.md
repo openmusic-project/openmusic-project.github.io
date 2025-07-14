@@ -16,13 +16,15 @@ Sound
 
 ## Syntax
 
-`` **Sound**` self `
+ **Sound** ` self `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Sound**](sound) object|  
+ _self_ | [ **Sound**](sound) object|
+_tracknum_ | integer | a track index for multichannel mixing (0 = no specific track) |
+_markers_ | list | a list of markers (s)|
   
 ## Notes
 

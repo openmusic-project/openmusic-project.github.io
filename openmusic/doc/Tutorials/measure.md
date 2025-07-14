@@ -16,15 +16,14 @@ Measure
 
 ## Syntax
 
-`` **Measure**` self tree `
+   **Measure** ` self tree  `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Measure**](measure) object, [**Group**](groupclass)
-object, list of [**Group**](glossary#GROUP) objects|  
-` _tree_`|  a rhythm tree|  
+  _self_ | [ **Measure**](measure) object, [**Group**](groupclass) object, list of [**Group**](glossary#GROUP) objects|  
+  _tree_ |  a rhythm tree|  
   
 ## Notes
 

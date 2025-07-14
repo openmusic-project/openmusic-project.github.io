@@ -16,14 +16,14 @@ Poly
 
 ## Syntax
 
-`` **Poly**` self voices `
+ **Poly** ` self voices `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Poly**](poly) object|  
-` _chord-seqs_`|  list of [**Voice**](voice) objects|  
+ _self_ | [ **Poly**](poly) object|  
+ _chord-seqs_ |  list of [**Voice**](voice) objects|  
   
 ## Notes
 

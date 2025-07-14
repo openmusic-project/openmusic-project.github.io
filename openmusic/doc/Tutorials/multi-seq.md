@@ -16,15 +16,14 @@ Multi-seq
 
 ## Syntax
 
-`` **Multi-seq**` self chord-seqs `
+ **Multi-seq** ` self chord-seqs `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Multi-seq**](multi-seq) object or
-[**Midifile**](midifile) object.|  
-` _chord-seqs_`|  list of [**Chord-seq**](chord-seq) objects|  
+ _self_ | [ **Multi-seq**](multi-seq) object or [**Midifile**](midifile) object.|  
+  _chord-seqs_ |  list of [**Chord-seq**](chord-seq) objects|  
   
 ## Notes
 

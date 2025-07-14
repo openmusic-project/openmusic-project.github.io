@@ -16,15 +16,14 @@ Maquette
 
 ## Syntax
 
-`` **Maquette**` time objs `
+   **Maquette**  ` time objs `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _time_`|  a non-negative integer or list thereof|  
-` _objs_`|  a patch, or a maquette, or any playable OM music object, or a list
-composed of any of these.|  
+  _time_ |  a non-negative integer or list thereof|  
+  _objs_ |  a patch, or a maquette, or any playable OM music object, or a list composed of any of these.|  
   
 ## Notes
 

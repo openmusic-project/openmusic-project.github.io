@@ -16,13 +16,13 @@ Midifile
 
 ## Syntax
 
-`` **Midifile**` self `
+ **Midifile** ` self `
 
 ## Slots
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`| [ **Midifile**](midifile) object|  
+ _self_ | [ **Midifile**](midifile) object|  
   
 ## Notes
 
