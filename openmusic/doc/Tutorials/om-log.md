@@ -29,8 +29,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number; a tree| returns the natural logarithm of the number or tree
-at  _self_   
+first| a number; a tree| returns the natural logarithm of the number or tree at  _self_   
   
 ## Description
 

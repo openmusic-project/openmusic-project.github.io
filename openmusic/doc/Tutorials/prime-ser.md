@@ -22,10 +22,8 @@ prime-ser
 
 name| data type(s)| comments  
 ---|---|---  
-  _max_ |  a non-negative number| The upper limit of the series. Defaults to
-100  
-  _numelem_ |  a number| optional; the maximum number of elements to return
-(unless)  _max_  is reached. Defaults to 10  
+_max_ |  a non-negative number| The upper limit of the series. Defaults to 100  
+_numelem_ |  a number| optional; the maximum number of elements to return (unless)  _max_  is reached. Defaults to 10  
   
 ## Output
 

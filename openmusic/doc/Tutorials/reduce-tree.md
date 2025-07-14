@@ -23,18 +23,15 @@ tree
 
 name| data type(s)| comments  
 ---|---|---  
-  _self_ |  a list|  
-  _function_ |  a function or patch in lambda mode| the operation to perform
-across  _self_ . Defaults to '+'  
-  _accum_ |  a number| optional; the identity element for the function
- _function_   
+_self_ |  a list|  
+_function_ |  a function or patch in lambda mode| the operation to perform across  _self_ . Defaults to '+'  
+_accum_ |  a number| optional; the identity element for the function _function_   
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number| returns the result of  _function_  performed throughouut the
-tree  
+first| a number| returns the result of  _function_  performed throughouut the tree  
   
 ## Description
 

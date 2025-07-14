@@ -24,18 +24,12 @@ durations into a rhythm tree
 name| data type(s)| comments  
 ---|---|---  
   _durs_ |  a list of numbers| the durations to convert  
-  _tempi_ |  a number or list thereof| the tempo or tempi to use for the
-transcription  
-  _measures_ |  a list of lists| a list of time signatures to use in the
-format (a b)  
-  _max/_ |  an integer or tree thereof| the maximum permitted subdivision(s)
-of the beat  
-  _forbid_ |  a list or tree of integers| optional; defaults to nil. A list of
-subdivisions which are not allowed in the transcription  
-  _offset_ |  an integer | optional; defaults to 0. The offset will move the
-entire transcription to the right by the number of beats specified here  
- _precis_ |  a float between 0 and 1.0| optional; specifies a level of
-precision in the transcription. Defaults to 0.5  
+  _tempi_ |  a number or list thereof| the tempo or tempi to use for the transcription  
+  _measures_ |  a list of lists| a list of time signatures to use in the format (a b)  
+  _max/_ |  an integer or tree thereof| the maximum permitted subdivision(s) of the beat  
+  _forbid_ |  a list or tree of integers| optional; defaults to nil. A list of subdivisions which are not allowed in the transcription  
+  _offset_ |  an integer | optional; defaults to 0. The offset will move the entire transcription to the right by the number of beats specified here  
+ _precis_ |  a float between 0 and 1.0| optional; specifies a level of precision in the transcription. Defaults to 0.5  
   
 ## Output
 
@@ -60,11 +54,9 @@ The  _measures_  input takes either a single time signature, which is used for
 the entire transcription, or a list in the form (a b) or a list, i.e. ((4 4)
 (6 8)).
 
-![Note](figures/images/note.gif)|  **A minor bug**  
+![Note](figures/images/note.gif)|  **A minor feature**  
 ---|---  
- |
-
-The last measure of the transcription may have a time signature with one fewer
+ The last measure of the transcription may have a time signature with one fewer
 beats than the indicated time signature; this has not affected the
 transcription. We are working on this and it should be fixed soon.  
   

@@ -22,10 +22,9 @@ range-filter
 
 name| data type(s)| comments  
 ---|---|---  
-  _list_ |  a tree| the tree to filter  
-  _posn_ |  a list of pairs ofnumbers| must contain at least one pair of
-numbers, for example ((1 3))  
-  _mode_ |  menu| two options: pass and reject. Defaults to 'reject'  
+_list_ |  a tree| the tree to filter  
+_posn_ |  a list of pairs ofnumbers| must contain at least one pair of numbers, for example ((1 3))  
+_mode_ |  menu| two options: pass and reject. Defaults to 'reject'  
   
 ## Output
 

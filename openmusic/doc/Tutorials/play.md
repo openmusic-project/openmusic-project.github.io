@@ -23,18 +23,15 @@ play
 name| data type(s)| comments  
 ---|---|---  
   _self_ |  any playable OM score class object|  
-  _:approx_ |  a positive integer| a keyword input; the number of divisions
-(tones) in the octave for midicent approximation  
- _:interval_ |  a list containing two positive integers| the start and stop
-times, in milliseconds elapsed  
+  _:approx_ |  a positive integer| a keyword input; the number of divisions (tones) in the octave for midicent approximation  
+ _:interval_ |  a list containing two positive integers| the start and stop times, in milliseconds elapsed  
   _:port_ |  a positive integer| the MIDI port to play out over  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| causes playback| You'll see a wacky eight-digit number in the listener.
-Don't be afraid.  
+first| causes playback| You'll see a wacky eight-digit number in the listener. Don't be afraid.  
   
 ## Description
 

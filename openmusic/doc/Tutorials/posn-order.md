@@ -30,8 +30,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a list of integers| the ordinal positions of the elements in the sorted
-list (the first is considered the 0th element.  
+first| a list of integers| the ordinal positions of the elements in the sorted list (the first is considered the 0th element.  
   
 ## Description
 

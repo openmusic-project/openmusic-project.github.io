@@ -31,8 +31,7 @@ name| data type(s)| comments
 output| data type(s)| comments  
 ---|---|---  
 first| a number or tree| returns the integer quotient of the two inputs  
-second| a number or tree| returns the remainder of the division of the two
-inputs  
+second| a number or tree| returns the remainder of the division of the two inputs  
   
 ## Description
 

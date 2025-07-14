@@ -23,16 +23,14 @@ ordinal references
 
 name| data type(s)| comments  
 ---|---|---  
-  _list_ |  a tree| the list of elements to use as material  
-  _positions_ |  a list of non-negative integers| The ordinal references for
-constructing the new list  
+_list_ |  a tree| the list of elements to use as material  
+_positions_ |  a list of non-negative integers| The ordinal references for constructing the new list  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a tree| a list composed of elements from  _list_  at the specified
- _positions_   
+first| a tree| a list composed of elements from  _list_  at the specified  _positions_   
   
 ## Description
 

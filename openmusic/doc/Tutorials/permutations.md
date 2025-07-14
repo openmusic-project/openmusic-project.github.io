@@ -29,8 +29,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a tree| since the input is a list, the output is necessarily a list of
-lists, a tree  
+first| a tree| since the input is a list, the output is necessarily a list of lists, a tree  
   
 ## Description
 

@@ -30,8 +30,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| nil| This output will always return nil; the pitch bend message is sent
-out anyway.  
+first| nil| This output will always return nil; the pitch bend message is sent out anyway.  
   
 ## Description
 

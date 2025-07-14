@@ -23,8 +23,7 @@ om-random
 name| data type(s)| comments  
 ---|---|---  
   _low_ |  a number| may be a fraction, an integer, or a float. defaults to 0  
-  _high_ |  a number| may be an integer only if  _low_  is an integer.
-Otherwise, must be a fraction or a float. defaults to 0  
+  _high_ |  a number| may be an integer only if  _low_  is an integer. Otherwise, must be a fraction or a float. defaults to 0  
   
 ## Output
 

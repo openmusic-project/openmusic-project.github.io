@@ -23,16 +23,13 @@ removetemporalbox
 
 name| data type(s)| comments  
 ---|---|---  
-  _self_ |  a [**Temporalbox**](temporalbox) object or list thereof|
-extracted from a **Maquette** in 'itself' mode  
+_self_ |  a [**Temporalbox**](temporalbox) object or list thereof| extracted from a **Maquette** in 'itself' mode  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a [**Temporalbox**](temporalbox) object| The output will be the
-same as the input; the action is performed on the **Maquette** from which the
-[**Temporalbox**](temporalbox) is taken  
+first| a [**Temporalbox**](temporalbox) object| The output will be the same as the input; the action is performed on the **Maquette** from which the [**Temporalbox**](temporalbox) is taken  
   
 ## Description
 

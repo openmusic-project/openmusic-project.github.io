@@ -30,8 +30,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number; a tree| returns the number or numbers rounded to  _decimal_ 
-decimal places  
+first| a number; a tree| returns the number or numbers rounded to  _decimal_ decimal places  
   
 ## Description
 

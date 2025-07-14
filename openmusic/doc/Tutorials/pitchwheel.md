@@ -4,7 +4,7 @@ OpenMusic Reference
   
 * * *
 
-# pitchwheeel
+# pitchwheel
 
 ![](figures/functions/midi/pitchwheel.png)
 
@@ -30,8 +30,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| nil| This output will always return nil; the pitch wheel message is
-sent out anyway.  
+first| nil| This output will always return nil; the pitch wheel message is sent out anyway.  
   
 ## Description
 

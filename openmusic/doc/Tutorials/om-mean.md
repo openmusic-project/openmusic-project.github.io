@@ -23,8 +23,7 @@ om-mean
 name| data type(s)| comments  
 ---|---|---  
   _self_ |  a list|  
-  _weights_ |  a list| an optional list of numbers to ponderate the elements
-of  _self_   
+  _weights_ |  a list| an optional list of numbers to ponderate the elements of  _self_   
   
 ## Output
 

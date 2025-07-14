@@ -25,8 +25,7 @@ name| data type(s)| comments
 ---|---|---  
   _n_ |  an integer| must be more than 2; defaults to 12  
   _k_ |  a positive integer| defaults to 6  
-  _howmany_ |  a positive integer| allows you to limit the number of answers
-returned  
+  _howmany_ |  a positive integer| allows you to limit the number of answers returned  
   
 ## Output
 
