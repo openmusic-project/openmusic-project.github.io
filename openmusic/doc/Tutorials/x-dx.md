@@ -16,7 +16,7 @@ x->dx
 
 ## Syntax
 
-`` **x- >dx**` self `
+ **x- >dx** ` self `
 
 ## Inputs
 
