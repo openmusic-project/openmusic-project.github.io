@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](apply-cont)| | [Next](arithm-ser)  
+[Prev](apply)| | [Next](arithm-ser)  
   
 * * *
 
@@ -24,8 +24,7 @@ the octave
 name| data type(s)| comments  
 ---|---|---  
   _midic_ |  an integer or list thereof| the midics to round off  
-  _approx_ |  a positive number| the subdivision of the octave to respect;
-defaults to 2. Note that decimal values are allowed  
+  _approx_ |  a positive number| the subdivision of the octave to respect; defaults to 2. Note that decimal values are allowed  
   _ref-midic_ |  an integer| optional; specifies a reference pitch, as a midic  
   
 ## Output
@@ -78,7 +77,7 @@ results directly into the second input of **Chord-seq**.**
 
 * * *
 
-[Prev](apply-cont)| [Home](index)| [Next](arithm-ser)  
+[Prev](apply)| [Home](index)| [Next](arithm-ser)  
 ---|---|---  
-apply-cont| [Up](funcref.main)| arithm-ser
+apply| [Up](funcref.main)| arithm-ser
 

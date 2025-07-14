@@ -25,17 +25,14 @@ name| data type(s)| comments
   _begin_ |  a number or tree| the starting point for the interpolation  
   _end_ |  a number or tree| the end point for the interpolation  
   _samples_ |  a number| the number of elements to interpolate. Includes
- _begin_  and  _end_  ; a value of three is therefore equal to a single
-interpolated value or list of values between the starting and ending point.  
-  _curve_ |  a float| specifies the curve of the interpolated values. Defaults
-to 1.0.  
+ _begin_  and  _end_  ; a value of three is therefore equal to a single interpolated value or list of values between the starting and ending point.  
+  _curve_ |  a float| specifies the curve of the interpolated values. Defaults to 1.0.  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a tree| Returns a list of numbers or trees, being the interpolation
-between  _begin_  and  _end_   
+first| a tree| Returns a list of numbers or trees, being the interpolation between  _begin_  and  _end_   
   
 ## Description
 

@@ -24,8 +24,7 @@ Canon of Maximal Category
 
 name| data type(s)| comments  
 ---|---|---  
-  _n_ |  a positive integer| one of the list of "good primes" produced by
-[ canon-n ](canon-n)  
+  _n_ |  a positive integer| one of the list of "good primes" produced by [ canon-n ](canon-n)  
   
 ## Output
 

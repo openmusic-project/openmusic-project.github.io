@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](a-chord-in)| | [Next](an-integer-between)  
+[Prev](minus1)| | [Next](aftertouch)  
   
 * * *
 
@@ -30,9 +30,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a [**Temporalbox**](temporalbox) object| The output will be the
-same as the first input; the action is performed on the **Maquette** at the
-second input  
+first| a [**Temporalbox**](temporalbox) object| The output will be the same as the first input; the action is performed on the **Maquette** at the second input  
   
 ## Description
 
@@ -103,7 +101,7 @@ Closing the info window applies any changes you've made to the
 
 * * *
 
-[Prev](a-chord-in)| [Home](index)| [Next](an-integer-between)  
+[Prev](minus1)| [Home](index)| [Next](aftertouch)  
 ---|---|---  
-a-chord-in| [Up](funcref.main)| an-integer-between
+minus1| [Up](funcref.main)| aftertouch
 

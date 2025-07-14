@@ -25,8 +25,7 @@ name| data type(s)| comments
   _begin_ |  a number| the starting point of the series  
   _end_ |  a number| the upper limit of the series  
   _step_ |  a number| the increment of the series  
-  _nummax_ |  a non-zero integer| optional; the maximum number of terms
-produced. Defaults to 536870911  
+  _nummax_ |  a non-zero integer| optional; the maximum number of terms produced. Defaults to 536870911  
   
 ## Output
 

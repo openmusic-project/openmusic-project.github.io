@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](an-integer-between)| | [Next](align-chords)  
+[Prev](addbox2maquette)| | [Next](align-chords)  
   
 * * *
 
@@ -29,8 +29,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| nil| This output will always return nil; the aftertouch message is sent
-out anyway.  
+first| nil| This output will always return nil; the aftertouch message is sent out anyway.  
   
 ## Description
 
@@ -51,7 +50,7 @@ midishare) for more information.
   
 * * *
 
-[Prev](an-integer-between)| [Home](index)| [Next](align-chords)  
+[Prev](addbox2maquette)| [Home](index)| [Next](align-chords)  
 ---|---|---  
-an-integer-between| [Up](funcref.main)| align-chords
+addbox2maquette| [Up](funcref.main)| align-chords
 

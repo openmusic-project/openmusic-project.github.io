@@ -24,17 +24,11 @@ defined intervals
 name| data type(s)| comments  
 ---|---|---  
   _self_ |  a **BPF** object| the **BPF** to sample  
-  _xmin_ |  a number| the beginning of the range of x values to sample;
-defaults to 0  
-  _xmax_ |  a number| the end of the range of x values to sample; defaults to
-100  
-  _nbsamples_ |  a positive integer| the number of (evenly spaced) samples to
-take between  _xmin_  and  _xmax_ .  
- _coeff_ |  a number| optional; all results are multiplied by this
-coefficient. Defaults to 1  
- _nbdec_ |  a non-negative integer| optional; the precision of the samples.
-Sets the number of decimal places to register for each y value calculated.
-Defaults to 0  
+  _xmin_ |  a number| the beginning of the range of x values to sample; defaults to 0  
+  _xmax_ |  a number| the end of the range of x values to sample; defaults to 100  
+  _nbsamples_ |  a positive integer| the number of (evenly spaced) samples to take between  _xmin_  and  _xmax_ .  
+ _coeff_ |  a number| optional; all results are multiplied by this coefficient. Defaults to 1  
+ _nbdec_ |  a non-negative integer| optional; the precision of the samples. Sets the number of decimal places to register for each y value calculated. Defaults to 0  
   
 ## Output
 

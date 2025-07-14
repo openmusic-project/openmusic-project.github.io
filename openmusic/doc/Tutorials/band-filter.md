@@ -24,8 +24,7 @@ band-filter
 name| data type(s)| comments  
 ---|---|---  
   _list_ |  a tree| the tree to filter  
-  _bounds_ |  a list of pairs of numbers| must contain at least one pair of
-numbers, for example ((1 3))  
+  _bounds_ |  a list of pairs of numbers| must contain at least one pair of numbers, for example ((1 3))  
   _mode_ |  menu| two options: pass and reject. Defaults to 'pass'  
   
 ## Output

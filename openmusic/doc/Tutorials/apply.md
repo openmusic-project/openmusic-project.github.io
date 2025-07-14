@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](append)| | [Next](apply-cont)  
+[Prev](append)| | [Next](approx-m)  
   
 * * *
 
@@ -22,12 +22,9 @@ apply
 
 name| data type(s)| comments  
 ---|---|---  
-  _function_ |  symbol, function name or lambda function | the function that
-will be evaulated  
-  _first-arg_ |  list or number| Must be a list if  _more-args_  are not used.
-May be a list if  _more-args_  is present and  _function_  accepts lists.  
-  _more-args_ |  list or number| repeatable; if used, the last input **must**
-be a list.  
+  _function_ |  symbol, function name or lambda function | the function that will be evaulated  
+  _first-arg_ |  list or number| Must be a list if  _more-args_  are not used. May be a list if  _more-args_  is present and _function_  accepts lists.  
+  _more-args_ |  list or number| repeatable; if used, the last input **must** be a list.  
   
 ## Output
 
@@ -102,7 +99,7 @@ passed individually as arguments, because they occur at the last input.
 
 * * *
 
-[Prev](append)| [Home](index)| [Next](apply-cont)  
+[Prev](append)| [Home](index)| [Next](approx-m)  
 ---|---|---  
-append| [Up](funcref.main)| apply-cont
+append| [Up](funcref.main)| approx-m
 

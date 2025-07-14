@@ -18,18 +18,14 @@ expand-lst
 
    **expand-lst**  list  
 
-![Warning](figures/images/warning.gif)|
-
-The function name contains no letter 'i'. Be sure to type it correctly  
-  
+![Warning](figures/images/warning.gif)| The function name contains no letter 'i'. Be sure to type it correctly  
 ---|---  
   
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-  _list_ |  a tree| written in a special syntax understood by certain OM
-functions. See below  
+  _list_ |  a tree| written in a special syntax understood by certain OM functions. See below  
   
 ## Output
 

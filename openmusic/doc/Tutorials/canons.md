@@ -24,19 +24,12 @@ rhythm of entries of the voices
 
 name| data type(s)| comments  
 ---|---|---  
-  _r_ |  a list of integers| the intervals between attacks of the ground
-rhythmic pattern  
+  _r_ |  a list of integers| the intervals between attacks of the ground rhythmic pattern  
   _s_ |  a list of integers| the intervals between entries of the voices  
-  _:poly?_ |  t or nil| keyword input; whether to produce a **Poly** object.
-If not t, [ canons ](canons) produces a **Multi-seq**.  
-  _:beats_ |  a positive integer| keyword input; the length of the pulses, in
-milliseconds, when creating a **Multi-seq** object. **Should not be used if 
-_:poly?_  is set to t. Defaults to 250.**  
-  _:mindiv_ |  a positive power of 2 (an integer)| keyword input; sets the
-length of the pulse for **Poly** objects. 8 is the eighth note. 16 is the
-sixteenth, etc. Defaults to 8  
-  _:sign_ |  a list of 2 integers| keyword input; the time signature for the
-**Poly** object in the form (a b)  
+  _:poly?_ |  t or nil| keyword input; whether to produce a **Poly** object. If not t, [ canons ](canons) produces a **Multi-seq**.  
+  _:beats_ |  a positive integer| keyword input; the length of the pulses, in milliseconds, when creating a **Multi-seq** object. **Should not be used if _:poly?_  is set to t. Defaults to 250.**  
+  _:mindiv_ |  a positive power of 2 (an integer)| keyword input; sets the length of the pulse for **Poly** objects. 8 is the eighth note. 16 is the sixteenth, etc. Defaults to 8  
+  _:sign_ |  a list of 2 integers| keyword input; the time signature for the **Poly** object in the form (a b)  
   
 ## Output
 

@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](plus1)| | [Next](a-member-of)  
+[Prev](plus1)| | [Next](addbox2maquette)  
   
 * * *
 
@@ -36,7 +36,7 @@ Subtracts one from  _number_  and returns the result. A useful shortcut.
 
 * * *
 
-[Prev](plus1)| [Home](index)| [Next](a-member-of)  
+[Prev](plus1)| [Home](index)| [Next](addbox2maquette)  
 ---|---|---  
-1+| [Up](funcref.main)| a-member-of
+1+| [Up](funcref.main)| addbox2maquette
 

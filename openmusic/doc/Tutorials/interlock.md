@@ -24,8 +24,7 @@ name| data type(s)| comments
 ---|---|---  
   _lis1_ |  a tree| the master list  
   _lis2_ |  a tree| the list of elements to insert  
-  _plc1_ |  a list of integers| the locations at which to place elements from
- _lis2_   
+  _plc1_ |  a list of integers| the locations at which to place elements from _lis2_   
   
 ## Output
 
