@@ -16,14 +16,14 @@ om+
 
 ## Syntax
 
-`` **om+**` self num `
+   **om+**  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _num_`|  a number or tree|  
+  _self_ |  a number or tree|  
+  _num_ |  a number or tree|  
   
 ## Output
 

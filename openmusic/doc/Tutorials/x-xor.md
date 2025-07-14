@@ -16,7 +16,7 @@ x-xor
 
 ## Syntax
 
- **x-xor**  ` l1? l2? &optional test key &rest list`  
+ **x-xor**    l1? l2? &optional test key &rest list   
 
 ## Inputs
 

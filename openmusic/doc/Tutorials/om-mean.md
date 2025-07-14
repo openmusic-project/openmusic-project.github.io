@@ -16,15 +16,15 @@ om-mean
 
 ## Syntax
 
-`` **om-mean**` self &optional weights `
+   **om-mean**  self &optional weights  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a list|  
-` _weights_`|  a list| an optional list of numbers to ponderate the elements
-of `_self_`  
+  _self_ |  a list|  
+  _weights_ |  a list| an optional list of numbers to ponderate the elements
+of  _self_   
   
 ## Output
 
@@ -34,13 +34,13 @@ first| a number| returns the arithmetic mean of the numbers in the list
   
 ## Description
 
-This function returns the arithmetic mean of the numbers in `_self_` , which
+This function returns the arithmetic mean of the numbers in  _self_  , which
 may be of mixed type. This arithmetic mean is obtained by adding all of the
 elements in the list together and dividing by the number of elements.
 
-The second input, `_weights_` , is a list of values used to ponderate (to
-weight) the values of the first input. If this list is shorter than `_self_`
-the extra elements in `_self_` are not weighted. Weighting an element with a
+The second input,  _weights_  , is a list of values used to ponderate (to
+weight) the values of the first input. If this list is shorter than  _self_ 
+the extra elements in  _self_  are not weighted. Weighting an element with a
 value _n_ causes the mean to be calculated as if that element appeared _n_
 times.
 

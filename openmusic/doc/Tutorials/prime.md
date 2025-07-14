@@ -12,17 +12,17 @@ OpenMusic Reference
   
 prime?  
   
-(predicates module) \-- returns t if `_n_` is a prime number.  
+(predicates module) \-- returns t if  _n_  is a prime number.  
 
 ## Syntax
 
-`` **prime?**` n `
+   **prime?**  n  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a number|  
+  _n_ |  a number|  
   
 ## Output
 
@@ -32,8 +32,8 @@ first| t or nil|
   
 ## Description
 
-This [_predicate_](glossary#PREDICATE) returns t only if `_n_` is prime,
-otherwise it returns nil `prime?` cannot test for primes higher than 99460729.
+This [_predicate_](glossary#PREDICATE) returns t only if  _n_  is prime,
+otherwise it returns nil  prime?  cannot test for primes higher than 99460729.
 
 * * *
 

@@ -17,13 +17,13 @@ addressing
 
 ## Syntax
 
-`` **first**` list `
+   **first**  list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree|  
+  _list_ |  a list or tree|  
   
 ## Output
 
@@ -33,7 +33,7 @@ first| any|
   
 ## Description
 
-This function returns the [car](glossary#CAR) of `_list_` , the first
+This function returns the [car](glossary#CAR) of  _list_  , the first
 element of the list. In this case, 'first' refers to human numbering, where
 addresses start with one, and not zero.
 

@@ -12,18 +12,18 @@ OpenMusic Reference
   
 create-list  
   
-(lists module) \-- Returns a list of `_count_` instances of `_elem_`  
+(lists module) \-- Returns a list of  _count_  instances of  _elem_   
 
 ## Syntax
 
-`` **create-list**` count elem `
+   **create-list**  count elem  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _count_`|  a non-negative integer. defaults to 10|  
-` _elem_`|  any|  
+  _count_ |  a non-negative integer. defaults to 10|  
+  _elem_ |  any|  
   
 ## Output
 
@@ -33,8 +33,8 @@ first| a list or tree|
   
 ## Description
 
-Constructs a list with `_count_` repetitions of whatever is given at the
-`_elem_` input. If `_count_` is set to 0, nil is returned.
+Constructs a list with  _count_  repetitions of whatever is given at the
+ _elem_  input. If  _count_  is set to 0, nil is returned.
 
 ## Examples
 
@@ -44,7 +44,7 @@ Constructs a list with `_count_` repetitions of whatever is given at the
 
 Returns:
 
-`? OM->((a 2) (a 2) (a 2) (a 2) (a 2))`
+ ? OM->((a 2) (a 2) (a 2) (a 2) (a 2)) 
 
 * * *
 

@@ -16,7 +16,7 @@ volume
 
 ## Syntax
 
-   **volume**  ` vol chans &optional port `  
+   **volume**    vol chans &optional port    
 
 ## Inputs
 

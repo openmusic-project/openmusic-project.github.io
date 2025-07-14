@@ -16,25 +16,25 @@ om-abs
 
 ## Syntax
 
-`` **om-abs**` self `
+   **om-abs**  self  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
+  _self_ |  a number or tree|  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number or tree| returns the absolute value of `self`  
+first| a number or tree| returns the absolute value of  self   
   
 ## Description
 
-Returns the absolute value of `_self_` power. If `self` is a tree, then a tree
+Returns the absolute value of  _self_  power. If  self  is a tree, then a tree
 of identical dimensions is returned, containing the absolute value of all the
-elements in `_self_`.
+elements in  _self_ .
 
 ![Note](figures/images/note.gif)|
 

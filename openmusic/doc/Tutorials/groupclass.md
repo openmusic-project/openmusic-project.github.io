@@ -16,7 +16,7 @@ Group
 
 ## Syntax
 
-   **Group** ` self tree ` 
+   **Group**   self tree   
 
 ## Slots
 

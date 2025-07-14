@@ -16,7 +16,7 @@ subs-posn
 
 ## Syntax
 
-   **subs-posn**  ` lis1 posn val  `
+   **subs-posn**    lis1 posn val   
 
 ## Inputs
 

@@ -16,13 +16,13 @@ OpenMusic Reference
 
 ## Syntax
 
-`` **1+**` number `
+   **1+**  number  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _number_`|  a number|  
+  _number_ |  a number|  
   
 ## Output
 
@@ -32,7 +32,7 @@ first| a number|
   
 ## Description
 
-Adds one to `_number_` and returns the result. A useful shortcut.
+Adds one to  _number_  and returns the result. A useful shortcut.
 
 * * *
 

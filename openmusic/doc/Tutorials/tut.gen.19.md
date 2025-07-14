@@ -20,8 +20,8 @@ seq**](chord-seq)
 
 In this patch a series of values is used to produce a graphic representation
 of a melody and a melody itself. The list of midics is passed to the
-`_lmidic_` input of a [**Chord-seq**](chord-seq) object to view it as a
-melody, as usual, but also to the `_y-points_` input of a
+ _lmidic_  input of a [**Chord-seq**](chord-seq) object to view it as a
+melody, as usual, but also to the  _y-points_  input of a
 [**BPF**](editors.bpf#BPF) object, where it is converted into a graph (a
 contour).
 

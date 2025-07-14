@@ -16,15 +16,15 @@ mf-info
 
 ## Syntax
 
-`` **mf-info**` self &optional tracknum `
+   **mf-info**  self &optional tracknum  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  an OM **Midifile** object|  
-` _tracknum_`|  an integer| optional; must be between 0 and 15, inclusive.
-Causes `mf-info` to analyze only one track within the file.  
+  _self_ |  an OM **Midifile** object|  
+  _tracknum_ |  an integer| optional; must be between 0 and 15, inclusive.
+Causes  mf-info  to analyze only one track within the file.  
   
 ## Output
 
@@ -34,8 +34,8 @@ first| a tree|
   
 ## Description
 
-`mf-info` returns a tree describing a MIDI file. Unless you use the optional
-input `_tracknum_` to isolate a single track, the highest level of the tree is
+ mf-info  returns a tree describing a MIDI file. Unless you use the optional
+input  _tracknum_  to isolate a single track, the highest level of the tree is
 a list of tracks. Each track is a list of notes. Each of the notes is a list
 of parameters in the form:
 
@@ -67,15 +67,15 @@ midishare) for more information.
 
 ![](figures/functions/midi/mf-infoEX1.png)
 
-Here we'll use `mf-info` to isolate the MIDI note numbers of a **Midifile**.
-`mf-info` is set to return a description of the first track only (0 at second
-input). This list of lists is passed to `mat-trans`, which returns a tree in
+Here we'll use  mf-info  to isolate the MIDI note numbers of a **Midifile**.
+ mf-info  is set to return a description of the first track only (0 at second
+input). This list of lists is passed to  mat-trans , which returns a tree in
 which the first element is a list of all the first elements of the sublists of
-the input (see the entry on [`mat-trans`](mat-trans) for more
+the input (see the entry on [ mat-trans ](mat-trans) for more
 information). Since the first parameter of the note lists is the MIDI note
-value, the first list in the output of `mat-trans` will be a list of all the
-MIDI note values. We take this first element with the `nth` function. Changing
-the first input of `nth` from 0 to 2, for example would return a list of all
+value, the first list in the output of  mat-trans  will be a list of all the
+MIDI note values. We take this first element with the  nth  function. Changing
+the first input of  nth  from 0 to 2, for example would return a list of all
 the note durations in the sequence.
 
 * * *

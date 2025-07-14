@@ -15,8 +15,8 @@ Generating more complicated rhythm trees.
 
 ## Key Modules Used
 
-[ **Voice**](voice), [`list`](list), [`x-append`](x-append),
-[`omloop`](omloop)
+[ **Voice**](voice), [ list ](list), [ x-append ](x-append),
+[ omloop ](omloop)
 
 ## The Concept:
 
@@ -35,17 +35,17 @@ Here's the interior of the abstraction:
 
 ![](figures/tutorials/general/25b.png)
 
-Inside this patch three [`omloop`](omloop)s will construct the 'leaves'
+Inside this patch three [ omloop ](omloop)s will construct the 'leaves'
 of our rhythm tree.
 
-The first [`omloop`](omloop) will produce time signature:
+The first [ omloop ](omloop) will produce time signature:
 
 ![](figures/tutorials/general/25c.png)
 
-Each output will be enumerated using [`listloop`](listloop) (D). Each
+Each output will be enumerated using [ listloop ](listloop) (D). Each
 beat number will be appended to a list with its corresponding beat duration
-using [`list`](list) (E). The results will be collected by
-[`collect`](listing) (F) and then passed to the output.
+using [ list ](list) (E). The results will be collected by
+[ collect ](listing) (F) and then passed to the output.
 
 At (B), 'proprts' will return measures. (This loop is the same as 'measure-
 sign' loop, except that it pairs the measure lengths (time signature
@@ -53,16 +53,16 @@ numerators) with the lists of rhythmic structure.
 
 ![](figures/tutorials/general/25d.png)
 
-At (C), another [`omloop`](omloop) will take the elements of the lists
-produced by the other [`omloop`](omloop)s and pair them off to form the
+At (C), another [ omloop ](omloop) will take the elements of the lists
+produced by the other [ omloop ](omloop)s and pair them off to form the
 measures. **Note that we must put each of the measure lists into another set
-of parentheses with[` list`](list) because each measure must be a list of
+of parentheses with[  list ](list) because each measure must be a list of
 groups and we only have one group per measure.**
 
 ![](figures/tutorials/general/25e.png)
 
-Outside of the [`omloop`](omloop)s at (G) we add the obligatory question
-mark, which we append to the list with [`x-append`](x-append).
+Outside of the [ omloop ](omloop)s at (G) we add the obligatory question
+mark, which we append to the list with [ x-append ](x-append).
 
 After connecting our abstraction to the second input of the
 [**Voice**](voice), we will obtain this rhythm:

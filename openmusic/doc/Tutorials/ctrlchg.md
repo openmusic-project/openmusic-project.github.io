@@ -16,16 +16,16 @@ ctrlchg
 
 ## Syntax
 
-`` **ctrlchg**` ctrlnum values chans &optional port `
+   **ctrlchg**  ctrlnum values chans &optional port  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _ctrlnum_`|  an integer|  
-` _values_`|  an integer|  
-` _chans_`|  an integer or list thereof|  
-` _port_`|  an integer or list thereof| The MIDI port(s) to send on  
+  _ctrlnum_ |  an integer|  
+  _values_ |  an integer|  
+  _chans_ |  an integer or list thereof|  
+  _port_ |  an integer or list thereof| The MIDI port(s) to send on  
   
 ## Output
 

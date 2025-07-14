@@ -12,18 +12,18 @@ OpenMusic Reference
   
 om/=  
   
-(predicates module) \-- returns t if `_self_` and `_num_` are not equal.  
+(predicates module) \-- returns t if  _self_  and  _num_  are not equal.  
 
 ## Syntax
 
-`` **om/=**` self num `
+   **om/=**  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number|  
-` _num_`|  a number|  
+  _self_ |  a number|  
+  _num_ |  a number|  
   
 ## Output
 
@@ -36,7 +36,7 @@ first| t or nil|
 This [_predicate_](glossary#PREDICATE) function returns t if and only if
 the two inputs do not have the same value.
 
-Usually used in conjunction with [`omif`](omif)
+Usually used in conjunction with [ omif ](omif)
 
 * * *
 

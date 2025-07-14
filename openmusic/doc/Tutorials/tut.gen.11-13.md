@@ -21,7 +21,7 @@ harmonic spectrum](tut.gen.11.sgm)
 
 [The Patch:](tut.gen.11.sgm#AEN3269)
 
-[Tutorial 12: Building a sequence of random notes: [`om-random`](om-
+[Tutorial 12: Building a sequence of random notes: [ om-random ](om-
 random)](tut.gen.12)
 
     

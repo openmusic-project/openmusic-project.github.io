@@ -16,7 +16,7 @@ sqr
 
 ## Syntax
 
-   **sqr**  ` n `  
+   **sqr**    n    
 
 ## Inputs
 

@@ -9,15 +9,15 @@ OpenMusic Tutorials
 
 ## Topics
 
-We'll use the functions [`arithm-ser`](arithm-ser) and
-[`om*`](ommultiply) to generate a harmonic series based on a fundamental
+We'll use the functions [ arithm-ser ](arithm-ser) and
+[ om* ](ommultiply) to generate a harmonic series based on a fundamental
 we supply. This patch is built for you in this tutorial but try building it
 yourself from scratch.
 
 ## Key Modules Used
 
-[ **Note**](note), [`mc->f`](mc-f), [`f->mc`](f-mc), [`arithm-
-ser`](arithm-ser).
+[ **Note**](note), [ mc->f ](mc-f), [ f->mc ](f-mc), [ arithm-
+ser ](arithm-ser).
 
 ## The Concept:
 
@@ -75,7 +75,7 @@ box appears:
 
 ![](figures/tutorials/general/8c.png)
 
-Type `**patch**`.
+Type  **patch** .
 
 ![](figures/tutorials/general/8d.png)
 
@@ -111,21 +111,21 @@ ntal note by the its place in the harmonic series (for example, we must
 multiply a fundamental at 60 Hz, by 1,2,3 etc...)
 
 First, we need to convert the fundamental pitch from a midic into a frequency,
-which will be done with the [`mc->f`](mc-f) function. We'll also need a
+which will be done with the [ mc->f ](mc-f) function. We'll also need a
 list of integers representing the pitch ratios of the series. For this we'll
-use [`arithm-ser`](arithm-ser), which will generate an arithmetic series
-beginning at `_begin_` , and adding `_step_` each time until `_end_` is
+use [ arithm-ser ](arithm-ser), which will generate an arithmetic series
+beginning at  _begin_  , and adding  _step_  each time until  _end_  is
 reached. These amounts, like the fundamental, will be set from outside the
-patch. Using 1 as `_step_` will return a list of consecutive numbers (1 2
+patch. Using 1 as  _step_  will return a list of consecutive numbers (1 2
 3...) and will thus return the entire harmonic series. If we wanted to get the
-odd harmonics only, however, we could use 2 as `_step_` , generating the
+odd harmonics only, however, we could use 2 as  _step_  , generating the
 series (1 3 5 7...). Whatever we choose, the fundamental frequency will be
 multiplied by these numbers to produce the series. The resulting frequencies
-will then be converted back into notes by the module [`f->mc`](f-mc).
+will then be converted back into notes by the module [ f->mc ](f-mc).
 
-When you finish making the connections, evaluate the [`f->mc`](f-mc) box.
+When you finish making the connections, evaluate the [ f->mc ](f-mc) box.
 Why? This is because the inputs that we added are producing the value nil, and
-the functions [`mc->f`](mc-f) and [`arithm-ser`](arithm-ser) don't
+the functions [ mc->f ](mc-f) and [ arithm-ser ](arithm-ser) don't
 know what to do with that value. They are expecting numbers. We must change
 the inputs so that they return a different value by default.
 
@@ -166,7 +166,7 @@ the bubbles when command-clicked from the outside.
 Giving your inputs and outputs names is a good habit to get into, it's easy to
 forget what's what when your screen is filled with icons.  
   
-If you've been using the pre-made patch in the `Tutorials` folder, the default
+If you've been using the pre-made patch in the  Tutorials  folder, the default
 values have already been set. Try rebuilding the patch from scratch to see
 what we mean.
 

@@ -17,7 +17,7 @@ x-diff
 
 ## Syntax
 
-   **x-diff**  ` l1? l2? &optional test key &rest list `
+   **x-diff**    l1? l2? &optional test key &rest list  
 
 ## Inputs
 

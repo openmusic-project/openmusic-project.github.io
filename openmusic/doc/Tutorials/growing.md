@@ -17,13 +17,13 @@ nil
 
 ## Syntax
 
-`` **growing?**` / `
+   **growing?**  /  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _/_`|  a list| this input must be opened with option-right-arrow  
+  _/_ |  a list| this input must be opened with option-right-arrow  
   
 ## Output
 

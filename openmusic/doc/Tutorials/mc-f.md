@@ -17,13 +17,13 @@ mc->f
 
 ## Syntax
 
-`` **mc- >f**` midics `
+   **mc- >f**  midics  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _midics_`|  an integer or list thereof| a midicent or a list of midicents  
+  _midics_ |  an integer or list thereof| a midicent or a list of midicents  
   
 ## Output
 

@@ -33,12 +33,12 @@ the top of the screen is represented: File->New->New Patch.
 
 Example: Functions->music->score->OMQUANTIFY
 
-Names of functions are never capitalized and are always printed `like this`.
+Names of functions are never capitalized and are always printed  like this .
 Names of classes are always capitalized and printed **like this**. Data types
 are not normally capitalized (except when a class is a data type) and are
 printed like this.
 
-Examples: [`first`](first), **Poly** , t, **Note** , [`list`](list),
+Examples: [ first ](first), **Poly** , t, **Note** , [ list ](list),
 integer.
 
 All set? Then let's go!

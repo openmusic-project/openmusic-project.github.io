@@ -13,7 +13,7 @@ Managing durations in the [**Chord-seq**](chord-seq) editor
 
 ## Key Modules Used
 
-[ **Chord-seq**](chord-seq), [`dx->x`](dx-x), [`x->dx`](x-dx)
+[ **Chord-seq**](chord-seq), [ dx->x ](dx-x), [ x->dx ](x-dx)
 
 ## The Concept:
 
@@ -43,10 +43,10 @@ Which, if transcribed, could be represented by the following:
 
 ![](figures/tutorials/general/22b.png)
 
-We will take this list of durations and connect it to the `_ldur_` input of a
+We will take this list of durations and connect it to the  _ldur_  input of a
 [**Chord-seq**](chord-seq). These durations have to be converted into
 onsets relative to the beginning of the sequence before they are given to the
-`_lonset_` input. For this we use [`dx->x`](dx-x), which requires us to
+ _lonset_  input. For this we use [ dx->x ](dx-x), which requires us to
 tell it the absolute starting point, which in this case is 0ms, the beginning
 of the sequence. This produces
 
@@ -58,7 +58,7 @@ In example 2,
 
 ![](figures/tutorials/general/22c.png)
 
-we will use this same list of onsets (C) as produced by [`dx->x`](dx-x).
+we will use this same list of onsets (C) as produced by [ dx->x ](dx-x).
 We will not specify anything at the duration input. This will result in
 'wrong' duration values, i.e all notes defaulting to a length of 1000
 milliseconds. The sequence will thus have gaps or overlaps, as you can verify
@@ -66,7 +66,7 @@ in the editor:
 
 ![](figures/tutorials/general/22d.png)
 
-Rather than calculate the durations, we can fix this by using the `_legato_`
+Rather than calculate the durations, we can fix this by using the  _legato_ 
 input. The legato input overrides the default durations. It is a value
 representing a percentage of the perfect legato, with every note ending
 exactly as the next note starts. If we enter 100 here we fix all the durations
@@ -74,7 +74,7 @@ of the sequence, as we've done in example 3:
 
 ![](figures/tutorials/general/22e.png)
 
-Alternately, we could use the function [`x->dx`](x-dx) to turn the list
+Alternately, we could use the function [ x->dx ](x-dx) to turn the list
 of onsets into a list of durations.
 
 * * *

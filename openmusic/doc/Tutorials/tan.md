@@ -16,7 +16,7 @@ tan
 
 ## Syntax
 
-   **tan** ` radians ` 
+   **tan**   radians   
 
 ## Inputs
 

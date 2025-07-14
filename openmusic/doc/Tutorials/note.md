@@ -16,7 +16,7 @@ Note
 
 ## Syntax
 
- **Note** ` sefl midic vel dur chan `
+ **Note**   sefl midic vel dur chan  
 
 ## Slots
 

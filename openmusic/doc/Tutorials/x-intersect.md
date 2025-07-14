@@ -16,7 +16,7 @@ x-intersect
 
 ## Syntax
 
-   **x-intersect**  ` l1? l2? &optional test key &rest list ` 
+   **x-intersect**    l1? l2? &optional test key &rest list   
 
 ## Inputs
 

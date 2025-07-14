@@ -40,6 +40,6 @@ More Advanced Material Generation
 
 [Prev](tut.gen.16)| [Home](index)| [Next](tut.gen.17)  
 ---|---|---  
-Tutorial 16: Introduction to [`omloop`](omloop) II| [Up](tut.gen)|
+Tutorial 16: Introduction to [ omloop ](omloop) II| [Up](tut.gen)|
 Tutorial 17: Generation of a melodic sequence from harmonic reservoirs
 

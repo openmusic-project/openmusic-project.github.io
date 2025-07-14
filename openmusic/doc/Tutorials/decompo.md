@@ -18,14 +18,14 @@ Canon of Maximal Category
 
 ## Syntax
 
-`` **decompo**` n `
+   **decompo**  n  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a positive integer| one of the list of "good primes" produced by
-[`canon-n`](canon-n)  
+  _n_ |  a positive integer| one of the list of "good primes" produced by
+[ canon-n ](canon-n)  
   
 ## Output
 
@@ -35,7 +35,7 @@ first| a list of integers |
   
 ## Description
 
-The module breaks down `_n_` into five numbers (p1 p2 n1 n2 n3) where:
+The module breaks down  _n_  into five numbers (p1 p2 n1 n2 n3) where:
 
   * The product of all five is the period of a Regular Complementary Canon of Maximal Category.
 

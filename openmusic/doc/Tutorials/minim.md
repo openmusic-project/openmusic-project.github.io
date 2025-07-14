@@ -17,12 +17,12 @@ elements
 
 ## Syntax
 
-`` **minim**` what? &optional retard `
+   **minim**  what? &optional retard  
 
 ![Note](figures/images/note.gif)|
 
-Though it is called `minim` in its LISP code, this function appears as `min`
-when used inside `omloop`. The reason eludes me.  
+Though it is called  minim  in its LISP code, this function appears as  min 
+when used inside  omloop . The reason eludes me.  
   
 ---|---  
   
@@ -30,8 +30,8 @@ when used inside `omloop`. The reason eludes me.
 
 name| data type(s)| comments  
 ---|---|---  
-` _what?_`|  a number|  
-` _retard_`|  a function name or lambda function|  
+  _what?_ |  a number|  
+  _retard_ |  a function name or lambda function|  
   
 ## Output
 
@@ -45,30 +45,30 @@ third| 4294967296| reinitializes the counter, resetting it to 4294967296
 
 ![Note](figures/images/note.gif)|
 
-`minim` is part of a group of functions for performing iterative
+ minim  is part of a group of functions for performing iterative
 [loops](glossary#LOOP). They can only be used within an
 [omloop](omloop) patch window. Since they only function within the
 context of the entire repeating loop, they (or any function connected to them)
 cannot be evaluated directly within the patch window. You must evaluate the
-entire loop. See the entry on `omloop` for more information.  
+entire loop. See the entry on  omloop  for more information.  
   
 ---|---  
   
-`minim` is a type of collector. It returns the lowest value of all the results
+ minim  is a type of collector. It returns the lowest value of all the results
 of the loop.
 
-Like all collectors, `minim` has three outputs:
+Like all collectors,  minim  has three outputs:
 
 The first output triggers the collector, evaluating whatever is connected to
 it. The resulting number is then compared with the stored result of previous
 evaluations. If it is lower, it replaces the stored result, otherwise, the
-stored result is kept. It is usually connected to `eachTime`. The value
+stored result is kept. It is usually connected to  eachTime . The value
 carried by the connection itself is the lowest value thus far encountered
 among the repeated evaluations, which you can verify by placing the lisp
-function `print` between the first output and `eachTime`.
+function  print  between the first output and  eachTime .
 
 The second output returns the current state of the collector, without
-evaluating whatever is connected to it. It is usually connected to `finally`
+evaluating whatever is connected to it. It is usually connected to  finally 
 so that you can get the results of the comparison.
 
 The third output reinitializes the collector, resetting it to 4294967296. The
@@ -77,17 +77,17 @@ crazy number is the highest value that a 32-bit integer can represent.)
 
 ## Examples
 
-### Using `minim`
+### Using  minim 
 
 ![](figures/functions/control/minimEX1.png)
 
-This simple example passes uses `listloop` to pass each of the list values
-individually to `minim`. The lowest value is retained:
+This simple example passes uses  listloop  to pass each of the list values
+individually to  minim . The lowest value is retained:
 
-`? OM->3`
+ ? OM->3 
 
-A simpler solution would have been to plug that list directly into the [`list-
-min`](list-min) function:
+A simpler solution would have been to plug that list directly into the [ list-
+min ](list-min) function:
 
 ![](figures/functions/control/minimEX2.png)
 

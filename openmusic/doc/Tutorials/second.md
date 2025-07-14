@@ -17,7 +17,7 @@ addressing
 
 ## Syntax
 
-   **second**  ` list  `
+   **second**    list   
 
 ## Inputs
 

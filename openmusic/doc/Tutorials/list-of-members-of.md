@@ -17,24 +17,24 @@ domains
 
 ## Syntax
 
-`` **list-of-members-of**` n dom `
+   **list-of-members-of**  n dom  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a positive integer| the length of the list  
-` _dom_`|  a list| the domain for the variables  
+  _n_ |  a positive integer| the length of the list  
+  _dom_ |  a list| the domain for the variables  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a list| outputs a list of `_n_` variables in `_dom_`  
+first| a list| outputs a list of  _n_  variables in  _dom_   
   
 ## Description
 
-Defines a list of Screamer variables, each being a member of the set `_dom_`.
+Defines a list of Screamer variables, each being a member of the set  _dom_ .
 The values depend on the backtracking caused by the constraints.
 
 * * *

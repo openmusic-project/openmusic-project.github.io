@@ -14,8 +14,8 @@ saving [**Maquette**](glossary#MAQUETTE) output as a MIDI file.
 
 ## Key Modules Used
 
-[ **Maquette**](glossary#MAQUETTE), [**Voice**](voice), [`Chord-
-seq`](chord-seq), [`list`](list), [`save-as-midi`](save-as-
+[ **Maquette**](glossary#MAQUETTE), [**Voice**](voice), [ Chord-
+seq ](chord-seq), [ list ](list), [ save-as-midi ](save-as-
 midi)
 
 ## The Concept:
@@ -81,7 +81,7 @@ which will be the starting event. The rhythm tree (B)
 ...will therefore have seven attacks.
 
 The notes of this cantus firmus [**Voice**](voice) are taken from a
-[**Chord-seq**](chord-seq) connected to the third input, `_chords_` of
+[**Chord-seq**](chord-seq) connected to the third input,  _chords_  of
 the [**Voice**](voice) factory.
 
 ![](figures/tutorials/general/40d.png)
@@ -90,7 +90,7 @@ The combination of the two yields:
 
 ![](figures/tutorials/general/40e.png)
 
-At (J) we use [`list`](list) to collect the seven objects that will be
+At (J) we use [ list ](list) to collect the seven objects that will be
 placed in the [**Maquette**](glossary#MAQUETTE).
 
 The first object is our cantus firmus [**Voice**](voice).
@@ -121,7 +121,7 @@ to an output (necessary so it can play through the
 
 In order to get our onsets in the form of a list in milliseconds, we will have
 to connect our [**Voice**](voice) object to a [**Chord-seq**](chord-
-seq) (K). Via their respective `_self_` inputs and output. This is an
+seq) (K). Via their respective  _self_  inputs and output. This is an
 efficient way to transcribing traditional rhythmic notation into simple
 numerical data. (This is done through [_inheritance_](inheritance). The
 [**Chord-seq**](chord-seq) will inherit data from the
@@ -171,7 +171,7 @@ mini-dialog where you can change the master input and output ports for your
 [**Maquette**](glossary#MAQUETTE).  
   
 Lastly, the real-time output of any [**Maquette**](glossary#MAQUETTE) can
-be directly connected to the input of the [`save-as-midi`](save-as-midi)
+be directly connected to the input of the [ save-as-midi ](save-as-midi)
 function. Evaluating this brings up a dialog box where you can choose where to
 save a MIDI file of the output. That file can then be transferred to other
 programs, or reopened in OM by using a **Midifile** object. The output from

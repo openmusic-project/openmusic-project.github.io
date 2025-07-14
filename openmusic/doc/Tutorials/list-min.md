@@ -16,13 +16,13 @@ list-min
 
 ## Syntax
 
-`` **list-min**` self `
+   **list-min**  self  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a tree|  
+  _self_ |  a tree|  
   
 ## Output
 

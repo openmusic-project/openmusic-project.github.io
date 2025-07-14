@@ -16,15 +16,15 @@ mask
 
 ## Syntax
 
-`` **mask**` obj1 obj2 &optional mode `
+   **mask**  obj1 obj2 &optional mode  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _obj1_`|  a **Voice** object|  
-` _obj2_`|  a **Voice** object|  
-` _mode_`|  -1 or 1| defaults to 1  
+  _obj1_ |  a **Voice** object|  
+  _obj2_ |  a **Voice** object|  
+  _mode_ |  -1 or 1| defaults to 1  
   
 ## Output
 
@@ -34,18 +34,18 @@ first| a **Voice** object|
   
 ## Description
 
-`mask` uses `_obj2_` as a rhythmic mask for `_obj1_`. `_obj1_` is suppressed
-where `_obj2_` has rests; it plays when `_obj2_` is playing. The pitch content
-is thus exclusively from `_obj1_` , while the rhythmic content can be from
-`_obj2_` or both, depending on the rhythms concerned. See below.
+ mask  uses  _obj2_  as a rhythmic mask for  _obj1_ .  _obj1_  is suppressed
+where  _obj2_  has rests; it plays when  _obj2_  is playing. The pitch content
+is thus exclusively from  _obj1_  , while the rhythmic content can be from
+ _obj2_  or both, depending on the rhythms concerned. See below.
 
-The optional `_mode_` input takes either -1 or 1. 1 is the normal setting;
-using -1 will invert the mask, causing `_obj1_` to play only when `_obj2_` is
+The optional  _mode_  input takes either -1 or 1. 1 is the normal setting;
+using -1 will invert the mask, causing  _obj1_  to play only when  _obj2_  is
 not playing.
 
 ## Examples
 
-### How `mask` works
+### How  mask  works
 
 ![](figures/functions/score/maskEX1.png)
 

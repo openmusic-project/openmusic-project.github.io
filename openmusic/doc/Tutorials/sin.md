@@ -16,7 +16,7 @@ sin
 
 ## Syntax
 
-   **sin**  ` radians  `
+   **sin**    radians   
 
 ## Inputs
 

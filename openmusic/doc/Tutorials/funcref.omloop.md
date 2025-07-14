@@ -4,25 +4,25 @@ OpenMusic Reference
   
 * * *
 
-# Chapter 2. `omloop` and Components Reference
+# Chapter 2.  omloop  and Components Reference
 
  **Table of Contents**
 
 [omloop](omloop) \-- a multipurpose function for writing program
 [loops](glossary#LOOP)
 
-[forloop](forloop) \-- sets the number of repetitions in `omloop`
+[forloop](forloop) \-- sets the number of repetitions in  omloop 
 
-[whileloop](whileloop) \-- Allows repetition in `omloop` to continue as
+[whileloop](whileloop) \-- Allows repetition in  omloop  to continue as
 long as a condition is met
 
 [listloop](listloop) \-- Enumerates the elements of a list within
-`omloop`
+ omloop 
 
 [onlistloop](onlistloop) \-- Enumerates consecutive groups of the
-elements of a list within `omloop`
+elements of a list within  omloop 
 
-[counter (count)](counter) \-- registers the number of times `_what?_`
+[counter (count)](counter) \-- registers the number of times  _what?_ 
 has a non-nil value
 
 [sum](sum) \-- returns the sum of its collected elements
@@ -33,54 +33,54 @@ collected elements
 [maxi (max)](maxi) \-- returns the maximum value present among its
 collected elements
 
-[listing](listing) \-- returns the results of `omloop` in a list
+[listing](listing) \-- returns the results of  omloop  in a list
 
 [accumulator](accumulator) \-- a general-purpose collector for the
-`omloop` function
+ omloop  function
 
-[loopdo (eachTime)](loopdo) \-- activated at each repetition of `omloop`
+[loopdo (eachTime)](loopdo) \-- activated at each repetition of  omloop 
 except the last
 
 [finaldo (finally)](finaldo) \-- activated on the final repetition of
-`omloop`
+ omloop 
 
-The `omloop` Module
+The  omloop  Module
 
-This section of the Reference is dedicated to the special function `omloop`.
-You will find a detailed description of `omloop` itself followed by reference
+This section of the Reference is dedicated to the special function  omloop .
+You will find a detailed description of  omloop  itself followed by reference
 pages dedicated to each of its component functions: (in this order)
 
  **Iterators**
 
-  * [` forloop`](forloop)
+  * [  forloop ](forloop)
 
-  * [`whileloop`](whileloop)
+  * [ whileloop ](whileloop)
 
-  * [`listloop`](listloop)
+  * [ listloop ](listloop)
 
-  * [`onlistloop`](onlistloop)
+  * [ onlistloop ](onlistloop)
 
 **Collectors**
 
-  * [` counter (count)`](counter)
+  * [  counter (count) ](counter)
 
-  * [`sum`](sum)
+  * [ sum ](sum)
 
-  * [`minim (min)`](minim)
+  * [ minim (min) ](minim)
 
-  * [`maxi (max)`](maxi)
+  * [ maxi (max) ](maxi)
 
-  * [`listing (collect)`](listing)
+  * [ listing (collect) ](listing)
 
-  * [`accumulator (accum)`](accumulator)
+  * [ accumulator (accum) ](accumulator)
 
  **Outputs**
 
-  * [` loopdo (eachTime)`](loopdo)
+  * [  loopdo (eachTime) ](loopdo)
 
-  * [`finaldo (finally)`](finaldo)
+  * [ finaldo (finally) ](finaldo)
 
-Below is the reference for `omloop`.
+Below is the reference for  omloop .
 
 * * *
 

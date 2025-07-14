@@ -12,17 +12,17 @@ OpenMusic Reference
   
 rest  
   
-(LISP function) \-- returns the [_cdr_](glossary#CDR) of `_list_`  
+(LISP function) \-- returns the [_cdr_](glossary#CDR) of  _list_   
 
 ## Syntax
 
-`` **rest**` list `
+   **rest**  list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree|  
+_list_ |  a list or tree|  
   
 ## Output
 
@@ -32,9 +32,9 @@ first| a tree|
   
 ## Description
 
-This function returns the [_cdr_](glossary#CDR) of `_list_` , the list
-minus its first element. It can be used with `setf` to set the cdr of a list.
-**The list function` rest` must not be confused with the OM class **Rest**.**
+This function returns the [_cdr_](glossary#CDR) of  _list_  , the list
+minus its first element. It can be used with  setf  to set the cdr of a list.
+**The list function  rest  must not be confused with the OM class **Rest**.**
 
 ![Note](figures/images/note.gif)|  **LISP functions**  
 ---|---  

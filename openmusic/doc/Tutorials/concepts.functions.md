@@ -23,7 +23,7 @@ OpenMusic Reference
 [Adding additional methods](x1398)
 
 Functions in OM can respond to more than one data type. Take
-[`om+`](omplus), for example. When you give it a number and a list, it
+[ om+ ](omplus), for example. When you give it a number and a list, it
 adds the number to all the elements of the list. However, you can also give it
 two numbers, in which case it simply adds them. How does it know what to do?
 

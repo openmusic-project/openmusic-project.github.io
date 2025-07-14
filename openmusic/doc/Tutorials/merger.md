@@ -16,14 +16,14 @@ merger
 
 ## Syntax
 
-`` **merger**` chs1 chs2 `
+   **merger**  chs1 chs2  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _chs1_`|  a **Voice** or **Measure** object|  
-` _chs2_`|  same as `_chs1_`|  
+  _chs1_ |  a **Voice** or **Measure** object|  
+  _chs2_ |  same as  _chs1_ |  
   
 ## Output
 
@@ -33,7 +33,7 @@ first| a **Voice** or **Measure** object|
   
 ## Description
 
-The `merger` takes two **Voice** s or **Measure** s and returns a single
+The  merger  takes two **Voice** s or **Measure** s and returns a single
 object of the same type containing them both. It is as if they were played
 simultaneously and the result transcribed into a single object.
 
@@ -67,7 +67,7 @@ Representing a measure with the following structure:
 
 ![](figures/functions/score/mergerEX3.png)
 
-The two are passed to `merger`, the output connected to a **Voice** object (of
+The two are passed to  merger , the output connected to a **Voice** object (of
 which the first input can accept a **Measure** ). The resulting rhythm,
 displayed below, is
 

@@ -12,21 +12,21 @@ OpenMusic Reference
   
 apply  
   
-(LISP function) \-- returns the result of the evaluation of `_function_`  
+(LISP function) \-- returns the result of the evaluation of  _function_   
 
 ## Syntax
 
-`` **apply**` function first-arg &restmore-args `
+   **apply**  function first-arg &restmore-args  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _function_`|  symbol, function name or lambda function | the function that
+  _function_ |  symbol, function name or lambda function | the function that
 will be evaulated  
-` _first-arg_`|  list or number| Must be a list if `_more-args_` are not used.
-May be a list if `_more-args_` is present and `_function_` accepts lists.  
-` _more-args_`|  list or number| repeatable; if used, the last input **must**
+  _first-arg_ |  list or number| Must be a list if  _more-args_  are not used.
+May be a list if  _more-args_  is present and  _function_  accepts lists.  
+  _more-args_ |  list or number| repeatable; if used, the last input **must**
 be a list.  
   
 ## Output
@@ -37,27 +37,27 @@ first| any| the result of the evaluation
   
 ## Description
 
-Runs `_function_` , passing it `_first-arg_` and `_more-args_` (if present) as
-arguments. The last input, whether `_first-arg_` or `_more-args_` , must be a
-list. Values from this input are passed individually to `_function_` as
+Runs  _function_  , passing it  _first-arg_  and  _more-args_  (if present) as
+arguments. The last input, whether  _first-arg_  or  _more-args_  , must be a
+list. Values from this input are passed individually to  _function_  as
 arguments. In contrast, lists present at any input other than the last are
 passed in their entirety as arguments. This particularity of the structure of
-`apply` exists to make it possible to call extensible functions (functions
+ apply  exists to make it possible to call extensible functions (functions
 with &rest inputs).
 
-`_function_` may be a symbol, a function name, or function in lambda mode.
+ _function_  may be a symbol, a function name, or function in lambda mode.
 Note that if you pass a function in lambda mode with repeatable inputs, you
 must add the correct number to accomodate the number of arguments you are
 passing it at the other inputs. This is not necessary if the function name is
 entered directly instead of its icon in lambda mode.
 
-`apply` is similar to [`funcall`](funcall) in operation. The difference
-is that `funcall` passes all of its inputs as single arguments regardless of
+ apply  is similar to [ funcall ](funcall) in operation. The difference
+is that  funcall  passes all of its inputs as single arguments regardless of
 whether they are lists ot not.
 
-`apply` only calls `_function_` once. If you need to `apply` a function
+ apply  only calls  _function_  once. If you need to  apply  a function
 multiple times to data in a list or lists, consider using
-[`mapcar`](mapcar) or [`mapcan`](mapcan).
+[ mapcar ](mapcar) or [ mapcan ](mapcan).
 
 ![Note](figures/images/note.gif)|  **LISP functions**  
 ---|---  
@@ -73,31 +73,31 @@ repository/ai/cltl/clm/)
   
 ## Examples
 
-### Summing a list with `apply`
+### Summing a list with  apply 
 
 ![](figures/functions/lisp/applyEX1.png)
 
-Here we use `apply` to add the elements of a list. Since `_first-arg_` is the
+Here we use  apply  to add the elements of a list. Since  _first-arg_  is the
 last input present, its elements 1, 2, 3, and 4 are passed individually to the
-function `+` as arguments. `+` could have been the function icon in lambda
+function  +  as arguments.  +  could have been the function icon in lambda
 mode: ![](figures/functions/lisp/applyEX3.png) though note that we would have
 had to manually add the four inputs for the four arguments. The result, either
 way:
 
-`? OM->10`
+ ? OM->10 
 
-### Creating a list with `apply`
+### Creating a list with  apply 
 
 ![](figures/functions/lisp/applyEX2.png)
 
-Here we use `apply` to create a list, illustrating the particularity of the
+Here we use  apply  to create a list, illustrating the particularity of the
 last input. The arguments are passed sequentially to the function called, in
-this case, `list`. The result:
+this case,  list . The result:
 
-`? OM->((7 8) 3 1 2 3 4)`
+ ? OM->((7 8) 3 1 2 3 4) 
 
 Notice that (7 8) appears in its own parentheses because it was passed as a
-single argument to `list`, while 1 2 3 4 appear without, because they were
+single argument to  list , while 1 2 3 4 appear without, because they were
 passed individually as arguments, because they occur at the last input.
 
 * * *

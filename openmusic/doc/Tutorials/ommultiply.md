@@ -16,14 +16,14 @@ om*
 
 ## Syntax
 
-`` **om***` self num `
+   **om***  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _num_`|  a number or tree|  
+  _self_ |  a number or tree|  
+  _num_ |  a number or tree|  
   
 ## Output
 
@@ -47,7 +47,7 @@ paired with element (3 1) in the second.
 
 ![Note](figures/images/note.gif)|
 
-The name of the `om*` function uses the asterisk to represent multiplication,
+The name of the  om*  function uses the asterisk to represent multiplication,
 as is traditional in programming languages.  
   
 ---|---  

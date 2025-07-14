@@ -61,7 +61,7 @@ lib**](editors.bpf#BPF-LIB) objects are collections of
 [**BPF**](editors.bpf#BPF)s, in layers. Ditto for
 [**BPC**](editors.bpf#BPC)s and [**BPC-lib**](editors.bpf#BPC-LIB)s.
 
-` _BPF_` editors consist of a General Palette and a Data Window. The Data
+  _BPF_  editors consist of a General Palette and a Data Window. The Data
 Window may not look exactly as it does here depending on the type of factory
 you are editing, and what tool you are using. **The Data Window shown here is
 a composite containing all the elements found in all the tools and types of[

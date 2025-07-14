@@ -17,14 +17,14 @@ to the "good periods" of a Regular Complementary Canon of Maximal Category
 
 ## Syntax
 
-`` **canon-n**` low high `
+   **canon-n**  low high  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _low_`|  a positive integer|  
-` _high_`|  a positive integer| must be greater than `_low_`  
+  _low_ |  a positive integer|  
+  _high_ |  a positive integer| must be greater than  _low_   
   
 ## Output
 
@@ -34,7 +34,7 @@ first| a list of integers |
   
 ## Description
 
-This module returns all the possible periods between `_low_` and `_high_` for
+This module returns all the possible periods between  _low_  and  _high_  for
 a regular canon which tiles musical timespace.
 
 * * *

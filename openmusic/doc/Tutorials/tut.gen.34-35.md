@@ -20,7 +20,7 @@ OpenMusic Tutorials
 
 [The Patch:](tut.gen.34#AEN5659)
 
-[Tutorial 35: [`funcall`](funcall) with Lambda
+[Tutorial 35: [ funcall ](funcall) with Lambda
 Functions](tut.gen.35)
 
     

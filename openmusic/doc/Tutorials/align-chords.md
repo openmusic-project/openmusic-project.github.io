@@ -17,14 +17,14 @@ into a single element
 
 ## Syntax
 
-`` **align-chords**` self delta `
+   **align-chords**  self delta  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  A [**Chord-seq**](chord-seq) object|  
-` _delta_`|  a positive number|  
+  _self_ |  A [**Chord-seq**](chord-seq) object|  
+  _delta_ |  a positive number|  
   
 ## Output
 
@@ -35,8 +35,8 @@ first| A [**Chord-seq**](chord-seq) object|
 ## Description
 
 This function cleans up [**Chord-seq**](chord-seq) objects by combining
-Chords with similiar onsets. When [`align-chords`](align-chords)
-encounters two onsets that are separated by less than `_delta_` , it adds the
+Chords with similiar onsets. When [ align-chords ](align-chords)
+encounters two onsets that are separated by less than  _delta_  , it adds the
 first note to the second chord and deletes the original.
 
 * * *

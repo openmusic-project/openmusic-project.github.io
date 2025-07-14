@@ -132,35 +132,35 @@ Here we'll just try to build a simple sequence of three measures of 4/8 with a
 pattern of repeated eighth notes.
 
 We'll 'reverse engineer' the rhythm tree. Since the tree is a nested list,
-we'll build the individual elements using the [`list`](list) function
-(and [`repeat-n`](repeat-n), where necessary) and pass those elements to
-other [`list`](list) functions, making them sublists of a tree. So,
+we'll build the individual elements using the [ list ](list) function
+(and [ repeat-n ](repeat-n), where necessary) and pass those elements to
+other [ list ](list) functions, making them sublists of a tree. So,
 reading from the bottom up:
 
 At (A) we add the first element, the question mark. Note that in the flow this
 is actually the last thing we do.
 
-At (B) is a [`repeat-n`](repeat-n) set to evaluate everything above it 3
+At (B) is a [ repeat-n ](repeat-n) set to evaluate everything above it 3
 times. These three lists thus created are our measures.
 
 At (C) we construct the time signature as a list (4 8). It will be taken three
-times by [`repeat-n`](repeat-n) as the first element of the measure.
+times by [ repeat-n ](repeat-n) as the first element of the measure.
 
-At (D) another [`repeat-n`](repeat-n) producing
+At (D) another [ repeat-n ](repeat-n) producing
 
     
     
     (1 1 1 1)  
   
 ---  
-is paired with a [`list`](list) function to great a group
+is paired with a [ list ](list) function to great a group
 
     
     
     (4 (1 1 1 1))  
   
 ---  
-. This group is passed to a further [`list`](list) function since it is
+. This group is passed to a further [ list ](list) function since it is
 the only group in the measure (the measure in this case is a list of a single
 group). This yields
 

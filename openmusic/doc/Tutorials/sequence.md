@@ -16,7 +16,7 @@ sequence
 
 ## Syntax
 
-   **sequence**  ` patch &rest oppatch `
+   **sequence**    patch &rest oppatch  
 
 ## Inputs
 

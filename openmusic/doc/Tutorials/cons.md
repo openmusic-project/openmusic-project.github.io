@@ -16,14 +16,14 @@ cons
 
 ## Syntax
 
-`` **cons**` x list-or-thing `
+   **cons**  x list-or-thing  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _x_`|  any|  
-` _list-or-thing_`|  any|  
+  _x_ |  any|  
+  _list-or-thing_ |  any|  
   
 ## Output
 
@@ -34,8 +34,8 @@ first| a list or tree|
 ## Description
 
 This function allocates a new cons cell whose [_car_](glossary#CAR) is
-`_x_` and whose cdr is `_list-or-thing_`. If you're just looking to create a
-list, use [`list`](list).
+ _x_  and whose cdr is  _list-or-thing_ . If you're just looking to create a
+list, use [ list ](list).
 
 ![Note](figures/images/note.gif)|  **LISP functions**  
 ---|---  

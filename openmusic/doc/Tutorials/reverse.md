@@ -12,17 +12,17 @@ OpenMusic Reference
   
 reverse  
   
-(LISP function) \-- returns `_sequence_` backwards  
+(LISP function) \-- returns  _sequence_  backwards  
 
 ## Syntax
 
-`` **reverse**` sequence `
+   **reverse**  sequence  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _sequence_`|  a list or tree|  
+ _sequence_ |  a list or tree|  
   
 ## Output
 
@@ -32,8 +32,8 @@ first| a tree|
   
 ## Description
 
-This function returns a new list with the elements of `_sequence_` reversed.
-The original `_sequence_` is not modified. `reverse` does not reverse elements
+This function returns a new list with the elements of  _sequence_  reversed.
+The original  _sequence_  is not modified.  reverse  does not reverse elements
 in sublists.
 
 ![Note](figures/images/note.gif)|  **LISP functions**  

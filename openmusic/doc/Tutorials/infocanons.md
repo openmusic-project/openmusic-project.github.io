@@ -18,14 +18,14 @@ period.
 
 ## Syntax
 
-`` **infocanons**` period `
+   **infocanons**  period  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _period_`|  a positive integer| one of the list of "good primes" produced by
-[`canon-n`](canon-n)  
+  _period_ |  a positive integer| one of the list of "good primes" produced by
+[ canon-n ](canon-n)  
   
 ## Output
 

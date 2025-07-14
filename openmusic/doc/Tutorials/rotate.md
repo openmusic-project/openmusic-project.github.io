@@ -16,17 +16,14 @@ rotate
 
 ## Syntax
 
-`` **rotate**` list &optional nth `
+   **rotate**  list &optional nth  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree| the list to be rotated  
-` _nth_`|  an integer| optional; defaults to 1. the element from which to
-begin the rotation. For purposes of this input, the first element of the list
-is considered to be the 0th element. Thus, entering 0 at this input will
-return the list unchanged  
+_list_ |  a list or tree| the list to be rotated  
+_nth_ |  an integer| optional; defaults to 1. the element from which to begin the rotation. For purposes of this input, the first element of the list is considered to be the 0th element. Thus, entering 0 at this input will return the list unchanged  
   
 ## Output
 
@@ -56,7 +53,7 @@ elements in. The list returned is (6 7 8 9 1 2 3 4 5).
 
 ![](figures/functions/combinatorial/rotateEX3.png)
 
-Finally, we can use a negative integer at `_nth_`. This causes `rotate` to
+Finally, we can use a negative integer at  _nth_ . This causes  rotate  to
 count backwards from the first element. The list thus returned is (9 1 2 3 4 5
 6 7 8).
 

@@ -16,7 +16,7 @@ Chord
 
 ## Syntax
 
-   **Chord**  `self lmidic lvel ldur lchan ` 
+   **Chord**   self lmidic lvel ldur lchan   
 
 ## Slots
 

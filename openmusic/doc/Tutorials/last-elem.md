@@ -14,26 +14,26 @@ last-elem
 
 ## Syntax
 
-`` **last-elem**` list `
+   **last-elem**  list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a tree|  
+  _list_ |  a tree|  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| any| the data type will be that of the last element in the `_list_`.  
+first| any| the data type will be that of the last element in the  _list_ .  
   
 ## Description
 
-Returns the last element of the `_list_`. If the last element is itself a
+Returns the last element of the  _list_ . If the last element is itself a
 list, this list is returned.
 
-Compare with the LISP function `last`, which returns the last _n_ elements of
+Compare with the LISP function  last , which returns the last _n_ elements of
 a list, and thus always returns a list even if asked to return a single atom
 
 ## Examples
@@ -42,9 +42,9 @@ a list, and thus always returns a list even if asked to return a single atom
 
 ![](figures/functions/lists/last-elemEX1.png)
 
-A flat list (1 2 3 4) is passed to `last-elem`, which returns
+A flat list (1 2 3 4) is passed to  last-elem , which returns
 
-`? OM->4`
+ ? OM->4 
 
 and here
 
@@ -52,7 +52,7 @@ and here
 
 OM will return
 
-`? OM->(h 7100 494 144)`
+ ? OM->(h 7100 494 144) 
 
 * * *
 

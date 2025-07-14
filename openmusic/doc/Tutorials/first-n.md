@@ -16,14 +16,14 @@ first-n
 
 ## Syntax
 
-`` **first-n**` list n `
+   **first-n**  list n  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a tree|  
-` _n_`|  a non-negative integer|  
+  _list_ |  a tree|  
+  _n_ |  a non-negative integer|  
   
 ## Output
 
@@ -33,12 +33,12 @@ first| a tree|
   
 ## Description
 
-Returns the first `_n_` elements of the `_list_`. If `_n_` is longer than the
-length of `_list_` , the entire list is returned.
+Returns the first  _n_  elements of the  _list_ . If  _n_  is longer than the
+length of  _list_  , the entire list is returned.
 
 ![Note](figures/images/note.gif)|
 
-This function is _not_ identical to the LISP function `first`. `first-n`
+This function is _not_ identical to the LISP function  first .  first-n 
 always returns a list even if asked to return just one element.  
   
 ---|---  

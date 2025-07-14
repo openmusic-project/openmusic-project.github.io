@@ -16,7 +16,7 @@ sqrt
 
 ## Syntax
 
-   **sqrt**  ` number  `
+   **sqrt**    number   
 
 ## Inputs
 

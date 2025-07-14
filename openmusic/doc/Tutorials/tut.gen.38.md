@@ -13,8 +13,8 @@ Introduces the concept of [_recursion_](glossary#RECURSIVITY)
 
 ## Key Modules Used
 
-[`omif`](omif), [`omloop`](omloop), [`om=`](omequal),
-[`om-`](omminus)
+[ omif ](omif), [ omloop ](omloop), [ om= ](omequal),
+[ om- ](omminus)
 
 ## The Concept:
 
@@ -50,10 +50,10 @@ test. Only if the termination test fails should they call themselves. Without
 a termination test, the function continues to call itself on into infinity,
 eventually saturating the available memory and causing an error:
 
-`> Error: Stack overflow on control stack. > To globally increase stack space,
+ > Error: Stack overflow on control stack. > To globally increase stack space,
 > increase *minimum-stack-overflow-size* > While executing: "Unknown" > Type
 Command-/ to continue, Command-. to abort. > If continued: Continue with a
-larger stack See the Restarts menu item for further choices.`
+larger stack See the Restarts menu item for further choices. 
 
 Let's look at a recursive patch in OM which will calculate the factorial of
 whatever number we give it:
@@ -62,21 +62,21 @@ whatever number we give it:
 
 ![](figures/tutorials/general/38a.png)
 
-On the first repetition, `_n_` is equal to 5 (in our example.) If `_n_` is not
-equal to zero, which it is not, [`om*`](ommultiply) is called to multiply
-`_n_` and the result of the recursion into the patch `factorial`. The trick is
-that we subtract 1 from `_n_` before passing it to `factorial`. Before
-[`om*`](ommultiply) can complete, it must evaluate `factorial`. So
-factorial is evaluated using 4 for `_n_`. This recursion continues, going one
-level deeper each time (like Russian dolls), until finally, `_n_` is zero. At
-this point, [`omif`](omif) (the termination test at B) will return 1
-instead of evaluating `factorial`. 1 is passed to the output, which (remember
-the Russian dolls?) is going to be coming into the [`om*`](ommultiply)
-function in the level of recursion just above. In that level, `_n_` was equal
+On the first repetition,  _n_  is equal to 5 (in our example.) If  _n_  is not
+equal to zero, which it is not, [ om* ](ommultiply) is called to multiply
+ _n_  and the result of the recursion into the patch  factorial . The trick is
+that we subtract 1 from  _n_  before passing it to  factorial . Before
+[ om* ](ommultiply) can complete, it must evaluate  factorial . So
+factorial is evaluated using 4 for  _n_ . This recursion continues, going one
+level deeper each time (like Russian dolls), until finally,  _n_  is zero. At
+this point, [ omif ](omif) (the termination test at B) will return 1
+instead of evaluating  factorial . 1 is passed to the output, which (remember
+the Russian dolls?) is going to be coming into the [ om* ](ommultiply)
+function in the level of recursion just above. In that level,  _n_  was equal
 to 1. 1 times 1 is 1, which is passed to the output, which is itself the
-second input to [`om*`](ommultiply) on the next level. `_n_` is 2 on this
+second input to [ om* ](ommultiply) on the next level.  _n_  is 2 on this
 level, and 2 times 1 is 2. Two is passed up out of that recursion to the next
-level where `_n_` is 3. The product, 6, is passed, and we continue to work
+level where  _n_  is 3. The product, 6, is passed, and we continue to work
 back up, layer by layer, until we reach the top, where the product of
 1*2*3*4*5, 120, is passed to the output.
 

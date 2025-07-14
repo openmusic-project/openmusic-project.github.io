@@ -16,13 +16,13 @@ list-max
 
 ## Syntax
 
-`` **list-max**` self `
+   **list-max**  self  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a tree|  
+  _self_ |  a tree|  
   
 ## Output
 
@@ -35,7 +35,7 @@ first| a number| returns the greatest value in the list or tree
 This function returns the largest value in the list.
 [_Nesting_](glossary#NESTING) is ignored.
 
-The function operates in the same way as the [`list-min`](list-min)
+The function operates in the same way as the [ list-min ](list-min)
 function. See its entry for an example.
 
 * * *

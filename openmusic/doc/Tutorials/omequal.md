@@ -12,18 +12,18 @@ OpenMusic Reference
   
 om=  
   
-(predicates module) \-- returns t if `_self_` and `_num_` are equal  
+(predicates module) \-- returns t if  _self_  and  _num_  are equal  
 
 ## Syntax
 
-`` **om=**` self num `
+   **om=**  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number|  
-` _num_`|  a number|  
+  _self_ |  a number|  
+  _num_ |  a number|  
   
 ## Output
 
@@ -34,9 +34,9 @@ first| t or nil|
 ## Description
 
 This [_predicate_](glossary#PREDICATE) function returns t if and only if
-the two inputs have the same value. `om=` works only with numbers of the same
+the two inputs have the same value.  om=  works only with numbers of the same
 type. (i.e. there are problems comparing rationals and floats) If you need to
-compare other types of data, use the LISP function [`equal`](equal).
+compare other types of data, use the LISP function [ equal ](equal).
 
 * * *
 

@@ -16,15 +16,15 @@ remove
 
 ## Syntax
 
-`` **remove**` item sequence &optional &key :count :start :end :from-end :test
-:test-not :key `
+   **remove**  item sequence &optional &key :count :start :end :from-end :test
+:test-not :key  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _item_`|  any|  
-` _sequence_`|  a tree|  
+  _item_ |  any|  
+  _sequence_ |  a tree|  
   
 ## Output
 
@@ -34,12 +34,12 @@ first| a list or tree|
   
 ## Description
 
-Returns a new sequence with occurences of `_item_` removed. `remove` only
+Returns a new sequence with occurences of  _item_  removed.  remove  only
 processes the first level of the list; sublists are not processed unless they
-themselves are equivalent to `_item_`. The original sequence is not modified.
-The destructive counterpart of `remove` is `delete`.
+themselves are equivalent to  _item_ . The original sequence is not modified.
+The destructive counterpart of  remove  is  delete .
 
-The functions [`list-filter`](list-filter) and [`table-filter`](table-
+The functions [ list-filter ](list-filter) and [ table-filter ](table-
 filter) provide more flexible ways of removing elements from lists.
 
 ![Note](figures/images/note.gif)|  **LISP functions**  

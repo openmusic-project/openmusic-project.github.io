@@ -16,24 +16,24 @@ a-member-of
 
 ## Syntax
 
-`` **a-member-of**` list `
+   **a-member-of**  list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list| the list of possible values for the Screamer variable  
+  _list_ |  a list| the list of possible values for the Screamer variable  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a value of `_list_`|  
+first| a value of  _list_ |  
   
 ## Description
 
 Defines a Screamer variable from among the variables in the input list.
-Without constraints, `a-member-of` enumerates all the values of the list. The
+Without constraints,  a-member-of  enumerates all the values of the list. The
 value will depend on the backtracking caused by the constraints.
 
 * * *

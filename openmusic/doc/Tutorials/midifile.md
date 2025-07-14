@@ -16,7 +16,7 @@ Midifile
 
 ## Syntax
 
- **Midifile** ` self `
+ **Midifile**   self  
 
 ## Slots
 
@@ -32,7 +32,7 @@ that, lock the icon immediately or you will lose its contents when you try to
 evaluate it.
 
 To convert a [**Midifile**](midifile) to symbolic data, connect it to the
-function [`mf-info`](mf-info).
+function [ mf-info ](mf-info).
 
 An unlocked [**Midifile**](midifile) object when evaluated will bring up
 a dialog box asking you to find a MIDI file.

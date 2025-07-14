@@ -16,7 +16,7 @@ Multi-seq
 
 ## Syntax
 
- **Multi-seq** ` self chord-seqs `
+ **Multi-seq**   self chord-seqs  
 
 ## Slots
 

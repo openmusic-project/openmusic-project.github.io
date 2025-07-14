@@ -16,14 +16,14 @@ om/
 
 ## Syntax
 
-`` **om/**` self num `
+   **om/**  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _num_`|  a number or tree|  
+  _self_ |  a number or tree|  
+  _num_ |  a number or tree|  
   
 ## Output
 
@@ -47,7 +47,7 @@ yield (2 (3 2)), since the element 6 in the first list is paired with element
 
 ![Note](figures/images/note.gif)|
 
-The name of the `om/` function uses the slash to represent division, as is
+The name of the  om/  function uses the slash to represent division, as is
 traditional in programming languages.  
   
 ---|---  

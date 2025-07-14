@@ -8,7 +8,7 @@ OpenMusic Tutorials
 
  **Table of Contents**
 
-[Tutorial 15: Introduction to [`omloop`](omloop) I](tut.gen.15)
+[Tutorial 15: Introduction to [ omloop ](omloop) I](tut.gen.15)
 
     
 
@@ -20,7 +20,7 @@ OpenMusic Tutorials
 
 [The Patch:](tut.gen.15#AEN3629)
 
-[Tutorial 16: Introduction to [`omloop`](omloop) II](tut.gen.16)
+[Tutorial 16: Introduction to [ omloop ](omloop) II](tut.gen.16)
 
     
 
@@ -37,5 +37,5 @@ OpenMusic Tutorials
 [Prev](x3520)| [Home](index)| [Next](tut.gen.15)  
 ---|---|---  
 Tutorial 14: Random construction of a sequence| [Up](tut.gen)| Tutorial
-15: Introduction to [`omloop`](omloop) I
+15: Introduction to [ omloop ](omloop) I
 

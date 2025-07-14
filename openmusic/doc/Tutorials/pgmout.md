@@ -16,15 +16,15 @@ pgmout
 
 ## Syntax
 
-`` **pgmout**` prog chans &optional port `
+   **pgmout**  prog chans &optional port  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _values_`|  an integer| defaults to 2  
-` _chans_`|  an integer or list thereof| defaults to 1  
-` _port_`|  an integer or list thereof| The MIDI port to send on  
+  _values_ |  an integer| defaults to 2  
+  _chans_ |  an integer or list thereof| defaults to 1  
+  _port_ |  an integer or list thereof| The MIDI port to send on  
   
 ## Output
 
@@ -35,8 +35,8 @@ sent out anyway.
   
 ## Description
 
-`pgmout` sends a program change of value `_prog_` on the channel (or channels,
-if `_chans_` is a list) specified. The optional input `_port_` allows you to
+ pgmout  sends a program change of value  _prog_  on the channel (or channels,
+if  _chans_  is a list) specified. The optional input  _port_  allows you to
 specify which MIDI port the message(s) will go out on.
 
 ![Note](figures/images/note.gif)|  **OM and MIDI**  

@@ -59,12 +59,12 @@ about its placement and shape within the frame of the
 [**Maquette**](glossary#MAQUETTE), and these quantities can thus be used
 to change the way the patch behaves. This information comes into the
 [**Temporalbox**](temporalbox) through the outputs of the special
-`_self_` object. In addition, you can create your own inputs and outputs
+ _self_  object. In addition, you can create your own inputs and outputs
 between [**Temporalbox**](temporalbox)es which can carry other data
 between them.
 
 Finally, the output of a [**Maquette**](glossary#MAQUETTE) may be saved
-directly as a midi file using the [`save-as-midi`](save-as-midi)
+directly as a midi file using the [ save-as-midi ](save-as-midi)
 function.
 
 * * *

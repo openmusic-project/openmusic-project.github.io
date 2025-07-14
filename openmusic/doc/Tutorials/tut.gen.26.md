@@ -26,8 +26,8 @@ developed by Carlos Agon.
 While it is possible to edit musical objects in OM, if you are a Finale user,
 it is often faster to use OM's import and export capabilites to move objects
 back and forth between OM and Finale, since Finale's editing interface remains
-slightly more fluid. See the Function References on [`finale-export`](finale-
-export.html) and [`finale-import`](finale-import.html).  
+slightly more fluid. See the Function References on [ finale-export ](finale-
+export.html) and [ finale-import ](finale-import.html).  
   
 The goal is to recreate the following 5 measures from the Chorala:
 

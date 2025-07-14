@@ -16,8 +16,8 @@ correct microintervals.
 
 ## Key Modules Used
 
- **Midifile** , [`omloop`](omloop), [`omif`](omif),
-[`repeat-n`](repeat-n)
+ **Midifile** , [ omloop ](omloop), [ omif ](omif),
+[ repeat-n ](repeat-n)
 
 ## The Concept:
 
@@ -25,7 +25,7 @@ Most commercial MIDI sequencers don't support microintervals. When working
 with these environnments, one must use a multichannel setup in order to
 simulate microintervals, by "pitchbending" certain channels as is done
 automatically in Openmusic. In this tutorial we will show how to convert one
-of these MIDI files into a [`Chord-seq`](chord-seq) which will play
+of these MIDI files into a [ Chord-seq ](chord-seq) which will play
 correct microintervals.
 
 ## The Patch:
@@ -53,21 +53,21 @@ chan popup menu, we can see each note's channel.
 
 ![](figures/tutorials/general/29d.png)
 
-In the first [`omloop`](omloop) (C) we will use [`omif`](omif) to
+In the first [ omloop ](omloop) (C) we will use [ omif ](omif) to
 'correct' each note, and turn it into the right pitch, by checking to see
-whether the channel equals 2. Note that we use two [`listloop`](listloop)
+whether the channel equals 2. Note that we use two [ listloop ](listloop)
 boxes to enumerate the MIDI notes and the channel assignments simultaneously.
 
 ![](figures/tutorials/general/29e.png)
 
 In this case our line is of single notes. If there had been chords we would
 have needed to process the onset times and assign the same onset time to every
-note of the chord. This is done with the [`omloop`](omloop) below:
+note of the chord. This is done with the [ omloop ](omloop) below:
 
 ![](figures/tutorials/general/29f.png)
 
-The `_ldur_` output is a list of lists. Each integer is a duration of a single
-note, so all we have to do is flatten the list using [`flat`](flatlisp).
+The  _ldur_  output is a list of lists. Each integer is a duration of a single
+note, so all we have to do is flatten the list using [ flat ](flatlisp).
 
 All this results in the following:
 

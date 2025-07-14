@@ -16,7 +16,7 @@ x-append
 
 ## Syntax
 
-   **x-append** ` l1? l2? &rest lst? ` 
+   **x-append**   l1? l2? &rest lst?   
 
 ## Inputs
 

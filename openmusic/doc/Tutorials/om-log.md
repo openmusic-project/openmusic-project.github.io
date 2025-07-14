@@ -16,29 +16,29 @@ om-log
 
 ## Syntax
 
-`` **om-e**` self &optional base `
+   **om-e**  self &optional base  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _base_`|  a number| optional; the base for which to calculate the logarithm  
+  _self_ |  a number or tree|  
+  _base_ |  a number| optional; the base for which to calculate the logarithm  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
 first| a number; a tree| returns the natural logarithm of the number or tree
-at `_self_`  
+at  _self_   
   
 ## Description
 
-Returns the natural logarithm of `_self_`. The natural logarithm is the power
+Returns the natural logarithm of  _self_ . The natural logarithm is the power
 to which _e_ must be raised to yield a number (see below). Bases other than
 _e_ may be used by putting them into the optional second input.
 
-If `_self_` is a tree, then a tree of identical dimensions is returned,
+If  _self_  is a tree, then a tree of identical dimensions is returned,
 containing the logarithm of every element of the tree.
 
 ![Note](figures/images/note.gif)|

@@ -16,14 +16,14 @@ omand
 
 ## Syntax
 
-`` **omand**` self &rest rest `
+   **omand**  self &rest rest  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  any|  
-` _rest_`|  any| repeatable; additional values to compare  
+  _self_ |  any|  
+  _rest_ |  any| repeatable; additional values to compare  
   
 ## Output
 
@@ -34,7 +34,7 @@ first| t or nil|
 ## Description
 
 This [_predicate_](glossary#PREDICATE) function performs the
-[_Boolean_](glossary#BOOLEAN) logical `and` on any number of values. It
+[_Boolean_](glossary#BOOLEAN) logical  and  on any number of values. It
 returns t only if all the inputs have a value of t.
 
 * * *

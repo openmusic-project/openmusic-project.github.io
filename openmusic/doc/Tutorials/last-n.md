@@ -16,14 +16,14 @@ last-n
 
 ## Syntax
 
-`` **last-n**` list n `
+   **last-n**  list n  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a tree|  
-` _n_`|  a non-negative integer|  
+  _list_ |  a tree|  
+  _n_ |  a non-negative integer|  
   
 ## Output
 
@@ -33,15 +33,15 @@ first| a tree|
   
 ## Description
 
-Returns the last `_n_` elements of the `_list_`. If `_n_` is longer than the
-length of `_list_` , the entire list is returned.
+Returns the last  _n_  elements of the  _list_ . If  _n_  is longer than the
+length of  _list_  , the entire list is returned.
 
-This function is identical to the LISP function `last`.
+This function is identical to the LISP function  last .
 
 ![Note](figures/images/note.gif)|
 
-`last-n` always returns a list even if asked to return just one element. To
-isolate the last element of a list as an atom, use [`last-elem`](last-
+ last-n  always returns a list even if asked to return just one element. To
+isolate the last element of a list as an atom, use [ last-elem ](last-
 elem).  
   
 ---|---  

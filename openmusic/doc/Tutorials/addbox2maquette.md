@@ -17,14 +17,14 @@ addbox2maquette
 
 ## Syntax
 
-`` **addbox2maquette**` self maquette `
+   **addbox2maquette**  self maquette  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a [**Temporalbox**](temporalbox) object| see description  
-` _maquette_`|  a **Maquette** in 'itself' mode| see description  
+  _self_ |  a [**Temporalbox**](temporalbox) object| see description  
+  _maquette_ |  a **Maquette** in 'itself' mode| see description  
   
 ## Output
 
@@ -36,7 +36,7 @@ second input
   
 ## Description
 
-`addbox2maquette` takes an object and places it inside a maquette. The first
+ addbox2maquette  takes an object and places it inside a maquette. The first
 input takes a [**Temporalbox**](temporalbox) object. While this input is
 always a [**Temporalbox**](temporalbox), the
 [**Temporalbox**](temporalbox) may itself contain any of the following
@@ -66,14 +66,14 @@ by the inputs of the [**Temporalbox**](temporalbox) object, as
 illustrated below.
 
 To remove temporal boxes from maquettes, use
-[`removetemporalbox`](removetemporalbox)
+[ removetemporalbox ](removetemporalbox)
 
 For a complete discussion of the maquette concept, see the chapter
 [Maquettes](concepts.maquettes)
 
 ## Examples
 
-### Using `addbox2maquette`
+### Using  addbox2maquette 
 
 ![](figures/functions/maquette/addbox2maquetteEX1.png)
 

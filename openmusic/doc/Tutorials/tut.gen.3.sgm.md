@@ -9,15 +9,15 @@ OpenMusic Tutorials
 
 ## Topics
 
-Constructing a scale using the [`dx->x`](dx-x) function.
+Constructing a scale using the [ dx->x ](dx-x) function.
 
 ## Key Modules Used
 
-[ **Note**](note), [**Chord-seq**](chord-seq), [`dx->x`](dx-x)
+[ **Note**](note), [**Chord-seq**](chord-seq), [ dx->x ](dx-x)
 
 ## The Concept:
 
-Here we use [`dx->x`](dx-x) to build a scale. [`dx->x`](dx-x) takes
+Here we use [ dx->x ](dx-x) to build a scale. [ dx->x ](dx-x) takes
 a list of relative quantities and changes them into absolute quantities
 starting from a point we define. In this case, we'll use it to define a scale
 (which is, after all, a set of relative intervals) which we can then build on
@@ -35,8 +35,8 @@ that an interval of 100 is equal to a semitone. In the example we've entered a
 major scale.
 
 In the example, the [**Note**](note) outputs 6000 as its midic. The
-[`dx->x`](dx-x) function starts with 6000 and adds, sequentially, the
-elements at its second input. This list of midics is put into the `_lmidic_`
+[ dx->x ](dx-x) function starts with 6000 and adds, sequentially, the
+elements at its second input. This list of midics is put into the  _lmidic_ 
 input of the [**Chord-seq**](chord-seq) object. Remember, you can see the
 names of the inputs by command-clicking on the inputs themselves.
 

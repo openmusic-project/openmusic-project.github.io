@@ -16,7 +16,7 @@ sysex
 
 ## Syntax
 
-   **sysex** ` databytes &optional port  `
+   **sysex**   databytes &optional port   
 
 ## Inputs
 

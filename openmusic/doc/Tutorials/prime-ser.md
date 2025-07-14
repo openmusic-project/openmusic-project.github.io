@@ -16,16 +16,16 @@ prime-ser
 
 ## Syntax
 
-`` **prime-ser**` max &optional numelem `
+   **prime-ser**  max &optional numelem  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _max_`|  a non-negative number| The upper limit of the series. Defaults to
+  _max_ |  a non-negative number| The upper limit of the series. Defaults to
 100  
-` _numelem_`|  a number| optional; the maximum number of elements to return
-(unless) `_max_` is reached. Defaults to 10  
+  _numelem_ |  a number| optional; the maximum number of elements to return
+(unless)  _max_  is reached. Defaults to 10  
   
 ## Output
 
@@ -35,9 +35,9 @@ first| a list of primes|
   
 ## Description
 
-Returns a list of prime numbers, ranging from 0 up to `_max_`.
+Returns a list of prime numbers, ranging from 0 up to  _max_ .
 
-The optional parameter `_numelem_` limits the maximum number of elements.
+The optional parameter  _numelem_  limits the maximum number of elements.
 
 ## Examples
 
@@ -45,11 +45,11 @@ The optional parameter `_numelem_` limits the maximum number of elements.
 
 ![](figures/functions/series/fibo-serEX1.png)
 
-Here we see `prime-ser` set to produce all the primes before 100 (of which
-there are 26). The optional input `_numelem_` is set to 20, which will limit
+Here we see  prime-ser  set to produce all the primes before 100 (of which
+there are 26). The optional input  _numelem_  is set to 20, which will limit
 the list to 21 terms. It returns
 
-`? OM->(1 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71)`
+ ? OM->(1 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71) 
 
 * * *
 

@@ -16,15 +16,15 @@ polykeypres
 
 ## Syntax
 
-`` **polykeypres**` values pitch chans `
+   **polykeypres**  values pitch chans  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _values_`|  an integer or list thereof | defaults to 100  
-` _pitch_`|  an integer or list thereof| defaults to 6000  
-` _chans_`|  an integer| defaults to 1  
+  _values_ |  an integer or list thereof | defaults to 100  
+  _pitch_ |  an integer or list thereof| defaults to 6000  
+  _chans_ |  an integer| defaults to 1  
   
 ## Output
 
@@ -35,11 +35,11 @@ sent out anyway.
   
 ## Description
 
-`polykeypres` sends a key pressure message (number 160 in the MIDI standard)
-of `_values_` and `_pitch_` , both of which may be a single value or a list of
+ polykeypres  sends a key pressure message (number 160 in the MIDI standard)
+of  _values_  and  _pitch_  , both of which may be a single value or a list of
 values, on the channel specified. The key pressure message or messages are
 specific to single keys currently depressed; compare with the channel pressure
-message of the [`aftertouch`](aftertouch) function, which is used to send
+message of the [ aftertouch ](aftertouch) function, which is used to send
 the highest pressure value on a given channel.
 
 ![Note](figures/images/note.gif)|  **OM and MIDI**  

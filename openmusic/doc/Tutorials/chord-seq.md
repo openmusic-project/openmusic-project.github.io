@@ -16,7 +16,7 @@ Chord-seq
 
 ## Syntax
 
- **Chord-seq** `self lmidic lonset ldur lvel loffset lchan legato `
+ **Chord-seq**  self lmidic lonset ldur lvel loffset lchan legato  
 
 ## Slots
 

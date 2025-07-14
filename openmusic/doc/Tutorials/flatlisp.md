@@ -16,15 +16,15 @@ flat
 
 ## Syntax
 
-`` **flat**` lst &optional level `
+   **flat**  lst &optional level  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _lst_`|  a tree|  
-` _level_`|  a non-negative integer|  
-` _lst?_`|  any|  
+  _lst_ |  a tree|  
+  _level_ |  a non-negative integer|  
+  _lst?_ |  any|  
   
 ## Output
 
@@ -34,13 +34,13 @@ first| a tree|
   
 ## Description
 
-Returns a copy of list with parentheses removed. By default, `flat` removes
+Returns a copy of list with parentheses removed. By default,  flat  removes
 all levels of [nesting](glossary#NESTING), returning a list whose only
 parentheses are those which enclose it, a 'flat' list.
 
-When the optional input is used, only `_level_` levels of parentheses are
-removed, starting from the outside. Setting `_level_` to 0 will thus return
-the list unchanged. Leaving `_level_` at nil will remove all levels of
+When the optional input is used, only  _level_  levels of parentheses are
+removed, starting from the outside. Setting  _level_  to 0 will thus return
+the list unchanged. Leaving  _level_  at nil will remove all levels of
 nesting.
 
 ## Examples
@@ -51,14 +51,14 @@ nesting.
 
 Here, the list is flattened completely:
 
-`? OM->(1 2 a 3 b 4)`
+ ? OM->(1 2 a 3 b 4) 
 
 ![](figures/functions/lists/x-appendEX2.png)
 
-Here, the optional input `_level_` has been set to 2. Only the two outside
+Here, the optional input  _level_  has been set to 2. Only the two outside
 levels of nesting have been removed, leaving one intact:
 
-`? OM->(1 (2 a) (3 b) 4)`
+ ? OM->(1 (2 a) (3 b) 4) 
 
 * * *
 

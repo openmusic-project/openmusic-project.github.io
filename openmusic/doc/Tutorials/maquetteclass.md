@@ -16,7 +16,7 @@ Maquette
 
 ## Syntax
 
-   **Maquette**  ` time objs `
+   **Maquette**    time objs  
 
 ## Slots
 

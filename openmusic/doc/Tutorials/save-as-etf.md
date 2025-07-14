@@ -17,7 +17,7 @@ object as an [_ETF_](glossary#ETF) (Enigma Transportable File).
 
 ## Syntax
 
-   **save-as-etf**  ` self &optional approx  `
+   **save-as-etf**    self &optional approx   
 
 ## Inputs
 

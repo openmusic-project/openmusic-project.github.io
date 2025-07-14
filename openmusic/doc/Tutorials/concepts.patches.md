@@ -42,10 +42,10 @@ more rarely:
 ![](figures/concepts/patches/1.png)
 
 Here we see some of the possible contents of a patch: OM musical objects with
-a graphic view of their contents, OM functions [`merger`](merger),
-[`play`](play), etc., numerical values (7000 and the rhythm tree above),
+a graphic view of their contents, OM functions [ merger ](merger),
+[ play ](play), etc., numerical values (7000 and the rhythm tree above),
 external MIDI and sound files with graphic representations of their contents,
-and other patches `test?` and `test2?`.
+and other patches  test?  and  test2? .
 
 * * *
 

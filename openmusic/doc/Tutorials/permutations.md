@@ -17,13 +17,13 @@ of a list
 
 ## Syntax
 
-`` **permutations**` bag `
+   **permutations**  bag  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _bag_`|  a list or tree| the 'bag' of elements to draw from  
+  _bag_ |  a list or tree| the 'bag' of elements to draw from  
   
 ## Output
 
@@ -35,18 +35,18 @@ lists, a tree
 ## Description
 
 Returns a list containing all the possible permutations of the master list,
-`_bag_`. For example, if the list is (1 2) then there are two possible
+ _bag_ . For example, if the list is (1 2) then there are two possible
 permutations of those elements: (1 2) and (2 1). If the list is (1 2 3) then
 there are six possibilities: (1 2 3), (1 3 2), (2 1 3), (2 3 1), (3 1 2), and
-(3 2 1). `permutations` respects [nesting](glossary#NESTING), i.e. only
+(3 2 1).  permutations  respects [nesting](glossary#NESTING), i.e. only
 first-level elements of the tree are permuted- sublists are not touched.
 
-Note also that for `permutations`, the list (1 1 1) _still_ has 6
+Note also that for  permutations , the list (1 1 1) _still_ has 6
 permutations, all of which are (1 1 1).
 
 ![Note](figures/images/note.gif)|
 
-`permutations` is a [recursive](glossary#RECURSIVITY) function.
+ permutations  is a [recursive](glossary#RECURSIVITY) function.
 Processing large lists with it may therefore result in an out of memory error.  
   
 ---|---  

@@ -16,7 +16,7 @@ Measure
 
 ## Syntax
 
-   **Measure** ` self tree  `
+   **Measure**   self tree   
 
 ## Slots
 

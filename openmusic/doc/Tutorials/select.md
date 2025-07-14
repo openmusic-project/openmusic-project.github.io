@@ -16,7 +16,7 @@ select
 
 ## Syntax
 
-   **select**  ` self start end  `
+   **select**    self start end   
 
 ## Inputs
 

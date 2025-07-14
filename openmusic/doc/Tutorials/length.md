@@ -12,17 +12,17 @@ OpenMusic Reference
   
 length  
   
-(lisp module) \-- returns the number of elements in `_sequence_`  
+(lisp module) \-- returns the number of elements in  _sequence_   
 
 ## Syntax
 
-`` **length**` sequence `
+   **length**  sequence  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _sequence_`|  list|  
+  _sequence_ |  list|  
   
 ## Output
 
@@ -32,7 +32,7 @@ first| a non-negativeinteger|
   
 ## Description
 
-[`length`](length) does exactly what it says- it returns the number of
+[ length ](length) does exactly what it says- it returns the number of
 1st-level elements in the list it is passed.
 
 * * *

@@ -8,8 +8,8 @@ OpenMusic Reference
 
 Data type is an important concept in OM. OM function and class inputs will
 only accept certain data-types. For example, attempting to give a
-[**Note**](note) object a list of midics at the `_midic_` input will
-generate an error. This is because the `_midic_` input is _typed_ to accept
+[**Note**](note) object a list of midics at the  _midic_  input will
+generate an error. This is because the  _midic_  input is _typed_ to accept
 only numbers, and list is not a type of number. Some inputs can accept more
 than one data type, in which they case they select one of a set of internal
 tools called [_methods_](glossary#METHOD) to deal with that particular

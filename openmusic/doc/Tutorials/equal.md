@@ -16,14 +16,14 @@ equal
 
 ## Syntax
 
-`` **equal**` object1 object2 `
+   **equal**  object1 object2  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _object1_`|  any|  
-` _object2_`|  any|  
+  _object1_ |  any|  
+  _object2_ |  any|  
   
 ## Output
 
@@ -33,9 +33,9 @@ first| t or nil|
   
 ## Description
 
-`equal` returns true when object1 and object2 are structurally similar. A
+ equal  returns true when object1 and object2 are structurally similar. A
 rough rule of thumb is that objects are equal when their printed
-representation is the same. `equal` is case sensitive when comparing strings
+representation is the same.  equal  is case sensitive when comparing strings
 and characters.
 
 * * *

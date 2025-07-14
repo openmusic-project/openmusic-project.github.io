@@ -74,7 +74,7 @@ it yourself. This is useful since OM has no Undo function.
 [Tutorial 11: Constructing a [**Chord**](chord) with random notes from a
 harmonic spectrum](tut.gen.11.sgm)
 
-[Tutorial 12: Building a sequence of random notes: [`om-random`](om-
+[Tutorial 12: Building a sequence of random notes: [ om-random ](om-
 random)](tut.gen.12)
 
 [Tutorial 13: Another random sequence](tut.gen.13)
@@ -89,9 +89,9 @@ random)](tut.gen.12)
 
     
 
-[Tutorial 15: Introduction to [`omloop`](omloop) I](tut.gen.15)
+[Tutorial 15: Introduction to [ omloop ](omloop) I](tut.gen.15)
 
-[Tutorial 16: Introduction to [`omloop`](omloop) II](tut.gen.16)
+[Tutorial 16: Introduction to [ omloop ](omloop) II](tut.gen.16)
 
 6\. [Using Musical Objects II](tut.gen.17-18)
 
@@ -168,7 +168,7 @@ II](tut.gen.33)
 
 [Tutorial 34: Introduction to Lambda Functions](tut.gen.34)
 
-[Tutorial 35: [`funcall`](funcall) with Lambda
+[Tutorial 35: [ funcall ](funcall) with Lambda
 Functions](tut.gen.35)
 
 13\. [Flow Control III: More Loops!](tut.gen.36-37)

@@ -16,7 +16,7 @@ Poly
 
 ## Syntax
 
- **Poly** ` self voices `
+ **Poly**   self voices  
 
 ## Slots
 

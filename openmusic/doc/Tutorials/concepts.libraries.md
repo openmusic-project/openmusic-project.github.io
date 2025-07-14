@@ -12,7 +12,7 @@ you create with OM's graphic interface).
 
 Libraries add extra functionality to OM. Many libraries are included with OM
 on the CD-ROM, and should have been automatically installed simultaneously
-with it. They are stored in the `UserLibrary` folderm within the OM folder
+with it. They are stored in the  UserLibrary  folderm within the OM folder
 itself.
 
 You can browse the available libraries in the packages window in the special

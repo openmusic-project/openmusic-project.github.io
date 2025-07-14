@@ -16,14 +16,14 @@ nth
 
 ## Syntax
 
-`` **nth**` n list `
+   **nth**  n list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a non-negative integer|  
-` _list_`|  a list or tree|  
+  _n_ |  a non-negative integer|  
+  _list_ |  a list or tree|  
   
 ## Output
 

@@ -16,7 +16,7 @@ Temporalbox
 
 ## Syntax
 
- **Temporalbox**   ` self offset extend colorframe value posy stretch-fact sizey free-store reference `  
+ **Temporalbox**     self offset extend colorframe value posy stretch-fact sizey free-store reference    
 
 ## Slots
 

@@ -12,17 +12,17 @@ OpenMusic Reference
   
 list  
   
-(LISP function) \-- returns a list of `_argument_` s  
+(LISP function) \-- returns a list of  _argument_  s  
 
 ## Syntax
 
-`` **list**` &rest arguments `
+   **list**  &rest arguments  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _arguments_`|  any| repeatable; arguments may be of any data type  
+  _arguments_ |  any| repeatable; arguments may be of any data type  
   
 ## Output
 

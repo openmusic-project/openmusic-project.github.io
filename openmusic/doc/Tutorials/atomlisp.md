@@ -12,18 +12,18 @@ OpenMusic Reference
   
 atom  
   
-(lisp module) \-- returns t if `_data-object_` is a single element (not a
+(lisp module) \-- returns t if  _data-object_  is a single element (not a
 list)  
 
 ## Syntax
 
-`` **atom**` data-object `
+   **atom**  data-object  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _data-object_`|  any|  
+  _data-object_ |  any|  
   
 ## Output
 

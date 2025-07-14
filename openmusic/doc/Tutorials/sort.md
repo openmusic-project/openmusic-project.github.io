@@ -16,7 +16,7 @@ sort.
 
 ## Syntax
 
-   **sort.**  ` lst &optional test key ` 
+   **sort.**    lst &optional test key   
 
 ![Warning](figures/images/warning.gif)|
 

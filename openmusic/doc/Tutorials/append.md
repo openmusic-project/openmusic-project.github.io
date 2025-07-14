@@ -16,13 +16,13 @@ append
 
 ## Syntax
 
-`` **append**` &restlists `
+   **append**  &restlists  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _lists_`|  lists or trees| repeatable  
+  _lists_ |  lists or trees| repeatable  
   
 ## Output
 
@@ -35,7 +35,7 @@ first| a list or tree|
 This function appends one list to another. The level of
 [nesting](glossary#NESTING) is not changed in the two lists. Though you
 may add as many inputs as you like, they must all be lists. A more flexible
-function is [`x-append`](x-append), which permits both atoms and lists.
+function is [ x-append ](x-append), which permits both atoms and lists.
 
 ![Note](figures/images/note.gif)|  **LISP functions**  
 ---|---  

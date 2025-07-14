@@ -16,7 +16,7 @@ expand-lst
 
 ## Syntax
 
-`` **expand-lst**` list `
+   **expand-lst**  list  
 
 ![Warning](figures/images/warning.gif)|
 
@@ -28,7 +28,7 @@ The function name contains no letter 'i'. Be sure to type it correctly
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a tree| written in a special syntax understood by certain OM
+  _list_ |  a tree| written in a special syntax understood by certain OM
 functions. See below  
   
 ## Output
@@ -53,13 +53,13 @@ is omitted, k is assumed to be 1.
 
 ## Examples
 
-### The `expand-lst` syntax
+### The  expand-lst  syntax
 
 ![](figures/functions/lists/expand-lstEX1.png)
 
 Returns:
 
-`? OM->(2 4 2 4 2 4)`
+ ? OM->(2 4 2 4 2 4) 
 
 The 3* indicates that what is between the parentheses that follow will be
 repeated 3 times.
@@ -68,7 +68,7 @@ repeated 3 times.
 
 Returns:
 
-`? OM->(0 1 2 3 4 5 6 7 8)`
+ ? OM->(0 1 2 3 4 5 6 7 8) 
 
 The underscore indicates that the integers between the 0 and the 8 will
 enumerated.
@@ -77,7 +77,7 @@ enumerated.
 
 Returns:
 
-`? OM->(0 2 4 6 8)`
+ ? OM->(0 2 4 6 8) 
 
 The addition of the 's' means that the series will be counted by whatever
 follows instead of one; in this case, 2.
@@ -86,10 +86,10 @@ follows instead of one; in this case, 2.
 
 Returns:
 
-`? OM->? OM->(a z 4 12 4 12 (1 2 3 4 5) a z 4 12 4 12 (1 2 3 4 5) 0 2 4 6 8 10
-12 14 16)`
+ ? OM->? OM->(a z 4 12 4 12 (1 2 3 4 5) a z 4 12 4 12 (1 2 3 4 5) 0 2 4 6 8 10
+12 14 16) 
 
-The `_expand-lst_` syntax permits nesting. When nesting is present, the
+The  _expand-lst_  syntax permits nesting. When nesting is present, the
 expression furthest into the prentheses is evaluated first, in this case, 1_5,
 which generates (1 2 3 4 5), which, along with 'a z' and 4 12 (itself repeated
 twice) is repeated twice (indicated by the 2* at the beginning of the

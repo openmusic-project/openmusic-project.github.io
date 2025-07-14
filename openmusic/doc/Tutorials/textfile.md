@@ -16,7 +16,7 @@ Textfile
 
 ## Syntax
 
-  **Textfile**  ` self exp-list ed-mode `
+  **Textfile**    self exp-list ed-mode  
 
 ## Slots
 
@@ -24,7 +24,7 @@ name| data type(s)| comments
 ---|---|---  
   _self_ | [ **Textfile**](textfile) object|  
   _exp-list_ |  a string containing data of any type|  
-  _ed-mode_ |  menu| two options: ` append ` and ` supercede `  
+  _ed-mode_ |  menu| two options:   append   and   supercede    
   
 ## Notes
 

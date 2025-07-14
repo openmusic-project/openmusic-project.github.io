@@ -36,6 +36,6 @@ OpenMusic Tutorials
 
 [Prev](tut.gen.35)| [Home](index)| [Next](tut.gen.36)  
 ---|---|---  
-Tutorial 35: [`funcall`](funcall) with Lambda Functions|
+Tutorial 35: [ funcall ](funcall) with Lambda Functions|
 [Up](tut.gen)| Tutorial 36: Accumulation
 

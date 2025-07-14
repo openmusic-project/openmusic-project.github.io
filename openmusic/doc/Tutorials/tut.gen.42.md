@@ -15,23 +15,23 @@ Creating your own generic functions in OM
 
 ## Key Modules Used
 
-The LISP function `+`, [`omloop`](omloop)
+The LISP function  + , [ omloop ](omloop)
 
 ## The Concept:
 
 Here you will learn how to create your own generic functions. What is a
 generic function? There are many different data types in the OM environment.
 As you have seen, certain functions in OM can respond to more than one data
-type. Take [`om+`](omplus), for example. When you give it a number and a
+type. Take [ om+ ](omplus), for example. When you give it a number and a
 list, it adds the number to all the elements of the list. However, you can
 also give it two numbers, in which case it simply adds them. How does it know
 what to do?
 
-It turns out that within the function [`om+`](omplus) are a series of
+It turns out that within the function [ om+ ](omplus) are a series of
 sub-functions called [_methods_](glossary#METHOD). A method is a set of
 instructions for processig a specific combination of data types in a function.
-When you use [`om+`](omplus) with a list and a number,
-[`om+`](omplus) automatically calls a method for adding a list and a
+When you use [ om+ ](omplus) with a list and a number,
+[ om+ ](omplus) automatically calls a method for adding a list and a
 number. You can see the methods of a function by opening its box with a
 double-click. If the function cannot find a method appropriate to the data
 types you are trying to give it, it generates an error.
@@ -43,8 +43,8 @@ apply to widely differing data types can be organized into a single function
 with a single name, which is much more logical for humans.
 
 You can write your own generic functions in OM. We will create a single
-function called `myplus` and then add methods to it so that it can deal with a
-variety of different data types, in the same way as [`om+`](omplus).
+function called  myplus  and then add methods to it so that it can deal with a
+variety of different data types, in the same way as [ om+ ](omplus).
 
 ## Creating the Function
 
@@ -57,7 +57,7 @@ A dialog box opens:
 
 ![](figures/tutorials/general/42b.png)
 
-Give your function the name `myplus`, and add a remark about what it does.
+Give your function the name  myplus , and add a remark about what it does.
 This documentation will be used in the pop-up bubble help you get with
 command-click. To change the icon, click on it. This window will appear:
 
@@ -67,7 +67,7 @@ Icons on the right are standard OM icons. Icons on the left are user-
 customizable icons.
 
 You may customize the icons using a resource editor such as ResEdit and adding
-these icons to the file `WSPL.rsrc` file in the current workspace folder.
+these icons to the file  WSPL.rsrc  file in the current workspace folder.
 
 ![](figures/tutorials/general/42d.png)
 
@@ -100,17 +100,17 @@ Let's start by defining a method for adding two integers. We need two inputs,
 if you haven't already added them.
 
 In order to type our inputs, we drag an icon representing the data type we
-want to handle onto the input. These are all found in the `Packages` folder.
+want to handle onto the input. These are all found in the  Packages  folder.
 We find all our functions and classes in this folder. In fact, any class is a
 data type when used as a function input. integer is a class (data type) that
-is part of the LISP kernel of OM. Go into the `Packages` folder and open the
-`kernel:lisp` package:
+is part of the LISP kernel of OM. Go into the  Packages  folder and open the
+ kernel:lisp  package:
 
 ![](figures/tutorials/general/42g.png)
 
 We see a list of all the basic LISP classes (data types). Drag the icon for
 integer to the two input icons in your patch window. The icons change to
-represent the new typing. Now add the function `+` by command-clicking in the
+represent the new typing. Now add the function  +  by command-clicking in the
 window and typing **+**. Connect the two inputs and add an output:
 
 ![](figures/tutorials/general/42h.png)
@@ -119,16 +119,16 @@ Close the window. Our function is now in the Functions menu:
 
 ![](figures/tutorials/general/42i.png)
 
-This function adds two integers, just like the LISP function `+`. It is
+This function adds two integers, just like the LISP function  + . It is
 equivalent to the LISP expression (+ 5 3).
 
 ![](figures/tutorials/general/42j.png)
 
-`myplus` doesn't know how to deal with lists, however. Let's add a method
-allowing `myplus` to handle an integer as its first argument and a list as its
+ myplus  doesn't know how to deal with lists, however. Let's add a method
+allowing  myplus  to handle an integer as its first argument and a list as its
 second.
 
-Once you've used `myplus` in a patch window, double click it to open its
+Once you've used  myplus  in a patch window, double click it to open its
 methods window:
 
 ![](figures/tutorials/general/42k.png)
@@ -151,7 +151,7 @@ and one list:
 
 ![](figures/tutorials/general/42n.png)
 
-Create an [`omloop`](omloop) and configure it:
+Create an [ omloop ](omloop) and configure it:
 
 ![](figures/tutorials/general/42o.png)
 
@@ -161,12 +161,12 @@ appropriate data type icons.
 Add another method, this time with the data types list and integer. It's just
 like the one we just added, except that you have to reverse the inputs.
 
-Add a third method for two lists. The [`omloop`](omloop) function will
+Add a third method for two lists. The [ omloop ](omloop) function will
 look like this:
 
 ![](figures/tutorials/general/42p.png)
 
-We now have 4 methods in our `myplus` function:
+We now have 4 methods in our  myplus  function:
 
 ![](figures/tutorials/general/42q.png)
 
@@ -176,11 +176,11 @@ patch:
 ![](figures/tutorials/general/42r.png)
 
 User-created generic function definitions are stored in the Workspace folder,
-in the subfolder `user`:
+in the subfolder  user :
 
 ![](figures/tutorials/general/42s.png)
 
-If you want to use them in other workspaces, you must copy them to the `user`
+If you want to use them in other workspaces, you must copy them to the  user 
 folder in the other Workspace folder.
 
 * * *

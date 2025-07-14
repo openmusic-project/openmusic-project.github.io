@@ -16,7 +16,7 @@ x-union
 
 ## Syntax
 
-   **x-union**  ` l1? l2? &optional test key &rest list `
+   **x-union**    l1? l2? &optional test key &rest list  
 
 ## Inputs
 

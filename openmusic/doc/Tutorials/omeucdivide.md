@@ -17,14 +17,14 @@ remainder)on two numbers or lists
 
 ## Syntax
 
-`` **om//**` self divisor `
+   **om//**  self divisor  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _divisor_`|  a number or tree|  
+  _self_ |  a number or tree|  
+  _divisor_ |  a number or tree|  
   
 ## Output
 
@@ -42,11 +42,11 @@ operation; the second returns the remainder or remainders of the division,
 which may or may not be whole numbers.
 
 The arguments need not be of the same type- a list may be divided by a number
-or another list. When the arguments are not of the same type, `om//` pairs
-them up in the same manner as [`om/`](omdivide)
+or another list. When the arguments are not of the same type,  om//  pairs
+them up in the same manner as [ om/ ](omdivide)
 
 When the divisor is 1, the first output is equivalent to the
-[`floor`](floor) function.
+[ floor ](floor) function.
 
 * * *
 

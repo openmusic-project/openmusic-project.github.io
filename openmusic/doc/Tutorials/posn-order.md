@@ -17,14 +17,14 @@ sort function performed on a list
 
 ## Syntax
 
-`` **posn-order**` list test `
+   **posn-order**  list test  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree|  
-` _test_`|  a symbol or function name or lambda function|  
+  _list_ |  a list or tree|  
+  _test_ |  a symbol or function name or lambda function|  
   
 ## Output
 
@@ -36,9 +36,9 @@ list (the first is considered the 0th element.
 ## Description
 
 Generates an index or ordinal positions for a given sort function. The
-function or symbol at `_test_` is used to sort the list, as in the [`sort.`
-function](sort). However, instead of returning the sorted list, `posn-
-order` returns an index of the operation- a list of numbers indicating the
+function or symbol at  _test_  is used to sort the list, as in the [ sort. 
+function](sort). However, instead of returning the sorted list,  posn-
+order  returns an index of the operation- a list of numbers indicating the
 ordinal positions that the elements would have in the new list after the
 sorting is performed.
 
@@ -57,7 +57,7 @@ of the list, and so on.
 
 ![](figures/functions/combinatorial/posn-orderEX1.png)
 
-The list (1 5 6 2 3 4) is passed to `posn-order`. The result of the sort would
+The list (1 5 6 2 3 4) is passed to  posn-order . The result of the sort would
 normally be (1 2 3 4 5 6).
 
 This means that the element in position 0, 1, would stay in place, occupying
@@ -66,7 +66,7 @@ occupy position 4 in the sorted list. The next element of the original, 6,
 would occupy position 5 of the sorted list, and so on. These are the value
 returned by the function:
 
-`? OM->(0 4 5 1 2 3)`
+ ? OM->(0 4 5 1 2 3) 
 
 * * *
 

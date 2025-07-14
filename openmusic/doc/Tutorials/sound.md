@@ -16,7 +16,7 @@ Sound
 
 ## Syntax
 
- **Sound** ` self `
+ **Sound**   self  
 
 ## Slots
 

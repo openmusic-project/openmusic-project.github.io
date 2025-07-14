@@ -17,15 +17,15 @@ the variables
 
 ## Syntax
 
-`` **apply-cont**` fun var `
+   **apply-cont**  fun var  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _fun_`|  an anonymous function (patch in lambda mode) or list thereof|
+  _fun_ |  an anonymous function (patch in lambda mode) or list thereof|
 functions should be predicates, i.e. functions which output either t or nil.  
-`_var_`|  a Screamer variable| a value defined with a Screamer primitive. The
+ _var_ |  a Screamer variable| a value defined with a Screamer primitive. The
 data type of the inputs for the predicates must match that of the Screamer
 variable.  
   
@@ -33,7 +33,7 @@ variable.
 
 output| data type(s)| comments  
 ---|---|---  
-first| either passes the variables at `_var_` or causes backtracking |  
+first| either passes the variables at  _var_  or causes backtracking |  
   
 ## Description
 

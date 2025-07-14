@@ -16,7 +16,7 @@ Voice
 
 ## Syntax
 
- **Voice**   `self tree chords tempo legato ties ` 
+ **Voice**    self tree chords tempo legato ties   
 
 ## Slots
 

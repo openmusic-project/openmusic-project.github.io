@@ -13,17 +13,17 @@ OpenMusic Reference
 numerator  
   
 (lisp module) \-- returns the numerator of the canonical reduced form of
-`_rational_`.  
+ _rational_ .  
 
 ## Syntax
 
-`` **numerator**` rational `
+   **numerator**  rational  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _rational_`|  a rational|  
+  _rational_ |  a rational|  
   
 ## Output
 
@@ -37,7 +37,7 @@ Returns the top half of a fraction expressed as _a/b_. The fraction is
 automatically converted to the canonical reduced form, that is, both the
 numerator and denominator are divided by their highest common divisor, if one
 exists. _2/4_ , for example, would be converted to _1/2_ before the
-denominator is dropped. `numerator` of an integer returns the integer itself.
+denominator is dropped.  numerator  of an integer returns the integer itself.
 
 * * *
 

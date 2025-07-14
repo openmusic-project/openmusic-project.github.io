@@ -16,7 +16,7 @@ N-cercle
 
 ## Syntax
 
- **N-cercle** ` self n puntos `
+ **N-cercle**   self n puntos  
 
 ## Slots
 

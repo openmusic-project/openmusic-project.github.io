@@ -17,7 +17,7 @@ table-filter
 
 ## Syntax
 
- **table-filter** ` test list numcol mode  `
+ **table-filter**   test list numcol mode   
 
 ## Inputs
 

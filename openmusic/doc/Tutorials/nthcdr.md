@@ -12,18 +12,18 @@ OpenMusic Reference
   
 nthcdr  
   
-(LISP function) \-- returns `_list_` without its first _n_ elements  
+(LISP function) \-- returns  _list_  without its first _n_ elements  
 
 ## Syntax
 
-`` **nthcdr**` n list `
+   **nthcdr**  n list  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _n_`|  a non-negative integer|  
-` _list_`|  a list or tree|  
+  _n_ |  a non-negative integer|  
+  _list_ |  a list or tree|  
   
 ## Output
 
@@ -33,8 +33,8 @@ first| a tree|
   
 ## Description
 
-This function performs the operation [_`cdr`_](glossary#CDR) `_n_` times
-on `_list_` and returns the result. The effect is that the first `_n_`
+This function performs the operation [_ cdr _](glossary#CDR)  _n_  times
+on  _list_  and returns the result. The effect is that the first  _n_ 
 elements are removed.
 
 ![Note](figures/images/note.gif)| **LISP functions**  

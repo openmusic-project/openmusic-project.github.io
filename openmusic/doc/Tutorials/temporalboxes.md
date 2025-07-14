@@ -17,13 +17,13 @@ from a **Maquette**
 
 ## Syntax
 
- **temporalboxes** ` self `
+ **temporalboxes**   self  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
- _self_ |  a **Maquette**|  in ` itself ` mode  
+ _self_ |  a **Maquette**|  in   itself   mode  
   
 ## Output
 
@@ -43,14 +43,14 @@ modes. 'Itself' mode is indicated by a down arrow: ↓ This means that the
 ![](figures/functions/maquette/temporalboxesEX1.png)
 
 This function is usually used in conjunction with
-[`removetemporalbox`](removetemporalbox) or by reconnecting the elements
+[ removetemporalbox ](removetemporalbox) or by reconnecting the elements
 of the [**Temporalbox**](temporalbox)es to [_class
 factory_](glossary#FACTORY) icons in order to extract their parameters
 (their positions within the box, what they contain, etc.)
 
 This function takes a **Maquette** and extracts a
-[**Temporalbox**](temporalbox). The reverse is performed by [`get-
-maquette`](get-maquette)
+[**Temporalbox**](temporalbox). The reverse is performed by [ get-
+maquette ](get-maquette)
 
 For a complete discussion of the maquette concept, see the chapter
 [Maquettes](concepts.maquettes)

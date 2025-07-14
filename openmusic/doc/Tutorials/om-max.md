@@ -16,14 +16,14 @@ om-max
 
 ## Syntax
 
-`` **om-max**` self num `
+   **om-max**  self num  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
-` _num_`|  a number or tree|  
+  _self_ |  a number or tree|  
+  _num_ |  a number or tree|  
   
 ## Output
 
@@ -36,7 +36,7 @@ first| a number or tree| returns the greater of the two inputs
 This function returns the greater of the two inputs. It compares both numbers
 and trees. The arguments need not be of the same type- a list may be compared
 with a number or another list. When the arguments are not of the same type,
-`om-min` pairs them up in the same manner as [`om-min`](om-min)
+ om-min  pairs them up in the same manner as [ om-min ](om-min)
 
 * * *
 

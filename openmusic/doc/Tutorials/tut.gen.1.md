@@ -13,7 +13,7 @@ Using an arithmetic function to transpose pitches
 
 ## Key Modules Used
 
-[ **Chord**](chord), [`om+`](omplus)
+[ **Chord**](chord), [ om+ ](omplus)
 
 ## The Concept:
 
@@ -22,7 +22,7 @@ Midics are [_MIDI_](glossary#MIDI) values (60 corresponding to middle C
 on the piano) multiplied by 100. 100 midicents = 1 semitone.
 
 Transposing a note is thus equivalent to adding or subtracting from its midic
-value. We'll do this with a simple arithmetic operator [`om+`](omplus).
+value. We'll do this with a simple arithmetic operator [ om+ ](omplus).
 
 The notes to transpose are found in a [**Chord**](chord) object but we
 could take any midic output for the operation.
@@ -34,7 +34,7 @@ We will also learn how to lock modules so their contents are retained.
 ![](figures/tutorials/general/1a.png)
 
 This patch transposes the notes in [**Chord**](chord) box (A) by adding
-(C) the value you have entered at the second input to [`om+`](omplus) (B)
+(C) the value you have entered at the second input to [ om+ ](omplus) (B)
 to every note. The midics are then reentered into a [**Chord**](chord)
 object so we can see the results.
 
@@ -89,7 +89,7 @@ Now evalute the patch by clicking once on the lower [**Chord**](chord)
 object and hitting **v**. You'll see the newly transposed notes.
 
 Now, enter another transposition value in the box connected to the right input
-of the [`om+`](omplus) box. To transpose by a semitone you have to enter
+of the [ om+ ](omplus) box. To transpose by a semitone you have to enter
 the value 100. A quarter-tone corresponds to a value of 50 and a eighth of a
 tone to 25. (Notice that both quarter- and eighth-tone pitches can be
 expressed in whole numbers- the advantage of midics.) If you enter a positive
@@ -98,7 +98,7 @@ transposed down.
 
 The OM music object editors automatically 'round off' pitches for display. By
 default, they display pitches in a twelve-tone octave, even if the midics are
-not multiples of 100. To confirm this, set the input of [`om+`](omplus)
+not multiples of 100. To confirm this, set the input of [ om+ ](omplus)
 to 50, which will transpose the notes up by a quarter tone. Evaluate the lower
 [**Chord**](chord) box. You won't see and quarter tones. In order to turn
 on quarter-tone visualization, use the pull-down menu in the

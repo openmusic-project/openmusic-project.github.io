@@ -16,7 +16,7 @@ save-as-midi
 
 ## Syntax
 
-   **save-as-midi**  ` object  `
+   **save-as-midi**   object 
 
 ## Inputs
 

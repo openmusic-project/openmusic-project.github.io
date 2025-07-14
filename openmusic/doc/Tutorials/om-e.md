@@ -16,23 +16,23 @@ om-e
 
 ## Syntax
 
-`` **om-e**` self `
+   **om-e**  self  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _self_`|  a number or tree|  
+  _self_ |  a number or tree|  
   
 ## Output
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number or tree| returns e to the `self` power(s)  
+first| a number or tree| returns e to the  self  power(s)  
   
 ## Description
 
-Returns _e_ to the `_self_` power. If `_self_` is a tree, then a tree of
+Returns _e_ to the  _self_  power. If  _self_  is a tree, then a tree of
 identical dimensions is returned, containing _e_ raised to the n for every
 element n of the tree.
 
