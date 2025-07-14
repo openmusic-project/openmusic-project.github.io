@@ -17,13 +17,13 @@ addressing
 
 ## Syntax
 
-`` **third**` list `
+   **third**  ' list '  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _list_`|  a list or tree|  
+  _list_ |  a list or tree|  
   
 ## Output
 
@@ -33,7 +33,7 @@ first| any|
   
 ## Description
 
-This function returns the [caddr](glossary#CADDR) of `_list_` , the third
+This function returns the [caddr](glossary#CADDR) of  _list_  , the third
 element of the list. In this case, 'third' refers to human numbering, where
 addresses start with one, and not zero.
 

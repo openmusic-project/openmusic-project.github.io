@@ -16,15 +16,15 @@ volume
 
 ## Syntax
 
-`` **volume**` vol chans &optional port `
+   **volume**  ` vol chans &optional port `  
 
 ## Inputs
 
 name| data type(s)| comments  
 ---|---|---  
-` _vol_`|  an integer| defaults to 100  
-` _chans_`|  an integer or list thereof| defaults to 1  
-` _port_`|  an integer or list thereof| The MIDI port(s) to send on  
+  _vol_ |  an integer| defaults to 100  
+  _chans_ |  an integer or list thereof| defaults to 1  
+  _port_ |  an integer or list thereof| The MIDI port(s) to send on  
   
 ## Output
 
@@ -36,10 +36,10 @@ anyway.
 ## Description
 
 This module sends a midi volume message out on the channel (or channels, if
-`_chans_` is a list) specified. The midi volume message has a range of 0 to
+ _chans_  is a list) specified. The midi volume message has a range of 0 to
 127.
 
-The optional input `_port_` allows you to specify which MIDI port the
+The optional input  _port_  allows you to specify which MIDI port the
 message(s) will go out on.
 
 ![Note](figures/images/note.gif)|  **OM and MIDI**  
