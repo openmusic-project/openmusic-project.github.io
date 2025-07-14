@@ -12,11 +12,6 @@ OpenMusic Reference
 
 [1-](minus1) \-- subtracts 1 from a number
 
-[a-member-of](a-member-of) \-- Defines a Screamer variable from a list of
-values
-
-[a-chord-in](a-chord-in) \-- Defines a list of Screamer variables with
-constraints useful for building chords
 
 [addbox2maquette](addbox2maquette) \-- places a
 [**Temporalbox**](temporalbox) inside a **Maquette**
@@ -33,8 +28,6 @@ threshold duration into a single element
 
 [apply](apply) \-- returns the result of the evaluation of  _function_ 
 
-[apply-cont](apply-cont) \-- applies the given constraint (patch in
-lambda mode) to the variables
 
 [approx-m](approx-m) \-- rounds off midics to fit whole-number divisions
 of the octave
@@ -137,8 +130,6 @@ instance
 
 [group-list](group-list) \-- returns a list divided into segments
 
-[growing?](growing) \-- returns t if the list is growing; otherwise,
-returns nil
 
 [included?](included) \-- returns true if all the elements of  _lst1_ 
 are also elements of  _lst2_ . Otherwise, returns nil
@@ -176,15 +167,6 @@ sublists of consecutive elements.
 
 [list-modulo](list-modulo) \-- Breaks a list down into sublists of
 elements at regular intervals
-
-[list-of-chords-in](list-of-chords-in) \-- Defines a list of  a-chord-
-in s, i.e. a list of all-different and sorted lists of Screamer variables
-
-[list-of-members-of](list-of-members-of) \-- Defines a list of Screamer
-variables according to domains
-
-[list-of-integers-between](list-of-int-between) \-- defines a list of
-Screamer variables within the specified interval
 
 [mat-trans](mat-trans) \-- returns a matrix with the rows and columns
 exchanged
