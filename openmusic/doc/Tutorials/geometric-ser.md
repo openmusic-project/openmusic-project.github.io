@@ -25,12 +25,9 @@ name| data type(s)| comments
   _seed_ |  a number| the starting point of the series  
   _factor_ |  a number| the multiplicative coefficient of the series  
   _limit_ |  a number| the upper limit of the series  
-  _nummax_ |  a non-zero integer| optional; the maximum number of terms
-produced. Defaults to 10  
-  _begin_ |  a non-negative integer| optional; the ordinal of the first term
-to take  
-  _end_ |  a non-negative integer| optional; the ordinal of the last term to
-take  
+  _nummax_ |  a non-zero integer| optional; the maximum number of terms produced. Defaults to 10  
+  _begin_ |  a non-negative integer| optional; the ordinal of the first term to take  
+  _end_ |  a non-negative integer| optional; the ordinal of the last term to take  
   
 ## Output
 

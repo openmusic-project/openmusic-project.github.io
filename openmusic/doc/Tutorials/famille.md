@@ -24,12 +24,9 @@ famille
 name| data type(s)| comments  
 ---|---|---  
   _n_ |  an integer| must be more than 2; defaults to 12  
-  _familly_ |  menu| the type of pitch set (set complex) to return. 6 options:
-**tac** , **tai** , **tic** , **ttl** , **tp** , **tid**.  
+  _familly_ |  menu| the type of pitch set (set complex) to return. 6 options: **tac** , **tai** , **tic** , **ttl** , **tp** , **tid**.  
   _k_ |  a positive integer| defaults to 6; must be no larger than  _n_  /2  
-  _howmany_ |  a positive integer| allows you to limit the number of answers
-returned (the size of the set complex). Setting this value higher than the
-maximum number of possible sets may cause the function to return nil  
+  _howmany_ |  a positive integer| allows you to limit the number of answers returned (the size of the set complex). Setting this value higher than the maximum number of possible sets may cause the function to return nil  
   
 ## Output
 

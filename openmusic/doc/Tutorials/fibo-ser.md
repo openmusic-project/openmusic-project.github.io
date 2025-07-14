@@ -22,15 +22,11 @@ fibo-ser
 
 name| data type(s)| comments  
 ---|---|---  
-  _seed1_ |  a number| the first element from which to calculate the series.
-Defaults to 0  
-  _seed2_ |  a number| the second element from which to calculate the series.
-Defaults to 1  
+  _seed1_ |  a number| the first element from which to calculate the series. Defaults to 0  
+  _seed2_ |  a number| the second element from which to calculate the series. Defaults to 1  
   _limit_ |  a number| the upper limit of the series. Defaults to 10  
-  _begin_ |  a non-negative integer| optional; the ordinal of the first term
-to take. Defaults to 0  
-  _end_ |  a non-negative integer| optional; the ordinal of the last term to
-take. Defaults 536870911  
+  _begin_ |  a non-negative integer| optional; the ordinal of the first term to take. Defaults to 0  
+  _end_ |  a non-negative integer| optional; the ordinal of the last term to take. Defaults 536870911  
   
 ## Output
 

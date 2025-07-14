@@ -23,8 +23,7 @@ list-filter
 
 name| data type(s)| comments  
 ---|---|---  
-  _test_ |  a symbol or function name or lambda function| The predicate to
-apply. Defaults to  numberp   
+  _test_ |  a symbol or function name or lambda function| The predicate to apply. Defaults to  numberp   
   _list_ |  a list| the list to filter  
   _mode_ |  menu| two options: pass and reject  
   

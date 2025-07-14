@@ -22,8 +22,7 @@ factorize
 
 name| data type(s)| comments  
 ---|---|---  
-  _number_ |  a number| though this input will accept any kind of number, the
-function only works correctly for positive integers  
+  _number_ |  a number| though this input will accept any kind of number, the function only works correctly for positive integers  
   
 ## Output
 

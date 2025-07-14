@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](growing)| | [Next](infocanons)  
+[Prev](group-list)| | [Next](infocanons)  
   
 * * *
 
@@ -25,8 +25,7 @@ name| data type(s)| comments
 ---|---|---  
   _lst1_ |  a list or tree|  
   _lst2_ |  a list or tree|  
-  _test_ |  a symbol, function name or lambda function| optional; the test
-with which to compare elements of the two lists. Defaults to  equal   
+  _test_ |  a symbol, function name or lambda function| optional; the test with which to compare elements of the two lists. Defaults to  equal   
   
 ## Output
 
@@ -45,7 +44,7 @@ greater than at least one element in the second.
 
 * * *
 
-[Prev](growing)| [Home](index)| [Next](infocanons)  
+[Prev](group-list)| [Home](index)| [Next](infocanons)  
 ---|---|---  
-growing?| [Up](funcref.main)| infocanons
+group-list| [Up](funcref.main)| infocanons
 

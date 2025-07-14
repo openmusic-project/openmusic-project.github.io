@@ -29,8 +29,7 @@ name| data type(s)| comments
 
 output| data type(s)| comments  
 ---|---|---  
-first| a number; a tree| returns the first input's number(s) raised to the
-power(s) of the second  
+first| a number; a tree| returns the first input's number(s) raised to the power(s) of the second  
   
 ## Description
 

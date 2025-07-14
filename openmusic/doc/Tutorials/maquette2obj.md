@@ -22,13 +22,11 @@ maquette2obj
 
 ## Inputs
 
-![Note](figures/images/note.gif)|
-
-The optional inputs of this function duplicate the inputs of
-[ omquantify ](omquantify). See its entry for information on these
-inputs.  
+![Note](figures/images/note.gif) 
+ The optional inputs of this function duplicate the inputs of [ omquantify ](omquantify). See its entry for information on these inputs. 
   
----|---  
+ 
+
   
 name| data type(s)| comments  
 ---|---|---  

@@ -23,8 +23,7 @@ mf-info
 name| data type(s)| comments  
 ---|---|---  
   _self_ |  an OM **Midifile** object|  
-  _tracknum_ |  an integer| optional; must be between 0 and 15, inclusive.
-Causes  mf-info  to analyze only one track within the file.  
+  _tracknum_ |  an integer| optional; must be between 0 and 15, inclusive. Causes  mf-info  to analyze only one track within the file.  
   
 ## Output
 

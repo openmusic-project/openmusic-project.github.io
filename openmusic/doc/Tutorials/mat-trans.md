@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](list-of-int-between)| | [Next](mapcan)  
+[Prev](list-modulo)| | [Next](mapcan)  
   
 * * *
 
@@ -22,8 +22,7 @@ mat-trans
 
 name| data type(s)| comments  
 ---|---|---  
-  _matrix_ |  a tree| with at least one level of
-[nesting](glossary#NESTING)  
+  _matrix_ |  a tree| with at least one level of [nesting](glossary#NESTING)  
   
 ## Output
 
@@ -64,7 +63,7 @@ returns:
 
 * * *
 
-[Prev](list-of-int-between)| [Home](index)| [Next](mapcan)  
+[Prev](list-modulo)| [Home](index)| [Next](mapcan)  
 ---|---|---  
-list-of-integers-between| [Up](funcref.main)| mapcan
+list-modulo| [Up](funcref.main)| mapcan
 

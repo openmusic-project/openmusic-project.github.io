@@ -56,9 +56,7 @@ the entire transcription, or a list in the form (a b) or a list, i.e. ((4 4)
 
 ![Note](figures/images/note.gif)|  **A minor feature**  
 ---|---  
- The last measure of the transcription may have a time signature with one fewer
-beats than the indicated time signature; this has not affected the
-transcription. We are working on this and it should be fixed soon.  
+The last measure of the transcription may have a time signature with one fewer beats than the indicated time signature; this has not affected the transcription. We are working on this and it should be fixed soon.  
   
   _max/_  allows you to set the maximum number of subdivisions in a beat,
 which is always the second number of the time signature, even in ternary

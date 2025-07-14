@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](list-min)| | [Next](list-of-chords-in)  
+[Prev](list-min)| | [Next](mat-trans)  
   
 * * *
 
@@ -55,7 +55,7 @@ elements have been used:
 
 * * *
 
-[Prev](list-min)| [Home](index)| [Next](list-of-chords-in)  
+[Prev](list-min)| [Home](index)| [Next](mat-trans)  
 ---|---|---  
-list-min| [Up](funcref.main)| list-of-chords-in
+list-min| [Up](funcref.main)| mat-trans
 

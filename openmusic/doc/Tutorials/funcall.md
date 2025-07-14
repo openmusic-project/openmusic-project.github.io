@@ -22,8 +22,7 @@ funcall
 
 name| data type(s)| comments  
 ---|---|---  
-  _function_ |  symbol, function name or lambda function | the function that
-will be evaulated  
+  _function_ |  symbol, function name or lambda function | the function that will be evaulated  
   _arguments_ |  any| repeatable; data is passed to  _function_  as arguments  
   
 ## Output

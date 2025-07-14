@@ -47,8 +47,7 @@ yield (2 (3 2)), since the element 6 in the first list is paired with element
 
 ![Note](figures/images/note.gif)|
 
-The name of the  om/  function uses the slash to represent division, as is
-traditional in programming languages.  
+The name of the  om/  function uses the slash to represent division, as is traditional in programming languages.  
   
 ---|---  
   

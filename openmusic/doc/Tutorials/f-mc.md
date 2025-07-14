@@ -23,10 +23,8 @@ midicent pitches
 
 name| data type(s)| comments  
 ---|---|---  
-  _freq_ |  a number or list thereof| the frequency or list of frequencies to
-convert  
-  _approx_ |  a positive number| optional; the subdivision of the octave to
-use for the approximation; defaults to 2. Note that decimal values are allowed  
+  _freq_ |  a number or list thereof| the frequency or list of frequencies to convert  
+  _approx_ |  a positive number| optional; the subdivision of the octave to use for the approximation; defaults to 2. Note that decimal values are allowed  
   _ref-midic_ |  an integer| optional; specifies a reference pitch, as a midic  
   
 ## Output

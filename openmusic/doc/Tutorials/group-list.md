@@ -1,6 +1,6 @@
 OpenMusic Reference  
 ---  
-[Prev](get-slot)| | [Next](growing)  
+[Prev](get-slot)| | [Next](included)  
   
 * * *
 
@@ -68,7 +68,7 @@ beginning after running out of elements:
 
 * * *
 
-[Prev](get-slot)| [Home](index)| [Next](growing)  
+[Prev](get-slot)| [Home](index)| [Next](included)  
 ---|---|---  
-get-slot| [Up](funcref.main)| growing?
+get-slot| [Up](funcref.main)| included
 
