@@ -50,14 +50,13 @@ these intervals are suppressed.
 nesting. Elements which are passed retain the level of
 [nesting](glossary#NESTING) from the original list.
 
-![Note](figures/images/note.gif)|
 
-If you are looking to filter ranges of elements in a list based on their
-position in the list rather than their value, use [ range-filter ](range-
-filter)  
-  
----|---  
-  
+***
+
+|![Note](figures/images/note.gif)  If you are looking to filter ranges of elements in a list based on their position in the list rather than their value, use [ range-filter ](range-filter) |
+|--|
+***
+
 ## Examples
 
 ### Filtering a range of values from a tree
