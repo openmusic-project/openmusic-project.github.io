@@ -4,7 +4,7 @@ OpenMusic Reference
   
 * * *
 
-# Chapter 3. OM Function Reference
+# OM Function Reference
 
  **Table of Contents**
 
