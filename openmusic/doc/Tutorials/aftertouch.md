@@ -40,14 +40,11 @@ channel pressure message, equivalent to the highest pressure among the keys
 pressed, while [ polykeypres ](polykeypres) is used to send individual
 key pressure messages.
 
-![Note](figures/images/note.gif)|  **OM and MIDI**  
----|---  
- |
+| ![Note](figures/images/note.gif)|  **OM and MIDI**|  
+|--|
+|OM can be configured to communicate with any [_MIDI_](glossary#MIDI) device. See the chapter on [configuring Midishare](getting-started.install-midishare) for more information.| 
 
-OM can be configured to communicate with any [_MIDI_](glossary#MIDI)
-device. See the chapter on [configuring Midishare](getting-started.install-
-midishare) for more information.  
-  
+ 
 * * *
 
 [Prev](addbox2maquette)| [Home](index)| [Next](align-chords)  
