@@ -38,6 +38,7 @@ Contents :
       * [Presentation](Score-Objects-Intro)
       * Rhythm Trees
         * [Rhythm Trees Structure](RT1)
+        * [Rhythm Trees in details](OMRT)
         * [Notation : in Practice](RT2)
       * [Score Players](ScorePlayer)
       * [Score Editors](ScoreEditors)

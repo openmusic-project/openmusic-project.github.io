@@ -1,6 +1,4 @@
-Navigation : [Previous](RT1 "page précédente\(Rhythm Trees
-Structure\)") | [Next](ScorePlayer "Next\(Score
-Players\)")
+Navigation : [Previous] (OMRT "(Rhythm Trees in details)" | [Next](ScorePlayer "(Score Players)")
 
 
 # Notation : in Practice
@@ -142,6 +140,7 @@ Contents :
       * [Presentation](Score-Objects-Intro)
       * [Rhythm Trees](RT)
         * [Rhythm Trees Structure](RT1)
+        * [Rhythm Trees in details](OMRT)	
         * Notation : in Practice
       * [Score Players](ScorePlayer)
       * [Score Editors](ScoreEditors)
@@ -157,7 +156,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RT1 "page précédente\(Rhythm Trees
-Structure\)") | [Next](ScorePlayer "Next\(Score
-Players\)")
+Navigation : [Previous] (OMRT "(Rhythm Trees in details)" | [Next](ScorePlayer "(Score Players)")
 
