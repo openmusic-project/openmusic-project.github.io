@@ -1,4 +1,4 @@
-Navigation : [Previous] (OMRT "(Rhythm Trees in details)" | [Next](ScorePlayer "(Score Players)")
+Navigation : [Previous](OMRT  "(Rhythm Trees in details)" )   | [Next](ScorePlayer "(Score Players)")
 
 
 # Notation : in Practice
@@ -156,5 +156,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous] (OMRT "(Rhythm Trees in details)" | [Next](ScorePlayer "(Score Players)")
+Navigation : [Previous](OMRT  "(Rhythm Trees in details)") |
+ [Next](ScorePlayer "(Score Players)")
 

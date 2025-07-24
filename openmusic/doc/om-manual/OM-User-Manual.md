@@ -45,7 +45,7 @@ computation and iterative programs.
 
 Using and manipulating basic objects, such as curves, arrays, text, etc.
 
- [ **Chapter 7 : Score Objects**](BasicObjects)
+ [ **Chapter 7 : Score Objects**](ScoreObjects)
 
 Using and manipulating score objects such as chords, rhythms, polyphonies and
 so on.
