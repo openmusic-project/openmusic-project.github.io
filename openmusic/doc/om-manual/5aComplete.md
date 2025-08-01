@@ -1,10 +1,9 @@
-Navigation : [Previous](5_CompletEdition "page
-précédente\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "Next\(Completing the Edition\)")
+Navigation : [Previous](5_CompletEdition "\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "\(Completing the Edition\)")
 
 
 # Manipulating the Chord Box
 
-Covered Topics
+###Covered Topics
 
   * Protecting the chord
 
@@ -17,15 +16,15 @@ Covered Topics
 
 ## Main Link to the User Manual
 
-See also
+See also:
 
   * [Lock Mode](LockMode)
   * [Score Objects](ScoreObjects)
   * [Score Editors](ScoreEditors)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -42,6 +41,5 @@ Contents :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](5_CompletEdition "page
-précédente\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "Next\(Completing the Edition\)")
+Navigation : [Previous](5_CompletEdition "\(Manipulating and Visualizing Objects\)") | [Next](5bComplete "\(Completing the Edition\)")
 

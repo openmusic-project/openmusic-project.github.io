@@ -5,7 +5,7 @@ Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
 # Creating a Maquette
 
 
-Contents
+###Contents
 
   1. General Features
   2. Creating General Maquettes
@@ -19,27 +19,26 @@ two types of maquettes :
 
   * general maquettes : 
 
-|
+
 
 ![](../res/maq5_icon.png)
 
-|
 
   * internal maquettes : 
 
-|
+
 
 ![](../res/intmaq_icon.png)  
   
----|---|---|---  
+
   
-See also
+See also:
 
   * [Abstraction Boxes](AbsBoxes)
 
 ## General Features
 
-General and Local Maquetttes
+###General and Local Maquetttes
 
 **General maquettes** can be :
 
@@ -49,7 +48,7 @@ General and Local Maquetttes
 ** Local ** **maquettes** can be added directly into a patch like an internal
 abstraction.
 
-Using Maquettes in Other Maquettes
+###Using Maquettes in Other Maquettes
 
 Maquettes can also be used within other maquettes, according to similar
 principles :
@@ -57,18 +56,18 @@ principles :
   * an existing maquette can be dropped and used into another maquette.
   * a maquette can be created directly within another maquette.
 
-Conversions
+###Conversions
 
 Last, like blue and red patches again, general maquettes can be ** converted
 ** into local maquettes, and vice-versa.
 
 ## Creating General Maquettes
 
-Procedure
+###Procedure
 
 ![](../res/maquetteinwksp.png)
 
-|
+
 
 General maquettes are equivalent to standard blue patches. Like them, they can
 be created in the workspace, or one of its folders.
@@ -80,10 +79,7 @@ To add a maquette in a workspace :
   * press `Cmd` \+ `2`
 
   
-  
----|---  
-  
-Maquette Files
+###Maquette Files
 
 General maquettes are persistent files that can be manipulated like patches.
 They can be :
@@ -92,13 +88,13 @@ They can be :
   * duplicated and renamed
   * used in other maquettes and patches.
 
-Managing Items in the Workspace
+### Managing Items in the Workspace
 
   * [The Workspace Window](WS-Window)
 
 ## Using Maquettes inside Patches
 
-Using a General Maquette in a Patch
+### Using a General Maquette in a Patch
 
 Once a maquette is added in a workspace, it can be dropped in a patch, on the
 same basis as an abstraction : like a "global" abstraction, or blue patch, the
@@ -109,10 +105,8 @@ Adding an Internal Maquette in a Patch
 
 ![](../res/internalmaq.png)
 
-|
 
-Internal maquettes are the equivalent to internal - red - patches .They can be
-created inside a patch.
+Internal maquettes are the equivalent to internal - red - patches .They can be created inside a patch.
 
 To add a maquette in a patch :
 
@@ -120,24 +114,22 @@ To add a maquette in a patch :
   * `Ctrl` / right click and choose `Maquette` in the contextual menu.
 
   
-  
----|---  
-  
-Converting Maquettes
 
-General maquettes can be converted into internal maquettes, and reciprocally,
-internal maquettes can be converted into global abstractions.
+  
+### Converting Maquettes
+
+General maquettes can be converted into internal maquettes, and reciprocally, internal maquettes can be converted into global abstractions.
 
   * To convert a general maquette into an internal maquettes, select it and type `a`.
   * To convert an internal maquette into a general maquette, drop it from the patch into the workspace, or one of its folders. 
 
-|
+
 
 ![](../res/convertgenintern.png)  
   
----|---  
+
   
-Patch Conversion Procedures
+###Patch Conversion Procedures
 
   * [Conversions](AbsConversion)
 
@@ -146,7 +138,7 @@ Patch Conversion Procedures
 This use of maquettes mostly sets forth a number of specificities dealing with
 the use of TemporalBoxes[1].
 
-Creating and Using Objects within Maquettes
+###Creating and Using Objects within Maquettes
 
   * [Maquette Programming](Programming%20Maquette)
   * [TemporalBoxes](TemporalBoxes)
@@ -159,17 +151,15 @@ To save a maquette :
   * choose `File / Save `
   * `Ctrl` / right click in the maquette and choose `Last Saved` in the contextual menu.
 
-The `Last Saved` command allows to reset the maquette to its last saved
-version.
+The `Last Saved` command allows to reset the maquette to its last saved version.
 
-References :
+##References :
 
   1. TemporalBox
 
-A TemporalBox refers to an object in a maquette : an instance, a patch, or
-another maquette.
+A TemporalBox refers to an object in a maquette : an instance, a patch, or another maquette.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

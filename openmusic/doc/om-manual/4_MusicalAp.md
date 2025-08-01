@@ -1,19 +1,16 @@
-Navigation : [Previous](3ManipPatch "page précédente\(Manipulating
-the Patch\)") | [Next](4aApplication "Next\(Chord &
-Musical Objects\)")
+Navigation : [Previous](3ManipPatch "\(Manipulating the Patch\)") | [Next](4aApplication "\(Chord & Musical Objects\)")
 
 # A Musical Application : Transposing a Chord with Om+
 
-Sous-sections :
+##Sub-sections :
 
   * [Chord & Musical Objects](4aApplication)
   * [Creating an Instance](4bApplication)
   * [Formalizing a Process](4cApplication)
   * [Materializing Results](4dApplication)
 
-References :
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -30,7 +27,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](3ManipPatch "page précédente\(Manipulating
-the Patch\)") | [Next](4aApplication "Next\(Chord &
-Musical Objects\)")
+Navigation : [Previous](3ManipPatch "\(Manipulating the Patch\)") | [Next](4aApplication "\(Chord & Musical Objects\)")
 

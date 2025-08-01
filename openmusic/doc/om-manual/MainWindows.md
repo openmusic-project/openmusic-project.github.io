@@ -4,7 +4,7 @@ suivante\(Preferences\)")
 
 # Windows of the OM Environment
 
-Contents
+###Contents
 
   1. Workspace Window
   2. Lisp Listener
@@ -13,7 +13,7 @@ Contents
 
 ![](../res/windowsmenu4.png)
 
-|
+
 
 The OM interface is declined through a set of windows and editors, which can
 be accessed through the `Windows` menu. Among them are three major items :
@@ -23,8 +23,6 @@ be accessed through the `Windows` menu. Among them are three major items :
   * the  **Library** window.
 
   
-  
----|---  
   
 ## Workspace Window
 
@@ -38,11 +36,11 @@ To open or show the workspace window :
 
 **The Workspace and the Lisp Listener appear at the start of a session.**
 
-|
+
 
 ![](../res/wkspandlistener2.png)  
   
----|---  
+  
   
 Full information about the Workspace :
 
@@ -60,7 +58,7 @@ Listener.](../res/evalsimplepatch.png)
 
 The OM+ box performs an addition, whose result is given in the Listener.
 
-|
+
 
 The **Listener** is a Lisp communication interface : results of computations,
 warnings or error messages are displayed there. It also allows to send
@@ -76,7 +74,6 @@ To open or show a listener window :
 
   
   
----|---  
   
 More Information about the Lisp Listener :
 
@@ -93,11 +90,11 @@ To open the Library window :
   * go to `Windows / Library`
   * press `Cmd` \+ `SHIFT` \+ `p`.
 
-|
+
 
 ![](../res/libwindow.png)  
   
----|---  
+
   
 Full information about the Library :
 
@@ -125,15 +122,13 @@ More Information about the Lisp Editor :
   * [Lisp Programming](Lisp)
     * [Reactive mode](Reactive)
 
-References :
+##References :
 
   1. Package
 
-Contains functions or classes components belonging to a common category of
-programming items. Packages are provided at the installation of OM, but the
-can also be loaded dynamically or added by the user.
+Contains functions or classes components belonging to a common category of programming items. Packages are provided at the installation of OM, but they can also be loaded dynamically or added by the user.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

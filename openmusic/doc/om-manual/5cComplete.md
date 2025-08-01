@@ -1,10 +1,9 @@
 
-Navigation : [Previous](5bComplete "page précédente\(Completing
-the Edition\)") | [Next](5dComplete "Next\(Comments\)")
+Navigation : [Previous](5bComplete "\(Completing the Edition\)") | [Next](5dComplete "\(Comments\)")
 
 # Listening to Microintervals
 
-Covered Topics
+###Covered Topics
 
   * An overview of the Microplayer application
 
@@ -16,14 +15,14 @@ Covered Topics
 
 ## Main Links to the User Manual
 
-See also
+See also:
 
   * [Score Display](Editor-Display)
   * [Score Players](ScorePlayer)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -40,6 +39,5 @@ Contents :
       * [Comments](5dComplete)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](5bComplete "page précédente\(Completing
-the Edition\)") | [Next](5dComplete "Next\(Comments\)")
+Navigation : [Previous](5bComplete "\(Completing the Edition\)") | [Next](5dComplete "\(Comments\)")
 

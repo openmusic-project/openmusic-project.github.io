@@ -1,6 +1,4 @@
-Navigation : [Previous](02-SupportAndPubs "page
-précédente\(Additional Information\)") | [Next](Installation
-"Next\(System Configuration and Installation\)")
+Navigation : [Previous](02-SupportAndPubs "\(Additional Information\)") | [Next](Installation "\(System Configuration and Installation\)")
 
 # Frequently Asked Questions - for Beginners
 
@@ -285,9 +283,9 @@ What are the basis to start using OM ?
 
 [How do I bring items into a workspace ?](WS-ImportExport)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -312,7 +310,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](02-SupportAndPubs "page
-précédente\(Additional Information\)") | [Next](Installation
-"Next\(System Configuration and Installation\)")
+Navigation : [Previous](02-SupportAndPubs "\(Additional Information\)") | [Next](Installation "\(System Configuration and Installation\)")
 

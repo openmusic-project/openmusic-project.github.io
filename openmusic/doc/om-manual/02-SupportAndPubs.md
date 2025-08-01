@@ -1,10 +1,8 @@
-Navigation : [Previous](01-Presentation "page
-précédente\(OpenMusic Presentation\)") | [Next](03-FAQ "page
-suivante\(Elementary F.A.Q.\)")
+Navigation : [Previous](01-Presentation "\(OpenMusic Presentation\)") | [Next](03-FAQ "\(Elementary F.A.Q.\)")
 
 # Additional Supports and Publications
 
-Contents
+###Contents
 
   1. OpenMusic website
   2. Discussion Groups
@@ -13,10 +11,10 @@ Contents
 
 ## OpenMusic website
 
-IRCAM Music Representation research group page :
+OpenMusic GitHub page :
 
-[http://recherche.ircam.fr/equipes/repmus/OpenMusic/](http://recherche.ircam.fr/equipes/repmus/OpenMusic/
-"http://recherche.ircam.fr/equipes/repmus/OpenMusic/ \(nouvelle fenêtre\)")
+[https://openmusic-project.github.io/](https://openmusic-project.github.io/
+"https://openmusic-project.github.io/ \(nouvelle fenêtre\)")
 
   * Developer documentation
   * Papers and publications
@@ -24,31 +22,23 @@ IRCAM Music Representation research group page :
 
 ## Discussion Groups
 
-OpenMusic user group mailing list
-
-Subscribe on [http://listes.ircam.fr](http://listes.ircam.fr
-"http://listes.ircam.fr \(nouvelle fenêtre\)")
-
 Discussion forum on IRCAM forumnet
 
-[http://forumnet.ircam.fr/](http://forumnet.ircam.fr/
-"http://forumnet.ircam.fr/ \(nouvelle fenêtre\)")
+[http://forumnet.ircam.fr/](https://discussion.forum.ircam.fr/c/openmusic/42"https://discussion.forum.ircam.fr/c/openmusic/42\(nouvelle fenêtre\)")
 
-## Contacts
 
-IRCAM forum support : Help and information for IRCAM forum members
+##Bug reports
 
-[forum-support@ircam.fr](mailto:forum-support@ircam.fr "mailto:forum-
-support@ircam.fr \(nouvelle fenêtre\)")
-
-Bug reports
-
-[om-dev@ircam.fr](mailto:om-dev@ircam.fr "mailto:om-dev@ircam.fr \(nouvelle
+[Report on GitHub](https://github.com/openmusic-project/openmusic/issues "https://github.com/openmusic-project/openmusic/issues \(nouvelle
 fenêtre\)")
+
+or report here:
+
+ [http://forumnet.ircam.fr/](https://discussion.forum.ircam.fr/c/openmusic/42"https://discussion.forum.ircam.fr/c/openmusic/42\(nouvelle fenêtre\)")
 
 ## The OM Composer's Book
 
-A two volumes collection of essays by composers, dealing with the
+A three volumes collection of essays by composers, dealing with the
 appropriation of OM in composition, as well as computer-aided composition from
 a general view.
 
@@ -58,9 +48,9 @@ Editions Delatour France - IRCAM Centre Pompidou.
 [http://recherche.ircam.fr/equipes/repmus/OMBook/](http://recherche.ircam.fr/equipes/repmus/OMBook/
 "http://recherche.ircam.fr/equipes/repmus/OMBook/ \(nouvelle fenêtre\)")
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -85,7 +75,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](01-Presentation "page
-précédente\(OpenMusic Presentation\)") | [Next](03-FAQ "page
-suivante\(Elementary F.A.Q.\)")
+Navigation : [Previous](01-Presentation "\(OpenMusic Presentation\)") | [Next](03-FAQ "\(Elementary F.A.Q.\)")
 

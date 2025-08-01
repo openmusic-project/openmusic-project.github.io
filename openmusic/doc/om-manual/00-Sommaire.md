@@ -1,18 +1,17 @@
-Navigation : [Previous](OM-User-Manual "page précédente\(OM
-User Manual\)") | [Next](01-Presentation "page
-suivante\(OpenMusic Presentation\)")
+Navigation : [Previous](OM-User-Manual "\(OM
+User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 
 # Introduction
 
-Sous-sections :
+##Sub-sections :
 
   * [OpenMusic Presentation](01-Presentation)
   * [Additional Information](02-SupportAndPubs)
   * [Elementary F.A.Q.](03-FAQ)
 
-References :
 
-Plan :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -37,7 +36,6 @@ Plan :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OM-User-Manual "page précédente\(OM
-User Manual\)") | [Next](01-Presentation "page
-suivante\(OpenMusic Presentation\)")
+Navigation : [Previous](OM-User-Manual "\(OM
+User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 

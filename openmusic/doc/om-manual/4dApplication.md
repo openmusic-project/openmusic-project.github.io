@@ -1,11 +1,9 @@
-Navigation : [Previous](4cApplication "page
-précédente\(Formalizing a Process\)") | [Next](5_CompletEdition
-"Next\(Manipulating and Visualizing Objects\)")
+Navigation : [Previous](4cApplication "\(Formalizing a Process\)") | [Next](5_CompletEdition "\(Manipulating and Visualizing Objects\)")
 
 
 # Materializing Results
 
-Covered Topics
+###Covered Topics
 
   * Connecting and evaluating boxes
   * Using the "self" and "pitch" chord inputs 
@@ -17,14 +15,14 @@ Covered Topics
 
 ## Main Link to the User Manual
 
-See also
+See also:
 
   * [Connections](Connections)
   * [Evaluation](Evaluation)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -41,7 +39,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](4cApplication "page
-précédente\(Formalizing a Process\)") | [Next](5_CompletEdition
-"Next\(Manipulating and Visualizing Objects\)")
+Navigation : [Previous](4cApplication "\(Formalizing a Process\)") | [Next](5_CompletEdition "\(Manipulating and Visualizing Objects\)")
 

@@ -10,15 +10,13 @@ and a  **visual program** .
 
 ![](../res/maquette.png)
 
-In a maquette, objects can be manipulated according to temporal and graphical
-parameters. This includes :
+In a maquette, objects can be manipulated according to temporal and graphical parameters. This includes :
 
   * the  **graphical and temporal organization** of objects,
   * the  **calculation of objects** , which can then be  **connected together** to interact like in a patch,
   * the  **calculation of the maquette's temporal structure**.
 
-A maquette contains specific boxes :  **TemporalBoxes** , which have a number
-of characteristics :
+A maquette contains specific boxes :  **TemporalBoxes** , which have a number of characteristics :
 
   * **a reference** , that is, an instance, a patch, or another maquette contained in the box,
   * **a position and duration characteristics** , which refer to the integration of the box in the maquette's  context.
@@ -26,7 +24,7 @@ of characteristics :
 
 To a certain extent, the maquette can be considered a patch.
 
-References :
+##References :
 
   1. Container
 
@@ -35,7 +33,7 @@ including other containers as well. For instance, a chord-seq that contains
 chords, a chord that contains notes, a maquette that contains temporal
 objects, etc.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

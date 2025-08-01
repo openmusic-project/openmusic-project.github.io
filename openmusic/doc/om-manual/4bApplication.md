@@ -1,11 +1,9 @@
-Navigation : [Previous](4aApplication "page précédente\(Chord &
-Musical Objects\)") | [Next](4cApplication "page
-suivante\(Formalizing a Process\)")
+Navigation : [Previous](4aApplication "\(Chord & Musical Objects\)") | [Next](4cApplication "\(Formalizing a Process\)")
 
 
 # Creating an Instance
 
-Covered Topics
+###Covered Topics
 
   * Parametric values : pitches, dynamics... how to define a chord
 
@@ -18,7 +16,7 @@ Covered Topics
 </video>
 
 
-Good to Know
+###Good to Know
 
   1. What is a list ?
 
@@ -30,19 +28,19 @@ parenthesis**. In a list, **each element** itself is an **atom** , or a
 
 A semitone is equal to **100 midicents**
 
-Keywords
+###Keywords
 
 Evaluation[1]
 
 ## Main Links to the User Manual
 
-See also
+See also:
 
   * [Elementary Manipulations](ElementaryManips)
   * [Box Inputs](BoxInputs)
   * [Evaluation](Evaluation)
 
-References :
+##References :
 
   1. Evaluation
 
@@ -55,7 +53,7 @@ triggers the calculus that will determine the value of these expressions.
 Any kind of box can be evaluated and return something. To evaluate a box, ⤷
 Click and press `v` or `Cmd` click on an outlet.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -72,7 +70,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](4aApplication "page précédente\(Chord &
-Musical Objects\)") | [Next](4cApplication "page
-suivante\(Formalizing a Process\)")
+Navigation : [Previous](4aApplication "\(Chord & Musical Objects\)") | [Next](4cApplication "\(Formalizing a Process\)")
 

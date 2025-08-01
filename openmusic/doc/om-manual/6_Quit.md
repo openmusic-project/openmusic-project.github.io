@@ -1,10 +1,10 @@
 
-Navigation : [Previous](5dComplete "page précédente\(Comments\)")
-| [Next](OM-Documentation_1 "Next\(Contents\)")
+Navigation : [Previous](5dComplete "\(Comments\)")
+| [Next](OM-Documentation_1 "\(Contents\)")
 
 # Saving and Quitting OM
 
-Covered Topics
+###Covered Topics
 
   * Closing a patch
 
@@ -16,13 +16,13 @@ Covered Topics
 
 ## Main Link to the User Manual
 
-See also
+See also:
 
   * [Quitting OM and Saving](QuittingSaving)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -35,6 +35,6 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * Saving and Quitting OM
 
-Navigation : [Previous](5dComplete "page précédente\(Comments\)")
-| [Next](OM-Documentation_1 "Next\(Contents\)")
+Navigation : [Previous](5dComplete "\(Comments\)")
+| [Next](OM-Documentation_1 "\(Contents\)")
 

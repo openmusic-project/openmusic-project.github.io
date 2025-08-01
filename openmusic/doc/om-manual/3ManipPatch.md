@@ -1,10 +1,8 @@
-Navigation : [Previous](2_progpatch "page précédente\(Programming
-a Simple Patch\)") | [Next](4_MusicalAp "Next\(A
-Musical Application\)")
+Navigation : [Previous](2_progpatch "\(Programming a Simple Patch\)") | [Next](4_MusicalAp "\(A Musical Application\)")
 
 # Manipulating the Patch in the Workspace
 
-Covered Topics
+###Covered Topics
 
   * Naming, duplicating and storing the patch
 
@@ -17,13 +15,13 @@ Covered Topics
 
 ## Main Link to the User Manual
 
-See also
+See also:
 
   * [Workspace](Workspace)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -36,7 +34,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](2_progpatch "page précédente\(Programming
-a Simple Patch\)") | [Next](4_MusicalAp "Next\(A
-Musical Application\)")
+Navigation : [Previous](2_progpatch "\(Programming a Simple Patch\)") | [Next](4_MusicalAp "\(A Musical Application\)")
 

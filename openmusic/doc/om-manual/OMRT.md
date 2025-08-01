@@ -121,7 +121,7 @@ It is also possible to have a grace note before a rest as it is the case in this
 
 For rhythm trees edition in OM's score editors please see  [Rhythmic Objects](Editor-Rhythm)
 
-References
+##References
 
 \[1\]    G. Assayag, C. Rueda, M. Laurson, C. Agon, and O. Delerue. "Computer assisted composition at Ircam: PatchWork & OpenMusic," _Computer Music Journal 23:3_, 1999.
 
@@ -138,7 +138,7 @@ References
 - - -
 
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

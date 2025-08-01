@@ -36,11 +36,11 @@ successively. Results are collected and returned as a list :
 
 ((3 * 5) (4 * 5)) = (15 20)
 
-|
+
 
 ![](../res/mapcar-curry.png)  
   
----|---  
+
   
 Multiple Lists Processing
 
@@ -50,7 +50,6 @@ successively.
 
 ![](../res/multi-mapcar.png)
 
-|
 
 Here, the* function box has **two free inputs**. It represents the function "
 f(x,y) = x * y ".
@@ -60,7 +59,7 @@ first elements of inputs #1 and #2, then to the second elements of inputs #1
 and 2, then to the third elements, and so on. A list is built a out of the
 successive results.  
   
----|---  
+
   
 Free Inputs and Lists Size
 
@@ -73,9 +72,9 @@ General Issues with Lambda Functions
 
   * [Higher-Order Programs and Functions](HighOrder)
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

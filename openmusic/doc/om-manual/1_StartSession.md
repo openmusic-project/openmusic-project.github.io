@@ -4,7 +4,9 @@ Patch\)")
 
 # Starting a Session
 
-Covered Topics
+
+
+###Covered Topics
 
   * Launching OM, creating and locating a workspace. The working environment : **workspace** and **OMListener** windows
 
@@ -16,7 +18,7 @@ Covered Topics
 </video>
 
 
-Keywords
+###Keywords
 
 Patch[1], Workspace[2], Listener[3]
 
@@ -27,28 +29,24 @@ See also
   * [Going Through an OM Session](Goingthrough)
   * [Windows of the OM Environment](MainWindows)
 
-References :
+##References :
 
-  1. Patch
+
+1.  Patch
 
 ![](../res/patch_icon.png)
 
-A programming unit where objects and functions - boxes - are interconnected to
-build a musical algorithm, that is, a sequence of instructions. A patch can
-also be embedded as a box within another patch.
+A programming unit where objects and functions - boxes - are interconnected to build a musical algorithm, that is, a sequence of instructions. A patch can also be embedded as a box within another patch.
 
-  2. Workspace
+  2.  Workspace
 
-OpenMusic's working environment. Each session starts with choosing a
-workspace, the equivalent of a desktop where programs are created and
-organized, and where items can be stored.
+OpenMusic's working environment. Each session starts with choosing a workspace, the equivalent of a desktop where programs are created and organized, and where items can be stored.
 
-  3. Lisp Listener
+  3.  Lisp Listener
 
-A Lisp communication interface displaying results of computations, warnings or
-error messages, and where Lisp expressions - programs - can be evaluated.
+A Lisp communication interface displaying results of computations, warnings or error messages, and where Lisp expressions - programs - can be evaluated.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -61,7 +59,7 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](Intro_1 "page précédente\(Summary\)") |
-[Next](2_progpatch "Next\(Programming a Simple
+Navigation : [Previous](Intro_1 "\(Summary\)") |
+[Next](2_progpatch "\(Programming a Simple
 Patch\)")
 

@@ -1,10 +1,8 @@
-Navigation : [Previous](00-Contents "page
-précédente\(Introduction\)") | [Next](02-SupportAndPubs "page
-suivante\(Additional Information\)")
+Navigation : [Previous](00-Contents "\(Introduction\)") | [Next](02-SupportAndPubs "\(Additional Information\)")
 
 # OpenMusic Presentation
 
-Contents
+###Contents
 
   1. Visual Programs
   2. List Processing
@@ -68,9 +66,9 @@ Some functions, called ** generic functions **, consist of a set of
 **methods** .  **Methods** define specialized behaviours depending on the type
 (or class) of the ** arguments ** a generic function receives.
 
-References :
 
-Contents :
+
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

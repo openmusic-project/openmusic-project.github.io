@@ -1,11 +1,9 @@
-Navigation : [Previous](4bApplication "page précédente\(Creating
-an Instance\)") | [Next](4dApplication "page
-suivante\(Materializing Results\)")
+Navigation : [Previous](4bApplication "\(Creating an Instance\)") | [Next](4dApplication "\(Materializing Results\)")
 
 
 # Formalizing the Transposition Process
 
-Covered Topics
+###Covered Topics
 
   * Explication of the process, objects and concepts
 
@@ -19,18 +17,18 @@ Covered Topics
 </video>
 
 
-Keywords
+###Keywords
 
 List[1], Atom[2]
 
 ## Main Link to the User Manual
 
-See also
+See also:
 
   * [Documentation and Info](DocAndInfo)
   * [Boxes](Boxes)
 
-References :
+##References :
 
   1. List
 
@@ -43,7 +41,7 @@ See also : Atom.
 
 An elementary item, number, symbol, string. An atom can be part of a list.
 
-Contents :
+##Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -60,7 +58,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](4bApplication "page précédente\(Creating
-an Instance\)") | [Next](4dApplication "page
-suivante\(Materializing Results\)")
+Navigation : [Previous](4bApplication "\(Creating an Instance\)") | [Next](4dApplication "\(Materializing Results\)")
 
