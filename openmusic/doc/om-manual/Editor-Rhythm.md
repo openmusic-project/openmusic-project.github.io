@@ -2,8 +2,17 @@ Navigation : [Previous](Editor-Other-Slots "page précédente\(Other
 Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic
 Objects\)")
 
-
 # Rhythmic Objects : Voice Editor
+
+In OpenMusic _Rhythm Trees_ are used mostly with the VOICE object. There are many ways to write _RTs_ . The straight forward way is to simply edit the VOICE's second slot \<tree\> using either the popup numbox or even better, a textfile. In this case, don't forget to remove the "outer" parenthesis
+
+![](../res/omrt/023.png)
+
+An even more practical and efficient way is to use the _RT_ editor. First choose either voice or measure selector in your VOICE editor, then select the whole voice or a particular measure then type 'r'
+
+![](../res/omrt/024.png){: width="60%"}
+
+## Selection Tools
 
 The voice editor palettes shows a number of additional tools, which define
 hierarchic edition level.
@@ -19,7 +28,7 @@ into account for choosing the appropriate tool in the palette.
 
 ## Entering Chords and Notes
 
-Adding and Deleting Measures
+###Adding and Deleting Measures
 
   * To add measures in a poly :
 
@@ -29,11 +38,11 @@ Adding and Deleting Measures
 
   * To delete one or several selected measures, press `Backspace`.
 
-Converting Silences into Notes
+###Converting Silences into Notes
 
 ![](../res/splitsilence.png)
 
-|
+
 
 Once created, a measure displays a whole pause. You can either :
 
@@ -44,7 +53,7 @@ Once created, a measure displays a whole pause. You can either :
 To convert a whole pause into a whole note and back, select the measure tool
 ![](../res/mesbutton_icon.png) , select the measure and press `esc` .  
   
----|---  
+
   
 To split a silence or a note  into a group of equal values :
 
@@ -54,13 +63,13 @@ To split a silence or a note  into a group of equal values :
 
   3. enter a number.
 
-|
+
 
 ![](../res/transfsilence1.png)  
   
----|---  
   
-Adding Notes to Chords
+  
+###Adding Notes to Chords
 
 Select the note or the chord tool and `Cmd` click on a chord.
 
@@ -72,17 +81,17 @@ Use the `<-` and `->` keys to reach the desired chord and press `ENTER` .
 
 ![](../res/addnotechordinpoly.png)  
   
----|---  
+
   
 ## Manipulating
 
-Chords
+###Chords
 
 To tie successive chords, press `=` .
 
 To untie them, press `/` .
 
-Groups
+###Groups
 
 To get a group :
 
@@ -92,27 +101,27 @@ To get a group :
 
 Individual chords cannot be grouped from the voice editor.
 
-|
+
 
 ![](../res/creategroup1.png)  
   
----|---  
+  
   
 ![](../res/breakgroup.png)
 
-|
+
 
 To break an existing group :
 
   1. select a group with the group tool
 
-  2. press `-`.
+  2. press `-`
 
   
   
----|---  
+
   
-Durations
+###Durations
 
 To merge successive chords into one longer chord :
 
@@ -122,13 +131,13 @@ To merge successive chords into one longer chord :
 
 The duration of the resulting chord is equal to the sum of the merged chords.
 
-|
+
 
 ![](../res/union.png)  
   
----|---  
+
   
-Move Staff
+###Move Staff
 
 ![](../res/movestaffvoice.png)
 
@@ -138,7 +147,7 @@ To move a staff up or down :
 
   2. use the `↓` `↑` keys.
 
-Staff, Voices and Measures
+##Staff, Voices and Measures
 
 To apply modifications to a whole voice or measure, select the voice tool
 ![](../res/voicet_icon.png) or the measure tool ![](../res/mesbutton_icon.png)
@@ -148,12 +157,12 @@ voice, for instance.
 
 ![Transposing an entire voice.](../res/voice%20tool.png)
 
-Transposing an entire voice.
+###Transposing an entire voice.
 
 Note that if a voice consists of several staves,  a selection with the voice
 tool applies to the whole group of staves.
 
-Groups
+###Groups
 
 ![The second mesure of the first voice shows three groups levels nested within
 each other.](../res/groupdelete.png)
@@ -185,17 +194,36 @@ Groups are written as  **sub lists.**
 Here, the first sequence has one eighth notes group, the second sequence has
 no group.
 
-|
+
 
 ![](../res/groups.png)  
   
----|---  
   
-Modifying Groups From the Rhythm Tree Input
+  
+###Modifying Groups From the Rhythm Tree Input
 
-Groups cannot be created from the editor. If you modify a rhythm tree after
-editing the other parameters of a voice, all parameters are reset to their
-default value when evaluating the object.
+Groups can be edited directly  from the editor tree editor: 
+
+1.  Choose the measure tool and select the group's measure
+
+2. Press 'r'
+
+![](../res/editgroup1.jpg){: width="60%"}
+
+3. Modify your rhythm (in this example we will transform the triplet into a quintuplet)
+
+![](../res/editgroup2.jpg){: width="60%"}
+
+4. Press the 'set' button in the tree editor
+
+Now the triplets were transformed into quintuplets:
+
+
+![](../res/editgroup3.jpg){: width="60%"}
+ 
+ 
+
+
 
 References :
 

@@ -119,15 +119,7 @@ It is also possible to have a grace note before a rest as it is the case in this
 
 ## B.     Rhythm Trees and OpenMusic editors
 
-In OpenMusic _Rhythm Trees_ are used mostly with the VOICE object. There are many ways to write _RTs_ . The straight forward way is to simply edit the VOICE's second slot \<tree\> using either the popup numbox or even better, a textfile. In this case, don't forget to remove the "outer" parenthesis
-
-![](../res/omrt/023.png)
-
-An even more practical and efficient way is to use the _RT_ editor. First choose either voice or measure selector in your VOICE editor, then select the whole voice or a particular measure then type 'r'
-
-![](../res/omrt/024.png)
-
-
+For rhythm trees edition in OM's score editors please see  [Rhythmic Objects](Editor-Rhythm)
 
 References
 
