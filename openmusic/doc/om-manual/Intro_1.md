@@ -1,6 +1,4 @@
-Navigation : [Previous](QuickStart-Chapters "page
-précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
-"Next\(Starting a Session\)")
+Navigation : [Previous](QuickStart-Chapters "\(OpenMusic QuickStart\)") | [Next](1_StartSession "\(Starting a Session\)")
 
 # Summary
 
@@ -9,9 +7,9 @@ précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
   <source src="../videos/0Intro.mp4" type="video/mp4">
 </video>
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -24,7 +22,5 @@ Contents :
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](QuickStart-Chapters "page
-précédente\(OpenMusic QuickStart\)") | [Next](1_StartSession
-"Next\(Starting a Session\)")
+Navigation : [Previous](QuickStart-Chapters "\(OpenMusic QuickStart\)") | [Next](1_StartSession "\(Starting a Session\)")
 

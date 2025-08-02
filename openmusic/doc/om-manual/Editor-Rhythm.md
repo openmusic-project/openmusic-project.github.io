@@ -1,6 +1,4 @@
-Navigation : [Previous](Editor-Other-Slots "page précédente\(Other
-Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic
-Objects\)")
+Navigation : [Previous](Editor-Other-Slots "page précédente\(Other Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic Objects\)")
 
 # Rhythmic Objects : Voice Editor
 
@@ -262,7 +260,6 @@ Now the triplets were transformed into quintuplets:
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Other-Slots "page précédente\(Other
-Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic
-Objects\)")
+Navigation : [Previous](Editor-Other-Slots "page précédente\(Other Slots\)") | [Next](Poly-Multi-Editor "Next\(Polyphonic Objects\)")
+
 

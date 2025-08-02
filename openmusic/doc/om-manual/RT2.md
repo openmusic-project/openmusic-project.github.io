@@ -141,6 +141,5 @@ A set of functions dedicated to rhythm tree is available in the `Functions / Sco
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OMRT  "(Rhythm Trees in details)") |
- [Next](ScorePlayer "(Score Players)")
+Navigation : [Previous](OMRT  "(Rhythm Trees in details)") |[Next](ScorePlayer "(Score Players)")
 

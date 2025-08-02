@@ -1,6 +1,4 @@
-
-Navigation : [Previous](RT1 "(Rhythm Trees)") |
-[Next](RT2 "(Notation : in Practice)")
+Navigation : [Previous](RT1 "(Rhythm Trees)") | [Next](RT2 "(Notation : in Practice)")
 
 
 #   Rhythm Trees in details
@@ -169,5 +167,4 @@ For rhythm trees edition in OM's score editors please see  [Rhythmic Objects](Ed
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RT1 "(Rhythm Trees") |
-[Next](RT2  "Notation : in Practice")
+Navigation : [Previous](RT1 "(Rhythm Trees)") | [Next](RT2 "(Notation : in Practice)")

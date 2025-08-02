@@ -1,6 +1,4 @@
-
-Navigation : [Previous](5dComplete "\(Comments\)")
-| [Next](OM-Documentation_1 "\(Contents\)")
+Navigation : [Previous](5dComplete "\(Comments\)") | [Next](OM-Documentation_1 "\(Contents\)")
 
 # Saving and Quitting OM
 
@@ -35,6 +33,5 @@ See also:
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * Saving and Quitting OM
 
-Navigation : [Previous](5dComplete "\(Comments\)")
-| [Next](OM-Documentation_1 "\(Contents\)")
+Navigation : [Previous](5dComplete "\(Comments\)") | [Next](OM-Documentation_1 "\(Contents\)")
 

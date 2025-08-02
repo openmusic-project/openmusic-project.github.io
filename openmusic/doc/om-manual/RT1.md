@@ -1,12 +1,8 @@
-
-Navigation : [Previous](RT "(Rhythm Trees)") |
-[Next](OMRT "(Rhythm Trees in details)")
+Navigation : [Previous](RT "(Rhythm Trees)") | [Next](OMRT "(Rhythm Trees in details)")
 
 # Rhythm Trees Structure
 
-Traditionally, rhythm is broken up into several data : meter, measure(s) and
-duration(s). Rhythm trees must enclose these information in lists and sub
-list.
+Traditionally, rhythm is broken up into several data : meter, measure(s) and duration(s). Rhythm trees must enclose these information in lists and sublists.
 
 This elementary rhythm :
 
@@ -37,17 +33,15 @@ It must be specified at each new measure, even if it remains unchanged.
 
     2. Rhythm =  proportions : ( n n n n )
 
-|
 
-![Here, the \(1 1 1 1\) sub list represents four equal subdivisions of a 4/4
-measure. OM calculated that the tree has two measures.](../res/calculate.png)
 
-Here, the (1 1 1 1) sub list represents four equal subdivisions of a 4/4
-measure. OM calculated that the tree has two measures.  
+![Here, the \(1 1 1 1\) sub list represents four equal subdivisions of a 4/4 measure. OM calculated that the tree has two measures.](../res/calculate.png)
+
+Here, the (1 1 1 1) sub list represents four equal subdivisions of a 4/4 measure. OM calculated that the tree has two measures.  
   
----|---  
+
   
-Parenthesis Levels
+## Parenthesis Levels
 
 A rhythm tree has at least three levels of parenthesis :
 
@@ -57,34 +51,30 @@ A rhythm tree has at least three levels of parenthesis :
 
   3. time signature and proportions.
 
-Note that different rhythm trees with equal proportional structures produce
-the same rhythmic result :
+Note that different rhythm trees with equal proportional structures produce the same rhythmic result :
 
 ( 1 1 1 1) = (2 2 2 2) = (124 124 124 124)
 
-|
+
 
 [![](../res/treestructure_1.png)](../res/treestructure.png "Cliquez pour
 agrandir")  
   
----|---  
+
   
 ## Durations
 
-Manipulating Durations
+### Manipulating Durations
 
-By default, the duration of a measure is equal to 1. 1 represents the global
-measurement unit traditionally expressed by the time signature, such as : 4/4,
-2/2  = ![](../res/ronde_icon.png),  3/8 = ![](../res/point_icon.png) etc.
+By default, the duration of a measure is equal to 1. 1 represents the global measurement unit traditionally expressed by the time signature, such as : 4/4, 2/2  = ![](../res/ronde_icon.png),  3/8 = ![](../res/point_icon.png) etc.
 
 ![](../res/changeD2.png)
 
-Changing this value multiplies or divides all the durations by a given
-coefficient.
+Changing this value multiplies or divides all the durations by a given coefficient.
 
 ## Subdivisions : Measures and Groups
 
-Measures
+### Measures
 
 Trees define the way ** measures ** are split into proportional durations.
 
@@ -94,10 +84,9 @@ The following rhythm :
 
 is written : **(  ? ( (4//4 (1 2 1) ) ) **)**** .
 
-Groups
+### Groups
 
-Trees also define internal subdivisions, or  ** groups[1] ** , within a
-measure **.**
+Trees also define internal subdivisions, or  ** groups[1] ** , within a measure **.**
 
 The following rhythm :
 
@@ -105,7 +94,7 @@ The following rhythm :
 
 is written : **(  ? ( (4//4 (1 ( 2 (1 1 1) ) 1) ) ) ****** )**** .
 
-Writing Groups
+### Writing Groups
 
 Note that groups must be written with a new subordinate level of parenthesis.
 
@@ -113,9 +102,9 @@ Note that groups must be written with a new subordinate level of parenthesis.
 
 ![](../res/decomp.png)  
   
----|---  
+
   
-References :
+## References :
 
   1. Group
 
@@ -134,7 +123,7 @@ a quintuplet.
 
 ![](../res/group1_icon.png)
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -165,6 +154,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RT "(Rhythm Trees)") |
-[Next](OMRT "(Rhythm Trees in details)")
-
+Navigation : [Previous](RT "(Rhythm Trees)") | [Next](OMRT "(Rhythm Trees in details)")

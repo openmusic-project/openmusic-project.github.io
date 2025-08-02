@@ -17,9 +17,9 @@ From this basis, little by little, the user can develop his or her own
 expertise and techniques, with the help of other documentation volumes and
 tutorials, which complete this handover of the application.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
