@@ -1,6 +1,4 @@
-Navigation : [Previous](InstallationMac "page précédente\(Mac OS
-X\)") | [Next](Goingthrough "Next\(Going Through an OM
-Session\)")
+Navigation : [Previous](InstallationMac "\(Mac OS X\)") | [Next](Goingthrough "\(Going Through an OM Session\)")
 
 # Windows
 
@@ -13,7 +11,7 @@ Contents
 
 ## System Configuration
 
-OM currently runs on Windows XP/Vista/7.
+OM currently runs on Windows 7/10/11 64bit.
 
 ## Installation
 
@@ -21,24 +19,23 @@ Procedure
 
 Double click on the executable file icon  to launch the installer.
 
-|
+
 
 ![](../res/icon-install.jpg)  
   
----|---  
+
   
 Installation Folder
 
-The OM default installation folder is `C:/Program Files/OM x.x.x/`. Another
-location can be chosen for the installation.
+The OM will install in  `C:/Program Files/OM x.x.x/`. Since it uses dynamic 64bit libraries, it is not advised to displace the installation.
 
-|
+
 
 ![](../res/install3_scr.png)
 
 [zoom](../res/install3_scr_1.png "Zoom \(nouvelle fenêtre\)")  
   
----|---  
+
   
 ## Installed Items
 
@@ -48,7 +45,7 @@ Application, Libraries and Fonts
 
 [zoom](../res/install2_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
-|
+
 
 The following elements will be installed in the OM `C:/Program Files/OM
 x.x.x/` folder :
@@ -64,8 +61,6 @@ x.x.x/` folder :
 
   
   
----|---  
-  
 Musical fonts will be installed in ` C:/Windows/Fonts`.
 
   * omicron.ttf
@@ -78,7 +73,6 @@ Shortcuts
 [![](../res/menu-demarrer_1.jpg)](../res/menu-demarrer.jpg "Cliquez pour
 agrandir")
 
-|
 
 Two shortcuts are created when installing OM :
 
@@ -89,7 +83,7 @@ Two shortcuts are created when installing OM :
 The `Start` menu also includes a shortcut for the Msdrivers.exe application,
 which can be used for the MIDI ports configuration prior lauching OM.  
   
----|---  
+
   
 External Applications
 
@@ -100,20 +94,19 @@ Windows.
 
 Use the executable file that was created in the `C:/Program Files`.
 
-|
 
 ![](../res/icon-uninstall.jpg)  
   
----|---  
+
   
-References :
+## References :
 
   1. Library
 
 A library is a set of tools, or framework, used by an application - like OM -
 to execute specific tasks.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -137,7 +130,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](InstallationMac "page précédente\(Mac OS
-X\)") | [Next](Goingthrough "Next\(Going Through an OM
-Session\)")
+Navigation : [Previous](InstallationMac "\(Mac OS X\)") | [Next](Goingthrough "\(Going Through an OM Session\)")
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](Installation "page précédente\(System
-Configuration and Installation\)") | [Next](InstallationWindows
-"Next\(Windows\)")
+Navigation : [Previous](Installation "\(System Configuration and Installation\)") | [Next](InstallationWindows "\(Windows\)")
 
 # Mac OS X
 
@@ -13,9 +11,7 @@ Contents
 
 ## System Configuration
 
-OM 6 is distributed for Macintosh Intel or PPC computers on Mac OS X systems.
-It currently runs on Macintosh Intel or PPC computers (Mac OS X 10.4 and
-higher).
+OM 6 is distributed for Macintosh Intel or PPC computers on Mac OS X systems. It currently runs on Macintosh Intel or PPC computers (Mac OS X 10.4 and higher).
 
 ## Installation
 
@@ -23,7 +19,6 @@ Procedure
 
 ![](../res/opendmg.png)
 
-|
 
   1. Double click on the .dmg file to mount the OM installer 
 
@@ -31,7 +26,7 @@ Procedure
 
   
   
----|---  
+
   
 Follow the directions of the installer :
 
@@ -39,13 +34,13 @@ Follow the directions of the installer :
 
   2. Select the `Standard Installation`, or the `Personnalized Installation` to select specific elements to install with OM. 
 
-|
+
 
 ![](../res/installmac-content_scr.png)
 
 [zoom](../res/installmac-content_scr_1.png "Zoom \(nouvelle fenêtre\)")  
   
----|---  
+
   
 Installed Items
 
@@ -53,7 +48,7 @@ Installed Items
 
 [zoom](../res/installmac-message_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
-|
+
 
 The following items should be installed on your computer :
 
@@ -61,9 +56,7 @@ The following items should be installed on your computer :
 
   * Midishare utilities and libraries : `Applications / Midishare `
 
-Midishare is MIDI support used for rendering and processing external musical
-data and resources. These must be installed prior running OM to include their
-corresponding functionalities.
+Midishare is MIDI support used for rendering and processing external musical data and resources. These must be installed prior running OM to include their corresponding functionalities.
 
   * Musical fonts : `Library / Fonts`
 
@@ -79,17 +72,14 @@ These fonts are used by OM score editors.
     * SDIF.framework
     * LibAudioStream.framework
 
-These libraries are used by OM for sound rendering and processing.
-LibAudioStream is used for playing and representing sounds.
+These libraries are used by OM for sound rendering and processing. LibAudioStream is used for playing and representing sounds.
 
   
   
----|---  
   
 ## External applications
 
-External applications may be necessary to play sounds or manipulate sound
-analysis files when using OM. These tools are :
+External applications may be necessary to play sounds or manipulate sound analysis files when using OM. These tools are :
 
   * Microplayer : a microtonal player in Max/MSP for the rendering of musical objects using extra sound fonts.
   * [Multiplayer](http://www.music.mcgill.ca/~marlon/OMPrisma/OMPrisma/Multiplayer "http://www.music.mcgill.ca/~marlon/OMPrisma/OMPrisma/Multiplayer \(nouvelle fenêtre\)") : an application for interactive playback of the multichannel files
@@ -110,14 +100,14 @@ The elements above must be removed by the user :
   * select the items and press `Cmd` \+ `Backspace`
   * drop them in the trash manually.
 
-References :
+## References :
 
   1. Library
 
 A library is a set of tools, or framework, used by an application - like OM -
 to execute specific tasks.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -141,7 +131,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Installation "page précédente\(System
-Configuration and Installation\)") | [Next](InstallationWindows
-"Next\(Windows\)")
+Navigation : [Previous](Installation "\(System Configuration and Installation\)") | [Next](InstallationWindows "\(Windows\)")
 

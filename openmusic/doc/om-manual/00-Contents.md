@@ -1,5 +1,4 @@
-Navigation : [Previous](OM-User-Manual "\(OM
-User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
+Navigation : [Previous](OM-User-Manual "\(OM User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 
 # Introduction
 
@@ -36,6 +35,5 @@ User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OM-User-Manual "\(OM
-User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
+Navigation : [Previous](OM-User-Manual "\(OM User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 

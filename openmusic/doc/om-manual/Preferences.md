@@ -1,6 +1,4 @@
-
-Navigation : [Previous](MainWindows "page précédente\(Environment
-Windows\)") | [Next](Workspace "Next\(Workspace\)")
+Navigation : [Previous](MainWindows "\(Environment Windows\)") | [Next](Workspace "\(Workspace\)")
 
 
 # Preferences
@@ -44,7 +42,7 @@ tempo (60 bpm) , measure (4/4) ...
 
 More information about each tab is provided within the corresponding sections.
 
-Commands
+**Commands:**
 
   * `Restore` : resets the default preferences.
   * `Apply` : applies the preference defined in the pane.
@@ -53,23 +51,19 @@ Commands
 
 ## Saving Preferences
 
-The preferences are attached to the workspace and are saved with it during or
-at the end of the session.
+The preferences are attached to the workspace and are saved with it during or at the end of the session.
 
-Quit / Save
+### Quit / Save
 
   * [Quitting OM and Saving](QuittingSaving)
 
-Reinitializing Preferences
+### Reinitializing Preferences
 
-The preferences are stored in the file  preferences.lisp located in the [
-`Workspace` ](Workspace\(s\)) folder. In case of problems when loading a
-former workspace with a new OM version, this file can be removed. The OM
-preferences will then be reinitialized.
+The preferences are stored in the file  preferences.lisp located in the [ `Workspace` ](Workspace\(s\)) folder. In case of problems when loading a former workspace with a new OM version, this file can be removed. The OM preferences will then be reinitialized.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -97,6 +91,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](MainWindows "page précédente\(Environment
-Windows\)") | [Next](Workspace "Next\(Workspace\)")
+Navigation : [Previous](MainWindows "\(Environment Windows\)") | [Next](Workspace "\(Workspace\)")
 

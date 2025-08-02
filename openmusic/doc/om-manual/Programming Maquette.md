@@ -1,16 +1,12 @@
-Navigation : [Previous](Markers "page précédente\(Markers /
-Anchors\)") | [Next](InputsOutputs "Next\(Functional
-Components\)")
+Navigation : [Previous](Markers "\(Markers / Anchors\)") | [Next](InputsOutputs "\(Functional Components\)")
 
 # Maquette Programming
 
-TemporalBoxes are programs that produce a musical value. But they can also be
-used as  **functional components** withing the program of the maquette,
-connected to each other through inlets and outlets.
+TemporalBoxes are programs that produce a musical value. But they can also be used as  **functional components** withing the program of the maquette, connected to each other through inlets and outlets.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -41,7 +37,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Markers "page précédente\(Markers /
-Anchors\)") | [Next](InputsOutputs "Next\(Functional
-Components\)")
+Navigation : [Previous](Markers "\(Markers / Anchors\)") | [Next](InputsOutputs "\(Functional Components\)")
 

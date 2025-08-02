@@ -1,6 +1,4 @@
-Navigation : [Previous](OM-Documentation "page
-précédente\(OpenMusic Documentation\)") | [Next](00-Contents
-"Next\(Introduction\)")
+Navigation : [Previous](OM-Documentation "\(OpenMusic Documentation\)") | [Next](00-Contents "\(Introduction\)")
 
 [ ](00-Contents) [](00-Contents) 
 
@@ -86,9 +84,9 @@ based on a "dataflow-oriented" approach.
 
 Understanding and handling error messages.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * OM User Manual
@@ -110,7 +108,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OM-Documentation "page
-précédente\(OpenMusic Documentation\)") | [Next](00-Contents
-"Next\(Introduction\)")
+Navigation : [Previous](OM-Documentation "\(OpenMusic Documentation\)") | [Next](00-Contents "\(Introduction\)")
 

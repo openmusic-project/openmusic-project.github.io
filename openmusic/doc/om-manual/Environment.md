@@ -1,16 +1,12 @@
-Navigation : [Previous](QuittingSaving "page précédente\(Quitting
-OM and Saving\)") | [Next](MainWindows "page
-suivante\(Environment Windows\)")
+Navigation : [Previous](QuittingSaving "\(Quitting OM and Saving\)") | [Next](MainWindows "\(Environment Windows\)")
 
 # The OM Environment
 
-This volume documents the OpenMusic environment general features. All required
-directions and information about documents and programs management in OM,
-setting of general preferences, etc., can be found here.
+This volume documents the OpenMusic environment general features. All required directions and information about documents and programs management in OM, setting of general preferences, etc., can be found here.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -38,7 +34,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](QuittingSaving "page précédente\(Quitting
-OM and Saving\)") | [Next](MainWindows "page
-suivante\(Environment Windows\)")
+Navigation : [Previous](QuittingSaving "\(Quitting OM and Saving\)") | [Next](MainWindows "\(Environment Windows\)")
 

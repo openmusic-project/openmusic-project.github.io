@@ -1,6 +1,4 @@
-Navigation : [Previous](Goingthrough "page précédente\(Going
-Through an OM Session\)") | [Next](Workspace(s) "page
-suivante\(Workspace(s) Management\)")
+Navigation : [Previous](Goingthrough "\(Going Through an OM Session\)") | [Next](Workspace(s) "\(Workspace(s) Management\)")
 
 # Launching OM
 
@@ -31,37 +29,27 @@ To start the application, double click on the OM icon.
   
 ## Creation of a Workspace
 
-An OM session begins with the opening of a workspace[1], a working environment
-which is used at a session.
+An OM session begins with the opening of a workspace[1], a working environment which is used at a session.
 
 OM Start Up Dialogue Window
 
-![The OM dialogue window allows to choose or create a workspace. A name and
-location are chosen by the user when creating a new
-workspace.](../res/InstalWindow_scr.png)
+![The OM dialogue window allows to choose or create a workspace. A name and location are chosen by the user when creating a new workspace.](../res/InstalWindow_scr.png)
 
-The OM dialogue window allows to choose or create a workspace. A name and
-location are chosen by the user when creating a new
-workspace.[Zoom](../res/InstalWindow_scr_1.png "Zoom \(nouvelle fenêtre\)")
+The OM dialogue window allows to choose or create a workspace. A name and location are chosen by the user when creating a new workspace.[Zoom](../res/InstalWindow_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
-The start up dialogue window opens after starting OM. It offers three options
-:
+The start up dialogue window opens after starting OM. It offers three options :
 
   * **`Open a workspace` **
 
-This workspace must already be located in you hard drive. Any existing
-workspace can be open with this option. Pick the workspace root directory in
-the dialogue window.
+This workspace must already be located in you hard drive. Any existing workspace can be open with this option. Pick the workspace root directory in the dialogue window.
 
   * **`Create a new workspace` **
 
-Choose a name and location in order to create a workspace, which will then
-open automatically.
+Choose a name and location in order to create a workspace, which will then open automatically.
 
   * **`Open previous workspace` **
 
-Refers to the workspace that was open at the last session. This option is not
-available for a first use.
+Refers to the workspace that was open at the last session. This option is not available for a first use.
 
 Workspace(s) in the OM Environment, Workspaces Management :
 
@@ -70,10 +58,7 @@ Workspace(s) in the OM Environment, Workspaces Management :
 
 Former Ircam Workspaces
 
-If you already have some experience with OM, note that the Ircam workspaces
-whose installation was previously offered are not available anymore. The
-tutorial patches contained in these workspaces can now be imported
-independently to any current workspace via the `Help` menu.
+If you already have some experience with OM, note that the Ircam workspaces whose installation was previously offered are not available anymore. The tutorial patches contained in these workspaces can now be imported independently to any current workspace via the `Help` menu.
 
 ![](../res/importtuto.png)
 
@@ -83,19 +68,15 @@ Loading Tutorial Patches - Former Ircam Workspaces
 
 Workspaces Location
 
-Workspaces must be created in the user's home directory or one of its sub
-folders. Creating a workspace without writing permission can cause important
-crashes and data loss.
+Workspaces must be created in the user's home directory or one of its sub folders. Creating a workspace without writing permission can cause important crashes and data loss.
 
-References :
+## References :
 
   1. Workspace
 
-OpenMusic's working environment. Each session starts with choosing a
-workspace, the equivalent of a desktop where programs are created and
-organized, and where items can be stored.
+OpenMusic's working environment. Each session starts with choosing a workspace, the equivalent of a desktop where programs are created and organized, and where items can be stored.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -120,7 +101,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Goingthrough "page précédente\(Going
-Through an OM Session\)") | [Next](Workspace(s) "page
-suivante\(Workspace(s) Management\)")
+Navigation : [Previous](Goingthrough "\(Going Through an OM Session\)") | [Next](Workspace(s) "\(Workspace(s) Management\)")
 

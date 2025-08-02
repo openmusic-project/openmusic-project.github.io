@@ -1,15 +1,12 @@
-Navigation : [Previous](InstallationWindows "page
-précédente\(Windows\)") | [Next](Launching%20OM "page
-suivante\(Launching OM\)")
+Navigation : [Previous](InstallationWindows "\(Windows\)") | [Next](Launching%20OM "\(Launching OM\)")
 
 # Going Through an OM Session
 
-This section provides technical information regarding the main procedures of a
-session, from starting to quitting OM.
+This section provides technical information regarding the main procedures of a session, from starting to quitting OM.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -34,7 +31,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](InstallationWindows "page
-précédente\(Windows\)") | [Next](Launching%20OM "page
-suivante\(Launching OM\)")
+Navigation : [Previous](InstallationWindows "\(Windows\)") | [Next](Launching%20OM "\(Launching OM\)")
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](player "page précédente\(The Palette\)") |
-[Next](Programming%20Maquette "Next\(Maquette
-Programming\)")
+Navigation : [Previous](player "\(The Palette\)") | [Next](Programming%20Maquette "\(Maquette Programming\)")
 
 
 # Markers and Temporal Anchors
@@ -10,12 +8,12 @@ Temporalboxes. These markers are placed on the temporal axis of the editor.
 
 ## Setting Markers
 
-Creating Markers
+### Creating Markers
 
 To create a marker, `Cmd` click on the ruler. A small red triangle
 ![](../res/marker_icon.png) appears.
 
-Moving Markers
+### Moving Markers
 
 To move a marker :
 
@@ -25,7 +23,7 @@ To move a marker :
 
 Add `SHIFT` to move faster.
 
-Deleting Markers
+### Deleting Markers
 
 To delete a marker :
 
@@ -35,7 +33,7 @@ To delete a marker :
 
 ## Locating and Editing Markers: the Info Window
 
-Offset, Name, Documentation
+### Offset, Name, Documentation
 
 The location, name and documentation of a marker can be specified.
 
@@ -47,17 +45,17 @@ The location, name and documentation of a marker can be specified.
 
   3. Click somewhere outside the frames to validate the information. 
 
-|
+
 
 ![](../res/marker.png)  
   
----|---  
+
   
 ## Using Markers as Temporal Anchors
 
 ![](../res/anchor.png)
 
-|
+
 
 To lock the temporal position of a box :
 
@@ -67,11 +65,9 @@ To lock the temporal position of a box :
 
 To delete an anchor, select the connection and press `Backspace`.  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -102,7 +98,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](player "page précédente\(The Palette\)") |
-[Next](Programming%20Maquette "Next\(Maquette
-Programming\)")
+Navigation : [Previous](player "\(The Palette\)") | [Next](Programming%20Maquette "\(Maquette Programming\)")
 

@@ -1,24 +1,19 @@
-Navigation : [Previous](Preferences "page
-précédente\(Preferences\)") | [Next](WS-Window "page
-suivante\(The Workspace Window\)")
+Navigation : [Previous](Preferences "\(Preferences\)") | [Next](WS-Window "\(The Workspace Window\)")
 
 # Workspace
 
-Reminder
+**Reminder:**
 
-The workspace is both a "real" folder on the user's hard drive and an icon-
-oriented browser in OM, a window that can be compared to a desktop. This
-window opens automatically when launching OM, but it doesn't have to remain
-open during programming.
+The workspace is both a "real" folder on the user's hard drive and an icon- oriented browser in OM, a window that can be compared to a desktop. This window opens automatically when launching OM, but it doesn't have to remain open during programming.
 
 To open or show the workspace window :
 
   * select `Window / Workspace`
   * press `Cmd` \+ `SHIFT` \+ `w` .
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -49,7 +44,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Preferences "page
-précédente\(Preferences\)") | [Next](WS-Window "page
-suivante\(The Workspace Window\)")
+Navigation : [Previous](Preferences "\(Preferences\)") | [Next](WS-Window "\(The Workspace Window\)")
 

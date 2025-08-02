@@ -1,6 +1,4 @@
-Navigation : [Previous](Environment "page précédente\(The OM
-Environment\)") | [Next](Preferences "page
-suivante\(Preferences\)")
+Navigation : [Previous](Environment "\(The OM Environment\)") | [Next](Preferences "(Preferences\)")
 
 # Windows of the OM Environment
 
@@ -42,14 +40,11 @@ To open or show the workspace window :
   
   
   
-Full information about the Workspace :
+### Full information about the Workspace :
 
   * [Workspace](Workspace)
 
-Reminder
-
-The window of a new workspace always comes empty first. Material must be added
-there by the user.
+**Reminder:** The window of a new workspace always comes empty first. Material must be added there by the user.
 
 ## Lisp Listener
 
@@ -60,9 +55,7 @@ The OM+ box performs an addition, whose result is given in the Listener.
 
 
 
-The **Listener** is a Lisp communication interface : results of computations,
-warnings or error messages are displayed there. It also allows to send
-commands to OM, in other words, to evaluate Lisp expressions.
+The **Listener** is a Lisp communication interface : results of computations, warnings or error messages are displayed there. It also allows to send commands to OM, in other words, to evaluate Lisp expressions.
 
 User inputs are typed and interpreted in the upper part of the Listener
 window. Output messages are printed in the lower part of the window.
@@ -75,7 +68,7 @@ To open or show a listener window :
   
   
   
-More Information about the Lisp Listener :
+### More Information about the Lisp Listener :
 
   * [The Listener](LispListener)
 
@@ -102,16 +95,13 @@ Full information about the Library :
 
 ## Other Windows
 
-Programming items are represented in various window types. The `Windows` menu
-shows the name of  ** any ** open window. Selecting a name brings the
-corresponding window to the foreground.
+Programming items are represented in various window types. The `Windows` menu shows the name of  ** any ** open window. Selecting a name brings the corresponding window to the foreground.
 
 ![](../res/windowsmenu1.png)
 
 Preview : the Lisp Editor
 
-The Lisp Editor is a Lisp programming interface which allows to edit and
-evaluate programs.
+The Lisp Editor is a Lisp programming interface which allows to edit and evaluate programs.
 
 To open the Lisp Editor, go to `Windows / Lisp Editor`.
 
@@ -156,7 +146,5 @@ Contains functions or classes components belonging to a common category of progr
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Environment "page précédente\(The OM
-Environment\)") | [Next](Preferences "page
-suivante\(Preferences\)")
+Navigation : [Previous](Environment "\(The OM Environment\)") | [Next](Preferences "(Preferences\)")
 

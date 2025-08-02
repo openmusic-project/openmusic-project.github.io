@@ -1,18 +1,16 @@
-
-Navigation : [Previous](03-FAQ "page précédente\(Elementary
-F.A.Q.\)") | [Next](InstallationMac "Next\(Mac OS X\)")
+Navigation : [Previous](03-FAQ "\(Elementary F.A.Q.\)") | [Next](InstallationMac "\(Mac OS X\)")
 
 # System Configuration and Installation
 
 
-Sous-sections :
+## Subsections :
 
   * [Mac OS X](InstallationMac)
   * [Windows](InstallationWindows)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -36,6 +34,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](03-FAQ "page précédente\(Elementary
-F.A.Q.\)") | [Next](InstallationMac "Next\(Mac OS X\)")
+Navigation : [Previous](03-FAQ "\(Elementary F.A.Q.\)") | [Next](InstallationMac "\(Mac OS X\)")
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](GraphicFeatures "page précédente\(Boxes
-Features\)") | [Next](FunctionBoxes "Next\(Function
-Boxes\)")
+Navigation : [Previous](GraphicFeatures "\(Boxes Features\)") | [Next](FunctionBoxes "\(Function Boxes\)")
 
 
 # Data Boxes
@@ -16,94 +14,36 @@ Contents
 constant value. This value belongs to one of the primitive Lisp types, which
 are available in the OM Kernel / Lisp package.
 
-## Use
+## Usage
 
+
+A data box is designed to pass data to other boxes in a patch. It is made of a text field that expresses a value or a text, and an output that allows to connect this content to other boxes.  
+  
 ![](../res/basictypebox.png)
-
-|
-
-A data box is designed to pass data to other boxes in a patch. It is made of a
-text field that expresses a value or a text, and an output that allows to
-connect this content to other boxes.  
   
----|---  
-  
-Primitive Lisp Types
+## Primitive Lisp Types
 
 There are several primitive Lisp types :
 
-  * number :
+  * number : any type of numeric data
+  * integer : an integer number
+  * float : decimal number
+  * rational : a/b
+  * list : a list of any type of item between parenthesis 
+  * string : a text between double quotes - inverted commas - 
+  * t : the Lisp expression for "true"  
+  * nil : the Lisp expression of "false" or "nothing"  
 
-|
-
-any type of numeric data
-
-|
-
-  * list :
-
-|
-
-a list of any type of item between parenthesis  
-  
----|---|---|---  
-  
-  * integer :
-
-|
-
-an integer number
-
-|
-
-  * string :
-
-|
-
-a text between double quotes - inverted commas -  
-  
-  * float :
-
-|
-
-decimal number
-
-|
-
-  * t :
-
-|
-
-the Lisp expression for "true"  
-  
-  * rational :
-
-|
-
-a/b
-
-|
-
-  * nil :
-
-|
-
-the Lisp expression of "false" or "nothing"  
-  
 ## Adding a Data Box
 
-Typing Directly In the Patch Editor
-
-![](../res/editdata_icon.png)
-
-|
+### Typing Directly In the Patch Editor
 
 `Cmd` click in the patch editor and type a content - for instance 4, (2 3 4),
 "hello", etc. - directly in the text prompt.  
   
----|---  
+![](../res/editdata_icon.png)
   
-Menus Or Library Window
+### Menus Or Library Window
 
 ![](../res/basictypemenu.png)
 
@@ -111,19 +51,14 @@ Menus Or Library Window
   * `Ctrl` / right click in the patch editor and choose a menu item in the contextual menu.
   * Pick the box in the relevant package from the [Library](Library) window and drop it in the editor. 
 
-Note
-
-A data box accepts any primitive type, no matter what its type was initially.
+**Note:** A data box accepts any primitive type, no matter what its type was initially.
 
 ## Editing the Content of a Box
 
-![](../res/promptbasictype_icon.png)
-
-|
 
 Double click on a box to edit its content.  
-  
----|---  
+![](../res/promptbasictype_icon.png)
+
   
   * Numbers should be entered as simple numbers.
   * Strings should be entered between double quotes - inverted commas.
@@ -133,39 +68,27 @@ Double click on a box to edit its content.
 ** **To confirm the input value, press `Enter` or click in the patch editor.
 ** **No line return is allowed in data boxes.** **
 
-Resizing
+## Resizing
 
 To fit the box size to its content, select it and type `i`.
 
 ## Connection to Another Box
 
-Click on the outlet to create a connection and drag it to the wanted inlet of
-another box.
-
-|
+Click on the outlet to create a connection and drag it to the wanted inlet of another box.
 
 ![Connecting a simple value box to the pitch inlet of a "note"
 box.](../res/connecting.png)
-
-Connecting a simple value box to the pitch inlet of a "note" box.  
+*Connecting a simple value box to the pitch inlet of a "note" box.*  
   
----|---  
   
-Automatic Connection
+## Automatic Connection
 
+
+To add a connected data box to a factory or function box, `SHIFT` click on an input. This data box will have the default value of the input, which will then be displayed permanently.  
+  
 ![](../res/autobasic.png)
 
-|
-
-To add a connected data box to a factory or function box, `SHIFT` click on an
-input. This data box will have the default value of the input, which will then
-be displayed permanently.  
-  
----|---  
-  
-References :
-
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -205,7 +128,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](GraphicFeatures "page précédente\(Boxes
-Features\)") | [Next](FunctionBoxes "Next\(Function
-Boxes\)")
+Navigation : [Previous](GraphicFeatures "\(Boxes Features\)") | [Next](FunctionBoxes "\(Function Boxes\)")
+
 

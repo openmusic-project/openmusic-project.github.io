@@ -1,6 +1,4 @@
-Navigation : [Previous](Programming%20Maquette "page
-précédente\(Maquette Programming\)") | [Next](MaquetteEvaluation
-"Next\(Evaluation\)")
+Navigation : [Previous](Programming%20Maquette "\(Maquette Programming\)") | [Next](MaquetteEvaluation "\(Evaluation\)")
 
 
 # Using TemporalBoxes as Functional Components : Inputs and Outputs
@@ -36,27 +34,23 @@ editor.
 
 ## Maquette Inputs and Outputs
 
-Adding Inputs and Outputs
+### Adding Inputs and Outputs
 
 ![](../res/input1_icon.png)
 
-|
 
 ![](../res/output1_icon.png)
 
-|
 
-Maquettes are also  **programs** : they can be added a number of inputs and
-outputs.  
+
+Maquettes are also  **programs** : they can be added a number of inputs and outputs.  
   
----|---|---  
-  
+
 ![](../res/addinout.png)
 
-|
 
-In particular, this makes it possible to organize data transfers between
-temporal boxes into a hierarchy of maquettes.
+
+In particular, this makes it possible to organize data transfers between temporal boxes into a hierarchy of maquettes.
 
 To add an input or output in a maquette :
 
@@ -64,53 +58,40 @@ To add an input or output in a maquette :
 
   2. select `Input` or `Output` in the contextual menu.
 
-  
-  
----|---  
-  
-Edition
+
+### Edition
 
 Maquette inputs and outputs can be edited like patch inputs, via their editor.
 
-|
+
 
 ![](../res/inedit.png)  
   
----|---  
+
   
-Editing Input Boxes
+### Editing Input Boxes
 
   * [Input Boxes](AbsInputBoxes)
 
 ## Instances and Global Variables
 
-Default Output
+### Default Output
 
-When an  **instance** , ** factory box ** or  **global variable** is dropped
-into a maquette, a default output is automatically added in the corresponding
-Temporalbox.
+When an  **instance** , ** factory box ** or  **global variable** is dropped into a maquette, a default output is automatically added in the corresponding Temporalbox.
 
-|
 
 ![](../res/defoutputinstance.png)  
   
----|---  
-  
-No Inputs
+### No Inputs
+
+Instances are programs that always produce the same object. Consequently,TemporalBoxes refering to instances don't have any inputs, but a single output that returns the value of the object they produce.  
 
 ![](../res/outputinstance.png)
 
-|
 
-Instances are programs that always produce the same object.
-Consequently,TemporalBoxes refering to instances don't have any inputs, but a
-single output that returns the value of the object they produce.  
-  
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -141,7 +122,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Programming%20Maquette "page
-précédente\(Maquette Programming\)") | [Next](MaquetteEvaluation
-"Next\(Evaluation\)")
+Navigation : [Previous](Programming%20Maquette "\(Maquette Programming\)") | [Next](MaquetteEvaluation "\(Evaluation\)")
 
