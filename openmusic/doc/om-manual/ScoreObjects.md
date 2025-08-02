@@ -1,18 +1,12 @@
-Navigation : [Previous](PictureEditor "page précédente\(Picture
-Editor\)") | [Next](Score-Objects-Intro "page
-suivante\(Presentation\)")
+Navigation : [Previous](PictureEditor "\(Picture Editor\)") | [Next](Score-Objects-Intro "\(Presentation\)")
 
 # Score Objects
 
-**Score objects** basically refer to the musical categories of objects found
-in traditional scores, from an elementary level - the note - to a more
-sophisticated level - the polyphony. This section describes how to manipulate,
-design, and use score objects within programs. A description of  **Score
-editors** , which offer complete edition possibilities is also provided.
+**Score objects** basically refer to the musical categories of objects found in traditional scores, from an elementary level - the note - to a more sophisticated level - the polyphony. This section describes how to manipulate, design, and use score objects within programs. A description of  **Score editors** , which offer complete edition possibilities is also provided.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -40,7 +34,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](PictureEditor "page précédente\(Picture
-Editor\)") | [Next](Score-Objects-Intro "page
-suivante\(Presentation\)")
+Navigation : [Previous](PictureEditor "\(Picture Editor\)") | [Next](Score-Objects-Intro "\(Presentation\)")
 

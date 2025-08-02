@@ -1,6 +1,4 @@
-Navigation : [Previous](RT2 "page précédente\(Notation : in
-Practice\)") | [Next](ScoreEditors "Next\(Score
-Editors\)")
+Navigation : [Previous](RT2 "\(Notation : in Practice\)") | [Next](ScoreEditors "\(Score Editors\)")
 
 # Score Players
 
@@ -8,15 +6,13 @@ OM mainly relies on the [PortMidi](https://portmedia.sourceforge.net/portmidi/) 
 score objects.
 
 
-Default MIDI Playback
+## Default MIDI Playback
 
   * [Rendering and Playback Control](MIDI-Playback)
 
-In order to change the default player of an object, select use the `Player`
-item in the box contextual menu, or the player selection menu (if any) in the
-corresponding editor.
+In order to change the default player of an object, select use the `Player` item in the box contextual menu, or the player selection menu (if any) in the corresponding editor.
 
-|
+
 
 [![](../res/change-player_1.png)](../res/change-player.png "Cliquez pour
 agrandir")  
@@ -49,6 +45,7 @@ Copy and paste the following command in Terminal app:
 ...
 
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+        
 ...
 
         
@@ -143,9 +140,9 @@ It is possible do save the setup in a text file using the **Save** button. The *
 Please report/comment on the ForumNet thread :      
 [https://discussion.forum.ircam.fr/c/openmusic/42](https://discussion.forum.ircam.fr/c/openmusic/42)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -173,7 +170,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RT2 "page précédente\(Notation : in
-Practice\)") | [Next](ScoreEditors "Next\(Score
-Editors\)")
-
+Navigation : [Previous](RT2 "\(Notation : in Practice\)") | [Next](ScoreEditors "\(Score Editors\)")

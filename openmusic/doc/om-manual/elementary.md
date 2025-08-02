@@ -1,4 +1,4 @@
-Navigation : [Previous](AddingTempbox "\(Adding TemporalBoxes\)") | [Next](Appearance "\(Temporalboxes Appearance\)")
+Navigation : [Previous](AddingTempbox "\(Adding TemporalBoxes\)")|[Next](Appearance "\(Temporalboxes Appearance\)")
 
 
 # Elementary Manipulations
@@ -125,5 +125,5 @@ To display the TemporalBox reference icon, select the `Show Box Icons` option of
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](AddingTempbox "\(Adding TemporalBoxes\)") | [Next](Appearance "\(Temporalboxes Appearance\)")
+Navigation : [Previous](AddingTempbox "\(Adding TemporalBoxes\)")|[Next](Appearance "\(Temporalboxes Appearance\)")
 
