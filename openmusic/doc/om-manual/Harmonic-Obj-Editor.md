@@ -1,18 +1,16 @@
 
-Navigation : [Previous](Editor-Basics "page précédente\(Basic
-Editing\)") | [Next](Editor-Pitch "Next\(Pitches\)")
+Navigation : [Previous](Editor-Basics "\(Basic Editing\)") | [Next](Editor-Pitch "\(Pitches\)")
 
 # Harmonic Objects : Note, Chord and Chord-Seq Editors
 
 Notes ,  chords and  chord-seqs  constitute a hierarchy, whose note objects
 are the simplest level, and  chord-seq objects are the highest level of
 complexity. Hence, remarks regarding the  note editor are also valid for
-chord and  chord-seq editors, and those regarding  chords are of course valid
-for  chord-seq editors.
+chord and  chord-seq editors, and those regarding  chords are of course valid for  chord-seq editors.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -53,6 +51,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Basics "page précédente\(Basic
-Editing\)") | [Next](Editor-Pitch "Next\(Pitches\)")
+Navigation : [Previous](Editor-Basics "\(Basic Editing\)") | [Next](Editor-Pitch "\(Pitches\)")
 

@@ -1,10 +1,8 @@
-Navigation : [Previous](ScorePlayer "page précédente\(Score
-Players\)") | [Next](Editor-Overview "page
-suivante\(Overview\)")
+Navigation : [Previous](ScorePlayer "\(Score Players\)") | [Next](Editor-Overview "\(Overview\)")
 
 # Score Editors
 
-Sous-sections :
+### Sub-sections :
 
   * [Overview](Editor-Overview)
   * [Preferences](Editors-Prefs)
@@ -18,9 +16,9 @@ Sous-sections :
   * [Microintervals Notation](Editor-Microintervals)
   * [Play Controls](Editor-Play)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -59,7 +57,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ScorePlayer "page précédente\(Score
-Players\)") | [Next](Editor-Overview "page
-suivante\(Overview\)")
+Navigation : [Previous](ScorePlayer "\(Score Players\)") | [Next](Editor-Overview "\(Overview\)")
 

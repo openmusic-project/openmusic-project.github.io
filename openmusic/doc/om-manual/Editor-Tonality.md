@@ -1,34 +1,31 @@
-Navigation : [Previous](Editor-PageMode "page précédente\(Page
-Mode\)") | [Next](Editor-Microintervals "page
-suivante\(Microintervals Notation\)")
+Navigation : [Previous](Editor-PageMode "\(Page Mode\)") | [Next](Editor-Microintervals "\(Microintervals Notation\)")
 
 
 # Tonal Display
 
-Contents
+### Contents
 
   1. Tonality
   2. Editor Scale
   3. Cadences, Degrees and Figuring
   4. Modulation
 
-Tonal display options concern all musical objects with possible tonal harmonic
-or melodic progressions :  chord-seqs,  multi-seqs,  voices and  polys .
+Tonal display options concern all musical objects with possible tonal harmonic or melodic progressions :  chord-seqs,  multi-seqs,  voices and  polys .
 
 ## Tonality
 
-Editor Preferences
+### Editor Preferences
 
 The `Editor preferences` tab provides a number of options and tools, which
 relate to tonality expression and analysis.
 
-|
+
 
 ![](../res/tonaldisplay1.png)  
   
----|---  
+
   
-Tonality Dialogue Window
+### Tonality Dialogue Window
 
 To choose a tonality
 
@@ -46,8 +43,7 @@ To restore the original "atonal" configuration, press `SHIFT` \+ `t` .
 
 Enharmony
 
-OM automatically assigns the expected accidentals, depending on the chosen
-tonality. Accidentals can though be modified enharmonically.
+OM automatically assigns the expected accidentals, depending on the chosen tonality. Accidentals can though be modified enharmonically.
 
 To modify an accidental :
 
@@ -55,11 +51,11 @@ To modify an accidental :
 
   2. `Ctrl` click on a note and select an item.
 
-|
+
 
 ![](../res/adjustaccidental.png)  
   
----|---  
+
   
 ## Editor Scale
 
@@ -68,13 +64,11 @@ system can be modified, to a certain extent.
 
 ![](../res/editsemitone.png)
 
-|
 
-The `Editor Scale` dialogue window offers a limited number of enharmonic
-accidentals, based on the standard twelve semitones notation.
 
-This especially makes sense when using a tonal or modal semitones scale
-pattern.
+The `Editor Scale` dialogue window offers a limited number of enharmonic accidentals, based on the standard twelve semitones notation.
+
+This especially makes sense when using a tonal or modal semitones scale pattern.
 
 To specify a scale
 
@@ -84,10 +78,7 @@ To specify a scale
 
   3. Choose `Edit`.
 
-  
-  
----|---  
-  
+
 To assign an enharmonic accidental to a note, `Ctrl` / right click on it and
 select a menu item.
 
@@ -97,33 +88,31 @@ Modifications of the default scale are displayed by the dialogue window.
 
 Click on `Default` to reset the default scale.
 
-|
+
 
 ![](../res/wrongeditor.png)  
   
----|---  
+
   
 ## Cadences, Degrees and Figuring
 
 ![](../res/tonalitydata.png)
 
-|
 
-An elementary tonal analysis tool is implemented in musical editors. It is
-based on the options provided in the `Editor preferences` :
+
+An elementary tonal analysis tool is implemented in musical editors. It is based on the options provided in the `Editor preferences` :
 
   * `Degrees`
   * `Cadences`
   * `Figuring`
 
-The analysis takes place as chords are being edited, provided OM can recognize
-a listed chord and chord progression.  
+The analysis takes place as chords are being edited, provided OM can recognize a listed chord and chord progression.  
   
----|---  
+
   
 ## Modulation
 
-Specifying Modulations
+### Specifying Modulations
 
 Modulations can be specified textually in the score editor.
 
@@ -131,26 +120,23 @@ Modulations can be specified textually in the score editor.
 
   2. Choose a tonality.
 
-|
+
 
 ![](../res/changetone.png)  
   
----|---  
+
   
-Boundaries
+### Boundaries
 
 ![](../res/newtonality.png)
 
-|
 
-OM displays the modulation but it doesn't automatically adapt the key
-signature or accidentals to the new tonality.  
-  
----|---  
-  
-References :
 
-Contents :
+OM displays the modulation but it doesn't automatically adapt the key signature or accidentals to the new tonality.  
+  
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -189,7 +175,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-PageMode "page précédente\(Page
-Mode\)") | [Next](Editor-Microintervals "page
-suivante\(Microintervals Notation\)")
+Navigation : [Previous](Editor-PageMode "\(Page Mode\)") | [Next](Editor-Microintervals "\(Microintervals Notation\)")
 

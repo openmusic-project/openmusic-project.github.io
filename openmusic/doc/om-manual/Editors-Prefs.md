@@ -1,24 +1,17 @@
-Navigation : [Previous](Editor-Overview "page
-précédente\(Overview\)") | [Next](Editor-Display "page
-suivante\(Score Display\)")
+Navigation : [Previous](Editor-Overview "\(Overview\)") | [Next](Editor-Display "\(Score Display\)")
 
 
 # Preferences
 
-The basic settings of the score editors can be modified via the` Score
-Editors` tab of the `Preferences` pane. To access the `Score Editors`
-preferences, select the `OM.6.X.X / Preferences` menu, and click on the
-![](../res/edittab_icon.png) score icon. These default parameters can be
-modified subsequently if needed, via the score editors themselves.
+The basic settings of the score editors can be modified via the` Score Editors` tab of the `Preferences` pane. To access the `Score Editors` preferences, select the `OM.6.X.X / Preferences` menu, and click on the ![](../res/edittab_icon.png) score icon. These default parameters can be modified subsequently if needed, via the score editors themselves.
 
 ## Displaying Options
 
-The score editors preferences give access to a set of musical displaying
-parameters.
+The score editors preferences give access to a set of musical displaying parameters.
 
 ![](../res/prefsedit1.png)
 
-Default Scale Approximation
+### Default Scale Approximation
 
 Three default scales are offered by OM :
 
@@ -26,59 +19,55 @@ Three default scales are offered by OM :
   * quarter tones
   * eighth tones. 
 
-Other scales, from the tone to the sixteenth tone are available via the
-editors menus.
+Other scales, from the tone to the sixteenth tone are available via the editors menus.
 
-Choosing a Scale :
+### Choosing a Scale :
 
   * [Score Display](Editor-Display)
 
-Music Font Size
+### Music Font Size
 
 The music font size affects the size of the whole score, like a vertical zoom.
 
-Staff Configuration and Colour
+### Staff Configuration and Colour
 
-A great number of staff configurations, based on F and G clefs combinations,
-is offered in the preferences.
+A great number of staff configurations, based on F and G clefs combinations, is offered in the preferences.
 
 A specific staff colour can be be selected via the Colour Chooser.
 
-|
+
 
 ![](../res/staffdefault.png)  
   
----|---  
+
   
-Dynamics
+### Dynamics
 
 ![](../res/dyns.png)
 
-|
 
-The standard midi dynamics scale can also be adapted to the user's specific
-needs, via the **" Dynamics"** frame.  
+
+The standard midi dynamics scale can also be adapted to the user's specific needs, via the **" Dynamics"** frame.  
   
----|---  
+
   
-Tonal Display
+### Tonal Display
 
-The **" Tonal Display"** frame offers a number of options, which are dedicated
-to tonal music notation.
+The **" Tonal Display"** frame offers a number of options, which are dedicated to tonal music notation.
 
-|
+
 
 ![](../res/tonaldisplay1.png)  
   
----|---  
+
   
-About Tonality :
+*About Tonality :*
 
   * [Tonal Display](Editor-Tonality)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -117,7 +106,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Overview "page
-précédente\(Overview\)") | [Next](Editor-Display "page
-suivante\(Score Display\)")
-
+Navigation : [Previous](Editor-Overview "\(Overview\)") | [Next](Editor-Display "\(Score Display\)")

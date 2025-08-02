@@ -1,6 +1,4 @@
-
-Navigation : [Previous](Import "page précédente\(Import\)") |
-[Next](Maquette "Next\(Creating a Maquette\)")
+Navigation : [Previous](Import "\(Import\)") | [Next](Maquette "\(Creating a Maquette\)")
 
 # Maquettes
 
@@ -60,6 +58,5 @@ objects, etc.
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Import "page précédente\(Import\)") |
-[Next](Maquette "Next\(Creating a Maquette\)")
+Navigation : [Previous](Import "\(Import\)") | [Next](Maquette "\(Creating a Maquette\)")
 

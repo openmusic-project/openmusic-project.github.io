@@ -1,6 +1,4 @@
-Navigation : [Previous](Harmonic-Obj-Editor "page
-précédente\(Harmonic Objects\)") | [Next](Editor-Other-Slots
-"Next\(Other Slots\)")
+Navigation : [Previous](Harmonic-Obj-Editor "\(Harmonic Objects\)") | [Next](Editor-Other-Slots "\(Other Slots\)")
 
 
 # Editing Pitches
@@ -17,7 +15,6 @@ A whole object can be selected with a click and drag in any case .
 
 ## Adding Notes and Chords
 
-Adding Notes in Note and Chord Objects
 
   * In note objects :
 
@@ -34,11 +31,9 @@ The default or current value of the object is modified.
     2. `Cmd` click in the staff to add a note.
 
 ![](../res/addnoteinchord.png)
+*Adding Notes to a Chord in a Chord-Seq*
 
-Adding Notes to a Chord in a Chord-Seq
-
-Chords can be edited in the  chord-seq editor, or in an `internal chord`
-window.
+Chords can be edited in the  chord-seq editor, or in an `internal chord` window.
 
   * To edit a chord from a chord-seq window :
 
@@ -59,8 +54,7 @@ window.
     2. `Cmd` click on the staff to insert notes in the chord.
 
 ![](../res/editinternal.png)
-
-Adding Chords in a Chord-seq
+*Adding Chords in a Chord-seq*
 
 ![](../res/addchordsseq.png)
 
@@ -70,30 +64,25 @@ Adding Chords in a Chord-seq
 
   2. `Cmd` click in the staff.
 
-  
-  
----|---  
-  
-Deleting Items
+
+### Deleting Items
 
   1. Select the note, chord or poly tool, depending on the type of items you want to delete.
 
   2. Select one or more items and press `Backspace`.
 
-|
+
 
 ![](../res/selectall.png)  
   
----|---  
+
   
-Extracting Chords
+### Extracting Chords
 
 ![](../res/dragchordfromeditor.png)
 
-|
 
-Chord  factory boxes can be dragged out of any type of score editor - but the
-note editor.
+Chord  factory boxes can be dragged out of any type of score editor - but not from the note editor.
 
 To create a factory box :
 
@@ -103,9 +92,9 @@ To create a factory box :
 
 It is materialized as a factory box.  
   
----|---  
+
   
-Score Editors
+### Score Editors
 
   * [Overview](Editor-Overview)
 
@@ -122,13 +111,12 @@ Press `+` to union chords.
 
 On `chord` mode, chords are displayed the same way with both commands.
 
-|
 
 ![](../res/groupunion.png)  
   
----|---  
+
   
-Group Chords
+## Group Chords
 
 The  **group chords** command allows to preserve the individual offsets of the
 chords.
@@ -140,9 +128,8 @@ chords.
 
 ![](../res/groupunion2.png)  
   
----|---  
-  
-Union Chords
+
+## Union Chords
 
 The ** union chords ** command gathers several chords graphically  and
 temporally in a same chord.
@@ -158,7 +145,7 @@ temporally in a same chord.
   
 ## Displaying Modes
 
-Features
+### Features
 
 ![The order and offsets of the pitches in the list can be expressed via the
 "order" and "offset" modes of the Editor Control.](../res/modes.png)
@@ -175,9 +162,9 @@ can be ordered according to their :
 
 A small vertical line marks the starting point of the chord.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -218,7 +205,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Harmonic-Obj-Editor "page
-précédente\(Harmonic Objects\)") | [Next](Editor-Other-Slots
-"Next\(Other Slots\)")
+Navigation : [Previous](Harmonic-Obj-Editor "\(Harmonic Objects\)") | [Next](Editor-Other-Slots "\(Other Slots\)")
 

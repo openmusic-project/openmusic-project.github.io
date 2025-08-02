@@ -1,23 +1,21 @@
-Navigation : [Previous](Editor-Tonality "page précédente\(Tonal
-Display\)") | [Next](Editor-Play "Next\(Play
-Controls\)")
+Navigation : [Previous](Editor-Tonality "\(Tonal Display\)") | [Next](Editor-Play "\(Play Controls\)")
 
 
 # Microintervals Notation
 
 ## Conventions
 
-Scales
+### Scales
 
 OM offers all scales approximations from 1/2 to 1/8 tone, as well as 1/10,
 1/12, 1/14 and 1/16 tone approximations.
 
-Accidental Types
+### Accidental Types
 
 All accidentals are ascending, that is, based on  **naturals** and  **sharps**
 .
 
-Microintervals and Tonality
+### Microintervals and Tonality
 
 Microtonal scales are not available in a tonal context.
 
@@ -26,12 +24,12 @@ To cancel the choice of a tonality, press `Shift` \+ `t`. The original
 
 ## Accidentals Charts
 
-Note
+### Note
 
 Scales that don't comprise semitones - 1/3, 1/5, 1/7 and their derived scales
 can be tricky, for they sometimes have different types of accidentals.
 
-Notation Principles
+### Notation Principles
 
 **Naturals** are replaced by plain vertical lines - for instance
 :![](../res/nat_icon.png) .
@@ -92,9 +90,9 @@ Accidentals of the fifth and tenth tone scales.[Zoom](../res/5th_scr_1.png
 Accidentals of the seventh and fourteenth tone
 scales.[Zoom](../res/7th_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -133,7 +131,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Tonality "page précédente\(Tonal
-Display\)") | [Next](Editor-Play "Next\(Play
-Controls\)")
+Navigation : [Previous](Editor-Tonality "\(Tonal Display\)") | [Next](Editor-Play "\(Play Controls\)")
+
 

@@ -1,27 +1,26 @@
 
-Navigation : [Previous](Editor-Pitch "page précédente\(Pitches\)")
-| [Next](Editor-Rhythm "Next\(Rhythmic Objects\)")
+Navigation : [Previous](Editor-Pitch "\(Pitches\)") | [Next](Editor-Rhythm "\(Rhythmic Objects\)")
 
 # Editing Other Slots
 
 ## Displaying Modes
 
-Features
+**Features**
 
 ![](../res/combine.png)
 
-|
+
 
 The editor control upper menu gives access to each slot of the object.
 
 The displaying of a slot value can be combined with displaying mode of the
 lower menu.  
   
----|---  
+
   
 ## Edition
 
-Chords : Duration, MidiChannel, Dynamics
+### Chords : Duration, MidiChannel, Dynamics
 
 The duration of one or more selected note can be modified with the same
 procedures as for notes.
@@ -35,13 +34,13 @@ procedures as for notes.
     * use the `->` or `<-` keys 
     * type a value in the editor control frame.
 
-|
+
 
 ![](../res/moddur.png)  
   
----|---  
+
   
-Chord-Seq : Offsets
+### Chord-Seq : Offsets
 
 The chords onsets in a  chord-seq can be modified from the second chord.
 
@@ -53,26 +52,22 @@ The chords onsets in a  chord-seq can be modified from the second chord.
     * use the `->` or `<-` keys : the offset value is decreased or increased by 100 milliseconds steps. Add `SHIFT` to change the value by 1000 midicents steps.
 
 ![Modifying the offset of a chord "manually".](../res/movechordonset2.png)
+*Modifying the offset of a chord "manually".*
 
-Modifying the offset of a chord "manually".
-
-Legato
+### Legato
 
 To display the legato value of notes in a chord-seq, select the `duration`
 menu item in the editor control.
 
-|
 
 ![](../res/legato1.png)  
   
----|---  
   
-Reminder : Pitch
+**Reminder : Pitch**
 
 [![](../res/transposechord3_1.png)](../res/transposechord3.png "Cliquez pour
 agrandir")
 
-|
 
 Modifications can apply to notes, or to whole  chords or  chord-seqs .
 
@@ -86,8 +81,6 @@ Modifications can apply to notes, or to whole  chords or  chord-seqs .
 
   
   
----|---  
-  
 ## Grid
 
   * To display or hide a grid in the editor, press `g` .
@@ -100,24 +93,22 @@ that of the grid's step.
 
 To change the grid's step, press `SHIFT` \+ `g` .
 
-|
+
 
 ![](../res/grid2.png)  
   
----|---  
-  
+
 ![](../res/durgrid.png)
 
-|
+
 
 To move the item or change its duration according to the grid's step, press
 `SHIFT` \+ `<-` or `->` .  
   
----|---  
-  
-References :
 
-Contents :
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -158,6 +149,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Pitch "page précédente\(Pitches\)")
-| [Next](Editor-Rhythm "Next\(Rhythmic Objects\)")
+Navigation : [Previous](Editor-Pitch "\(Pitches\)") | [Next](Editor-Rhythm "\(Rhythmic Objects\)")
 

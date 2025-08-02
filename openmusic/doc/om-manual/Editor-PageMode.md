@@ -1,22 +1,17 @@
-Navigation : [Previous](Poly-Multi-Editor "page
-précédente\(Polyphonic Objects\)") | [Next](Editor-Tonality
-"Next\(Tonal Display\)")
+Navigation : [Previous](Poly-Multi-Editor "\(Polyphonic Objects\)") | [Next](Editor-Tonality "\(Tonal Display\)")
 
 
 # Page Mode
 
-The content of objects can be displayed and edited - to a certain extent - on
-**page mode** . This is especially convenient as far as long sequences are
-concerned. The page mode is also very convenient to get a preview of an object
-and modify its page layout before printing.
+The content of objects can be displayed and edited - to a certain extent - on **page mode** . This is especially convenient as far as long sequences are concerned. The page mode is also very convenient to get a preview of an object and modify its page layout before printing.
 
 ## Displaying Pages
 
-Accessing Page Mode
+### Accessing Page Mode
 
 ![](../res/contextmenu.png)
 
-|
+
 
 To display a content on page mode
 
@@ -24,20 +19,19 @@ To display a content on page mode
   * `Ctrl` / right click in the editor to access the contextual menu.
 
   
+
   
----|---  
-  
-Page Size
+### Page Size
 
 The number of displayed pages can be modified via the `page size` menu.
 
 ![](../res/pagemode.png)
 
-Margins
+**Margins:**
 
 ![](../res/pagelayout.png)
 
-|
+
 
 To modify the page margins :
 
@@ -51,11 +45,11 @@ To modify the page margins :
 
 Margins values are also effective on `Normal` presentation mode.  
   
----|---  
+
   
 ## Parameters Displaying and Edition
 
-Legibility : Slots and Score
+### Legibility : Slots and Score
 
 Parametric values can also be displayed via the usual upper and lower Editor
 Control menus.
@@ -64,12 +58,11 @@ Font size and zoom can be adjusted via the usual menus.
 
 ![](../res/changezoom.png)
 
-Parametric Values Edition
+### Parametric Values Edition
 
 Slots cannot be edited.
 
-Notes and chord can be moved or deleted, but new pitches cannot be entered in
-the score.
+Notes and chord can be moved or deleted, but new pitches cannot be entered in the score.
 
 ## Print
 
@@ -78,9 +71,9 @@ To print the score :
   * select `File / Print` in the main menu 
   * press `Cmd` \+ `p` .
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -119,7 +112,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Poly-Multi-Editor "page
-précédente\(Polyphonic Objects\)") | [Next](Editor-Tonality
-"Next\(Tonal Display\)")
+Navigation : [Previous](Poly-Multi-Editor "\(Polyphonic Objects\)") | [Next](Editor-Tonality "\(Tonal Display\)")
 

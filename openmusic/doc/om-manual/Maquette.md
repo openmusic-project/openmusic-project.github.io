@@ -1,6 +1,4 @@
-
-Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
-| [Next](TemporalBoxes "Next\(TemporalBoxes\)")
+Navigation : [Previous](Maquettes "\(Maquettes\)") | [Next](TemporalBoxes "\(TemporalBoxes\)")
 
 # Creating a Maquette
 
@@ -186,6 +184,4 @@ A TemporalBox refers to an object in a maquette : an instance, a patch, or anoth
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
-| [Next](TemporalBoxes "Next\(TemporalBoxes\)")
-
+Navigation : [Previous](Maquettes "\(Maquettes\)") | [Next](TemporalBoxes "\(TemporalBoxes\)")

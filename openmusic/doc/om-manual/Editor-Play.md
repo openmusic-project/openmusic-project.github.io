@@ -1,25 +1,20 @@
-Navigation : [Previous](Editor-Microintervals "page
-précédente\(Microintervals Notation\)") | [Next](Quantification
-"Next\(Quantification\)")
+Navigation : [Previous](Editor-Microintervals "\(Microintervals Notation\)") | [Next](Quantification "\(Quantification\)")
 
 
 # Play Controls
 
+The player of the editor palette includes several standard commands.  
+
 ![](../res/player.png)
 
-|
-
-The player of the editor palette includes several standard commands.  
   
----|---  
-  
-About Ports Settings for MIDI Playback
+About Ports Settings for MIDI Playback see:
 
   * [Managing MIDI Ports](MIDI-Ports)
 
 ## Playing Modes
 
-Play Selection
+### Play Selection
 
 This command allows to play a selection within an object.
 
@@ -31,7 +26,7 @@ This command allows to play a selection within an object.
 
 ![](../res/player1.png)
 
-Play Loop
+### Play Loop
 
 This command allows to play a selected region repeatedly.
 
@@ -41,14 +36,13 @@ This command allows to play a selected region repeatedly.
 
 ![](../res/player2.png)
 
-Record
+### Record
 
-![](../res/recordcurs_icon.png) This command allows to record any sound from a
-midi device.
+![](../res/recordcurs_icon.png) This command allows to record any sound from a midi device.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -87,7 +81,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor-Microintervals "page
-précédente\(Microintervals Notation\)") | [Next](Quantification
-"Next\(Quantification\)")
+Navigation : [Previous](Editor-Microintervals "\(Microintervals Notation\)") | [Next](Quantification "\(Quantification\)")
 

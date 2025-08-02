@@ -1,6 +1,4 @@
-Navigation : [Previous](Maquette "page précédente\(Creating a
-Maquette\)") | [Next](AddingTempbox "Next\(Adding
-TemporalBoxes\)")
+Navigation : [Previous](Maquette "\(Creating a Maquette\)") | [Next](AddingTempbox "\(Adding TemporalBoxes\)")
 
 # TemporalBoxes
 
@@ -12,51 +10,43 @@ A TemporalBox can refer to several types of items :
 
   * an instance : 
 
-|
 
 ![](../res/glob_icon.png) ![](../res/inst_icon.png)
 ![](../res/factory_icon.png)
 
-|
+
 
   * a patch : 
 
-|
+
 
 ![](../res/patcred_icon.png) ![](../res/patchblue_icon.png)
 
-|
+
 
   * a maquette : 
 
-|
 
 ![](../res/maq2_icon.png) ![](../res/maq4_icon.png)  
-  
----|---|---|---|---|---  
+    
   
 ![](../res/maqobj.png)
 
-## Uses
+## Usage
 
 Using TemporalBoxes as Programs
 
-TemporalBoxes can be used in a maquette for manipulating data, like mere
-programs. In this case, data is returned to and from TemporalBoxes  **through
-standard inputs and outputs** .
+TemporalBoxes can be used in a maquette for manipulating data, like mere programs. In this case, data is returned to and from TemporalBoxes  **through standard inputs and outputs** .
 
-The program of the TemporalBox can implement its relation to the maquette's
-context via a  **temporal input** .
+The program of the TemporalBox can implement its relation to the maquette's context via a  **temporal input** .
 
 Using TemporalBoxes as Musical Objects
 
-TemporalBoxes can also be used in a maquette for producing a musical value,
-like musical objects, which are **played** in the maquette. This musical value
-is expressed by a  **temporal output** .
+TemporalBoxes can also be used in a maquette for producing a musical value, like musical objects, which are **played** in the maquette. This musical value is expressed by a  **temporal output** .
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -87,7 +77,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Maquette "page précédente\(Creating a
-Maquette\)") | [Next](AddingTempbox "Next\(Adding
-TemporalBoxes\)")
+Navigation : [Previous](Maquette "\(Creating a Maquette\)") | [Next](AddingTempbox "\(Adding TemporalBoxes\)")
 
