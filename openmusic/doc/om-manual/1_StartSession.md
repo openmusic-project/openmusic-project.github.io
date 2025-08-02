@@ -1,6 +1,4 @@
-Navigation : [Previous](Intro_1 "page précédente\(Summary\)") |
-[Next](2_progpatch "Next\(Programming a Simple
-Patch\)")
+Navigation : [Previous](Intro_1 "\(Summary\)") | [Next](2_progpatch "\(Programming a Simple Patch\)")
 
 # Starting a Session
 
@@ -55,7 +53,5 @@ A Lisp communication interface displaying results of computations, warnings or e
     * [Manipulating and Visualizing Objects](5_CompletEdition)
     * [Saving and Quitting OM](6_Quit)
 
-Navigation : [Previous](Intro_1 "\(Summary\)") |
-[Next](2_progpatch "\(Programming a Simple
-Patch\)")
+Navigation : [Previous](Intro_1 "\(Summary\)") | [Next](2_progpatch "\(Programming a Simple Patch\)")
 
