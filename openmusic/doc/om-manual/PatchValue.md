@@ -1,6 +1,4 @@
-Navigation : [Previous](TempValues "page précédente\(TemporalBoxes
-Value\)") | [Next](MaquetteValue "Next\(Sub
-Maquettes\)")
+Navigation : [Previous](TempValues "\(TemporalBoxes Value\)") | [Next](MaquetteValue "\(Sub Maquettes\)")
 
 
 # Patches
@@ -13,19 +11,17 @@ allows to express this value.** "Tempout" stands for "Temporal Output".
 
 ![](../res/tempout_icon.png)
 
-|
 
-The ** Tempout **is used for expressing the musical value of the patch within
-the maquette.  
+The ** Tempout **is used for expressing the musical value of the patch within the maquette.  
   
----|---  
   
   * When a patch is created directly in a maquette, a tempout is automatically added in its internal editor. 
+
   * If a patch is dropped in the maquette editor, this box can be added manually.
 
 ![](../res/addigntemp1.png)
 
-Adding a TempOut in a Patch
+### Adding a TempOut in a Patch
 
 To add a  tempout :
 
@@ -35,23 +31,18 @@ To add a  tempout :
 
     2. select `TemporalBoxes / Temporal Output` in the contextual menu.
 
-|
+
 
 ![](../res/addigntemp.png)  
   
----|---  
-  
-Instances and Maquettes Don't Have a TempOut
 
-TemporalBoxes representing ** instances, ** **global variables** or  **factory
-boxes** only have  **one standard output** , as a matter of course, since they
-are a value.
+ **Note:** Instances and Maquettes Don't Have a TempOut
 
-TemporalBoxes representing  **maquettes** only have standard inputs and
-outputs, their potential musical value being expressed by the  maquette
-itself.
+TemporalBoxes representing ** instances, ** **global variables** or  **factory boxes** only have  **one standard output** , as a matter of course, since they are a value.
 
-Using a Patch Without a TempOut
+TemporalBoxes representing  **maquettes** only have standard inputs and outputs, their potential musical value being expressed by the  maquette itself.
+
+### Using a Patch Without a TempOut
 
 Sub patches don't have to be integrated in the musical structure of a maquette
 to be used there. Therefore, a Tempout can be deleted. To display and express
@@ -68,12 +59,11 @@ any item, and its value is not displayed in the maquette.
 This patch can return / get data to / from other boxes via its inputs and
 outputs.
 
-## Setting the TempOut Value
+###  Setting the TempOut Value
 
-The value of a sub patch is the value connected to the ** Tempout **. The user
-can select the value(s) to express in the maquette.
+The value of a sub patch is the value connected to the ** Tempout **. The user can select the value(s) to express in the maquette.
 
-Example
+Example:
 
 ![](../res/tempout%2Boutput1.png)
 
@@ -83,15 +73,12 @@ In the upper TemporalBox :
 
   2. the last chords of the  chord-seq are returned by the  cdr function to the standard **output** of the TemporalBox
 
-|
 
 ![](../res/tempoutput2.png)  
   
----|---  
-  
+
 ![](../res/tempoutput1.png)
 
-|
 
 The value of the lower TemporalBox is calculated from the resulting list :
 
@@ -101,35 +88,29 @@ The value of the lower TemporalBox is calculated from the resulting list :
 
   3. The "self" output of the chord is connected to a  **Tempout** .The chord becomes the value of the TemporalBox. 
 
-  
-  
----|---  
+
   
 ## The Tempin / Self Input Box
 
-A patch created directly in a maquette has another default box : the
-**Tempin** , or  **Self Input Box** .
+A patch created directly in a maquette has another default box : the **Tempin** , or  **Self Input Box** .
 
 ![](../res/selfbox_icon.png)
 
-|
 
-The  **Tempin** , or  **Self Input Box** allows to control and use the
-**relation** between the patch and the maquette wherein it is located as
-**programming parameters** .
 
-Hence, the Tempin is not compulsary for using a patch within a maquette, and
-can be deleted.  
+The  **Tempin** , or  **Self Input Box** allows to control and use the **relation** between the patch and the maquette wherein it is located as **programming parameters** .
+
+Hence, the Tempin is not compulsary for using a patch within a maquette, and can be deleted.  
   
----|---  
+
   
-Using the Self Input Box for Programming :
+###  Using the Self Input Box for Programming :
 
   * [Programming with TemporalBoxes](TempProgramming)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -163,7 +144,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](TempValues "page précédente\(TemporalBoxes
-Value\)") | [Next](MaquetteValue "Next\(Sub
-Maquettes\)")
+Navigation : [Previous](TempValues "\(TemporalBoxes Value\)") | [Next](MaquetteValue "\(Sub Maquettes\)")
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](Grid%20and%20Rulers "page
-précédente\(Rulers and Grid\)") | [Next](Markers "page
-suivante\(Markers / Anchors\)")
+Navigation : [Previous](Grid%20and%20Rulers "\(Rulers and Grid\)") | [Next](Markers "\(Markers / Anchors\)")
 
 
 # The Palette
@@ -11,129 +9,48 @@ suivante\(Markers / Anchors\)")
 
 |
 
-The maquette provides a palette with navigation controlers, a player, and an
-evaluation command.  
+The maquette provides a palette with navigation controllers, a player, and an evaluation command. 
+
+**NOTE:** Since version 6.15, the palette is embedded in all editors and is no more a floating window.
   
----|---  
+
   
-Navigation
+## Navigation
 
-![](../res/loupe_icon.png)
+| Icon | Function | Action |
+|--|--|--|
+| ![](../res/loupe_icon.png) | **Zoom :**  |click and drag the mouse over a zone of the maquette to zoom on it.  |
+| ![](../res/grab_icon.png) |**Hand :**  |click and slip to reach a zone of the maquette without changing its scale.  |
+|![](../res/resize_icon_1.png)  | **Reset :** |select this tool to fit the content of the maquette to the window editor.    |
+| ![](../res/select_icon.png) | **Segment :** | click and drag the mouse over a temporal segment to select it.   |
+|![](../res/arrow_icon_1.png) |**Pointer :** | allows the selection of boxes.  |
 
-|
 
-**Zoom :**
 
-|
+## Player
 
-click and drag the mouse over a zone of the maquette to zoom on it.  
-  
----|---|---  
-  
-![](../res/grab_icon.png)
 
-|
+| Icon | Function | Action |
+|--|--|--|
+| ![](../res/play_icon_1.png) | **Play :** |applies to the whole maquette.   |
+|![](../res/stop_icon.png)  | **Stop** |  |
+| ![](../res/pause_icon.png) |**Pause**  |  |
+|![](../res/playselection_icon.png)  | **Play selection :** | applies to a selected temporal segment, or selected boxes.   |
+| ![](../res/loop_icon.png) | **Loop :** | a switch on/off to associate with ![](../res/play_icon_1.png) or ![](../res/playselection_icon.png) to play an item, temporal chunk or a whole maquette repeatedly.   |
 
-**Hand :**
 
-|
-
-click and slip to reach a zone of the maquette without changing its scale.  
-  
-![](../res/resize_icon_1.png)
-
-|
-
-**Reset :**
-
-|
-
-select this tool to fit the content of the maquette to the window editor.  
-  
-![](../res/select_icon.png)
-
-|
-
-**Segment :**
-
-|
-
-click and drag the mouse over a temporal segment to select it.  
-  
-![](../res/arrow_icon_1.png)
-
-|
-
-**Pointer :**
-
-|
-
-allows the selection of boxes.  
-  
-Player
-
-![](../res/play_icon_1.png)
-
-|
-
-**Play :**
-
-|
-
-applies to the whole maquette.  
-  
----|---|---  
-  
-![](../res/stop_icon.png)
-
-|
-
-**Stop**
-
-|  
-  
-![](../res/pause_icon.png)
-
-|
-
-**Pause**
-
-|  
-  
-![](../res/playselection_icon.png)
-
-|
-
-**Play selection :**
-
-|
-
-applies to a selected temporal segment, or selected boxes.  
-  
-![](../res/loop_icon.png)
-
-|
-
-**Loop :**
-
-|
-
-a switch on/off to associate with ![](../res/play_icon_1.png) or
-![](../res/playselection_icon.png) to play an item, temporal chunk or a whole
-maquette repeatedly.  
-  
 The `Space` key can be used as a "play / stop" command.
 
-Evaluation
+## Evaluation
 
 Evaluation ![](../res/eval_icon.png) : this command evaluates the whole
 content of the maquette.
 
-Evaluation of Maquettes and Temporaboxes
+### Evaluation of Maquettes and Temporaboxes
 
   * [Evaluation of the Maquette](MaquetteEvaluation)
 
-Player Options
+## Player Options
 
 Each object can be played with one or several players.
 
@@ -143,22 +60,19 @@ To assign a player to an object :
 
   2. choose `Player` . 
 
-To apply the same module to all the TemporalBoxes of a maquette, follow the
-same procedure from the maquette editor.
+To apply the same module to all the TemporalBoxes of a maquette, follow the same procedure from the maquette editor.
 
-|
 
 ![](../res/chooseplayer.png)  
   
----|---  
-  
-Detailed Presentation of Players
+
+### Detailed Presentation of Players
 
   * [Playback and Players](1-Play)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -189,7 +103,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Grid%20and%20Rulers "page
-précédente\(Rulers and Grid\)") | [Next](Markers "page
-suivante\(Markers / Anchors\)")
+Navigation : [Previous](Grid%20and%20Rulers "\(Rulers and Grid\)") | [Next](Markers "\(Markers / Anchors\)")
 

@@ -1,15 +1,8 @@
-Navigation : [Previous](InstancesValue "page
-précédente\(Instances\)") | [Next](EditorAppearance "page
-suivante\(Editor Appearance\)")
+Navigation : [Previous](InstancesValue "\(Instances\)") | [Next](EditorAppearance "\(Editor Appearance\)")
 
 # The Maquette Editor
 
-Most programming operations with the maquette take place in the maquette
-editor. As a graphic and temporal interface, the editor offers a number of
-options in relation with the  **interface appearance** and the  **temporal
-and** **metric structure** of the maquette. In addition, a  **palette** and a
-**player** allow graphic manipulations and of course, to  **play** the
-maquette.
+Most programming operations with the maquette take place in the maquette editor. As a graphic and temporal interface, the editor offers a number of options in relation with the  **interface appearance** and the  **temporal and** **metric structure** of the maquette. In addition, a  **palette** and a **player** allow graphic manipulations and of course, to  **play** the maquette.
 
 To open a maquette editor :
 
@@ -19,9 +12,9 @@ To open a maquette editor :
 
 ![](../res/play1.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -52,7 +45,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](InstancesValue "page
-précédente\(Instances\)") | [Next](EditorAppearance "page
-suivante\(Editor Appearance\)")
+Navigation : [Previous](InstancesValue "\(Instances\)") | [Next](EditorAppearance "\(Editor Appearance\)")
 

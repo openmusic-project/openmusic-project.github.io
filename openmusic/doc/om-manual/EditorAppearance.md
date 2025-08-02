@@ -1,6 +1,4 @@
-Navigation : [Previous](Editor "page précédente\(The Maquette
-Editor\)") | [Next](Grid%20and%20Rulers "Next\(Rulers
-and Grid\)")
+Navigation : [Previous](Editor "\(The Maquette Editor\)") | [Next](Grid%20and%20Rulers "\(Rulers and Grid\)")
 
 
 # Maquette Editor Appearance
@@ -15,15 +13,10 @@ To modify the default appearance of maquettes :
 
 These modification only apply to items created afterward.
 
-|
-
 ![](../res/col.png)  
   
----|---  
-  
-![](../res/defcol4.png)
 
-|
+![](../res/defcol4.png)
 
   1. Click on the **" Default Colour"** frame of the maquette.
 
@@ -35,16 +28,15 @@ These modification only apply to items created afterward.
 
 Select `Restore` to reset the default preferences of the maquette.  
   
----|---  
+
   
 ## Contextual Modifications
 
-Colour
+### Colour
 
-To modify the colour of a specific maquette editor, press `SHIFT` \+ `c` and
-follow the previous procedure.
+To modify the colour of a specific maquette editor, press `SHIFT` \+ `c` and follow the previous procedure.
 
-Maquettes and TemporalBoxes Pictures
+### Maquettes and TemporalBoxes Pictures
 
 To assign a maquette editor or a TemporalBox a background picture :
 
@@ -54,39 +46,33 @@ To assign a maquette editor or a TemporalBox a background picture :
 
   3. choose a picture in the Picture Chooser. 
 
-|
 
 ![](../res/setpic.png)  
   
----|---  
   
 You can possibly import a resource to the **User Resources**.
 
 ![](../res/picture.png)
 
-Choosing Pictures : Detailed Procedure
+### Choosing Pictures : Detailed Procedure
 
   * [Resources](resources)
 
-Modifying the Temporalboxes Appearance
+### Modifying the Temporalboxes Appearance
 
   * [Temporalboxes Appearance](Appearance)
 
 ## Connections
 
-Showing / Hiding Connections
+### Showing / Hiding Connections
 
-Connections can be hidden or shown, depending whether the semantic structure
-of the program has to be revealed or not.
+Connections can be hidden or shown, depending whether the semantic structure of the program has to be revealed or not.
 
-To show or hide connections, `Ctrl` / right click on a box and choose `Show /
-Hide Connections`.
+To show or hide connections, `Ctrl` / right click on a box and choose `Show / Hide Connections`.
 
-Colour
+### Colour
 
 ![](../res/colour.png)
-
-|
 
 To modify the colour of the connections between Temporalboxes :
 
@@ -94,13 +80,9 @@ To modify the colour of the connections between Temporalboxes :
 
   2. press `c`.
 
-  
-  
----|---  
-  
-References :
+ 
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -131,7 +113,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Editor "page précédente\(The Maquette
-Editor\)") | [Next](Grid%20and%20Rulers "Next\(Rulers
-and Grid\)")
+Navigation : [Previous](Editor "\(The Maquette Editor\)") | [Next](Grid%20and%20Rulers "\(Rulers and Grid\)")
 

@@ -1,32 +1,26 @@
-Navigation : [Previous](MaquetteValue "page précédente\(Sub
-Maquettes\)") | [Next](Editor "Next\(The Maquette
-Editor\)")
+Navigation : [Previous](MaquetteValue "\(Sub Maquettes\)") | [Next](Editor "\(The Maquette Editor\)")
 
 
 # Instances
 
 ## Instance Boxes and Factory Boxes
 
-Dropping an instance or factory box in a maquette editor automatically
-generates a copy in this editor.
+Dropping an instance or factory box in a maquette editor automatically generates a copy in this editor.
 
-Copies of factory boxes and instances can be modified via this editor, without
-affecting the master item.
+Copies of factory boxes and instances can be modified via this editor, without affecting the master item.
 
 ![Instances modified in the maquette editor.](../res/modfisinstance.png)
-
-Instances modified in the maquette editor.
+*Instances modified in the maquette editor.*
 
 ## Global Variables
 
-Conversely, modifications of global variables have an effect on all their
-representations, like in patches.
+Conversely, modifications of global variables have an effect on all their representations, like in patches.
 
 ![](../res/modifglob1.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -60,7 +54,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](MaquetteValue "page précédente\(Sub
-Maquettes\)") | [Next](Editor "Next\(The Maquette
-Editor\)")
+Navigation : [Previous](MaquetteValue "\(Sub Maquettes\)") | [Next](Editor "\(The Maquette Editor\)")
 

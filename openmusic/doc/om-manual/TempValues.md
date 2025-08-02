@@ -1,15 +1,12 @@
-
-Navigation : [Previous](Appearance "page précédente\(Temporalboxes
-Appearance\)") | [Next](PatchValue "Next\(Patches\)")
+Navigation : [Previous](Appearance "\(Temporalboxes Appearance\)") | [Next](PatchValue "\(Patches\)")
 
 # TemporalBoxes Value
 
-Each box in the maquette has a value. This value can be a musical value and/or
-a simple computational value.
+Each box in the maquette has a value. This value can be a musical value and/or a simple computational value.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -43,6 +40,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Appearance "page précédente\(Temporalboxes
-Appearance\)") | [Next](PatchValue "Next\(Patches\)")
+Navigation : [Previous](Appearance "\(Temporalboxes Appearance\)") | [Next](PatchValue "\(Patches\)")
 
