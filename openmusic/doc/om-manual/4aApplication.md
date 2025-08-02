@@ -1,7 +1,7 @@
 Navigation : [Previous](4_MusicalAp "\(A Musical Application\)") | [Next](4bApplication "\(Creating an Instance\)")
 
 
-# The Chord Object - & Musical Objects in General -
+# The Chord Object - & Musical Objects in General 
 
 ###Covered Topics
 

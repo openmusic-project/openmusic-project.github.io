@@ -4,8 +4,6 @@ Patch\)")
 
 # Starting a Session
 
-
-
 ##Covered Topics
 
   * Launching OM, creating and locating a workspace. The working environment : **workspace** and **OMListener** windows
@@ -16,7 +14,6 @@ Patch\)")
 <video width="640" height="480" controls>
   <source src="../videos/1StartSession.mp4" type="video/mp4">
 </video>
-
 
 ##Keywords
 
@@ -30,7 +27,6 @@ See also
   * [Windows of the OM Environment](MainWindows)
 
 ##References :
-
 
 1.  Patch
 
