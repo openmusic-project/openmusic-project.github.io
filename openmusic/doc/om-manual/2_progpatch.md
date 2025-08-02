@@ -2,7 +2,7 @@ Navigation : [Previous](1_StartSession "\(Starting a Session\)") | [Next](3Manip
 
 # Programming a Simple Patch
 
-###Covered Topics
+### Covered Topics
 
   * Adding a patch in the workspace, naming and opening it.
   * Programming an addition with the  om+ function: access, manipulations and morphology, inputting values
@@ -14,7 +14,7 @@ Navigation : [Previous](1_StartSession "\(Starting a Session\)") | [Next](3Manip
 </video>
 
 
-###Keywords
+### Keywords
 
 Function[2], Om Function[3], Argument[4], Evaluation [1]
 
@@ -28,7 +28,7 @@ See also:
   * [Connections](Connections)
   * [Evaluation](Evaluation)
 
-##References :
+## References :
 
   1. Evaluation
 
@@ -56,7 +56,7 @@ belong to Lisp.
 An argument represents a parameter upon which a function operates. For
 instance, the (om+ x y) function has two arguments : x and y.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

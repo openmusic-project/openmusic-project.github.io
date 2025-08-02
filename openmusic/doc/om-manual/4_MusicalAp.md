@@ -2,7 +2,7 @@ Navigation : [Previous](3ManipPatch "\(Manipulating the Patch\)") | [Next](4aApp
 
 # A Musical Application : Transposing a Chord with Om+
 
-##Sub-sections :
+## Sub-sections :
 
   * [Chord & Musical Objects](4aApplication)
   * [Creating an Instance](4bApplication)
@@ -10,7 +10,7 @@ Navigation : [Previous](3ManipPatch "\(Manipulating the Patch\)") | [Next](4aApp
   * [Materializing Results](4dApplication)
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

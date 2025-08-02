@@ -3,7 +3,7 @@ Navigation : [Previous](4aApplication "\(Chord & Musical Objects\)") | [Next](4c
 
 # Creating an Instance
 
-###Covered Topics
+### Covered Topics
 
   * Parametric values : pitches, dynamics... how to define a chord
 
@@ -16,7 +16,7 @@ Navigation : [Previous](4aApplication "\(Chord & Musical Objects\)") | [Next](4c
 </video>
 
 
-###Good to Know
+### Good to Know
 
   1. What is a list ?
 
@@ -28,7 +28,7 @@ parenthesis**. In a list, **each element** itself is an **atom** , or a
 
 A semitone is equal to **100 midicents**
 
-###Keywords
+### Keywords
 
 Evaluation[1]
 
@@ -40,7 +40,7 @@ See also:
   * [Box Inputs](BoxInputs)
   * [Evaluation](Evaluation)
 
-##References :
+## References :
 
   1. Evaluation
 
@@ -53,7 +53,7 @@ triggers the calculus that will determine the value of these expressions.
 Any kind of box can be evaluated and return something. To evaluate a box, ⤷
 Click and press `v` or `Cmd` click on an outlet.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

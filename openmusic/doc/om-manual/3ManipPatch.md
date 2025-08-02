@@ -2,7 +2,7 @@ Navigation : [Previous](2_progpatch "\(Programming a Simple Patch\)") | [Next](4
 
 # Manipulating the Patch in the Workspace
 
-###Covered Topics
+### Covered Topics
 
   * Naming, duplicating and storing the patch
 
@@ -21,7 +21,7 @@ See also:
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

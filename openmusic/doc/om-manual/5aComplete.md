@@ -3,7 +3,7 @@ Navigation : [Previous](5_CompletEdition "\(Manipulating and Visualizing Objects
 
 # Manipulating the Chord Box
 
-###Covered Topics
+### Covered Topics
 
   * Protecting the chord
 
@@ -24,7 +24,7 @@ See also:
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

@@ -74,7 +74,7 @@ General Issues with Lambda Functions
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

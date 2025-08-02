@@ -4,7 +4,7 @@ Navigation : [Previous](5dComplete "\(Comments\)")
 
 # Saving and Quitting OM
 
-###Covered Topics
+### Covered Topics
 
   * Closing a patch
 
@@ -22,7 +22,7 @@ See also:
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

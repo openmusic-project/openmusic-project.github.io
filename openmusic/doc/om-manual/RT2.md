@@ -18,9 +18,7 @@ Elementary Proportions Lists
 
 |
 
-Rhythm trees can also be expressed with simple proportion lists, which ignore
-the duration and time signature levels. At a basic level, OM always interprets
-proportions according to two criteria :
+Rhythm trees can also be expressed with simple proportion lists, which ignore the duration and time signature levels. At a basic level, OM always interprets proportions according to two criteria :
 
   * ![](../res/ronde_icon.png) = 1
   * Time signature = 4/4.
@@ -29,10 +27,7 @@ proportions according to two criteria :
   
 ---|---  
   
-This way of writing rhythm trees can lead to very interesting processes in the
-manipulation of temporality. A given rhythmic structure can be modified or
-read according to various beats patterns, by associating given proportions to
-more or less sophisticated functions or programs.
+This way of writing rhythm trees can lead to very interesting processes in the manipulation of temporality. A given rhythmic structure can be modified or read according to various beats patterns, by associating given proportions to more or less sophisticated functions or programs.
 
 ![](../res/props3.png)
 
@@ -49,8 +44,7 @@ In both cases, OM renders an approximation of the rhythm tree.
 
 The MakeTree function
 
-The  ** mktree ** function allows to associate a list of proportions to a list
-of time signatures.
+The  ** mktree ** function allows to associate a list of proportions to a list of time signatures.
 
   * If a list contains a single time signature, the rhythmic pattern is extended as much as required by the duration of the tree.
   * If a list contains several time signatures, each time signature is valid for one measure only, so that the rhythm may remain incomplete. 
@@ -93,18 +87,13 @@ Add **.0** to create a tie with the previous note.
 
 Automatic Notation
 
-Dotted values are "naturally" expressed by relevant proportions, in the case
-of "binary" time signatures - n/ 4, n/ 2, n/1 -, or elementary ternary time
-signatures - 3/8, 3/16.
+Dotted values are "naturally" expressed by relevant proportions, in the case of "binary" time signatures - n/ 4, n/ 2, n/1 -, or elementary ternary time signatures - 3/8, 3/16.
 
 ![](../res/dot1.png)
 
 Constraints
 
-In other cases - 6/8 and its paradigm -, OM's behaviour doesn't always apply
-the conventions of traditional notation. Proportions can be expressed with
-different but equivalent rhythmic notations, depending on the values used in
-rhythm trees.
+In other cases - 6/8 and its paradigm -, OM's behaviour doesn't always apply the conventions of traditional notation. Proportions can be expressed with different but equivalent rhythmic notations, depending on the values used in rhythm trees.
 
   * The quarter note being the default beat value, ternary notation is adapted to the use of the quarter note and its multiples. In other words, OM privileges the use of tuplets, rather than that of dotted values.
   * To get dotted values in a ternary time signature, use multiples of 3 to express proportions. 
@@ -115,17 +104,13 @@ rhythm trees.
 
 ![](../res/treefunctions.png)
 
-|
 
-A set of functions dedicated to rhythm tree is available in the `Functions /
-Score / Trees` menu. For thorough information about these functions, refer the
-online documentation.  
-  
----|---  
-  
-References :
 
-Contents :
+A set of functions dedicated to rhythm tree is available in the `Functions / Score / Trees` menu. For thorough information about these functions, refer the online documentation.  
+  
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

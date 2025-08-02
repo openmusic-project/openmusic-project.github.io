@@ -2,7 +2,7 @@ Navigation : [Previous](4dApplication "\(Materializing Results\)") | [Next](5aCo
 
 # Manipulating and Visualizing Objects
 
-##Sub-sections :
+## Sub-sections :
 
   * [Manipulating the Chord Box](5aComplete)
   * [Completing the Edition](5bComplete)
@@ -11,7 +11,7 @@ Navigation : [Previous](4dApplication "\(Materializing Results\)") | [Next](5aCo
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

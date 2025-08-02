@@ -3,7 +3,7 @@ Navigation : [Previous](5cComplete "\(Listening to Microintervals\)") | [Next](6
 
 # Comments
 
-###Covered Topics
+### Covered Topics
 
   * Adding and manipulating a comment box
 
@@ -13,7 +13,7 @@ Navigation : [Previous](5cComplete "\(Listening to Microintervals\)") | [Next](6
   <source src="../videos/5dChord.mp4" type="video/mp4">
 </video>
 
-###Keyword
+### Keyword
 
 Contextual menu[1]
 
@@ -24,7 +24,7 @@ See also:
   * [Comments](Comments)
   * [Preferences](Preferences)
 
-##References :
+## References :
 
   1. Contextual menu
 
@@ -32,7 +32,7 @@ A pop up menu that allows to choose actions to be performed upon an object.
 
 ⤷ `Ctrl` click or right click in an OM window or on one of its item.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

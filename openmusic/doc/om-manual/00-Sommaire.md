@@ -3,7 +3,7 @@ User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 
 # Introduction
 
-##Sub-sections :
+## Sub-sections :
 
   * [OpenMusic Presentation](01-Presentation)
   * [Additional Information](02-SupportAndPubs)
@@ -11,7 +11,7 @@ User Manual\)") | [Next](01-Presentation "\(OpenMusic Presentation\)")
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

@@ -4,7 +4,7 @@ Patch\)")
 
 # Starting a Session
 
-##Covered Topics
+### Covered Topics
 
   * Launching OM, creating and locating a workspace. The working environment : **workspace** and **OMListener** windows
 
@@ -15,7 +15,7 @@ Patch\)")
   <source src="../videos/1StartSession.mp4" type="video/mp4">
 </video>
 
-##Keywords
+### Keywords
 
 Patch[1], Workspace[2], Listener[3]
 
@@ -26,7 +26,7 @@ See also
   * [Going Through an OM Session](Goingthrough)
   * [Windows of the OM Environment](MainWindows)
 
-##References :
+## References :
 
 1.  Patch
 
@@ -42,7 +42,7 @@ OpenMusic's working environment. Each session starts with choosing a workspace, 
 
 A Lisp communication interface displaying results of computations, warnings or error messages, and where Lisp expressions - programs - can be evaluated.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

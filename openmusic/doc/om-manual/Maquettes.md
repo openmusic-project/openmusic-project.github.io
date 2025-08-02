@@ -24,7 +24,7 @@ A maquette contains specific boxes :  **TemporalBoxes** , which have a number of
 
 To a certain extent, the maquette can be considered a patch.
 
-##References :
+## References :
 
   1. Container
 
@@ -33,7 +33,7 @@ including other containers as well. For instance, a chord-seq that contains
 chords, a chord that contains notes, a maquette that contains temporal
 objects, etc.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

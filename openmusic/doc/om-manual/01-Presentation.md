@@ -2,7 +2,7 @@ Navigation : [Previous](00-Contents "\(Introduction\)") | [Next](02-SupportAndPu
 
 # OpenMusic Presentation
 
-###Contents
+### Contents
 
   1. Visual Programs
   2. List Processing
@@ -68,7 +68,7 @@ Some functions, called ** generic functions **, consist of a set of
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

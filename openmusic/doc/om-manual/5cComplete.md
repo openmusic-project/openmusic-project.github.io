@@ -3,7 +3,7 @@ Navigation : [Previous](5bComplete "\(Completing the Edition\)") | [Next](5dComp
 
 # Listening to Microintervals
 
-###Covered Topics
+### Covered Topics
 
   * An overview of the Microplayer application
 
@@ -22,7 +22,7 @@ See also:
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

@@ -3,7 +3,7 @@ Navigation : [Previous](4bApplication "\(Creating an Instance\)") | [Next](4dApp
 
 # Formalizing the Transposition Process
 
-###Covered Topics
+### Covered Topics
 
   * Explication of the process, objects and concepts
 
@@ -17,7 +17,7 @@ Navigation : [Previous](4bApplication "\(Creating an Instance\)") | [Next](4dApp
 </video>
 
 
-###Keywords
+### Keywords
 
 List[1], Atom[2]
 
@@ -28,7 +28,7 @@ See also:
   * [Documentation and Info](DocAndInfo)
   * [Boxes](Boxes)
 
-##References :
+## References :
 
   1. List
 
@@ -41,7 +41,7 @@ See also : Atom.
 
 An elementary item, number, symbol, string. An atom can be part of a list.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

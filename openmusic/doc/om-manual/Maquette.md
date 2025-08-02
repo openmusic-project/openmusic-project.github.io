@@ -5,7 +5,7 @@ Navigation : [Previous](Maquettes "page précédente\(Maquettes\)")
 # Creating a Maquette
 
 
-###Contents
+### Contents
 
   1. General Features
   2. Creating General Maquettes
@@ -38,7 +38,7 @@ See also:
 
 ## General Features
 
-###General and Local Maquetttes
+### General and Local Maquetttes
 
 **General maquettes** can be :
 
@@ -48,7 +48,7 @@ See also:
 ** Local ** **maquettes** can be added directly into a patch like an internal
 abstraction.
 
-###Using Maquettes in Other Maquettes
+### Using Maquettes in Other Maquettes
 
 Maquettes can also be used within other maquettes, according to similar
 principles :
@@ -56,14 +56,14 @@ principles :
   * an existing maquette can be dropped and used into another maquette.
   * a maquette can be created directly within another maquette.
 
-###Conversions
+### Conversions
 
 Last, like blue and red patches again, general maquettes can be ** converted
 ** into local maquettes, and vice-versa.
 
 ## Creating General Maquettes
 
-###Procedure
+### Procedure
 
 ![](../res/maquetteinwksp.png)
 
@@ -79,7 +79,7 @@ To add a maquette in a workspace :
   * press `Cmd` \+ `2`
 
   
-###Maquette Files
+### Maquette Files
 
 General maquettes are persistent files that can be manipulated like patches.
 They can be :
@@ -129,7 +129,7 @@ General maquettes can be converted into internal maquettes, and reciprocally, in
   
 
   
-###Patch Conversion Procedures
+### Patch Conversion Procedures
 
   * [Conversions](AbsConversion)
 
@@ -138,7 +138,7 @@ General maquettes can be converted into internal maquettes, and reciprocally, in
 This use of maquettes mostly sets forth a number of specificities dealing with
 the use of TemporalBoxes[1].
 
-###Creating and Using Objects within Maquettes
+### Creating and Using Objects within Maquettes
 
   * [Maquette Programming](Programming%20Maquette)
   * [TemporalBoxes](TemporalBoxes)
@@ -153,13 +153,13 @@ To save a maquette :
 
 The `Last Saved` command allows to reset the maquette to its last saved version.
 
-##References :
+## References :
 
   1. TemporalBox
 
 A TemporalBox refers to an object in a maquette : an instance, a patch, or another maquette.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

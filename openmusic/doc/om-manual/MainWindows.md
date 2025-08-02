@@ -4,7 +4,7 @@ suivante\(Preferences\)")
 
 # Windows of the OM Environment
 
-###Contents
+### Contents
 
   1. Workspace Window
   2. Lisp Listener
@@ -122,13 +122,13 @@ More Information about the Lisp Editor :
   * [Lisp Programming](Lisp)
     * [Reactive mode](Reactive)
 
-##References :
+## References :
 
   1. Package
 
 Contains functions or classes components belonging to a common category of programming items. Packages are provided at the installation of OM, but they can also be loaded dynamically or added by the user.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

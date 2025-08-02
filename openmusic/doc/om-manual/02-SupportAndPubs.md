@@ -2,7 +2,7 @@ Navigation : [Previous](01-Presentation "\(OpenMusic Presentation\)") | [Next](0
 
 # Additional Supports and Publications
 
-###Contents
+### Contents
 
   1. OpenMusic website
   2. Discussion Groups
@@ -27,7 +27,7 @@ Discussion forum on IRCAM forumnet
 [http://forumnet.ircam.fr/](https://discussion.forum.ircam.fr/c/openmusic/42"https://discussion.forum.ircam.fr/c/openmusic/42\(nouvelle fenêtre\)")
 
 
-##Bug reports
+## Bug reports
 
 [Report on GitHub](https://github.com/openmusic-project/openmusic/issues "https://github.com/openmusic-project/openmusic/issues \(nouvelle
 fenêtre\)")
@@ -50,7 +50,7 @@ Editions Delatour France - IRCAM Centre Pompidou.
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

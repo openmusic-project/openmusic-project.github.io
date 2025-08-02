@@ -10,7 +10,7 @@ In OpenMusic _Rhythm Trees_ are used mostly with the VOICE object. There are man
 
 An even more practical and efficient way is to use the _RT_ editor. First choose either voice or measure selector in your VOICE editor, then select the whole voice or a particular measure then type 'r'
 
-![](../res/omrt/024.png){: width="60%"}
+![](../res/omrt/024.png){ :width="60%"}
 
 ## Selection Tools
 
@@ -28,7 +28,7 @@ into account for choosing the appropriate tool in the palette.
 
 ## Entering Chords and Notes
 
-###Adding and Deleting Measures
+### Adding and Deleting Measures
 
   * To add measures in a poly :
 
@@ -38,7 +38,7 @@ into account for choosing the appropriate tool in the palette.
 
   * To delete one or several selected measures, press `Backspace`.
 
-###Converting Silences into Notes
+### Converting Silences into Notes
 
 ![](../res/splitsilence.png)
 
@@ -69,7 +69,7 @@ To split a silence or a note  into a group of equal values :
   
   
   
-###Adding Notes to Chords
+### Adding Notes to Chords
 
 Select the note or the chord tool and `Cmd` click on a chord.
 
@@ -85,13 +85,13 @@ Use the `<-` and `->` keys to reach the desired chord and press `ENTER` .
   
 ## Manipulating
 
-###Chords
+### Chords
 
 To tie successive chords, press `=` .
 
 To untie them, press `/` .
 
-###Groups
+### Groups
 
 To get a group :
 
@@ -121,7 +121,7 @@ To break an existing group :
   
 
   
-###Durations
+### Durations
 
 To merge successive chords into one longer chord :
 
@@ -137,7 +137,7 @@ The duration of the resulting chord is equal to the sum of the merged chords.
   
 
   
-###Move Staff
+### Move Staff
 
 ![](../res/movestaffvoice.png)
 
@@ -147,7 +147,7 @@ To move a staff up or down :
 
   2. use the `↓` `↑` keys.
 
-##Staff, Voices and Measures
+## Staff, Voices and Measures
 
 To apply modifications to a whole voice or measure, select the voice tool
 ![](../res/voicet_icon.png) or the measure tool ![](../res/mesbutton_icon.png)
@@ -157,12 +157,12 @@ voice, for instance.
 
 ![Transposing an entire voice.](../res/voice%20tool.png)
 
-###Transposing an entire voice.
+### Transposing an entire voice.
 
 Note that if a voice consists of several staves,  a selection with the voice
 tool applies to the whole group of staves.
 
-###Groups
+### Groups
 
 ![The second mesure of the first voice shows three groups levels nested within
 each other.](../res/groupdelete.png)
@@ -200,7 +200,7 @@ no group.
   
   
   
-###Modifying Groups From the Rhythm Tree Input
+### Modifying Groups From the Rhythm Tree Input
 
 Groups can be edited directly  from the editor tree editor: 
 
@@ -208,26 +208,22 @@ Groups can be edited directly  from the editor tree editor:
 
 2. Press 'r'
 
-![](../res/editgroup1.jpg){: width="60%"}
+![](../res/editgroup1.jpg){ :width="60%"}
 
 3. Modify your rhythm (in this example we will transform the triplet into a quintuplet)
 
-![](../res/editgroup2.jpg){: width="60%"}
+![](../res/editgroup2.jpg){ :width="60%"}
 
 4. Press the 'set' button in the tree editor
 
 Now the triplets were transformed into quintuplets:
 
 
-![](../res/editgroup3.jpg){: width="60%"}
+![](../res/editgroup3.jpg){ :width="60%"}
  
  
 
-
-
-References :
-
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

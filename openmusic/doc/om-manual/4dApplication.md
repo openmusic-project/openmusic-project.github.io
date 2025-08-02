@@ -3,7 +3,7 @@ Navigation : [Previous](4cApplication "\(Formalizing a Process\)") | [Next](5_Co
 
 # Materializing Results
 
-###Covered Topics
+### Covered Topics
 
   * Connecting and evaluating boxes
   * Using the "self" and "pitch" chord inputs 
@@ -22,7 +22,7 @@ See also:
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

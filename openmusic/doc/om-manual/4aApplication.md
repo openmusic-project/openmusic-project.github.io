@@ -3,7 +3,7 @@ Navigation : [Previous](4_MusicalAp "\(A Musical Application\)") | [Next](4bAppl
 
 # The Chord Object - & Musical Objects in General 
 
-###Covered Topics
+### Covered Topics
 
   * **Class** , **factory box** and **instance** concepts
 
@@ -19,7 +19,7 @@ Navigation : [Previous](4_MusicalAp "\(A Musical Application\)") | [Next](4bAppl
 </video>
 
 
-###Keywords
+### Keywords
 
 Class[1], Object[2], FactoryBox[3], Instance[4], Offset[5]
 
@@ -32,7 +32,7 @@ See also:
   * [Basic Tools](BasicObjects)
   * [Notes, Chords and Chord-Seqs](Note-Chord-Chord-seq)
 
-##References :
+## References :
 
   1. Class
 
@@ -78,7 +78,7 @@ Temporal position of an object.
 
 In a chord, each note can have a specific offset.
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

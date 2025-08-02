@@ -285,7 +285,7 @@ What are the basis to start using OM ?
 
 
 
-##Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
