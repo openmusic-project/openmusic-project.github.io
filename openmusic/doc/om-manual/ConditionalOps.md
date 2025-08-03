@@ -1,34 +1,26 @@
-
-Navigation : [Previous](PredExample "page précédente\(In
-Practice\)") | [Next](OMIF "Next\(OMif\)")
+Navigation : [Previous](PredExample "\(In Practice\)") | [Next](OMIF "\(OMif\)")
 
 # Conditional Operators
 
-Conditional Operators
 
-Conditional operators execute an operation if one or more preconditions are
-fulfilled. If these conditions are not fulfilled, they can possibly execute
-another operation.
 
-OM offers two conditional operators : ** omif ** and ** **conditional** **,
-which operate according to the following paradigm : "IF A, THEN do B, ELSE do
-C".
+Conditional operators execute an operation if one or more preconditions are fulfilled. If these conditions are not fulfilled, they can possibly execute another operation.
 
-Note : "A" can be the result of another opration or a condition defined by a
-predicate.
+OM offers two conditional operators : **omif ** and **conditional**, which operate according to the following paradigm : "IF A, THEN do B, ELSE do C".
 
-About Predicates :
+**Note :** "A" can be the result of another operation or a condition defined by a predicate.
+
+**About Predicates :**
 
   * [Predicates : Testing Relations and Properties](Predicates)
 
-To access the omif and conditional operators, select a menu item in the
-`Kernel / Control` menu.
+To access the omif and conditional operators, select a menu item in the `Kernel / Control` menu.
 
 ![](../res/controlmenu.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -64,6 +56,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](PredExample "page précédente\(In
-Practice\)") | [Next](OMIF "Next\(OMif\)")
+Navigation : [Previous](PredExample "\(In Practice\)") | [Next](OMIF "\(OMif\)")
+
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](LambdaPatch "page précédente\(Lambda
-Patches\)") | [Next](Control "Next\(Control
-Structures\)")
+Navigation : [Previous](LambdaPatch "\(Lambda Patches\)") | [Next](Control "\(Control Structures\)")
 
 
 # Lambda Mode Examples: Test Functions
@@ -108,17 +106,18 @@ General Issues with Lambda Functions
 
   * [Higher-Order Programs and Functions](HighOrder)
 
-References :
+## References :
 
-  1. Modulo
+  *[1] Modulo
 
-In computing, the modulo operation finds the **remainder** of division of one
-number by another. If two numbers,  a and  b , when divided by the same  n
-**divisor** , have the same remainder, they are **" equal modulo  n ".**
+In computing, the modulo operation finds the **remainder** of division of one number by another. If two numbers,  a and  b , when divided by the same  n **divisor** , have the same remainder, they are **" equal modulo  n ".**
 
+```
 -> If remainder ( a  /  n ) = remainder ( b /  n ),  a =  b , modulo  n . 
 
-Contents :
+```
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -152,7 +151,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LambdaPatch "page précédente\(Lambda
-Patches\)") | [Next](Control "Next\(Control
-Structures\)")
+Navigation : [Previous](LambdaPatch "\(Lambda Patches\)") | [Next](Control "\(Control Structures\)")
+
 

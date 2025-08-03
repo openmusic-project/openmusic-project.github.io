@@ -1,54 +1,43 @@
-Navigation : [Previous](Mapcar "page précédente\(Mapcar -
-Iterations\)") | [Next](LambdaTest "Next\(Test
-Functions\)")
+Navigation : [Previous](Mapcar "\(Mapcar - Iterations\)") | [Next](LambdaTest "\(Test Functions\)")
 
 
 # Lambda Mode Examples: Lambda Patches
 
-Predefined functions on "lambda" mode may not always be adapted for higher-
-order processes. [Patch boxes](AbsBoxes) can also be set on [ "lambda"
-evaluation mode](LambdaMode) : they can represent more flexible
-functional arguments.
+Predefined functions on "lambda" mode may not always be adapted for higher-order processes. [Patch boxes](AbsBoxes) can also be set on [ "lambda" evaluation mode](LambdaMode) : they can represent more flexible functional arguments.
 
-**Any patch** designed to process data can be used as a lambda function and
-perform its process in a higher-order function.
+**Any patch** designed to process data can be used as a lambda function and perform its process in a higher-order function.
 
-Example
+**Example:**
 
 [![](../res/expatch_1.png)](../res/expatch.png "Cliquez pour agrandir")
 
-|
 
-This patch converts a frequency (Hz) in a midicent value and rounds it to the
-closest fraction of a tone expressed in midicents. Note that a tone represents
-200 midicents.
+
+This patch converts a frequency (Hz) in a midicent value and rounds it to the closest fraction of a tone expressed in midicents. Note that a tone represents 200 midicents.
 
   * The frequency value is assigned to the first input.
 
   * The fraction is defined in the second input. 
 
-In this case, 479Hz = 7048. This value is rounded to the closest 1/4 tone,
-that is, 200/4 = 50.  
+In this case, 479Hz = 7048. This value is rounded to the closest 1/4 tone, that is, 200/4 = 50.  
   
----|---  
-  
-The same patch box can be used on lambda mode with  mapcar in order to process
-a list of input values.  Mapcar applies a function to the items of one or more
-lists, successively.
 
-|
+  
+The same patch box can be used on lambda mode with  mapcar in order to process a list of input values.  Mapcar applies a function to the items of one or more lists, successively.
+
+
 
 ![](../res/patch-mapcar.png)  
   
----|---  
+
   
-The mapcar function
+**The mapcar function:**
 
-  * [Lambda Mode Examples: Mapcar \- Iterations](Mapcar)
+  * [Lambda Mode Examples: Mapcar - Iterations](Mapcar)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -82,7 +71,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Mapcar "page précédente\(Mapcar -
-Iterations\)") | [Next](LambdaTest "Next\(Test
-Functions\)")
+Navigation : [Previous](Mapcar "\(Mapcar - Iterations\)") | [Next](LambdaTest "\(Test Functions\)")
 

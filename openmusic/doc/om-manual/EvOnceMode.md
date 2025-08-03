@@ -1,17 +1,12 @@
-
-Navigation : [Previous](LockMode "page précédente\(Lock Mode\)") |
-[Next](LambdaMode "Next\(Lambda Mode\)")
+Navigation : [Previous](LockMode "\(Lock Mode\)") | [Next](LambdaMode "\(Lambda Mode\)")
 
 # Evaluate-Once Mode
 
 ## Properties
 
-Use
+### Usage
 
-[1]A box on "evaluate-once" mode is locked at each user-evaluation[2] after
-the **first internal evaluation**. It remains locked for all subsequent
-internal-evaluations[1]. When the **next user-evaluation** takes place, the
-box is evaluated again.
+A box on "evaluate-once" mode[1] is locked at each user-evaluation[2] after the **first internal evaluation**. It remains locked for all subsequent internal-evaluations[1]. When the **next user-evaluation** takes place, the box is evaluated again.
 
 A box on "eval-once" mode is evaluated once, and only once. This is valid :
 
@@ -21,53 +16,42 @@ A box on "eval-once" mode is evaluated once, and only once. This is valid :
 
   * for all upstream connected boxes.
 
-Multiple Internal Evaluations
+### Multiple Internal Evaluations
 
-A box connected to several downstream boxes can be  evaluated several times at
-a single evaluation : in this case, reproducing the evaluation of a box can be
-either useless and lengthy. It can also be or a source of miscalculation,
-when a box is likely to return different results , while it must return the
-same values to all connected boxes.
+A box connected to several downstream boxes can be  evaluated several times at a single evaluation : in this case, reproducing the evaluation of a box can be either useless and lengthy. It can also be or a source of miscalculation, when a box is likely to return different results , while it must return the same values to all connected boxes.
 
-A box set on "evaluate-once" mode returns the same values to all the boxes it
-is connected to at a single evaluation.
+A box set on "evaluate-once" mode returns the same values to all the boxes it is connected to at a single evaluation.
 
-Procedure
+### Procedure
 
-To set a box on "once" mode, press `b` and click on the upper left cross once.
-A small ![](../res/oneicon_icon.png) icon appears.
+To set a box on "once" mode, press `b` and click on the upper left cross once. A small ![](../res/oneicon_icon.png) icon appears.
 
 ## Example
 
 ![](../res/evalonce11.png)
 
-|
 
-In the example below, the output of om-random is connected to the two inputs
-of list. In both cases, om-random returns a different value every time is is
-called. But :
+In the example above, the output of **om-random** is connected to the two inputs of list. In both cases, om-random returns a different value every time is called. But :
 
-  * when the evaluation mode is not specified,  **one** **** user evaluation of list triggers t **wo** internal evaluations of om-random, that is, one per input of the list function ;
+  * when the evaluation mode is not specified,  **one**  user evaluation of list triggers  **two** internal evaluations of **om-random**, that is, one per input of the list function.
 
   * on "once" mode, ** one ** user evaluation triggers a ** single ** internal evaluation, and both inputs of list get the same value. 
 
   
   
----|---  
+
   
-References :
+## References :
 
-  1. Internal Evaluation
+  *[1] Internal Evaluation
 
-Evaluation of a box by OM, triggered by a user evaluation, or by the internal
-evaluation of an upstream box connected to it.
+Evaluation of a box by OM, triggered by a user evaluation, or by the internal evaluation of an upstream box connected to it.
 
-  2. User Evaluation
+  *[2] User Evaluation
 
-A user evaluation triggers one or more internal evaluation of the box and of
-possible upstream boxes connected to it.
+A user evaluation triggers one or more internal evaluation of the box and of possible upstream boxes connected to it.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -101,6 +85,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LockMode "page précédente\(Lock Mode\)") |
-[Next](LambdaMode "Next\(Lambda Mode\)")
+Navigation : [Previous](LockMode "\(Lock Mode\)") | [Next](LambdaMode "\(Lambda Mode\)")
 

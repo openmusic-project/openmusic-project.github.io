@@ -1,6 +1,4 @@
-Navigation : [Previous](Predicates "page
-précédente\(Predicates\)") | [Next](PredTypes "page
-suivante\(Type Predicates\)")
+Navigation : [Previous](Predicates "\(Predicates\)") | [Next](PredTypes "\(Type Predicates\)")
 
 
 # Comparison Predicates
@@ -10,132 +8,60 @@ symbols, characters, words, and so on.
 
 ## Comparing Numbers
 
-Common Algebraic Predicates
+### Common Algebraic Predicates
 
 Comparing numbers is a widespread use of predicates in OM.
 
-Some algebraic predicates can be accessed via the `Functions / Kernel /
-Control` menu. Like other functions, they can also be added in a patch editor
-by typing their name.
+Some algebraic predicates can be accessed via the `Functions / Kernel / Control` menu. Like other functions, they can also be added in a patch editor by typing their name.
 
-|
+
 
 [![](../res/menupredicats_1.png)](../res/menupredicats.png "Cliquez pour
 agrandir")  
   
----|---  
   
 Here is a non exhaustive presentation of OM algebraic predicates:
 
-Predicate
+| Predicate | Write | Test  |
+|--|--|--|
+| ![](../res/pred9_icon.png) |OM=  |A equal to B ?  |
+|![](../res/pred3_icon.png)  |OM/=  | A different from B ?   |
+|![](../res/pred1_icon.png)  | OM<= |A inferior or equal to B ?    |
+| ![](../res/pred2_icon.png) | OM>= | A superior or equal to B ?   |
+| ![](../res/pred6_icon.png) |OM<  | A inferior to B ?   |
+| ![](../res/pred5_icon.png) |  OM>| A superior to B ?   |
 
-|
 
-Write
 
-|
-
-Test  
-  
----|---|---  
-  
-![](../res/pred9_icon.png)
-
-|
-
-OM=
-
-|
-
-A equal to B ?  
-  
-![](../res/pred3_icon.png)
-
-|
-
-OM/=
-
-|
-
-A different from B ?  
-  
-![](../res/pred1_icon.png)
-
-|
-
-OM<=
-
-|
-
-A inferior or equal to B ?  
-  
-![](../res/pred2_icon.png)
-
-|
-
-OM>=
-
-|
-
-A superior or equal to B ?  
-  
-![](../res/pred6_icon.png)
-
-|
-
-OM<
-
-|
-
-A inferior to B ?  
-  
-![](../res/pred5_icon.png)
-
-|
-
-OM>
-
-|
-
-A superior to B ?  
-  
-Equivalent Lisp predicates
+### Equivalent Lisp predicates
 
 There are equivalent Lisp predicates to OM predicates. They can be used
-directly in OM type the predicate name without "OM", for instance "=", ">=",
-etc.
+directly in OM type the predicate name without "OM", for instance "=", ">=", etc.
 
-They can sometimes offer ineteresting possibilities, as they accept more than
-two arguments.
+They can sometimes offer interesting possibilities, as they accept more than two arguments.
 
 ## Comparison Predicates and Non Algebraic Objects
 
-Lisp provides other predicates specifically dedicated to the comparison of
-other type of objects.
+Lisp provides other predicates specifically dedicated to the comparison of other type of objects.
 
-Some useful comparison predicates concern  strings - or "words"-. They allow
-to test if two strings are equal, considering the characters case or not,
-precedence in alphabetical order, etc.
+Some useful comparison predicates concern  strings - or "words"-. They allow to test if two strings are equal, considering the characters case or not, precedence in alphabetical order, etc.
 
-Here are examples of avalable string-predicates :
+Here are examples of available string-predicates :
 
   * string-equal ,  string=
 
   * string< ,  string>= ...
 
-|
 
-[![](../res/string-comp_1.png)](../res/string-comp.png "Cliquez pour
-agrandir")  
+
+[![](../res/string-comp_1.png)](../res/string-comp.png)  
   
----|---  
+
   
-String Predicates in Lisp
+### String Predicates in Lisp
 
 More information about string comparison in Lisp can be found
-[here](http://www.cs.cmu.edu/Groups/AI/cltl/clm/node166
-"http://www.cs.cmu.edu/Groups/AI/cltl/clm/node166 \(nouvelle
-fenêtre\)").
+[here](http://www.cs.cmu.edu/Groups/AI/cltl/clm/node166 "http://www.cs.cmu.edu/Groups/AI/cltl/clm/node166 \(nouvelle fenêtre\)").
 
 ## Equality Predicates
 
@@ -144,39 +70,25 @@ Application
 Equality predicates test if two items are **equal or not**. They apply to a
 broader range of data than the algebraic predicates.
 
-There are a number of equality predicates. Indeed, equality can encompass
-different concepts, depending on the type of object it is applied to.
+There are a number of equality predicates. Indeed, equality can encompass different concepts, depending on the type of object it is applied to.
 
-For instance, the character "a" is a **concept** that can be represented by
-several different glyphs - A, a, **a** - which can be considered identical or
-not, depending on the predicate.
+For instance, the character "a" is a **concept** that can be represented by several different glyphs - A, a, **a** - which can be considered identical or not, depending on the predicate.
 
-EQ is the the most specific predicate, and  EQUALP the most general :
+**EQ** is the the most specific predicate, and  **EQUALP** the most general :
 
-|
 
-Returns "t" if
+----------
+![](../res/lispeq_icon.png)  **returns "t" if:** 
 
-|
+  * Objects are the same identical object , and not only have the same value.
 
-Examples  
-  
----|---|---  
-  
-![](../res/lispeq_icon.png)
+This may have unpredictable results when testing numbers, for instance, since the underlying language may make internal copies of the numbers with same values.
 
-|
+* **Two objects with the same reference** are eq.
 
-  * **** Object are the  same identical object , and not only have the same value.
+Examples:
 
-This can have unpredictible results when testing numbers, for instance, since
-the underlying language may make internal copies of the numbers with same
-values.
-
-**Two objects with the same reference** are eq.
-
-|
-
+```
 eq 'A 'A -> t
 
 eq 'A 'a -> t
@@ -190,66 +102,48 @@ eq 2 2/1 -> t
 eq 2 2 -> t
 
 eq 2.5 2.5 -> nil  
-  
-|
 
-Returns "t" if
-
-|
-
-Examples  
-  
-![](../res/lispeql_icon.png)
-
-|
+```
+-----
+![](../res/lispeql_icon.png)  **returns "t" if:** 
 
   * Objects are  eq
 
   * Objects are numbers or characters with the same type and the same value .
 
-|
+Examples:
 
-eql 2.0 2.0 -> t
+```
+ eql 2.0 2.0 -> t
 
-eql 2.0 2 -> nil  
-  
-|
+ eql 2.0 2 -> nil  
 
-Returns "t" if
+```
+----
 
-|
+![](../res/lispequal_icon.png) **returns "t" if:** 
 
-Examples  
-  
-![](../res/lispequal_icon.png)
-
-|
 
   * Objects are **structurally similar**
 
   * Strings have **identical** glyphs
 
-|
+Examples:
 
+```
 equal (A (b) C) (a (B) c) -> t
 
-equal "A" "A" -> t
+ equal "A" "A" -> t
 
 equal "A" "a" ->nil
 
 equal 2.5 2.5 ->t  
-  
-|
+ 
+```
+------
 
-Returns "t" if
+![](../res/lispequalp_icon.png) **returns "t" if:** 
 
-|
-
-Examples  
-  
-![](../res/lispequalp_icon.png)
-
-|
 
   * Objects are eq, eql or equal
 
@@ -257,8 +151,7 @@ Examples
 
   * Strings have **similar** glyphs 
 
-|
-
+```
 equalp 2 2/1 -> t
 
 equalp 2.5 2.5 -> t
@@ -266,41 +159,36 @@ equalp 2.5 2.5 -> t
 equalp 2 2.0 -> t
 
 equalp "A" "a" -> t  
-  
-Equality Predicates in Lisp
 
-Equality predicates are **Lisp functions**. They may not be in the OM menus
-but can be added by typing their name directly in a patch editor.
+```
+---
+
+## Equality Predicates in Lisp
+
+Equality predicates are **Lisp functions**. They may not be in the OM menus but can be added by typing their name directly in a patch editor.
 
 More information about equality predicates in Common Lisp
 [here](http://www.cs.cmu.edu/Groups/AI/cltl/clm/node74
 "http://www.cs.cmu.edu/Groups/AI/cltl/clm/node74 \(nouvelle
 fenêtre\)").
 
-Numbers Equality
+### Numbers Equality
 
-As shown above, general equality predicates offer more specific options in the
-evaluation of **equality between** **numbers**. They consider the **value** of
-numbers, but also their **type** (integer, float, ratio, etc.) and the
-**internal Lisp object** they refer to.
+As shown above, general equality predicates offer more specific options in the evaluation of **equality between** **numbers**. They consider the **value** of numbers, but also their **type** (integer, float, ratio, etc.) and the **internal Lisp object** they refer to.
 
-Lisp Predicates and OM Functions
+### Lisp Predicates and OM Functions
 
-Many Lisp and OM functions need a predicate to operate. Some functions that
-perform operations upon lists, for instance, have a **default equality
-predicate** used for identifying similar items.
+Many Lisp and OM functions need a predicate to operate. Some functions that perform operations upon lists, for instance, have a **default equality predicate** used for identifying similar items.
 
-This predicate can be redefined to modify the behaviour of the function : a
-comparison predicate or a lambda function can be used for rejecting a given
-type of numbers, an so on.
+This predicate can be redefined to modify the behaviour of the function : a comparison predicate or a lambda function can be used for rejecting a given type of numbers, an so on.
 
-Using Lambda Functions as Predicates :
+**Using Lambda Functions as Predicates :**
 
   * [Lambda Mode Examples: Test Functions](LambdaTest)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -337,7 +225,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Predicates "page
-précédente\(Predicates\)") | [Next](PredTypes "page
-suivante\(Type Predicates\)")
+Navigation : [Previous](Predicates "\(Predicates\)") | [Next](PredTypes "\(Type Predicates\)")
 

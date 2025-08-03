@@ -1,39 +1,33 @@
-Navigation : [Previous](EvalModes "page précédente\(Evaluation
-Modes\)") | [Next](EvOnceMode "Next\(Evaluate-Once
-Mode\)")
+Navigation : [Previous](EvalModes "\(Evaluation Modes\)") | [Next](EvOnceMode "\(Evaluate-Once Mode\)")
 
 
 # Lock Mode
 
 ## Properties
 
-Use
+### Usage
 
 A locked box returns the last computed or edited value. Any parametric
 modification will be ineffective.
 
-Procedure
+### Procedure
 
-To set a box on "lock" mode, select it and press `b`. A small cross icon
-![](../res/cross_icon.png) appears on the upper left corner of the box.
+To set a box on "lock" mode, select it and press `b`. A small cross icon ![](../res/cross_icon.png) appears on the upper left corner of the box.
 
 ## Examples
 
 Locked Function Boxes
 
-![The values of a locked box in a program remain in the box and are returned
-at the next evaluation.](../res/lockmode2.png)
+![The values of a locked box in a program remain in the box and are returned at the next evaluation.](../res/lockmode2.png)
+*The values of a locked box in a program remain in the box and are returned at the next evaluation.*
 
-The values of a locked box in a program remain in the box and are returned at
-the next evaluation.
 
-|
 
 A locked function always returns the same value.  
   
----|---  
+
   
-Locked Factory Boxes
+### Locked Factory Boxes
 
 New input values don't affect a locked factory box.
 
@@ -41,26 +35,26 @@ New input values don't affect a locked factory box.
 
   * (B) When new values are assigned to the chord, the pitches don't change at the evaluation.
 
-|
+
 
 [![](../res/lockmode3_1.png)](../res/lockmode3.png "Cliquez pour agrandir")  
   
----|---  
+
   
-Automatic Locking
+Automatic Locking:
 
 [![](../res/edit-lock_1.png)](../res/edit-lock.png "Cliquez pour agrandir")
 
-|
+
 
 When an object is modified from its editor, its box gets locked automatically
 in order to prevent the contents to be reinitalized at a next evaluation.  
   
----|---  
-  
-References :
 
-Contents :
+  
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -94,7 +88,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](EvalModes "page précédente\(Evaluation
-Modes\)") | [Next](EvOnceMode "Next\(Evaluate-Once
-Mode\)")
+Navigation : [Previous](EvalModes "\(Evaluation Modes\)") | [Next](EvOnceMode "\(Evaluate-Once Mode\)")
 

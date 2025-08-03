@@ -1,6 +1,4 @@
-
-Navigation : [Previous](LambdaTest "page précédente\(Test
-Functions\)") | [Next](Predicates "Next\(Predicates\)")
+Navigation : [Previous](LambdaTest "\(Test Functions\)") | [Next](Predicates "\(Predicates\)")
 
 # Control Structures
 
@@ -12,13 +10,11 @@ process. This can be done by
 
   * the sequential organization of these tasks during the execution of a program. 
 
-In other words, the user can control what is done, and how it is done during
-an evaluation. OM offers a series of control modules designed to define this
-control accurately.
+In other words, the user can control what is done, and how it is done during an evaluation. OM offers a series of control modules designed to define this control accurately.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -52,6 +48,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LambdaTest "page précédente\(Test
-Functions\)") | [Next](Predicates "Next\(Predicates\)")
+Navigation : [Previous](LambdaTest "\(Test Functions\)") | [Next](Predicates "\(Predicates\)")
 

@@ -1,27 +1,22 @@
-Navigation : [Previous](Funcall "page précédente\(Using Functions
-as Data\)") | [Next](LambdaPatch "Next\(Lambda
-Patches\)")
+Navigation : [Previous](Funcall "\(Using Functions as Data\)") | [Next](LambdaPatch "\(Lambda Patches\)")
 
 
-# Lambda Mode Examples: Mapcar \- Iterations
+# Lambda Mode Examples: mapcar - Iterations
 
-Mapcar is a very useful Lisp function, which can apply a function to the items
-of one or more lists successively. The function is assigned is the first
-argument of mapcar. The lists are assigned as other argument(s).
+**mapcar** is a very useful Lisp function, which can apply a function to the items of one or more lists successively. The function is assigned is the first argument of **mapcar**. The lists are assigned as other argument(s).
 
-Usign Mapcar for Iterations
+### Using mapcar for Iterations
 
-Mapcar constitutes a simple an elegant way to implement **iterative
+**mapcar** constitutes a simple an elegant way to implement **iterative
 processes**.
 
 An Other Way of Doing Iterations in OM :
 
   * [Iterations: OMLoop](OMLoop)
 
-Applying a Function to a List with Mapcar
+### Applying a Function to a List with mapcar
 
-The first input of the  mapcar box must be a **lambda function** - or a box in
-["lambda" mode](LambdaMode). The other argument is a list to operate.
+The first input of the  **mapcar** box must be a **lambda function** - or a box in ["lambda" mode](LambdaMode). The other argument is a list to operate.
 
 Here, the box *  has
 
@@ -31,7 +26,7 @@ Here, the box *  has
 
 Therefore, (A) represents the "f(x) = x * 5" function.
 
-Mapcar goes through the list (B) and applies (A) to each of its items
+**mapcar** goes through the list (B) and applies (A) to each of its items
 successively. Results are collected and returned as a list :
 
 ((3 * 5) (4 * 5)) = (15 20)
@@ -42,17 +37,16 @@ successively. Results are collected and returned as a list :
   
 
   
-Multiple Lists Processing
+### Multiple Lists Processing
 
-Mapcar accepts a **variable number of lists** to operate, and can process them
+**mapcar** accepts a **variable number of lists** to operate, and can process them
 simultaneously. Items are matched and processed by the lambda function
 successively.
 
 ![](../res/multi-mapcar.png)
 
 
-Here, the* function box has **two free inputs**. It represents the function "
-f(x,y) = x * y ".
+Here, the* function box has **two free inputs**. It represents the function "f(x,y) = x * y ".
 
 The  * function is connected to input #0. It is applied successively to the
 first elements of inputs #1 and #2, then to the second elements of inputs #1
@@ -63,15 +57,13 @@ successive results.
   
 Free Inputs and Lists Size
 
-The number of **free inputs** of the lambda box must be equal to the number of
-**additional arguments** of the mapcar function.
+The number of **free inputs** of the lambda box must be equal to the number of **additional arguments** of the **mapcar** function.
 
-Mapcar can only process lists with the same number of items.
+**mapcar** can only process lists with the same number of items.
 
-General Issues with Lambda Functions
+**General Issues with Lambda Functions:**
 
   * [Higher-Order Programs and Functions](HighOrder)
-
 
 
 ## Contents :
@@ -88,7 +80,7 @@ General Issues with Lambda Functions
       * [Evaluation Modes](EvalModes)
       * [Higher-Order Functions](HighOrder)
         * [Using Functions as Data](Funcall)
-        * Mapcar \- Iterations
+        * mapcar - Iterations
         * [Lambda Patches](LambdaPatch)
         * [Test Functions](LambdaTest)
       * [Control Structures](Control)
@@ -108,7 +100,4 @@ General Issues with Lambda Functions
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Funcall "page précédente\(Using Functions
-as Data\)") | [Next](LambdaPatch "Next\(Lambda
-Patches\)")
-
+Navigation : [Previous](Funcall "\(Using Functions as Data\)") | [Next](LambdaPatch "\(Lambda Patches\)")

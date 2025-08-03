@@ -1,44 +1,35 @@
-Navigation : [Previous](LambdaMode "page précédente\(Lambda
-Mode\)") | [Next](HighOrder "Next\(Higher-Order
-Functions\)")
+Navigation : [Previous](LambdaMode "\(Lambda Mode\)") | [Next](HighOrder "\(Higher-Order Functions\)")
 
 
 # Reference Mode
 
 ## Properties
 
-Use
+### Usage
 
-A box on "reference" mode returns its **own internal reference** . A function,
-a factory box, a patch or a maquette on "reference" mode returns returns the
-generic function, the class or the program it refers to.
+A box on "reference" mode returns its **own internal reference** . A function, a factory box, a patch or a maquette on "reference" mode returns returns the generic function, the class or the program it refers to.
 
-Procedure
+### Procedure
 
-To set a box on "reference" mode, select it, press `b` and click three times
-on the upper left cross. A small downward arrow ![](../res/arrowicon_icon.png)
-icon appears.
+To set a box on "reference" mode, select it, press `b` and click three times on the upper left cross. A small downward arrow ![](../res/arrowicon_icon.png) icon appears.
 
 ## Applications
 
-This mode is dedicated to specific tasks : on "reference" mode, a patch box or
-a maquette box returns its reference to a function, in order to be manipulated
-at runtime.
+This mode is dedicated to specific tasks : on "reference" mode, a patch box or a maquette box returns its reference to a function, in order to be manipulated at runtime.
 
-Example : Manipulating Maquettes
+**Example : Manipulating Maquettes**
 
-The "reference" mode is used for adding a TemporalBox in a maquette via the
-addbox2maquette function.
+The "reference" mode is used for adding a TemporalBox in a maquette via the **addbox2maquette** function.
 
 ![](../res/refmode.png)
 
-Maquettes : Reference Mode
+**Maquettes : Reference Mode**
 
   * [Reference Mode](Maquettes%20in%20Patches2)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -72,7 +63,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LambdaMode "page précédente\(Lambda
-Mode\)") | [Next](HighOrder "Next\(Higher-Order
-Functions\)")
-
+Navigation : [Previous](LambdaMode "\(Lambda Mode\)") | [Next](HighOrder "\(Higher-Order Functions\)")

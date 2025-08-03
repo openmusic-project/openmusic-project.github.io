@@ -1,40 +1,31 @@
-Navigation : [Previous](RefMode "page précédente\(Reference
-Mode\)") | [Next](Funcall "Next\(Using Functions as
-Data\)")
+Navigation : [Previous](RefMode "\(Reference Mode\)") | [Next](Funcall "\(Using Functions as Data\)")
 
 
 # Higher-Order Programs and Functions
 
-In functional languages such as Lisp, programs and data are generally
-considered as " **first-class'' objects** [1]. A Lisp function can thus be
-considered as data and used or constructed in the calculus.
+In functional languages such as Lisp, programs and data are generally considered as " **first-class'' objects** [1]. A Lisp function can thus be considered as data and used or constructed in the calculus.
 
-Functions that accept other functions as arguments, or that produce functions
-as output values are called **higher-order functions**.
+Functions that accept other functions as arguments, or that produce functions as output values are called **higher-order functions**.
 
-In OM, higher-order programming is mainly possible with boxes in "lambda"
-evaluation mode.
+In OM, higher-order programming is mainly possible with boxes in "lambda" evaluation mode.
 
-Lambda Mode
+**Lambda Mode:**
 
   * [Lambda Mode](LambdaMode)
 
-Some functions are more specifically designed to be called with functional
-arguments :
+Some functions are more specifically designed to be called with functional arguments :
 
-|
 
 ![](../res/apply_icon.png) ![](../res/funcall_icon.png)
-![](../res/mapcar_icon.png) ...  
+![](../res/mapcar_icon.png) etc.  
   
----|---  
+
   
 ## Using a Lambda Function in OM
 
-Example
+**Example:**
 
-In Lisp,  apply is one of the simplest example of higher-order function. Apply
-takes two arguments :
+In Lisp,  apply is one of the simplest example of higher-order function. **Apply** takes two arguments :
 
   1. a function
 
@@ -42,27 +33,25 @@ takes two arguments :
 
 The function on "lambda" mode is applied to each item of the list.
 
-In this example, the  + is on "lambda" mode : it can return the  ** +
-function** .
+In this example, the  **+** is on "lambda" mode : it can return the  **+** function .
 
-|
+
 
 ![](../res/apply1.png)  
   
----|---  
+ 
   
 Using the function name
 
-When a simple function is involved, its **name** can be used instead of the
-function box on "lambda" mode.
+When a simple function is involved, its **name** can be used instead of the function box on "lambda" mode.
 
-|
+
 
 ![](../res/pluslambda.png)  
   
----|---  
+
   
-In Practice
+### In Practice
 
 In practice, functional arguments are used in two main configurations :
 
@@ -88,57 +77,49 @@ function. Hence, one must make sure that this function
 
   * has the **right number of arguments**
 
-an / or
+and/or
 
   * is applied to the right number of items.
 
-Example #1
+**Example #1:**
 
-Arithm-ser requires **3 arguments** : "from", "to" and "step".
+**Arithm-ser** requires **3 arguments** : "from", "to" and "step".
 
 It is applied to a list of **two values only**. OM returns an error message.
 
-|
+
 
 ![](../res/errorlambda.png)  
   
----|---  
+
   
-Currying : Controling the Arguments of a Lambda Function
+### Currying : Controling the Arguments of a Lambda Function
 
-In some situations, we may want to ignore some of the arguments required by a
-"lambda" function. In this case we only want to define the bounds of the
-series : "from", and "to", and ignore "step".
+In some situations, we may want to ignore some of the arguments required by a "lambda" function. In this case we only want to define the bounds of the series : "from", and "to", and ignore "step".
 
-To do so, we need to **set** one of the variables of the lambda form. This
-procedure is known as currying[2].
+To do so, we need to **set** one of the variables of the lambda form. This procedure is known as currying[2].
 
-In OM, the arguments of a function box on "lambda" mode are represented by
-free inputs, and only free inputs. Free inputs are not connected to anything.
+In OM, the arguments of a function box on "lambda" mode are represented by free inputs, and only free inputs. Free inputs are not connected to anything.
 
-The values connected to the other inputs are comprised in the lambda function
-.
+The values connected to the other inputs are comprised in the lambda function.
 
-|
+
 
 ![](../res/curry.png)  
   
----|---  
+
   
-References :
+## References :
 
-  1. First Class Object
+  *[1] First Class Object
 
-A first-class object is an entity which can be passed as a parameter to a
-function, returned from a function, or assigned into the variable of a
-program.
+A first-class object is an entity which can be passed as a parameter to a function, returned from a function, or assigned into the variable of a program.
 
-  2. Currying
+  *[2] Currying
 
-Reducing the number of arguments of a lambda function by assigning values to
-some of them.
+Reducing the number of arguments of a lambda function by assigning values to some of them.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -172,7 +153,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RefMode "page précédente\(Reference
-Mode\)") | [Next](Funcall "Next\(Using Functions as
-Data\)")
+Navigation : [Previous](RefMode "\(Reference Mode\)") | [Next](Funcall "\(Using Functions as Data\)")
 

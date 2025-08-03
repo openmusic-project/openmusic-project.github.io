@@ -1,9 +1,6 @@
-
-Navigation : [Previous](RecursiveTree "page précédente\(Recursive
-Trees\)") | [Next](LockMode "Next\(Lock Mode\)")
+Navigation : [Previous](RecursiveTree "\(Recursive Trees\)") | [Next](LockMode "\(Lock Mode\)")
 
 # Evaluation Modes
-
 
 "Evaluation" refers to two different concepts :
 
@@ -21,16 +18,15 @@ to perform specific tasks. These modes are :
 
   * **[ **lock** mode](LockMode) ** : ![](../res/lock_icon.png)
 
-|
+
 
   * **[ **evaluate-once** mode](EvOnceMode) ** : ![](../res/once_icon.png)
 
   
----|---  
-  
+
   * **[ **lambda** mode](LambdaMode) ** : ![](../res/lambada_icon.png)
 
-|
+
 
   * **[ **reference** mode](RefMode) ** : ![](../res/refmode_icon.png)
 
@@ -44,13 +40,10 @@ To select an evaluation mode :
 
 To reset the box to its initial state, press `b` again.
 
-Duplication doesn't affect the state of a box that was set on a specific
-evaluation mode : the copy will have the same parameters and will be on the
-same mode as the master.
+Duplication doesn't affect the state of a box that was set on a specific evaluation mode : the copy will have the same parameters and will be on the same mode as the master.
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -84,6 +77,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RecursiveTree "page précédente\(Recursive
-Trees\)") | [Next](LockMode "Next\(Lock Mode\)")
+Navigation : [Previous](RecursiveTree "\(Recursive Trees\)") | [Next](LockMode "\(Lock Mode\)")
 

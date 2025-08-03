@@ -1,11 +1,9 @@
-Navigation : [Previous](Control "page précédente\(Control
-Structures\)") | [Next](PredComparison "page
-suivante\(Comparison Predicates\)")
+Navigation : [Previous](Control "\(Control Structures\)") | [Next](PredComparison "\(Comparison Predicates\)")
 
 
 # Predicates : Testing Relations and Properties
 
-Predicate
+## Predicate
 
 The concept of predicate refers to a **property** , or to a **relation**
 between the terms of a proposition.
@@ -21,29 +19,26 @@ There are several types of predicates. Among these, algebraic predicates
 compare numbers, equality predicates test if two objects are identical, type
 predicates that test if an object belongs to a specific type, and so on.
 
-In OM, predicates are often used as ****conditions** ****** for the execution
-of a program.
+In OM, predicates are often used as **conditions**  for the execution of a program.
 
-Arguments and Evaluation of Predicate Boxes
+## Arguments and Evaluation of Predicate Boxes
 
-Predicates can take arguments directly from their inputs or from other boxes.
-They are evaluated like any other box. Evaluation returns **either "t" or
-"nil"**.
+Predicates can take arguments directly from their inputs or from other boxes. They are evaluated like any other box. Evaluation returns **either "t" or "nil"**.
 
-Using Predicates in Conditional Structures
+**Using Predicates in Conditional Structures:**
 
   * [Conditional Operators](ConditionalOps)
 
-Predicates in Lisp
+**Predicates in Lisp:**
 
 More information about predicates in Common Lisp can be found
 [here](http://www.cs.cmu.edu/Groups/AI/cltl/clm/node69
 "http://www.cs.cmu.edu/Groups/AI/cltl/clm/node69 \(nouvelle
 fenêtre\)").
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -80,7 +75,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Control "page précédente\(Control
-Structures\)") | [Next](PredComparison "page
-suivante\(Comparison Predicates\)")
+Navigation : [Previous](Control "\(Control Structures\)") | [Next](PredComparison "\(Comparison Predicates\)")
 
