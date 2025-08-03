@@ -1,11 +1,9 @@
-
-Navigation : [Previous](DocAndInfo "page précédente\(Documentation
-and Info\)") | [Next](Pictures "Next\(Pictures\)")
+Navigation : [Previous](DocAndInfo "\(Documentation and Info\)") | [Next](Pictures "\(Pictures\)")
 
 
 # Comments
 
-Contents
+### Contents
 
   1. Creating a comment
   2. Editing a comment
@@ -17,23 +15,18 @@ allows to add textual indications that can make a program more legible.
 
 ## Creating a comment
 
-With the contextual menu
+### Using the contextual menu
 
 ![](../res/comment-menu.png)
 
-|
 
 To add a comment in a patch :
 
   1. `Ctrl` / right click in the patch editor
 
-  2. choose `Comment` .
-
+  2. choose `Comment`. 
   
-  
----|---  
-  
-Directly in the patch editor
+    ### Directly in the patch editor
 
 To add a comment box directly in a patch editor :
 
@@ -41,56 +34,47 @@ To add a comment box directly in a patch editor :
 
   2. validate to create the comment box.
 
-|
 
 ![](../res/make-comment.png)  
   
----|---  
+ 
   
 ## Editing a comment
 
 ![](../res/commentedit.png)
 
-|
 
   1. Double click in the comment box to type the text. 
 
   2. Click somewhere in the patch editor to validate and save your text.
 
+-  
   
-  
----|---  
-  
-Note
-
-Unlike data boxes, comment boxes accept breaks and line returns.
+**Note:** Unlike data boxes, comment boxes accept breaks and line returns.
 
 ## Modifications
 
-Manipulating Comment Boxes
+### Manipulating Comment Boxes
 
 ![](../res/resizecomment.png)
 
-|
 
 Like any other box, a comment box can be moved, resized, copied, deleted.
 
-To apply a modification, choose a menu item in the `Edit` menu, or use the
-usual commands and shortcuts.  
+To apply a modification, choose a menu item in the `Edit` menu, or use the usual commands and shortcuts.  
   
----|---  
-  
-Manipulating Boxes :
+
+  **Manipulating Boxes :**
 
   * [Elementary Manipulations](ElementaryManips)
 
-Fitting
+### Fitting
 
 To fit a comment box to the text, select it and press `i` .
 
 ## Comments Font Style
 
-Local Modifications
+### Local Modifications
 
 To modify the font type and colour of a comment within a patch :
 
@@ -98,23 +82,19 @@ To modify the font type and colour of a comment within a patch :
 
   2. choose `Text color` or `Text Font`.
 
-|
 
 ![](../res/zut.png)  
   
----|---  
+
   
-Style Shortcuts
+### Style Shortcuts
 
-use the menu `Edit / Font / Bold` and `Edit / Fonts / Italics` or the
-corresponding keyboard shortcuts `CMD` \+ `SHIFT` \+ `B` / `I` in order to
-change all selected comments to bold or italics.
+use the menu `Edit / Font / Bold` and `Edit / Fonts / Italics` or the corresponding keyboard shortcuts `CMD` \+ `SHIFT` \+ `B` / `I` in order to change all selected comments to bold or italics.
 
-Default Style
+### Default Style
 
 The comments font style can be globally specified via the OM preferences.
-Select the `OM 6.X.X. / Preferences menu`. Click on the `Appearance` tab and
-go to the **Comments** section
+Select the `OM 6.X.X. / Preferences menu`. Click on the `Appearance` tab and go to the **Comments** section
 
 To modify the comments font style :
 
@@ -142,19 +122,17 @@ To modify the comments colour
 
 [Zoom](../res/commentstyle_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
-Applying Changes
+### Applying Changes
 
 ![](../res/newcomment.png)
 
-|
+
 
 New preferences will apply to new comments only.  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -188,6 +166,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](DocAndInfo "page précédente\(Documentation
-and Info\)") | [Next](Pictures "Next\(Pictures\)")
+Navigation : [Previous](DocAndInfo "\(Documentation and Info\)") | [Next](Pictures "\(Pictures\)")
 

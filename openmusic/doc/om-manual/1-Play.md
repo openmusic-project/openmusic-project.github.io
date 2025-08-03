@@ -1,42 +1,37 @@
-Navigation : [Previous](2-Instanciation "page
-précédente\(Instantiating Objects\)") | [Next](3-Editors "page
-suivante\(Editors\)")
+Navigation : [Previous](2-Instanciation "\(Instantiating Objects\)") | [Next](3-Editors "\(Editors\)")
 
 
 # Playback and Players
 
 ## Play in Patches
 
-Some objects manipulated in OM are "musical" (sounding) objects which can be
-played (provided the corressponding player is correctly installed).
+Some objects manipulated in OM are "musical" (sounding) objects which can be played (provided the corressponding player is correctly installed).
 
 In order to play an object, just select the box and press `Space` or `p`.
 
 Pressing `Space` again (or `s`) will stop playing.
 
-Multiple Playback
+### Multiple Playback
 
 In order to play several objects simultaneously, select the corresponding
 boxes at once and use the same playback shortcuts.
 
 ## Play in Editors
 
-Object Editors
+### Object Editors
 
-Musical objects such as score objects or sounds have an editor where thay can
-be played thanks to standard playback controls.
+Musical objects such as score objects or sounds have an editor where thay can be played thanks to standard playback controls.
 
-Some Object Editors
+### Some Object Editors
 
   * [Play Controls](Editor-Play)
   * [The Sound Editor](SoundEditor)
 
-Maquette
+### Maquette
 
-The MAQUETTE has many functionalities, but can be used just to put musical
-object together and play them.
+The MAQUETTE has many functionalities, but can be used just to put musical object together and play them.
 
-Maquette
+**See also:**
 
   * [The Maquette Editor](Editor)
 
@@ -53,24 +48,23 @@ For instance :
 When it is the case, it is possible to select the player either using the box
 contextual menu, or inside the object specific editors.
 
-|
 
 [![](../res/change-player_1.png)](../res/change-player.png "Cliquez pour
 agrandir")  
   
----|---  
+
   
-Score Players
+### Score Players
 
   * [Score Players](ScorePlayer)
 
-Audio Players
+### Audio Players
 
   * [The Audio Player](AudioPlayer)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -115,7 +109,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](2-Instanciation "page
-précédente\(Instantiating Objects\)") | [Next](3-Editors "page
-suivante\(Editors\)")
+Navigation : [Previous](2-Instanciation "\(Instantiating Objects\)") | [Next](3-Editors "\(Editors\)")
 

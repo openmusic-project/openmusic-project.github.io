@@ -1,6 +1,4 @@
-
-Navigation : [Previous](DeadBox "page précédente\(Dead Boxes\)") |
-[Next](Abstraction "Next\(Abstraction\)")
+Navigation : [Previous](DeadBox "\(Dead Boxes\)") | [Next](Abstraction "\(Abstraction\)")
 
 
 # Visual Programming II (Advanced)
@@ -15,21 +13,20 @@ This section describes the following advanced programming concepts and tools :
 
   * using files and advanced user inetraction modules.
 
-References :
+## References :
 
   1. Functional Abstraction
 
 A functional abstraction is a program whose some elements can become
 variables, via connections to the outside environment. Hence, this program
 must have inputs or outputs that can be connected to external variable
-elements. The resulting functional abstraction can then be embedded into other
-programs to be used as a functional component.
+elements. The resulting functional abstraction can then be embedded into other programs to be used as a functional component.
 
   2. Iteration
 
 The repetition of a process within a computer program.
 
-See also : Recursion.
+**See also :** Recursion.
 
   3. Instance
 
@@ -43,10 +40,9 @@ self, the whole object - of a factory box to materialize an instance.
   4. Global variable
 
 An instance of OM object that has been saved in order to be used in other
-programs. Global variables are visible from the `Library` window and stored as
-.omi files in the `Globals` folder of the workspace.
+programs. Global variables are visible from the `Library` window and stored as .omi files in the `Globals` folder of the workspace.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -76,6 +72,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](DeadBox "page précédente\(Dead Boxes\)") |
-[Next](Abstraction "Next\(Abstraction\)")
+Navigation : [Previous](DeadBox "\(Dead Boxes\)") | [Next](Abstraction "\(Abstraction\)")
 

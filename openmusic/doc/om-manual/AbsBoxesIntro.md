@@ -1,29 +1,17 @@
-Navigation : [Previous](4-ImportExport "page
-précédente\(Import/Export\)") | [Next](OtherBoxes "page
-suivante\(Other Boxes\)")
+Navigation : [Previous](4-ImportExport "\(Import/Export\)") | [Next](OtherBoxes "\(Other Boxes\)")
 
 
 # Abstraction Boxes (Intro)
 
-## Concept
+## The Concept
 
-[1]Patches can be added in the Workspace, but also, subsequently, inserted or
-incremented in a bigger scale program. This procedure is called  functional
-abstraction [1].
+Patches can be added in the Workspace, but also, subsequently, inserted or incremented in a bigger scale program. This procedure is called  functional abstraction [1].
 
-Abstraction
-
-Abstraction is a procedure that permits to abstract a program, that is, a
-process, a patch, into a box that can then be used into another program. In
-other words, an abstraction box represents a patch in another patch and acts
-as a function.
-
-Abstraction is detailed in of the [Advanced
-Programming](AdvancedVisualProgramming) section.
+[1] Abstraction is a procedure that permits to abstract a program, that is, a process, a patch, into a box that can then be used into another program. In other words, an abstraction box represents a patch in another patch and acts as a function. Abstraction is detailed in the [Advanced Programming](AdvancedVisualProgramming) section.
 
 ## Abstraction Boxes
 
-Patches
+### Patches
 
 The main type of abstraction box is the Patch pox
 
@@ -36,71 +24,68 @@ There exist two type of patch boxes :
 
 ![](../res/ob-absbox.png)  
   
----|---  
+
   
-About Abstraction Boxes
+**About Abstraction Boxes:**
 
   * [Abstraction](Abstraction)
 
-OMLoop Boxes
+### OMLoop Boxes
 
 [OMLoops](OMLoop) are particular abstractions that allow to design
 iterative processes.
 
-|
+
 
 ![](../res/ob-omloop.png)  
   
----|---  
+
   
-About the OMLoop Box
+**About the OMLoop Box:**
 
   * [Iterations: OMLoop](OMLoop)
 
-Maquettes
+### Maquettes
 
 Maquettes are special programming editors with a temporal dimension.
 
 Like patch boxes, they can be eitheir global or internal.
 
-|
+
 
 ![](../res/ob-maqbox.png)  
   
----|---  
-  
-About Maquette Boxes
+
+**About Maquette Boxes:**
 
   * [Maquettes](Maquettes)
 
-Lisp Functions
+### Lisp Functions
 
 Lisp functions are abstractions defined textually in Lisp.
 
 Like patch boxes, they can be eitheir global (blue) or internal abstractions
 (red).
 
-|
+
 
 ![](../res/ob-lispbox.png)  
   
----|---  
+
   
-About Lisp Function Boxes
+**About Lisp Function Boxes:**
 
   * [Lisp Function Boxes](LispFunctions)
 
-References :
+
+
+## References :
 
   1. Functional Abstraction
 
-A functional abstraction is a program whose some elements can become
-variables, via connections to the outside environment. Hence, this program
-must have inputs or outputs that can be connected to external variable
-elements. The resulting functional abstraction can then be embedded into other
-programs to be used as a functional component.
+A functional abstraction is a program whose some elements can become variables, via connections to the outside environment. Hence, this program must have inputs or outputs that can be connected to external variable elements. The resulting functional abstraction can then be embedded into other programs to be used as a functional component.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -140,7 +125,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](4-ImportExport "page
-précédente\(Import/Export\)") | [Next](OtherBoxes "page
-suivante\(Other Boxes\)")
+Navigation : [Previous](4-ImportExport "\(Import/Export\)") | [Next](OtherBoxes "\(Other Boxes\)")
 

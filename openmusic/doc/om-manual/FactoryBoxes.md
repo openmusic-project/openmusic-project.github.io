@@ -1,49 +1,36 @@
-Navigation : [Previous](FunctionBoxes "page précédente\(Function
-Boxes\)") | [Next](1-Visualization "page
-suivante\(Visualization\)")
+Navigation : [Previous](FunctionBoxes "\(Function Boxes\)") | [Next](1-Visualization "\(Visualization\)")
 
 
 # Objects - Factory Boxes
 
-In OM, objects are created and used in patches via " **factory** " boxes. A
-factory box refers to a class[1] and allows to create instances[2] -
-exemplars, in other words -, of this class.
+In OM, objects are created and used in patches via " **factory** " boxes. A factory box refers to a class[1] and allows to create instances[2] - models, in other words -, of this class.
 
   * Factories can be connected to the other components of a visual program. 
   * Their inner editor is a graphical user interface that allows to visualize, edit and manipulate the objects produced by factories. For instance, one can edit a musical sequence in a traditional score editor.
 
-This dual aspect of formalized computation, associated with direct manual
-interaction on the musical material, is a fundamental feature of OM, which
-makes the factory box a major patch component.
+This dual aspect of formalized computation, associated with direct manual interaction on the musical material, is a fundamental feature of OM, which makes the factory box a major patch component.
 
-Factory boxes are accessed via the `Classes` menu or can be added in a patch
-from the [Library window](Library).
+Factory boxes are accessed via the `Classes` menu or can be added in a patch from the [Library window](Library).
 
-How To Add a Box into a Patch Editor
+### How To Add a Box into a Patch Editor
 
   * [Adding Boxes Into a Patch](AddingBoxes)
 
-References :
+## References :
 
   1. Class
 
-A category of objects sharing common properties - characteristics and
-behaviour. A class specifies the internal structure and behaviour of an
-object. In OM, it is represented in a patch by a factory box that can produce
-an instance of a class.
+A category of objects sharing common properties - characteristics and behavior. A class specifies the internal structure and behavior of an object. In OM, it is represented in a patch by a factory box that can produce an instance of a class.
 
-See also : Object, Instance
+**See also :** Object, Instance
 
   2. Instance
 
-An actual object created at runtime, out of a given class. In OM, more
-specifically, an object created when evaluating a factory box. An instance can
-be saved as a global variable.
+An actual object created at runtime, out of a given class. In OM, more specifically, an object created when evaluating a factory box. An instance can be saved as a global variable.
 
-⤷ `SHIFT` click on an outlet - especially the first outlet representing the
-self, the whole object - of a factory box to materialize an instance.
+⤷ `SHIFT` click on an outlet - especially the first outlet representing the self, the whole object - of a factory box to materialize an instance.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -88,7 +75,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](FunctionBoxes "page précédente\(Function
-Boxes\)") | [Next](1-Visualization "page
-suivante\(Visualization\)")
+Navigation : [Previous](FunctionBoxes "\(Function Boxes\)") | [Next](1-Visualization "\(Visualization\)")
+
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](Evaluation "page
-précédente\(Evaluation\)") | [Next](Comments "page
-suivante\(Comments\)")
+Navigation : [Previous](Evaluation "\(Evaluation\)") | [Next](Comments "\(Comments\)")
 
 # Documentation and Info
 
@@ -13,46 +11,40 @@ principally :
 
 ## Reference Documentation
 
-The reference documentation gives access to full information about a function
-or class.
+The reference documentation gives access to full information about a function or class.
 
 To access the reference of an item select the box and :
 
   * press `d`
   * choose `Help / Documentation` in the main menu.
 
-The documentation, when available, will pop up in a new window as an HTML or
-simple text window.
+The documentation, when available, will pop up in a new window as an HTML or simple text window.
 
-|
+
 
 ![](../res/onlinedoc_scr.png)
 
 [zoom](../res/onlinedoc_scr_1.png "Zoom \(nouvelle fenêtre\)")  
   
----|---  
+ 
   
 ## Info Window
 
-The `Info` window provides various information, depending on the type of the
-selected item, and possible short documentation.
+The `Info` window provides various information, depending on the type of the selected item, and possible short documentation.
 
 To open the `Info` window :
 
   * press `Cmd` \+ `i`
   * `Ctrl` / right click on an item and select `Get Info` in the contextual menu.
 
-|
+
 
 [![](../res/infowindow_1.png)](../res/infowindow.png "Cliquez pour agrandir")  
   
----|---  
-  
+
 ## Tutorial Patches
 
-Tutorials are commented example patches. They are OM internal patches which
-cannot be modified and saved. Nevertheless, their content can be copied in
-another patch.
+Tutorials are commented example patches. They are OM internal patches which cannot be modified and saved. Nevertheless, their content can be copied in another patch.
 
 To open the related tutorial patch of an item, select it and
 
@@ -61,15 +53,13 @@ To open the related tutorial patch of an item, select it and
 
 The tutorial will open as a new patch.
 
-|
+
 
 [![](../res/onlinetut_1.png)](../res/onlinetut.png "Cliquez pour agrandir")  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -103,7 +93,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Evaluation "page
-précédente\(Evaluation\)") | [Next](Comments "page
-suivante\(Comments\)")
+Navigation : [Previous](Evaluation "\(Evaluation\)") | [Next](Comments "\(Comments\)")
 

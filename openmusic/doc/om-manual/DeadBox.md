@@ -1,6 +1,4 @@
-Navigation : [Previous](SavingPatch "page précédente\(Saving /
-Reloading a Patch\)") | [Next](AdvancedVisualProgramming "page
-suivante\(Visual Programming II\)")
+Navigation : [Previous](SavingPatch "\(Saving / Reloading a Patch\)") | [Next](AdvancedVisualProgramming "\(Visual Programming II\)")
 
 # Missing References : Dead Boxes
 
@@ -25,14 +23,14 @@ the box doc will say "I have lost my reference, I am dead"...
 
 ![](../res/deadboxwindows.png)
 
-Note
+**Note:**
 
 When a dead box "knows" which reference - class or function for instance - it
 was attached to, it can possibly be restored. Its reference must be loaded
 again or re-created before the patch is reloaded. To reload a patch containing
 dead boxes, use the "Last Saved" command.
 
-Saving Procedures
+**Saving Procedures:**
 
   * [Saving / Reloading a Patch](SavingPatch)
 
@@ -44,21 +42,19 @@ for it by himself.
 
 ![Looking for the reference of a dead box.](../res/deadpatches_scr.png)
 
-Looking for the reference of a dead box.[Zoom](../res/deadpatches_scr_1.png
-"Zoom \(nouvelle fenêtre\)")
+Looking for the reference of a dead box. [Zoom](../res deadpatches_scr_1.png "Zoom ")
 
-What Is a Patch Reference ?
+**What Is a Patch Reference ?**
 
   * [Standard Abstraction](BlueAbstraction)
 
-See also : Workspace / Adding Components in a Workspace at a Session : Import
-and Export Functions
+**See also :**  Workspace / Adding Components in a Workspace at a Session : Import and Export Functions
 
   * [Workspace](Workspace)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -92,7 +88,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](SavingPatch "page précédente\(Saving /
-Reloading a Patch\)") | [Next](AdvancedVisualProgramming "page
-suivante\(Visual Programming II\)")
+Navigation : [Previous](SavingPatch "\(Saving / Reloading a Patch\)") | [Next](AdvancedVisualProgramming "\(Visual Programming II\)")
 

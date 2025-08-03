@@ -1,16 +1,12 @@
-Navigation : [Previous](OtherBoxes "page précédente\(Other
-Boxes\)") | [Next](StandardInputs "Next\(Standard
-Inputs\)")
+Navigation : [Previous](OtherBoxes "\(Other Boxes\)") | [Next](StandardInputs "\(Standard Inputs\)")
 
 # Box Inputs
 
-Box inputs correspond to computation parameters. These parameters can
-correspond to the arguments of a function, or to the attributes of an object,
-depending on the type of the box.
+Box inputs correspond to computation parameters. These parameters can correspond to the arguments of a function, or to the attributes of an object, depending on the type of the box.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -46,7 +42,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OtherBoxes "page précédente\(Other
-Boxes\)") | [Next](StandardInputs "Next\(Standard
-Inputs\)")
+Navigation : [Previous](OtherBoxes "\(Other Boxes\)") | [Next](StandardInputs "\(Standard Inputs\)")
 

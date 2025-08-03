@@ -1,6 +1,4 @@
-Navigation : [Previous](FactoryBoxes "page précédente\(Objects –
-Factory Boxes\)") | [Next](2-Instanciation "page
-suivante\(Instantiating Objects\)")
+Navigation : [Previous](FactoryBoxes "\(Objects – Factory Boxes\)") | [Next](2-Instanciation "\(Instantiating Objects\)")
 
 
 # Visualization
@@ -13,33 +11,27 @@ icon.
 
 To show or hide a miniview, press `m` .
 
-|
 
 ![A "chord" box in normal and "miniview" modes.](../res/miniview2.png)
+*A "chord" box in normal and "miniview" modes.*
+  
 
-A "chord" box in normal and "miniview" modes.  
-  
----|---  
-  
-Adjustments
+### Adjustments
 
 To move the content of a miniview up or down : press `Alt`\+ `↑` or `↓` .
 
-Default Miniview
+### Default Miniview
 
-![The object refers to a simple class with three slots : slot1, slot2 and
-slot3.](../res/def-miniview.png)
+![The object refers to a simple class with three slots : slot1, slot2 and slot3.](../res/def-miniview.png)
 
 The object refers to a simple class with three slots : slot1, slot2 and slot3.
 
-|
 
-Some classes don't have a specific miniview. A default miniview then shows the
-different slot - input - names and current values.  
+Some classes don't have a specific miniview. A default miniview then shows the different slot - input - names and current values.  
   
----|---  
+
   
-About Slots
+**About Slots:**
 
   * [Instantiating Objects](2-Instanciation)
 
@@ -47,16 +39,13 @@ About Slots
 
 ![](../res/factname.png)
 
-|
-
 In theory, the name of a factory box isn't displayed with its icon.
 
 To displayed or hide the name of a box, press  `n`.
 
-A default name appears in the lower left corner of the box icon. This name is
-that of the corresponding class of the box.  
+A default name appears in the lower left corner of the box icon. This name is that of the corresponding class of the box.  
   
----|---  
+
   
 To edit this name :
 
@@ -66,15 +55,13 @@ To edit this name :
     * press `Cmd` +` i`
   2. edit the name in the **" Name"** frame.
 
-|
 
 ![](../res/editname.png)  
   
----|---  
-  
-References :
 
-Contents :
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -119,7 +106,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](FactoryBoxes "page précédente\(Objects –
-Factory Boxes\)") | [Next](2-Instanciation "page
-suivante\(Instantiating Objects\)")
+Navigation : [Previous](FactoryBoxes "\(Objects – Factory Boxes\)") | [Next](2-Instanciation "\(Instantiating Objects\)")
+
 

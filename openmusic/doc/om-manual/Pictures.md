@@ -1,6 +1,4 @@
-Navigation : [Previous](Comments "page précédente\(Comments\)") |
-[Next](SavingPatch "Next\(Saving / Reloading a
-Patch\)")
+Navigation : [Previous](Comments "\(Comments\)") | [Next](SavingPatch "\(Saving / Reloading a Patch\)")
 
 # Background Pictures
 
@@ -10,15 +8,13 @@ Pictures can be added as a background or illustration for patch editors.
 
 ![](../res/picturemenu.png)
 
-|
+
 
 To add a picture box in a patch editor :
 
   * `Ctrl` / right click in the patch editor, choose `Picture`
 
-  
-  
----|---  
+
   
 Choose an item among the registered **User Resources** of the Picture Chooser,
 and click on `OK`.
@@ -28,13 +24,13 @@ and click on `OK`.
 
 ![](../res/pict-select.png)
 
-Resources and Picture Chooser
+**Resources and Picture Chooser:**
 
   * [Resources](resources)
 
 ## Managing Background Pictures
 
-Selection / Delete
+### Selection / Delete
 
   * To activate a background picture, press `y` . A selected picture features a bold border. 
   * The selected picture can be moved around the patch and resized by a simple drag and drop.
@@ -42,25 +38,23 @@ Selection / Delete
   * To delete a selected picture, press `Backspace` .
   * To reinitialize the picture size, press `i`.
 
-|
+
 
 ![](../res/pict-move.png)  
   
----|---  
+
   
-The Picture Object
+### The Picture Object
 
-A Picture object also exist in OM, and allows to create and edit pictures as a
-standard OM object. It is possible to convert a background picture to a
-picture object and vice-versa.
+A Picture object also exist in OM, and allows to create and edit pictures as a standard OM object. It is possible to convert a background picture to a picture object and vice-versa.
 
-More About Picture Objects
+**More About Picture Objects:**
 
   * [Picture Box](PictureBox)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -94,7 +88,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Comments "page précédente\(Comments\)") |
-[Next](SavingPatch "Next\(Saving / Reloading a
-Patch\)")
+Navigation : [Previous](Comments "\(Comments\)") | [Next](SavingPatch "\(Saving / Reloading a Patch\)")
 

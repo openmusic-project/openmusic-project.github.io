@@ -1,43 +1,33 @@
-Navigation : [Previous](AdditionalInputs "page
-précédente\(Additional Inputs\)") | [Next](Evaluation "page
-suivante\(Evaluation\)")
+Navigation : [Previous](AdditionalInputs "\(Additional Inputs\)") | [Next](Evaluation "\(Evaluation\)")
 
 # Connections
 
-A connection is a link between the outlet of a box and the inlet of another
-box. It means that the value of the downstream box inlet will be the result of
-the upstream box computation.
+A connection is a link between the outlet of a box and the inlet of another box. It means that the value of the downstream box inlet will be the result of the upstream box computation.
 
-The connections define the functional composition, that is the syntax of a
-visual program.
+The connections define the functional composition, that is the syntax of a visual program.
 
 ## Creating and modifying connections
 
-Creating a connection
+### Creating a connection
+
+
+A connection is created by clicking on a box output and drag the mouse cursor to the input of another box.  
 
 ![](../res/create-connection.png)
 
-|
 
-A connection is created by clicking on a box output and drag the mouse cursor
-to the input of another box.  
-  
----|---  
-  
-Modifying a connection
+### Modifying a connection
 
 Connections can be selected and modified as well :
 
   * to change the shape of a connection : click and drag its articulations
   * to change the colour of a connection : select its and press `c`
 
-|
 
 ![](../res/modconnexion.png)  
   
----|---  
   
-Deleting a connection
+### Deleting a connection
 
 To delete a connection
 
@@ -46,24 +36,20 @@ To delete a connection
 
 ## Syntactic Relevance
 
-When boxes are being connected to each other, OM applies syntactic rules, so
-that the connection may be rejected. This includes :
+When boxes are being connected to each other, OM applies syntactic rules, so that the connection may be rejected. This includes :
 
   * **preventing cycles** : a box can not be connected to another one if this connection creates a cycle - see example below -
   * **deleting existing connections** when a new connection is made to an input. An input is necessarily assigned a single value and therefore cannot be connected to more than one box.
 
-Preventing Cycles
+### Preventing Cycles
 
 ![](../res/connect-cycle.png)
 
-One of the inputs of the om* box is connected to the om+ box. Om* will then
-need to know the result returned by om+ to perform its computation. In this
-case, OM "refuses" to connect the result of the multiplication to the inlet of
-the addition, as shown in the Listener.
+One of the inputs of the om* box is connected to the om+ box. Om* will then need to know the result returned by om+ to perform its computation. In this case, OM "refuses" to connect the result of the multiplication to the inlet of the addition, as shown in the Listener.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -97,7 +83,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](AdditionalInputs "page
-précédente\(Additional Inputs\)") | [Next](Evaluation "page
-suivante\(Evaluation\)")
+Navigation : [Previous](AdditionalInputs "\(Additional Inputs\)") | [Next](Evaluation "\(Evaluation\)")
 

@@ -1,18 +1,14 @@
-Navigation : [Previous](TextFileEnvironment "page
-précédente\(Outer Environment\)") | [Next](PictureBox "page
-suivante\(Picture Box\)")
+Navigation : [Previous](TextFileEnvironment "\(Outer Environment\)") | [Next](PictureBox "\(Picture Box\)")
 
 # The Picture Object
 
-The  **picture** object is used for representing and using pictures and/or
-simple vector graphics in OM patches.
+The  **picture** object is used for representing and using pictures and/or simple vector graphics in OM patches.
 
-All picture editing operations can be done either on the box using visual
-programming or in the picture editor (double click on the box to open).
+All picture editing operations can be done either on the box using visual programming or in the picture editor (double click on the box to open).
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -40,7 +36,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](TextFileEnvironment "page
-précédente\(Outer Environment\)") | [Next](PictureBox "page
-suivante\(Picture Box\)")
+Navigation : [Previous](TextFileEnvironment "\(Outer Environment\)") | [Next](PictureBox "\(Picture Box\)")
 

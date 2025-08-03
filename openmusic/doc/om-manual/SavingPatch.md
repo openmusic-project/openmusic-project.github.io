@@ -1,49 +1,45 @@
-
-Navigation : [Previous](Pictures "page précédente\(Pictures\)") |
-[Next](DeadBox "Next\(Dead Boxes\)")
+Navigation : [Previous](Pictures "\(Pictures\)") | [Next](DeadBox "\(Dead Boxes\)")
 
 # Saving / Reloading a Patch
 
 ## Saving
 
-Precautions
+**Precautions:**
 
-It is advised to save a work regularly. Indeed, a bug or an ill-conceived
-program can cause a crash or stuck OM in endless iterations, in which case you
-will have to force the application to quit.
+It is advised to save a work regularly. Indeed, a bug or an ill-conceived program can cause a crash or stuck OM in endless iterations, in which case you will have to force the application to quit.
 
-To save a patch
+## Saving a patch
 
   * choose `File / Save`
   * press `Cmd` \+ `s` .
 
 ## Reloading a Patch
 
-Last Saved...
+### Last Saved...
 
 To reload the last saved version of a patch :
 
   * select `File / Last Saved` ,
   * `Ctrl` / right click in the editor, choose `Last Saved`.
 
-Preserving a Patch
+### Preserving a Patch
 
 If a patch is used in another patch, OM doesn't create a copy. Its original
 reference in the workspace will be affected by subsequent modifications as
 well. To preserve the original item, one can resort to internal patches or
 duplicate it to preserve the original reference from possible modifications.
 
-How to Duplicate / Rename Patches
+**How to Duplicate / Rename Patches:**
 
   * [The Workspace Window](WS-Window)
 
-Internal patches
+**Internal patches:**
 
   * [Internal Abstractions](RedAbstraction)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -77,6 +73,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Pictures "page précédente\(Pictures\)") |
-[Next](DeadBox "Next\(Dead Boxes\)")
+Navigation : [Previous](Pictures "\(Pictures\)") | [Next](DeadBox "\(Dead Boxes\)")
 
