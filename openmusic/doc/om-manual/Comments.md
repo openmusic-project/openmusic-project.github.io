@@ -26,7 +26,7 @@ To add a comment in a patch :
 
   2. choose `Comment`. 
   
-    ### Directly in the patch editor
+### Directly in the patch editor
 
 To add a comment box directly in a patch editor :
 
@@ -105,7 +105,6 @@ To modify the comments font style :
     * choose `Restore` to get back to the OM default values.
 
 ![](../res/commentfont_scr.png)
-
 [Zoom](../res/commentfont_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
 To modify the comments colour

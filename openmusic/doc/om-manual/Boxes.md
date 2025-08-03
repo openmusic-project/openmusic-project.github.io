@@ -1,28 +1,20 @@
-Navigation : [Previous](ElementaryManips "page
-précédente\(Elementary Manipulations\)") | [Next](GraphicFeatures "Next\(Boxes Features\)")
+Navigation : [Previous](ElementaryManips "\(Elementary Manipulations\)") | [Next](GraphicFeatures "\(Boxes Features\)")
 
 # Boxes
 
-Boxes are the main elements at stake in the composition of a patch. Each box
-type refers to a given functional component : a function, an object, a value,
-a program or sub program, and so on. Among these, function[1] boxes, and
-object or factory boxes[2] appear as major tools. They also are the most
-numerous ones. This section lists and describes each of these OM box types,
-their behaviour and use.
+Boxes are the main elements at stake in the composition of a patch. Each box type refers to a given functional component : a function, an object, a value, a program or sub program, and so on. Among these, function[1] boxes, and object or factory boxes[2] appear as major tools. They also are the most numerous ones. This section lists and describes each of these OM box types, their behavior and use.
 
-References :
+## References :
 
-  1. Function
+  *[1] Function
 
-A  portion of code within a larger program, which performs a specific task.
-Operates upon 0 or more parameters and returns a value.
+A  portion of code within a larger program, which performs a specific task. Operates upon 0 or more parameters and returns a value.
 
-  2. Factory Box
+  *[2] Factory Box
 
-A box used for creating an instance, or exemplar, of a given class within a
-visual program.
+A box used for creating an instance, or exemplar, of a given class within a visual program.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -62,6 +54,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ElementaryManips "page
-précédente\(Elementary Manipulations\)") | [Next](GraphicFeatures "Next\(Boxes Features\)")
+Navigation : [Previous](ElementaryManips "\(Elementary Manipulations\)") | [Next](GraphicFeatures "\(Boxes Features\)")
 

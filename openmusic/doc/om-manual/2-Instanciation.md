@@ -145,7 +145,7 @@ The second input represents the pitch value of a note box.
   
 ## References :
 
-  1. Instance
+  *[1] Instance
 
 An actual object created at runtime, out of a given class. In OM, more
 specifically, an object created when evaluating a factory box. An instance can be saved as a global variable.
@@ -153,23 +153,23 @@ specifically, an object created when evaluating a factory box. An instance can b
 ⤷ `SHIFT` click on an outlet - especially the first outlet representing the
 self, the whole object - of a factory box to materialize an instance.
 
-  2. Slot
+  *[2] Slot
 
 In object oriented programming, a slot represents and attribute of a class.
 For instance, the class "note" in OM has 4 slots : pitch, duration, velocity,
 and MIDI channel.
 
-  3. Class
+  *[3] Class
 
 A category of objects sharing common properties - characteristics and behavior. A class specifies the internal structure and behavior of an object. In OM, it is represented in a patch by a factory box that can produce an instance of a class.
 
 **See also :** Object, Instance
 
-  4. Chord-Seq
+  *[4] Chord-Seq
 
 OM name of a chord sequence. By extension, a note sequence, since a single note can be considered a chord.
 
-  5. Argument
+  *[5] Argument
 
 An argument represents a parameter upon which a function operates. For instance, the (om+ x y) function has two arguments : x and y.
 

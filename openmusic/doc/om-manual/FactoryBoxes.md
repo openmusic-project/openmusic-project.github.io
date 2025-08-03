@@ -18,13 +18,13 @@ Factory boxes are accessed via the `Classes` menu or can be added in a patch fro
 
 ## References :
 
-  1. Class
+  *[1] Class
 
 A category of objects sharing common properties - characteristics and behavior. A class specifies the internal structure and behavior of an object. In OM, it is represented in a patch by a factory box that can produce an instance of a class.
 
 **See also :** Object, Instance
 
-  2. Instance
+  *[2] Instance
 
 An actual object created at runtime, out of a given class. In OM, more specifically, an object created when evaluating a factory box. An instance can be saved as a global variable.
 

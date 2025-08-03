@@ -1,49 +1,37 @@
-Navigation : [Previous](RedAbstraction "page précédente\(Internal
-Abstractions\)") | [Next](AbsApplication "page
-suivante\(Application\)")
+Navigation : [Previous](RedAbstraction "\(Internal Abstractions\)") | [Next](AbsApplication "\(Application\)")
 
 
 # Conversions
 
 ## Converting an Abstraction into an Internal Abstraction
 
-Procedure
+**Procedure:** To convert a patch into an internal patch, select the patch box and press `a`.  
 
 ![](../res/switchtored1.png)
 
-|
 
-To convert a patch into an internal patch, select the patch box and press `a`.  
-  
----|---  
-  
-Note
 
-The **copy** of the blue patch that is created is fully autonomous from the
+**Note:** The **copy** of the blue patch that is created is fully autonomous from the
 master.
 
 ## Converting an Internal Abstraction into a "Basic" Abstraction
 
-Procedure
-
 Converting a red patch into a blue patch amounts to assigning it a reference
 in the workspace.
 
-To copy and convert an internal patch into a  **global** - blue - patch, drag
-and drop the red patch in the workspace.
+**Procedure:**  To copy and convert an internal patch into a  **global** - blue - patch, drag and drop the red patch in the workspace.
 
 ![](../res/dropredintowrksp2.png)
 
-Modifications : Effects
+**Modifications :** Effects
 
 Once the conversion is done, the abstraction as well as its reference will be
 equally affected by possible modifications.
 
 ![](../res/dropredintowrksp3.png)
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -79,7 +67,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](RedAbstraction "page précédente\(Internal
-Abstractions\)") | [Next](AbsApplication "page
-suivante\(Application\)")
+Navigation : [Previous](RedAbstraction "\(Internal Abstractions\)") | [Next](AbsApplication "\(Application\)")
 

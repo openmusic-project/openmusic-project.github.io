@@ -25,7 +25,6 @@ agrandir")
   2. Choose a .omi file to import.
 
 ![](../res/impchordtochord_scr.png)
-
 [Zoom](../res/impchordtochord_scr_1.png "Zoom \(nouvelle fenêtre\)")
 
 ### Compatibility
@@ -54,16 +53,13 @@ In this case, some additional options will be displayed in the Import and Export
 
 ## References :
 
-  1. Instance
+  *[1] Instance
 
-An actual object created at runtime, out of a given class. In OM, more
-specifically, an object created when evaluating a factory box. An instance can
-be saved as a global variable.
+An actual object created at runtime, out of a given class. In OM, more specifically, an object created when evaluating a factory box. An instance can be saved as a global variable.
 
-⤷ `SHIFT` click on an outlet - especially the first outlet representing the
-self, the whole object - of a factory box to materialize an instance.
+⤷ `SHIFT` click on an outlet - especially the first outlet representing the self, the whole object - of a factory box to materialize an instance.
 
-  2. Global variable
+  *[2] Global variable
 
 An instance of OM object that has been saved in order to be used in other
 programs. Global variables are visible from the `Library` window and stored as .omi files in the `Globals` folder of the workspace.

@@ -1,16 +1,12 @@
-
-Navigation : [Previous](AddingBoxes "page précédente\(Adding Boxes
-Into a Patch\)") | [Next](Boxes "Next\(Boxes\)")
+Navigation : [Previous](AddingBoxes "\(Adding Boxes Into a Patch\)") | [Next](Boxes "\(Boxes\)")
 
 # Elementary Manipulations
 
-This section provides information about specific commands regarding the
-manipulation of items within patches. Specific details are given for each box
-type in [Boxes and Patch Components](Boxes).
+This section provides information about specific commands regarding the manipulation of items within patches. Specific details are given for each box type in [Boxes and Patch Components](Boxes).
 
 ## Selection and Resizing
 
-Selection
+### Selection
 
 Boxes are selected using standard mouse selection. A selected box shows a bold
 border.
@@ -18,39 +14,36 @@ border.
   * To enable multiple selection, click on boxes keeping pressing `SHIFT` or click and drag the mouse over several boxes.
   * To select all the boxes of a window, choose `Edit / Select All`, or press `Cmd`\+ `a` .
 
-|
+
 
 ![Selected boxes.](../res/selectedboxes.png)
 
-Selected boxes.  
-  
----|---  
+### Selected boxes.  
   
 Most patch editor commands apply to every selected boxes in the current
 window.
 
-Resizing
+### Resizing
 
 ![](../res/resizerotate1_icon.png)
 
-|
+
 
   * To resize a box, hover the mouse over the lower right corner of the box, then drag it with the cursor.
   * To restore the default size of the selected box(es), press `i` .
 
-  
----|---  
+ 
   
 ## Move / Copy / Align
 
-Move
+### Move
 
 To move an item around in a patch editor :
 
   * drag and drop it with the mouse
   * select it and use the four  `->` keys. Add `SHIFT` to move items faster.
 
-Drag and Drop / Copy
+### Drag and Drop / Copy
 
 Boxes can also be moved or copied from a patch editor to another.
 
@@ -62,7 +55,7 @@ Boxes can also be moved or copied from a patch editor to another.
 
 Copying a chord-seq box to another patch editor.
 
-Align
+### Align
 
 To align all selected boxes automatically, press `SHIFT` \+ `a` .
 
@@ -73,7 +66,7 @@ To delete selected boxes :
   * press `Backspace` ,
   * select `Edit / Clear - Cut `or press `Cmd` \+ `x` .
 
-Undo
+## Undo
 
 The Undo command can be used for restoring deleted boxes - not their
 connections. It can only apply to the last action that was executed.
@@ -83,7 +76,7 @@ To cancel an action :
   * select ` Edit / Undo`
   * press `Cmd` \+ `z` .
 
-Tip : Patch Editor Commands
+**Tip :** Patch Editor Commands
 
 To display an overview of the main patch editor commands :
 
@@ -93,9 +86,9 @@ To display an overview of the main patch editor commands :
 
 ![](../res/editorcommands-help.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -129,6 +122,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](AddingBoxes "page précédente\(Adding Boxes
-Into a Patch\)") | [Next](Boxes "Next\(Boxes\)")
+Navigation : [Previous](AddingBoxes "\(Adding Boxes Into a Patch\)") | [Next](Boxes "\(Boxes\)")
 

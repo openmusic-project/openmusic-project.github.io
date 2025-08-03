@@ -1,6 +1,4 @@
-Navigation : [Previous](Abstraction "page
-précédente\(Abstraction\)") | [Next](BlueAbstraction "page
-suivante\(Standard Abstraction\)")
+Navigation : [Previous](Abstraction "\(Abstraction\)") | [Next](BlueAbstraction "\(Standard Abstraction\)")
 
 
 # Abstraction Boxes
@@ -8,25 +6,23 @@ suivante\(Standard Abstraction\)")
 Abstraction boxes include :
 
   * Blue patches ![](../res/bluepatch_icon.png) : patches initially  **belonging to the workspace** ,
-  * Red ** internal ** patches ![](../res/redpatch_icon.png) : patches initially  **created in a patch** editor.
+  * Red **internal ** patches ![](../res/redpatch_icon.png) : patches initially  **created in a patch** editor.
 
-This section details the differences between red and blue patches and related
-procedures.
+This section details the differences between red and blue patches and related procedures.
 
-Other Abstraction Types
+### Other Abstraction Types
 
-In OM, maquettes, as well as OMLoop boxes and other specific boxes can also be
-used as abstractions.
+In OM, maquettes, as well as OMLoop boxes and other specific boxes can also be used as abstractions.
 
-About Other Abstraction Types :
+**About Other Abstraction Types :**
 
   * [Iterations: OMLoop](OMLoop)
   * [Lisp Function Boxes](LispFunctions)
   * [Maquettes](Maquettes)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -62,7 +58,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Abstraction "page
-précédente\(Abstraction\)") | [Next](BlueAbstraction "page
-suivante\(Standard Abstraction\)")
+Navigation : [Previous](Abstraction "\(Abstraction\)") | [Next](BlueAbstraction "\(Standard Abstraction\)")
+
 

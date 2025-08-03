@@ -1,14 +1,10 @@
-Navigation : [Previous](BlueAbstraction "page précédente\(Standard
-Abstraction\)") | [Next](AbsConversion "page
-suivante\(Conversions\)")
+Navigation : [Previous](BlueAbstraction "\(Standard Abstraction\)") | [Next](AbsConversion "\(Conversions\)")
 
 
 
 # Internal Abstractions
 
-Internal abstractions are only created in patch editors. They are represented
-by  **red patch boxes** ![](../res/redpatch_icon.png) . This section shows how
-to add an ** internal abstraction ** into a patch.
+Internal abstractions are only created in patch editors. They are represented by  **red patch boxes** ![](../res/redpatch_icon.png) . This section shows how to add an **internal abstraction** into a patch.
 
 A red patch is autonomous :
 
@@ -28,11 +24,11 @@ To add an internal - red - patch in a patch editor :
 
 Double click on its name to edit it.
 
-|
+
 
 ![](../res/addinternal.png)  
   
----|---  
+
   
 Directly in the Patch Editor
 
@@ -42,11 +38,11 @@ To add an internal patch directly in a patch editor :
 
   * type "patch" and validate.
 
-|
+
 
 ![](../res/createredpatch.png)  
   
----|---  
+
   
 Internal Programming
 
@@ -54,21 +50,16 @@ An internal patch is programmed just as in any patch, without restriction.
 
 ## Duplicates
 
-An internal abstraction cannot be affected by the modification of a possible
-duplicate.
+An internal abstraction cannot be affected by the modification of a possible duplicate.
 
-Here a duplicate has been added inputs and outputs : the master item is
-preserved.
+Here a duplicate has been added inputs and outputs : the master item is preserved.
 
-|
 
 ![](../res/duplicatered.png)  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -104,7 +95,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](BlueAbstraction "page précédente\(Standard
-Abstraction\)") | [Next](AbsConversion "page
-suivante\(Conversions\)")
+Navigation : [Previous](BlueAbstraction "\(Standard Abstraction\)") | [Next](AbsConversion "\(Conversions\)")
 

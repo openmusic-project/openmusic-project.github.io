@@ -171,29 +171,29 @@ In this example, we want to transpose a chord using OM+. To execute an operation
 
 ## References :
 
-  1. Argument
+  *[1] Argument
 
 An argument represents a parameter upon which a function operates. For instance, the (om+ x y) function has two arguments : x and y.
 
-  2. Lisp Listener
+  *[2] Lisp Listener
 
 A Lisp communication interface displaying results of computations, warnings or error messages, and where Lisp expressions - programs - can be evaluated.
 
-  3. Generic Function
+  *[3] Generic Function
 
 In object oriented programming, a generic function is a collection of methods - elementary specialized functions - with the same name and argument structure, but with arguments typed differently.
 
 **See also :** Method
 
-  4. CLOS - Common Lisp Object System -
+  *[4] CLOS - Common Lisp Object System -
 
 CLOS is an object-oriented programming protocol defined in the Common Lisp language specification. It is based on classes, instances of classes, generic functions and methods to be used in Lisp programs.
 
 **See also :** Class, Function, Generic Function, Method, Instance.
 
-  5. Method
+  *[5] Method
 
-An elementary function or part of a generic function defining rules for its behaviour depending on a type of argument. Defining a generic function amounts to defining at least one method.
+An elementary function or part of a generic function defining rules for its behavour depending on a type of argument. Defining a generic function amounts to defining at least one method.
 
 For instance, the OM+ function is made of four methods : 1. number + list / 2. list + number / 3. number + number / 4. list + list
 

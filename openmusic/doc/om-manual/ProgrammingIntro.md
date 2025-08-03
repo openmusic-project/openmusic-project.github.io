@@ -6,7 +6,7 @@ Almost all programming in OpenMusic is done in patches, which are visual represe
 
 ## Location
 
-Patches are created in the workspace[^1] window.
+Patches are created in the workspace[1] window.
 
 ![](../res/patchlocation.png)
 
@@ -55,7 +55,7 @@ When om+ is evaluated, the Listener displays the value of the resulting pitch in
 
 ## References :
 
-[^1]  Workspace
+[1]  Workspace
 
 OpenMusic's working environment. Each session starts with choosing a workspace, the equivalent of a desktop where programs are created and organized, and where items can be stored.
 

@@ -23,7 +23,6 @@ The documentation, when available, will pop up in a new window as an HTML or sim
 
 
 ![](../res/onlinedoc_scr.png)
-
 [zoom](../res/onlinedoc_scr_1.png "Zoom \(nouvelle fenêtre\)")  
   
  

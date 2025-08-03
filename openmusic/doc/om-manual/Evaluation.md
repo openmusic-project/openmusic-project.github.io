@@ -56,7 +56,7 @@ Box inlets generally have a default value. This is why a box can often be evalua
   
 
   
-### Box Inputs
+**Box Inputs:**
 
   * [Box Inputs](BoxInputs)
 
@@ -71,7 +71,7 @@ To reset the content of a box to its default value, press `SHIFT` \+ `i`.
   
 
   
-### Listener Window
+**Listener Window:**
 
   * [Windows of the OM Environment](MainWindows)
 
@@ -124,7 +124,7 @@ When the `enable evaluation process` option is selected, it is possible to abort
 
 The `handle error messages` option in the OM preferenxes allows, to some extent, to limit the consequences of possible programming errors and prevent OM from crashing. If an error occurs, a message is displayed in a pop up window.
 
-### Errors in OM
+**Errors in OM:**
 
   * [Errors and Problems](errors)
 

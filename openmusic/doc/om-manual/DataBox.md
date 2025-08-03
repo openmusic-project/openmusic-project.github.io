@@ -3,7 +3,7 @@ Navigation : [Previous](GraphicFeatures "\(Boxes Features\)") | [Next](FunctionB
 
 # Data Boxes
 
-Contents
+### Contents
 
   1. Use
   2. Adding a Data Box
@@ -15,7 +15,6 @@ constant value. This value belongs to one of the primitive Lisp types, which
 are available in the OM Kernel / Lisp package.
 
 ## Usage
-
 
 A data box is designed to pass data to other boxes in a patch. It is made of a text field that expresses a value or a text, and an output that allows to connect this content to other boxes.  
   

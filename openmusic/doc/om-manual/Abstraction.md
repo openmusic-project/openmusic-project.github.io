@@ -1,22 +1,16 @@
-Navigation : [Previous](AdvancedVisualProgramming "page
-précédente\(Visual Programming II\)") | [Next](AbsBoxes "page
-suivante\(Abstraction Boxes\)")
+Navigation : [Previous](AdvancedVisualProgramming "\(Visual Programming II\)") | [Next](AbsBoxes "\(Abstraction Boxes\)")
 
 # Abstraction
 
-Abstraction
 
-A program or patch can be more or less complex, and comprise one or several
-components "layers", like a tree structure. Such structures consist of patches
-embedded into other patches. Processes embedded in higher-level programs are
-called ** abstractions**.
+A program or patch can be more or less complex, and comprise one or several components "layers", like a tree structure. Such structures consist of patches embedded into other patches. Processes embedded in higher-level programs are called **abstractions**.
 
 Abstraction aims at using a program as a  **function** within another program.
 
   * From a formal view, an abstraction results from the  **conversion of one or several elements of a program into variables** . 
-  * Consequently, in practical terms, an abstraction must have at least one outlet to ** communicate with the external environment **. 
+  * Consequently, in practical terms, an abstraction must have at least one outlet to **communicate with the external environment**. 
 
-Purposes
+## Purposes
 
 Abstractions allow to :
 
@@ -35,18 +29,12 @@ complex and "bulky". Its representation as an object also shows what an
 abstraction actually is : a coherent and delineated function inside another
 program. This is the crucial, essential property of functional abstraction.
 
-![A chord multiplication patch has been embedded as an abstraction inside a
-patch. The resulting chord sequence is visualised and integrated in a
-"higherlevel" process](../res/abstraction-ex_scr.png)
+![A chord multiplication patch has been embedded as an abstraction inside a patch. The resulting chord sequence is visualised and integrated in a "higherlevel" process](../res/abstraction-ex_scr.png)
+*A chord multiplication patch has been embedded as an abstraction inside a patch. The resulting chord sequence is visualised and integrated in a "higherlevel" process[Zoom](../res/abstraction-ex_scr_1.png "Zoom \")*
 
-A chord multiplication patch has been embedded as an abstraction inside a
-patch. The resulting chord sequence is visualised and integrated in a
-"higherlevel" process[Zoom](../res/abstraction-ex_scr_1.png "Zoom \(nouvelle
-fenêtre\)")
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -79,7 +67,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](AdvancedVisualProgramming "page
-précédente\(Visual Programming II\)") | [Next](AbsBoxes "page
-suivante\(Abstraction Boxes\)")
+Navigation : [Previous](AdvancedVisualProgramming "\(Visual Programming II\)") | [Next](AbsBoxes "\(Abstraction Boxes\)")
 

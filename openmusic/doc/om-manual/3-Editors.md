@@ -3,7 +3,7 @@ Navigation : [Previous](1-Play "\(Playback and Players\)") | [Next](4-ImportExpo
 
 # Editors
 
-Factory boxes have an ** internal editor **. As a complement to the algorithmic creation of objects, it is a means to build, or modify them manually once objects have been initialized. Some elementary classes have a default editor, but most objects used in OM have specifically dedicated editors, such as score editors, sound file editors, BPF editors, etc. All editors open with a double click on a factory box.
+Factory boxes have an **internal editor**. As a complement to the algorithmic creation of objects, it is a means to build, or modify them manually once objects have been initialized. Some elementary classes have a default editor, but most objects used in OM have specifically dedicated editors, such as score editors, sound file editors, BPF editors, etc. All editors open with a double click on a factory box.
 
 ## Basic Editors
 
@@ -78,7 +78,7 @@ To lock or unlock a box, select it and press `b`.
 
 ## References :
 
-  1. Slot
+  *[1] Slot
 
 In object oriented programming, a slot represents and attribute of a class.
 For instance, the class "note" in OM has 4 slots : pitch, duration, velocity,

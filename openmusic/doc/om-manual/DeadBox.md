@@ -41,8 +41,7 @@ offer to find it. If the item can't be found, the user will be offered to look
 for it by himself.
 
 ![Looking for the reference of a dead box.](../res/deadpatches_scr.png)
-
-Looking for the reference of a dead box. [Zoom](../res deadpatches_scr_1.png "Zoom ")
+*Looking for the reference of a dead box. [Zoom](../res deadpatches_scr_1.png "Zoom ")*
 
 **What Is a Patch Reference ?**
 

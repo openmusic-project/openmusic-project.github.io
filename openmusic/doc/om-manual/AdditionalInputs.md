@@ -3,9 +3,9 @@ Navigation : [Previous](StandardInputs "\(Standard Inputs\)") | [Next](Connectio
 # Additional Inputs : Optional, Keyword and Rest Arguments
 
 For practical issues, function boxes don't always show all possible inlets.
-Additional arguments can be added to Lisp and OM functions. They can be either **optional** , ** keyword **, or " ** rest **" arguments.
+Additional arguments can be added to Lisp and OM functions. They can be either **optional** , **keyword**, or " **rest**" arguments.
 
-  * ** Optional arguments ** can be added successively in a predefined order, which cannot be modified. 
+  * **Optional arguments** can be added successively in a predefined order, which cannot be modified. 
 
   * **Keyword arguments** can be added and named  ad libitum by the user with a keyword. 
 
@@ -17,9 +17,9 @@ Contrary to standard arguments, functions **always work** if optional arguments 
 
 ## Getting Information About Arguments
 
-The additional arguments type - **optional** or ** keyword ** arguments - is indicated at the beginning of the documentation.
+The additional arguments type - **optional** or **keyword** arguments - is indicated at the beginning of the documentation.
 
-  * Optional arguments are signaled by the" ** &optional **"prefix.
+  * Optional arguments are signaled by the" **&optional**"prefix.
 
   * Keyword arguments are identified by the  **& key** prefix.
   * Rest arguments are identified by the  **& rest** prefix.
@@ -46,13 +46,13 @@ Optional arguments are not visible by default
 
 Press `>` to add all possible optional inputs at once.
 
-Using Optional Inputs : OM-ROUND
+Using Optional Inputs : **OM-ROUND**
 
 [![](../res/om-round-doc_1.png)](../res/om-round-doc.png "Cliquez pour agrandir")
 
 
 
-OM-ROUND rounds a number (or a list of number) to the closest integer value(s).
+**OM-ROUND** rounds a number (or a list of number) to the closest integer value(s).
 
 It has also two Optional arguments :
 
@@ -61,7 +61,7 @@ It has also two Optional arguments :
 
   
   
-The standard use of OM-ROUND does not require using the optional inputs (A).
+The standard use of **OM-ROUND** does not require using the optional inputs (A).
 
 In (B) we use the first optional ( decimals ) to round the input number whith a higher precision.
 
@@ -96,7 +96,7 @@ You must therefore set **both the name of the keyword input and its value**.
 
 The default name of a new keyword is the first unused argument in the keywords list. This name is visible by hovering the mouse over the box inlet.
 
-Note that keyword names are always preceded by " **`:` **"
+Note that keyword names are always preceded by " **`:`**"
 
 To change the argument :
 
@@ -137,7 +137,7 @@ When an input menu is attached to a keyword input, it is also accessed with
 
 
 
-SORT-LIST sorts items in a list. It has three keyword arguments
+**SORT-LIST** sorts items in a list. It has three keyword arguments
 
   * test : a test used to compare items to sort them (by default, <, so the function sorts number in growing order)
   * key : an accessor applyed to the items before to compare them to each other (Do not confuse with the &key prefix of keyword arguments!
@@ -181,7 +181,7 @@ Rest arguments are not visible by default, and are generally at the end of the a
 
 ![The X-APPEND function has two initial arguments and a undertermined number of 'rest' arguments.](../res/x-append-inputs.png)
 
-The X-APPEND function has two initial arguments and a undertermined number of 'rest' arguments.  
+The **X-APPEND** function has two initial arguments and a undertermined number of 'rest' arguments.  
   
 
 

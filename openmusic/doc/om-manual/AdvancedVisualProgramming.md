@@ -15,20 +15,20 @@ This section describes the following advanced programming concepts and tools :
 
 ## References :
 
-  1. Functional Abstraction
+  *[1] Functional Abstraction
 
 A functional abstraction is a program whose some elements can become
 variables, via connections to the outside environment. Hence, this program
 must have inputs or outputs that can be connected to external variable
 elements. The resulting functional abstraction can then be embedded into other programs to be used as a functional component.
 
-  2. Iteration
+  *[2] Iteration
 
 The repetition of a process within a computer program.
 
 **See also :** Recursion.
 
-  3. Instance
+  *[3] Instance
 
 An actual object created at runtime, out of a given class. In OM, more
 specifically, an object created when evaluating a factory box. An instance can
@@ -37,7 +37,7 @@ be saved as a global variable.
 ⤷ `SHIFT` click on an outlet - especially the first outlet representing the
 self, the whole object - of a factory box to materialize an instance.
 
-  4. Global variable
+  *[4] Global variable
 
 An instance of OM object that has been saved in order to be used in other
 programs. Global variables are visible from the `Library` window and stored as .omi files in the `Globals` folder of the workspace.

@@ -81,7 +81,7 @@ Like patch boxes, they can be eitheir global (blue) or internal abstractions
 
 ## References :
 
-  1. Functional Abstraction
+  *[1] Functional Abstraction
 
 A functional abstraction is a program whose some elements can become variables, via connections to the outside environment. Hence, this program must have inputs or outputs that can be connected to external variable elements. The resulting functional abstraction can then be embedded into other programs to be used as a functional component.
 

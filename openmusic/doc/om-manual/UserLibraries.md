@@ -44,7 +44,7 @@ The `OM` folder includes a `Libraries` sub-directory that contains a number of l
 
 Extra libraries can also be added by the user and loaded in OM (see section below).
 
-A number of them, written by the OM users or developers, can be downloaded on the [OpenMusic GitHub page](https://openmusic-project.github.io/libraries "https://openmusic-project.github.io/libraries \(nouvelle fenêtre\)").
+A number of them, written by the OM users or developers, can be downloaded on the [OpenMusic GitHub page](https://openmusic-project.github.io/libraries "https://openmusic-project.github.io/libraries").
 
 ## Using Libraries
 

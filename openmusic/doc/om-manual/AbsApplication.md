@@ -1,6 +1,4 @@
-Navigation : [Previous](AbsConversion "page
-précédente\(Conversions\)") | [Next](AbsInOuts "page
-suivante\(Inputs / Outputs\)")
+Navigation : [Previous](AbsConversion "\(Conversions\)") | [Next](AbsInOuts "\(Inputs / Outputs\)")
 
 
 # Application
@@ -13,9 +11,9 @@ An abstraction inside a patch can perform calculus upon :
 
 It can also **return values** to the outside or to other boxes.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -50,7 +48,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](AbsConversion "page
-précédente\(Conversions\)") | [Next](AbsInOuts "page
-suivante\(Inputs / Outputs\)")
+Navigation : [Previous](AbsConversion "\(Conversions\)") | [Next](AbsInOuts "\(Inputs / Outputs\)")
 
