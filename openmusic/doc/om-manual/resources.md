@@ -1,6 +1,4 @@
-Navigation : [Previous](Tutorials "page précédente\(Tutorials\)")
-| [Next](BasicVisualProgramming "Next\(Visual
-Programming I\)")
+Navigation : [Previous](Tutorials "\(Tutorials\)") | [Next](BasicVisualProgramming "\(Visual Programming I\)")
 
 # Resources
 
@@ -17,7 +15,7 @@ corresponding file from OM or user resources (see section below).
 
 ![](../res/resourcesdialog.png)
 
-Format, Size and Name
+### Format, Size and Name
 
 Several formats can be handled by the OM interface :
 
@@ -34,49 +32,43 @@ Icons shouldn't exceed 64 pixels and be given a numeric reference such as
 
 Images can have any name and dimensions.
 
-Uses
+### Uses
 
-Pictures or icons can be assigned as background pictures in patches and
-maquettes. They can also be assigned to the patches and maquettes or other
-user-defined items in the Workspace and Library windows.
+Pictures or icons can be assigned as background pictures in patches and maquettes. They can also be assigned to the patches and maquettes or other user-defined items in the Workspace and Library windows.
 
-Changing the Icon of an Item
+**Changing the Icon of an Item:**
 
   * [Presentation Options](WS-Presentation)
 
-Background Pictures in Patches and Maquettes
+**Background Pictures in Patches and Maquettes:**
 
   * [Picture Box](PictureBox)
   * [Maquette Editor Appearance](EditorAppearance)
 
 ## Resources Directories
 
-OM Resources
+### OM Resources
 
 ![](../res/resourcesfold1.png)
 
-Pictures and icons of the **OM Resources** are located in the `Applications /
-OM 6.X.X / resources / icon - pict` sub folders.
+Pictures and icons of the **OM Resources** are located in the `/resources /icon - pict` sub folders.
 
-User Resources
+### User Resources
 
 ![](../res/resourcesfold2.png)
 
-|
 
-Pictures and icons added as **User Resources** belong to the workspace `
-resources / icon - pict` sub folders.  
-  
----|---  
+Pictures and icons added as **User Resources** belong to the workspace `resources / icon - pict` sub folders.  
+
   
 ## Resource Selection Dialog
 
-Choosing resources
+### Choosing resources
 
 Depending on the case, the resource selection dialog will display the icons or
 pictures available in the OM resources and/or in the user resources.
 
-Adding a Resource
+#### Adding a Resource
 
 You can add an icon or an image to the **User Resources**.
 
@@ -84,11 +76,10 @@ You can add an icon or an image to the **User Resources**.
 
   2. A dialogue window opens.
 
-|
+
 
 ![](../res/adduserrsrc.png)  
   
----|---  
   
 Select a resource :
 
@@ -100,26 +91,23 @@ Choose `Cancel` to cancel your choice.
 
 ![](../res/select-lapin.png)
 
-The selected file will be automatically copied and stored in the `Workspace /
-Resources /`sub-folder.
+The selected file will be automatically copied and stored in the `Workspace/Resources/`sub-folder.
 
 Deleting a Resource
 
 To delete a picture or icon from the **User Resources** , choose `-`.
 
-The corresponding file will be automatically deleted from the `Workspace /
-Resources /`sub-folder.
+The corresponding file will be automatically deleted from the `Workspace/Resources/`sub-folder.
 
-References :
+## References :
 
-  1. Temporal object
+  * [1] Temporal object
 
-In a maquette, any object provided with an explicit or computable duration,
-such as an audio file, a chord object or a patch.
+In a maquette, any object provided with an explicit or computable duration, such as an audio file, a chord object or a patch.
 
-See also : Maquette.
+**See also :** Maquette.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -147,7 +135,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Tutorials "page précédente\(Tutorials\)")
-| [Next](BasicVisualProgramming "Next\(Visual
-Programming I\)")
+Navigation : [Previous](Tutorials "\(Tutorials\)") | [Next](BasicVisualProgramming "\(Visual Programming I\)")
 

@@ -1,6 +1,4 @@
-Navigation : [Previous](ProgrammingIntro "page précédente\(Patch
-Introduction\)") | [Next](ElementaryManips "page
-suivante\(Elementary Manipulations\)")
+Navigation : [Previous](ProgrammingIntro "\(Patch Introduction\)") | [Next](ElementaryManips "\(Elementary Manipulations\)")
 
 
 # Adding Boxes Into a Patch
@@ -14,10 +12,9 @@ There are four ways to add a box in a patch editor :
 
 ## Menus
 
-This procedure is convenient if you don't know the exact name of the class or
-function you need.
+This procedure is convenient if you don't know the exact name of the class or function you need.
 
-Main menu
+### Main menu
 
 ![](../res/pickfun1.png)
 
@@ -31,7 +28,7 @@ Select a class or a function and click somewhere with
 the![](../res/addcursor_icon.png) cursor in the patch editor to add the box
 there.
 
-Patch Editor Contextual Menu
+### Patch Editor Contextual Menu
 
 ![](../res/context.png)
 
@@ -51,16 +48,16 @@ The packages[3] in the [Library](Library) window contain the available OM
 classes and functions organized in thematic sub packages.
 
   1. Open the Library window : 
-
     * select `Windows / Library`
     * press `SHIFT` \+ `Cmd` \+ `p`.
+    
   2. Double click on the lower part of a package to open the classes and functions panes.
 
   3. Drag and drop the function or class icon in the patch editor.
 
 ![](../res/funpack.png)
 
-Full Information about Packages and the Library Window
+**Full Information about Packages and the Library Window:**
 
   * [Packages](Packages)
   * [Library](Library)
@@ -76,37 +73,24 @@ Typing a Class or Function Name
 
   2. Type the relevant name in the text prompt and validate or click somewhere in the editor.
 
-|
 
 ![](../res/createnote.png)  
-  
----|---  
+   
   
 Any OM or Lisp function can be created this way. This procedure may be
 especially useful since some classes and functions are not accessible via
 menus or packages. It implies being familiar with OM functions and classes
 names.
 
-Tip
+**Tip:** Default values can be directly assigned to a function when entering its name in the "undefined" box. For instance, typing "om+ 5 7" allows to assign 5 and 7 as default values to om+.
 
-Default values can be directly assigned to a function when entering its name
-in the "undefined" box. For instance, typing "om+ 5 7" allows to assign 5 and
-7 as default values to om+.
-
-|
 
 ![](../res/argtip.png)  
   
----|---  
-  
-Specifying a Package Name
 
-In Lisp, a package is also a means to gather symbols, such as function names,
-class names, and so on, within a same specific name space. Some functions or
-classes can be declared in other packages if they were not designed for OM
-exclusive use, or if they come from specific libraries. In this case, adding a
-box directly in the patch editor requires typing the package name or nickname
-before its name.
+## Specifying a Package Name
+
+In Lisp, a package is also a means to gather symbols, such as function names, class names, and so on, within a same specific name space. Some functions or classes can be declared in other packages if they were not designed for OM exclusive use, or if they come from specific libraries. In this case, adding a box directly in the patch editor requires typing the package name or nickname before its name.
 
   1. A package can be designated by a name or a nickname. For instance, the main OM package name is "openmusic", and has for nickname "om". This syntactically corresponds to : 
 
@@ -118,29 +102,27 @@ before its name.
 
 The Listener will display the corresponding package.
 
-References :
+## References :
 
-  1. Function
+  *[1] Function
 
 A  portion of code within a larger program, which performs a specific task.
 Operates upon 0 or more parameters and returns a value.
 
-  2. Class
+  *[2] Class
 
 A category of objects sharing common properties - characteristics and
 behaviour. A class specifies the internal structure and behaviour of an
 object. In OM, it is represented in a patch by a factory box that can produce
 an instance of a class.
 
-See also : Object, Instance
+**See also :** Object, Instance
 
-  3. Package
+  *[3] Package
 
-Contains functions or classes components belonging to a common category of
-programming items. Packages are provided at the installation of OM, but the
-can also be loaded dynamically or added by the user.
+Contains functions or classes components belonging to a common category of programming items. Packages are provided at the installation of OM, but the can also be loaded dynamically or added by the user.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -174,7 +156,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ProgrammingIntro "page précédente\(Patch
-Introduction\)") | [Next](ElementaryManips "page
-suivante\(Elementary Manipulations\)")
-
+Navigation : [Previous](ProgrammingIntro "\(Patch Introduction\)") | [Next](ElementaryManips "\(Elementary Manipulations\)")

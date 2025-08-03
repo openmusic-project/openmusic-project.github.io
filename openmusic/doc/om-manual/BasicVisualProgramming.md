@@ -1,19 +1,12 @@
-
-Navigation : [Previous](resources "page précédente\(Resources\)")
-| [Next](ProgrammingIntro "Next\(Patch Introduction\)")
+Navigation : [Previous](resources "nte\(Resources\)") | [Next](ProgrammingIntro "\(Patch Introduction\)")
 
 # Visual Programming I (Basic)
 
 
-This section describes how to add, modify and connect boxes within patches,
-access required information through the OM graphic interface. It also aims to
-answer practical problems that will necessarily be raised from the first steps
-in OM. Last, some Lisp notions are emphasized in the description of OM
-components and syntax rules, to introduce the underlying logic of OpenMusic.
+This section describes how to add, modify and connect boxes within patches, access required information through the OM graphic interface. It also aims to answer practical problems that will necessarily be raised from the first steps in OM. Last, some Lisp notions are emphasized in the description of OM components and syntax rules, to introduce the underlying logic of OpenMusic.
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -47,6 +40,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](resources "page précédente\(Resources\)")
-| [Next](ProgrammingIntro "Next\(Patch Introduction\)")
+Navigation : [Previous](resources "nte\(Resources\)") | [Next](ProgrammingIntro "\(Patch Introduction\)")
 
