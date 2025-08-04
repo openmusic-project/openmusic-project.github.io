@@ -1,22 +1,15 @@
-
-Navigation : [Previous](BasicObjects "page précédente\(Basic
-Tools\)") | [Next](BPF-BPC "Next\(BPF / BPC\)")
+Navigation : [Previous](BasicObjects "\(Basic Tools\)") | [Next](BPF-BPC "\(BPF / BPC\)")
 
 # Curves and Functions
 
 
-The Functions package contains a set of classes and functions designed to
-create, edit and manipulate curves, also called  **Break Point Functions** and
-** Break Point Curves ** . These can be accessed via the `Basic Tools /
-Functions` menu.
+The Functions package contains a set of classes and functions designed to create, edit and manipulate curves, also called  **Break Point Functions** and **Break Point Curves** . These can be accessed via the `Basic Tools / Functions` menu.
 
-As both classes and functions belong to the  Functions package, this might be
-slightly confusing. To avoid misunderstandings, we strictly refer to BPFs,
-BPCs or curves to mention objects of the package.
+As both classes and functions belong to the  Functions package, this might be slightly confusing. To avoid misunderstandings, we strictly refer to **BPFs**, **BPCs** or curves to mention objects of the package.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -47,6 +40,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](BasicObjects "page précédente\(Basic
-Tools\)") | [Next](BPF-BPC "Next\(BPF / BPC\)")
+Navigation : [Previous](BasicObjects "\(Basic Tools\)") | [Next](BPF-BPC "\(BPF / BPC\)")
+
 

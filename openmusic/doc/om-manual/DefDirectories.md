@@ -1,26 +1,19 @@
-
-Navigation : [Previous](Pathnames "page précédente\(Pathnames\)")
-| [Next](File-Box "Next\(File-Box\)")
+Navigation : [Previous](Pathnames "\(Pathnames\)") | [Next](File-Box "\(File-Box\)")
 
 # Default Directories
 
-Default directories can be used for the storage of external input, output and
-temporary files - MIDI, SDIF or sound files , sound analysis and synthesis
-files, etc. These storage folders can also be used in programs with the text
-tools presented in this section.
+Default directories can be used for the storage of external input, output and temporary files - MIDI, SDIF or sound files , sound analysis and synthesis files, etc. These storage folders can also be used in programs with the text tools presented in this section.
 
 ## OM Settings
 
-The default locations are the in-files and out-files directories of the
-current workspace directory.
+The default locations are the in-files and out-files directories of the current workspace directory.
 
-Preferences
+### Preferences
 
 These directories are selected in the [OM Preferences](Preferences).
 
 ![](../res/selectout_scr.png)
-
-[Zoom](../res/selectout_scr_1.png "Zoom \(nouvelle fenêtre\)")
+[Zoom](../res/selectout_scr_1.png "Zoom")
 
 To define a location folder
 
@@ -30,17 +23,16 @@ To define a location folder
 
   3. select a folder for the corresponding item.
 
-Selection
+### Selection
 
-Note that you can select any folder, including out of the workspace, and
-possibly share these folders between different workspaces.
+Note that you can select any folder, including out of the workspace, and possibly share these folders between different workspaces.
 
 ## Infile, Outfile and Tmpfile Boxes
 
-The  **infile** , ** outfile ** and  **tmpfile** boxes allow to build
+The  **infile** , **outfile** and  **tmpfile** boxes allow to build
 pathnames directly in the OM default folders.
 
-Access
+### Access
 
 To access these boxes
 
@@ -50,7 +42,7 @@ To access these boxes
 
 ![](../res/folder-boxes.png)
 
-Inputs and Output
+### Inputs and Output
 
   * Each box has one default input where the name of the file can be specified. 
 
@@ -60,15 +52,13 @@ file extension, etc.
   * The output returns the a pathname.
 
 ![](../res/extfiles.png)
+*Using the Pathname with File-Box*
 
-Using the Pathname with File-Box
+The output of the box can be connected to a  streamfile box in a [File-Box](File-Box), where the pointed file can be manipulated.
 
-The output of the box can be connected to a  streamfile box in a [File-
-Box](File-Box), where the pointed file can be manipulated.
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

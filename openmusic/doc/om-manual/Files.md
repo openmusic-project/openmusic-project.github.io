@@ -1,16 +1,12 @@
-Navigation : [Previous](InterfaceExample "page
-précédente\(Examples of Use\)") | [Next](Pathnames "page
-suivante\(Pathnames\)")
+Navigation : [Previous](InterfaceExample "\(Examples of Use\)") | [Next](Pathnames "\(Pathnames\)")
 
 # Reading/Writing Files
 
-Files are often required to allow communication between programs, or to
-store/retrieve data. The `Functions / Kernel / Files` menu provides a numer of
-utilities for reading or writing files in OM.
+Files are often required to allow communication between programs, or to store/retrieve data. The `Functions / Kernel / Files` menu provides  numerous  utilities for reading or writing files in OM.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -43,7 +39,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](InterfaceExample "page
-précédente\(Examples of Use\)") | [Next](Pathnames "page
-suivante\(Pathnames\)")
-
+Navigation : [Previous](InterfaceExample "\(Examples of Use\)") | [Next](Pathnames "\(Pathnames\)")

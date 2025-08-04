@@ -1,44 +1,40 @@
-
-Navigation : [Previous](BPF-BPC "page précédente\(BPF / BPC\)") |
-[Next](BPFEditors "Next\(Editors\)")
+Navigation : [Previous](BPF-BPC "\(BPF / BPC\)") | [Next](BPFEditors "\(Editors\)")
 
 # Multiple Objects : BPF/BPC-Lib
 
 ![](../res/libboxes.png)
 
-|
 
-** BPC-lib ** and  ** BPF-lib ** objects are collections of BPFs and BPCs.  
+**BPF-lib** and  **BPC-lib** objects are collections of **BPFs** and **BPCs**.  
   
----|---  
+
   
 ## Properties
 
-BPF-libs and BPC-libs have two inputs and outputs :
+**BPF-libs** and **BPC-libs** have two inputs and outputs :
 
-  1. "self" : the object itself, a BPF-Lib or BPC-Lib
+  1. "self" : the object itself, a **BPF-Lib** or **BPC-Lib**
 
-  2. "bpf / bpc list" : a list of BPFs or BPCs.
+  2. "bpf / bpc list" : a list of **BPFs** or **BPCs**.
 
 ![](../res/bpflibslots.png)
 
 ## Creating BPF-Libs or BPF-Libs in a patch
 
-BPF-lib and  BPC-lib instances can be created
+**BPF-lib** and  **BPC-lib** instances can be created
 
-  * out of existing BPFs or BPCs gathered in lists.
+  * out of existing **BPFs** or **BPCs** gathered in lists.
   * via their respective [editors](BPFEditors).
 
 ![](../res/makebpflib.png)
 
-Abscissa Scale
+### Abscissa Scale
 
-The  BPF-lib or  BPC-lib precision is automatically adapted to the highest
-"decimal" value of the BPF or BPC objects of the list.
+The**  BPF-lib** or  **BPC-lib** precision is automatically adapted to the highest "decimal" value of the **BPF** or **BPC** objects of the list.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -69,6 +65,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](BPF-BPC "page précédente\(BPF / BPC\)") |
-[Next](BPFEditors "Next\(Editors\)")
+Navigation : [Previous](BPF-BPC "\(BPF / BPC\)") | [Next](BPFEditors "\(Editors\)")
 

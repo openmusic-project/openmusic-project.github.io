@@ -1,16 +1,12 @@
-
-Navigation : [Previous](MultiBPF "page précédente\(BPF/BPC-
-Libs\)") | [Next](Edition "Next\(Edition Basics\)")
+Navigation : [Previous](MultiBPF "\(BPF/BPC-Libs\)") | [Next](Edition "\(Edition Basics\)")
 
 # BPFs and BPCs Editors
 
-BPFs and BPCs editors are globally similar with a few specificities. Out of
-simplicity, and to avoid confusions with OM  function boxes , we refer to both
-functions and  curves within editors as "curves".
+**BPFs** and **BPCs** editors are globally similar with a few specificities. Out of simplicity, and to avoid confusions with OM  function boxes , we refer to both functions and  curves within editors as "curves".
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -44,6 +40,4 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](MultiBPF "page précédente\(BPF/BPC-
-Libs\)") | [Next](Edition "Next\(Edition Basics\)")
-
+Navigation : [Previous](MultiBPF "\(BPF/BPC-Libs\)") | [Next](Edition "\(Edition Basics\)")

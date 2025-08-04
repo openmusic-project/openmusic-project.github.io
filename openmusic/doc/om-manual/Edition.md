@@ -1,45 +1,35 @@
-
-Navigation : [Previous](BPFEditors "page précédente\(Editors\)") |
-[Next](Display "Next\(Display\)")
+Navigation : [Previous](BPFEditors "\(Editors\)") | [Next](Display "\(Display\)")
 
 
 # Edition Basics
 
-Contents
+### Contents
 
   1. Adding / Deleting Points
-  2. Drawing in BPFs vs. BPCs
+  2. Drawing in **BPFs** vs. **BPCs**
   3. Moving Points
   4. Extra Edition
 
-Double click on a BPF or BPC to open the **editor window** . The editor opens
-along with a **palette** . This palette has a number of edition tools, which
-allow to add, delete and manipulate points within the editor.
+Double click on a **BPF** or **BPC** to open the **editor window** . The editor opens along with a **palette** . This palette has a number of edition tools, which allow to add, delete and manipulate points within the editor.
 
 ![The BPF editor and the edition palette.](../res/openbpfedit.png)
-
-The BPF editor and the edition palette.
+*The BPF editor and the edition palette.*
 
 ## Adding / Deleting Points
 
-The following operations are performed with the pointer
-![](../res/pointer_icon.png) .
+The following operations are performed with the pointer ![](../res/pointer_icon.png) .
 
-Adding Points in a BPF
+### Adding Points in a BPF
 
- To add points on the object, `Cmd` click in the editor window at the desired
-point position.  Note that the coordinates of the pointer are displayed in the
-upper part of the editor window.
+ To add points on the object, `Cmd` click in the editor window at the desired point position.  Note that the coordinates of the pointer are displayed in the upper part of the editor window.
 
 ![](../res/addpoints.png)
 
-Adding points in a BPC
+### Adding points in a BPC
 
-In a BPC, points can be added anywhere in the x / y plane, so that the new
-points are automatically inserted at **the end** of the points list . To add a
-point between two existing points, click precisely on the curve segment.
+In a **BPC**, points can be added anywhere in the x / y plane, so that the new points are automatically inserted at **the end** of the points list . To add a point between two existing points, click precisely on the curve segment.
 
-Delete
+### Delete
 
 To delete points :
 
@@ -51,36 +41,31 @@ To delete points :
 
 ## Drawing in BPFs vs. BPCs
 
-The Pen Tool
+### The Pen Tool
 
 ![](../res/pen.png)
 
-|
 
 The "pen" tool allows to draw on the BPF or BPC Editor. To draw a curve,
 select it press the mouse button while moving on the editorin the editor.  
   
----|---  
   
 ![](../res/drawcurve_scr.png)
+[Zoom](../res/drawcurve_scr_1.png "Zoom")
 
-[Zoom](../res/drawcurve_scr_1.png "Zoom \(nouvelle fenêtre\)")
-
-With a  BPC , points are added **at the end** of the current curve.
+With a  **BPC** , points are added **at the end** of the current curve.
 
 ![](../res/BPFDraw_scr.png)
+[Zoom](../res/BPFDraw_scr_1.png "Zoom")
 
-[Zoom](../res/BPFDraw_scr_1.png "Zoom \(nouvelle fenêtre\)")
-
-With a  BPF , points are only added or moved **to the closest x -coordinate**
-from the cursor.
+With a  **BPF** , points are only added or moved **to the closest x -coordinate** from the cursor.
 
 Use `CMD` \+ click in order to activate the selection mode while  pen mode
 tool is selected.
 
 ## Moving Points
 
-Moving Points Manually
+### Moving Points Manually
 
 The location of one or several points can be modified manually :
 
@@ -89,7 +74,7 @@ The location of one or several points can be modified manually :
 
 ![](../res/movepoints.png)
 
-Editing Coordinates
+### Editing Coordinates
 
 To access and edit the coordinates of a point :
 
@@ -97,16 +82,15 @@ To access and edit the coordinates of a point :
 
   2. enter values in the dialogue window.
 
-Note : floats are truncated depending on the object "decimals" parameter. If
-"decimals" = 0, coordinate values are rounded to the closest integer.
+**Note :** floats are truncated depending on the object "decimals" parameter. If "decimals" = 0, coordinate values are rounded to the closest integer.
 
-|
+
 
 ![](../res/editx.png)  
   
----|---  
+
   
-Moving the Whole Object
+### Moving the Whole Object
 
 ![](../res/movecurve.png)
 
@@ -118,11 +102,11 @@ To change the position of a curve within the editor's surface :
 
 ## Extra Edition
 
-Colour
+### Colour
 
 ![](../res/colourcurve.png)
 
-|
+
 
 To change the colour of a curve :
 
@@ -130,18 +114,17 @@ To change the colour of a curve :
 
   2. select a colour in the Colour Chooser.
 
-Assigning specific colours to curves may be especially useful in BPF and BPC-
-libs, which can have several BPFs and BPCs.  
+Assigning specific colours to curves may be especially useful in **BPF** and **BPC-libs**, which can have several **BPFs** and **BPCs**.  
   
----|---  
+
   
-Multiple Curves
+**Multiple Curves:**
 
   * [BPF-Lib / BPC-Lib Editors](BPFLibEditors)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -175,6 +158,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](BPFEditors "page précédente\(Editors\)") |
-[Next](Display "Next\(Display\)")
+Navigation : [Previous](BPFEditors "\(Editors\)") | [Next](Display "\(Display\)")
 

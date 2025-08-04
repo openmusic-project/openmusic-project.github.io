@@ -1,16 +1,14 @@
-Navigation : [Previous](FileBoxIterations "page
-précédente\(Designing Iterations\)") | [Next](CurvesAndFunctions
-"Next\(Curves and Functions\)")
+Navigation : [Previous](FileBoxIterations "\(Designing Iterations\)") | [Next](CurvesAndFunctions "\(Curves and Functions\)")
 
 # Basic Tools
 
-The OM **Basic Tools ** are designed for the  manipulation of data not
+The OM **Basic Tools** are designed for the  manipulation of data not
 necessarily aimed at musical applications, such as list, curves, arrays, text,
 mathematical functions, pictures, etc.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -36,7 +34,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](FileBoxIterations "page
-précédente\(Designing Iterations\)") | [Next](CurvesAndFunctions
-"Next\(Curves and Functions\)")
+Navigation : [Previous](FileBoxIterations "\(Designing Iterations\)") | [Next](CurvesAndFunctions "\(Curves and Functions\)")
 

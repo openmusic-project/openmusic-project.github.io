@@ -1,23 +1,17 @@
-Navigation : [Previous](DefDirectories "page précédente\(Default
-Directories\)") | [Next](FileBoxIntro "page
-suivante\(Introduction\)")
+Navigation : [Previous](DefDirectories "\(Default Directories\)") | [Next](FileBoxIntro "\(Introduction\)")
 
 
 # File-Box : Iterative File Input/Output Processes
 
-The  **File-Box** is an extension of **[ **OMLoop** ](OMLoop) ** used for
-programming iterative processes while controlling file reading and/or writing
-operations. These operations can be executed with several functions from the
-Files package .
+The  **File-Box** is an extension of  [ **OMLoop**](OMLoop)  used for programming iterative processes while controlling file reading and/or writing operations. These operations can be executed with several functions from the Files package .
 
 ![](../res/fileboxmenu.png)
 
-To access the  File-Box , `Cmd` click and type a name or select a menu item in
-the `Basic Tools / Text File I/O / File-Box` menu.
+To access the  File-Box , `Cmd` click and type a name or select a menu item in the `Basic Tools / Text File I/O / File-Box` menu.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -53,7 +47,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](DefDirectories "page précédente\(Default
-Directories\)") | [Next](FileBoxIntro "page
-suivante\(Introduction\)")
+Navigation : [Previous](DefDirectories "\(Default Directories\)") | [Next](FileBoxIntro "\(Introduction\)")
 
