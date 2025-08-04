@@ -1,50 +1,35 @@
-Navigation : [Previous](OMLoop "page précédente\(Iterations:
-OMLoop\)") | [Next](LoopGeneral "Next\(General
-Features\)")
+Navigation : [Previous](OMLoop "\(Iterations: OMLoop\)") | [Next](LoopGeneral "\(General Features\)")
 
 
 # Iteration (Introduction)
 
-**OMLoop** is a visual program that executes iterative processes such as
-transposition, combinatorial manipulations, scale building, or more
-sophisticated operations. As such, it is frequently needed and may be required
-as soon as the user gets to the thick of things.
+**OMLoop** is a visual program that executes iterative processes such as transposition, combinatorial manipulations, scale building, or more sophisticated operations. As such, it is frequently needed and may be required as soon as the user gets to the thick of things.
 
-Iteration
+## Iteration
 
-Iteration is the repetition of a process in order to apply it to a series of
-items.
+Iteration is the repetition of a process in order to apply it to a series of items.
 
-Example : Transposing a Chord
+**Example : Transposing a Chord**
 
-Transposing a chord actually amounts to adding the same value to each note it
-is composed of. Therefore, this process requires the iteration of an addition
-corresponding to the number of pitches in the chord.
+Transposing a chord actually amounts to adding the same value to each note it is composed of. Therefore, this process requires the iteration of an addition corresponding to the number of pitches in the chord.
 
-|
+
 
 ![](../res/exconcept.png)  
   
----|---  
+
   
-Widespread Use of Iteration
+## Widespread Use of Iteration
 
-Simple combinatorial operations may require much more sophisticated programs
-as it seems, and  cannot be designed without resorting to iteration.
+Simple combinatorial operations may require much more sophisticated programs as it seems, and  cannot be designed without resorting to iteration.
 
-For instance, building a series is a basic, frequent process, which can be
-easily executed with a pen and a staff. But as long as we wish to systematize
-it, extend it, or reproduce it a number of time, we need to resort to programs
-requiring an iteration. [ At the end of the OMLoop section](LoopExample),
-you will find a detailed example showing how such program can be designed and
-extended beyond the context of the traditional 12 semitones series.
+For instance, building a series is a basic, frequent process, which can be easily executed with a pen and a staff. But as long as we wish to systematize it, extend it, or reproduce it a number of time, we need to resort to programs requiring an iteration. [ At the end of the OMLoop section](LoopExample), you will find a detailed example showing how such program can be designed and extended beyond the context of the traditional 12 semitones series.
 
-**You are nevertheless invited to assimilate the notions expounded in the
-following sections before looking this example out**.
+**You are nevertheless invited to assimilate the notions expounded in the following sections before looking this example out**.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -80,7 +65,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](OMLoop "page précédente\(Iterations:
-OMLoop\)") | [Next](LoopGeneral "Next\(General
-Features\)")
+Navigation : [Previous](OMLoop "\(Iterations: OMLoop\)") | [Next](LoopGeneral "\(General Features\)")
+
 

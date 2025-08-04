@@ -1,47 +1,40 @@
-
-Navigation : [Previous](WhileLoop "page précédente\(While Loop\)")
-| [Next](LoopAccumulators "Next\(Accumulators\)")
+Navigation : [Previous](WhileLoop "\(While Loop\)") | [Next](LoopAccumulators "\(Accumulators\)")
 
 # Iterators and Infinite Loops
 
-If no iterator is used, or if an iterator is used the wrong way, OMLoop gets
-stuck and potentially goes on forever.
+If no iterator is used, or if an iterator is used the wrong way, **OMLoop** gets stuck and potentially goes on forever.
 
 ## Example : Generating Numbers
 
 We want to generate four random numbers between 1 and 4.
 
-Instead of using forloop to define the number of steps of the iteration, we
-have used repeat-n : OMLoop will never end and generate **four random
-numbers** an infinite number of times...
+Instead of using **forloop** to define the number of steps of the iteration, we have used **repeat-n** : **OMLoop** will never end and generate **four random numbers** an infinite number of times...
 
-|
 
-![](../res/infiniteloop.png)  
+
+![](../res/infiniteloop.png)
   
----|---  
+
   
 ## Abort Procedures
 
-Abort Dialogue Window
+**Abort Dialogue Window:**
 
 ![](../res/ABORT.png)
 
-|
 
-An abort dialogue window pops up after a while (by default, 500 000 loops). To
-stop the iteration, choose `Abort`, unless you have planned a very long
-iteration...  
+
+An abort dialogue window pops up after a while (by default, 500 000 loops). To stop the iteration, choose `Abort`, unless you have planned a very long iteration...  
   
----|---  
+
   
-Abort Command
+**Abort Command:**
 
 Type `Cmd` \+ `SHIFT` \+ `a` to abort the ongoing calculation.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -82,6 +75,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](WhileLoop "page précédente\(While Loop\)")
-| [Next](LoopAccumulators "Next\(Accumulators\)")
+Navigation : [Previous](WhileLoop "\(While Loop\)") | [Next](LoopAccumulators "\(Accumulators\)")
+
 

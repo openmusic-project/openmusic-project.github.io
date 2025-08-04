@@ -1,44 +1,34 @@
-
-Navigation : [Previous](Initdo "page précédente\(Initdo\)") |
-[Next](ListLoop "Next\(List Loop\)")
+Navigation : [Previous](Initdo "\(Initdo\)") | [Next](ListLoop "\(List Loop\)")
 
 # Iterators
 
-## Function
 
-An iterative operation must be driven by an **enumeration** , or at least
-stopped at some point by a given **condition** . In an OMLoop, this control is
-enabled by four **iterators** :
+An iterative operation must be driven by an **enumeration** , or at least stopped at some point by a given **condition** . In an **OMLoop**, this control is enabled by four **iterators** :
 
   * ![](../res/for_icon.png) **Forloop**
 
-|
+
 
   * ![](../res/while_icon.png) **Whileloop**
 
-|
+
 
   * ![](../res/list_icon.png) **Listloop**
 
-|
+
 
   * ![](../res/onlist_icon.png) **OnListloop**
 
   
----|---|---|---  
   
-Iterators can enumerate items in lists, but above all, they can stop the
-OMloop once this enumeration is over. This is why a loop must always have at
-least one iterator : otherwise, it goes on with infinite iterations.
+Iterators can enumerate items in lists, but above all, they can stop the **OMloop** once this enumeration is over. This is why a loop must always have at least one iterator : otherwise, it goes on with infinite iterations.
 
-If several iterators are used simultaneously, the loop stops as soon as **one
-of them** stops.
+If several iterators are used simultaneously, the loop stops as soon as **one of them** stops.
 
 ## Adding Iterators
 
 ![](../res/iterators1.png)
 
-|
 
 To add an iterator in the editor :
 
@@ -48,16 +38,14 @@ To add an iterator in the editor :
 
   
   
----|---  
   
 All the examples provided here make use the eachtime and finally evaluators of
 OMLoop :
 
   * [Evaluators : Eachtime, Finally, Initdo](LoopEvaluators)
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -98,6 +86,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Initdo "page précédente\(Initdo\)") |
-[Next](ListLoop "Next\(List Loop\)")
+Navigation : [Previous](Initdo "\(Initdo\)") | [Next](ListLoop "\(List Loop\)")
 

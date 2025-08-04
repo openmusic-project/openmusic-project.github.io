@@ -1,23 +1,17 @@
-
-Navigation : [Previous](LoopGeneral "page précédente\(General
-Features\)") | [Next](Finally "Next\(Finally\)")
+Navigation : [Previous](LoopGeneral "\(General Features\)") | [Next](Finally "\(Finally\)")
 
 # Evaluators : Eachtime, Finally, Initdo
 
 OMLoop has three evaluators :
 
-**![](../res/finally_icon.png) Finally : ** receives and returns the results
-of the loop.
+![](../res/finally_icon.png) **Finally** : receives and returns the results of the loop.
 
-****![](../res/eachtime_icon.png) EachTim**e ** : produces the result at each
-step of the iteration.
+![](../res/eachtime_icon.png) **EachTime**  : produces the result at each step of the iteration.
 
-![](../res/finally_icon.png) **Initdo :** evaluates an operation **before**
-the iteration begins.
+![](../res/finally_icon.png) **Initdo :** evaluates an operation **before** the iteration begins.
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -56,6 +50,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LoopGeneral "page précédente\(General
-Features\)") | [Next](Finally "Next\(Finally\)")
+Navigation : [Previous](LoopGeneral "\(General Features\)") | [Next](Finally "\(Finally\)")
 

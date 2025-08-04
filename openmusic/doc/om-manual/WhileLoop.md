@@ -1,6 +1,4 @@
-
-Navigation : [Previous](ForLoop "page précédente\(For Loop\)") |
-[Next](InfiniteLoops "Next\(Infinite Loops\)")
+Navigation : [Previous](ForLoop "\(For Loop\)") | [Next](InfiniteLoops "\(Infinite Loops\)")
 
 # WhileLoop : Defining Iteration Conditions
 
@@ -8,47 +6,42 @@ Navigation : [Previous](ForLoop "page précédente\(For Loop\)") |
 
 ![](../res/whilarg.png)
 
-|
 
-Whileloop allows a loop to go on **as long as a condition is fulfilled** .
+**Whileloop** allows a loop to go on **as long as a condition is fulfilled** .
 
-It has only one default input : "expression", which defines a condition. This
-condition can be expressed by a predicate[1] or any other value connected to
-the input of whileloop.  
+It has only one default input : "expression", which defines a condition. This condition can be expressed by a predicate[1] or any other value connected to the input of **whileloop**.  
   
----|---  
+
   
 ## Example : Using Whileloop with a Predicate
 
 A list that contains numbers and letters is enumerated until something else
 than a number is reached.
 
-  1. The list is enumerated by listloop. Each item returned by listloop is sent to the predicate numberp.
+  1. The list is enumerated by **listloop**. Each item returned by **listloop** is sent to the predicate numberp.
 
   2. Numberp tests if the item is a number, and returns "t" or "nil" .
 
-  3. The result of the predicate is returned to whileloop. As long as whileloop gets "t", the loop goes on.
+  3. The result of the predicate is returned to **whileloop**. As long as **whileloop** gets "t", the loop goes on.
 
-When numberp returns "nil", whileloop stops the loop, and finally returns
+When **numberp** returns "nil", whileloop stops the loop, and finally returns
 "done".
 
-  4. At each step of the loop, the results returned by listloop and numberp are gathered in a list, and EachTime prints the list. 
+  4. At each step of the loop, the results returned by **listloop** and **numberp** are gathered in a list, and **EachTime** prints the list. 
 
-|
+
 
 ![](../res/whilebehaioura.png)  
   
----|---  
+
   
-References :
+## References :
 
-  1. Predicate
+  *[1] Predicate
 
-A predicate verifies the property of a thing or a relation between two things.
-It has two possible answers : "true", and "false", that is, "t", or "nil" in
-Lisp.
+A predicate verifies the property of a thing or a relation between two things. It has two possible answers : "true", and "false", that is, "t", or "nil" in Lisp.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -89,6 +82,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ForLoop "page précédente\(For Loop\)") |
-[Next](InfiniteLoops "Next\(Infinite Loops\)")
+Navigation : [Previous](ForLoop "\(For Loop\)") | [Next](InfiniteLoops "\(Infinite Loops\)")
 

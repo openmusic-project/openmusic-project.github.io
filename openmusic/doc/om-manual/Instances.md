@@ -1,29 +1,18 @@
-Navigation : [Previous](LoopExample "page précédente\(Example : A
-Random Series\)") | [Next](InstanceBoxes "page
-suivante\(Instance Boxes\)")
+Navigation : [Previous](LoopExample "\(Example : A Random Series\)") | [Next](InstanceBoxes "\(Instance Boxes\)")
 
 # Instances
 
-An instance represents an **exemplar** of a given class. When a factory box is
-evaluated, its inner state is fixed as a **definite entity** , to produce an
-instance.
+An instance represents an **instance** of a given class. When a factory box is evaluated, its inner state is fixed as a **definite entity** , to produce an instance.
 
-Instances can be materialized via **instance boxes** in OM, and saved as
-persistent files[1]. They can be used, stored, and modified according to
-specific procedures. This section provides conceptual and practical
-information about instance objects and their manipulation.
+Instances can be materialized via **instance boxes** in OM, and saved as persistent files[1]. They can be used, stored, and modified according to specific procedures. This section provides conceptual and practical information about instance objects and their manipulation.
 
-References :
+## References :
 
-  1. Persistent object/document, Persistence
+  *[1} Persistent object/document, Persistence
 
-A persistent object corresponds to a "real" file that is kept somewhere in the
-hard drive of the computer. Examples of persistent objects in OM are patches,
-maquettes, or global variables. The corresponding documents are kept in the
-Workspace folder. Conversely, a "non-persistent" object lays within a program
-but cannot be manipulated as an independent file.
+A persistent object corresponds to a "real" file that is kept somewhere in the hard drive of the computer. Examples of persistent objects in OM are patches, maquettes, or global variables. The corresponding documents are kept in the Workspace folder. Conversely, a "non-persistent" object lays within a program but cannot be manipulated as an independent file.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -57,7 +46,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LoopExample "page précédente\(Example : A
-Random Series\)") | [Next](InstanceBoxes "page
-suivante\(Instance Boxes\)")
+Navigation : [Previous](LoopExample "\(Example : A Random Series\)") | [Next](InstanceBoxes "\(Instance Boxes\)")
 

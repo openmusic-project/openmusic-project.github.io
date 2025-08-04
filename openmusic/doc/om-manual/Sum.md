@@ -1,18 +1,16 @@
-
-Navigation : [Previous](Collect "page précédente\(Collect\)") |
-[Next](MinMax "Next\(Min / Max\)")
+Navigation : [Previous](Collect "\(Collect\)") | [Next](MinMax "\(Min / Max\)")
 
 # Sum : Calculating Sums
 
-**![](../res/sum_icon.png) Sum** adds the successive input values.
+![](../res/sum_icon.png) **Sum** adds the successive input values.
 
 ## Inputs, Outputs
 
 ![](../res/sum1.png)
 
-|
 
-Sum has one input and three outputs :
+
+**Sum** has one input and three outputs :
 
   * "what" : collects the successive values coming from other boxes.
   * first output :
@@ -24,51 +22,43 @@ Sum has one input and three outputs :
   * second output : returns the value of the current state of sum
   * third output : resets sum to zero.
 
-  
-  
----|---  
+
   
 ## Examples
 
-Calculating a Sum from a List
+### Calculating a Sum from a List
 
-The components of a list are returned successively by listloop to sum.
+The components of a list are returned successively by **listloop** to sum.
 
-  1. At each step of the loop, eachtime triggers and prints the sum of the components.
+  1. At each step of the loop, **eachtime** triggers and prints the sum of the components.
 
-  2. The state of sum at the end of the loop, that is, the sum of all the components of the list, is returned by finally.
+  2. The state of sum at the end of the loop, that is, the sum of all the components of the list, is returned by **finally**.
 
 |
 
 ![](../res/sum2a.png)  
   
----|---  
+
   
-Calculating the Sum of N Random Numbers
+### Calculating the Sum of N Random Numbers
 
 ![](../res/sum5.png)
 
-|
 
 We now want to calculate the sum of 10 random numbers between 1 and 10.
 
-  1. The number of loops is defined by forloop.
+  1. The number of loops is defined by **forloop**.
 
   2. At each step : 
 
-    * a random number is returned by om-random and printed
-    * the sum of the successive is returned by sum and printed.
-  3. After ten loops, the iteration is stopped by forloop.
+    * a random number is returned by **om-random** and printed
+    * the sum of the successive is returned by **sum** and printed.
+  3. After ten loops, the iteration is stopped by **forloop**.
 
-  4. Finally returns the sum of the whole set of numbers returned by om-random.
+  4. **Finally** returns the sum of the whole set of numbers returned by **om-random**.
 
   
-  
----|---  
-  
-References :
-
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -109,6 +99,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Collect "page précédente\(Collect\)") |
-[Next](MinMax "Next\(Min / Max\)")
+Navigation : [Previous](Collect "\(Collect\)") | [Next](MinMax "\(Min / Max\)")
 

@@ -1,20 +1,18 @@
-Navigation : [Previous](LoopAccumulators "page
-précédente\(Accumulators\)") | [Next](Sum "page
-suivante\(Sum\)")
+Navigation : [Previous](LoopAccumulators "\(Accumulators\)") | [Next](Sum "\(Sum\)")
 
 
 # Collect : Collecting Values
 
-** ![](../res/collect_icon.png)Collect ** is the most basic collector of the
-OMLoop module. It collects the values returned to its input in a list.
+![](../res/collect_icon.png)**Collect** is the most basic collector of the
+**OMLoop** module. It collects the values returned to its input in a list.
 
 ## Inputs and Outputs
 
 ![](../res/collect-inouts.png)
 
-|
 
-Collect has one default input and three outputs :
+
+**Collect** has one default input and three outputs :
 
   * "what" : collects successive values coming from other boxes
 
@@ -25,32 +23,29 @@ Collect has one default input and three outputs :
   * third output : resets the collected list to "nil", and returns an empty list.
 
   
-  
----|---  
+
   
 ## Example : Building a Random List of Numbers
 
 We want to make a list with seven random numbers between 1 and 100.
 
-  1. Forloop defines a **number of loops** . The iteration will stop after seven loops. 
+  1. **Forloop** defines a **number of loops** . The iteration will stop after seven loops. 
 
-  2. Om-random calculates a random number, which is printed at each loop by EachTime and print.
+  2. **Om-random** calculates a random number, which is printed at each loop by **EachTime** and print.
 
-  3. At each step, the successive elements are collected by collect.
+  3. At each step, the successive elements are collected by **collect**.
 
-  4. After seven loops, the iteration is stopped by forloop.
+  4. After seven loops, the iteration is stopped by **forloop**.
 
-  5. When the iteration stops, Finally returns the list of the numbers collected by collect.
+  5. When the iteration stops, **Finally** returns the list of the numbers collected by **collect**.
 
-|
+
 
 ![](../res/collect-ex.png)  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -91,7 +86,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LoopAccumulators "page
-précédente\(Accumulators\)") | [Next](Sum "page
-suivante\(Sum\)")
+Navigation : [Previous](LoopAccumulators "\(Accumulators\)") | [Next](Sum "\(Sum\)")
 

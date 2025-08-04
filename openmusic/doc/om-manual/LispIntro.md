@@ -1,48 +1,33 @@
-Navigation : [Previous](Lisp "page précédente\(Lisp
-Programming\)") | [Next](LispEditor "Next\(The Lisp
-Editor\)")
+Navigation : [Previous](Lisp "\(Lisp Programming\)") | [Next](LispEditor "\(The Lisp Editor\)")
 
 # Introduction to Lisp
 
-This section is **not** a Common Lisp tutorial, but just expounds a few
-important notions.
+This section is **not** a Common Lisp tutorial, but just expounds a few important notions.
 
 ## Origins
 
 A Bit of History
 
-Lisp is a functional language influenced by the lambda calculus that was
-specified in 1958. It is one of the oldest high-level programming languages.
+Lisp is a functional language influenced by the lambda calculus that was specified in 1958. It is one of the oldest high-level programming languages.
 
-[Common Lisp](http://www.cs.cmu.edu/Groups/AI/cltl/cltl2
-"http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 \(nouvelle fenêtre\)")
-is a Lisp dialect, among others such as  Scheme .
+[Common Lisp](http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 "http://www.cs.cmu.edu/Groups/AI/cltl/cltl2 \(nouvelle fenêtre\)") is a Lisp dialect, among others such as  Scheme .
 
-An Interpreted Language
+**An Interpreted Language**
 
-Lisp is an **" interpreted" language** : it works on top of a low-level
-process, or underlying **interpreter** , which evaluates Lisp code. Functions
-and data are defined and evaluated by this process, which incrementally
-enriches the running environment with new functionalities. Each time a new
-function, variable or class is defined, it becomes part of the environment.
-This characteristics makes Lisp programming very flexible and dynamic, since
-code can still be interpreted while Lisp programs are running.
+Lisp is an **" interpreted" language** : it works on top of a low-level process, or underlying **interpreter** , which evaluates Lisp code. Functions and data are defined and evaluated by this process, which incrementally enriches the running environment with new functionalities. Each time a new function, variable or class is defined, it becomes part of the environment. This characteristics makes Lisp programming very flexible and dynamic, since code can still be interpreted while Lisp programs are running.
 
-Links of Interest
+**Links of Interest**
 
-For a more complete overview of the language, the reader should consult
-specialized books or references. Here are some links of interest :
+For a more complete overview of the language, the reader should consult specialized books or references. Here are some links of interest :
 
   * [Common Lisp the Language, 2nd edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html "http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html \(nouvelle fenêtre\)")  : a reference book on the common Lisp standard by Guy L. Steele
   * [Lisp as a second language, composing programs and music](http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index.html "http://recherche.ircam.fr/equipes/repmus/LispSecondLanguage/index.html \(nouvelle fenêtre\)")  : a music-oriented tutorial by Peter Desain and Henkjan Honing
 
 ## S-expressions
 
-S-expression stands for "symbolic expression". S-expressions are **list-based
-representations**. They are typically represented in text by parenthesized,
-whitespace-separated sequences of character strings.
+S-expression stands for "symbolic expression". S-expressions are **list-based representations**. They are typically represented in text by parenthesized, whitespace-separated sequences of character strings.
 
-Prefix Notation
+**Prefix Notation**
 
 ![](../res/listprefix.png)
 
@@ -61,50 +46,44 @@ Quoted Expressions : QUOTE Operator
 
 ![](../res/quote.png)
 
-The **QUOTE** operator **" ' "** allows to get a list from a lisp expression
-without evaluating it. This operator must be put **before the targetted list
-first parenthesis** , and applies to all the elements located between the pair
-of parenthesis.
+The **QUOTE** operator **" ' "** allows to get a list from a lisp expression without evaluating it. This operator must be put **before the targeted list first parenthesis** , and applies to all the elements located between the pair of parenthesis.
 
 For instance :
 
 When the following expression : '(+ 5 6) is evaluated, (+ 5 6) is returned.
-The list is merely quoted.When the following expression (+ 5 6) is evaluated,
-11 is returned. The list is evaluated, because there is no quote.
+The list is merely quoted.When the following expression (+ 5 6) is evaluated, 11 is returned. The list is evaluated, because there is no quote.
 
-Lambda Expressions : the LAMBDA Operator
+**Lambda Expressions : the LAMBDA Operator**
 
 ![](../res/lambda.png)
 
 The **LAMBDA operator** binds - associates - variables to values in an
 expression. In other words, it allows to define functions.
 
-The syntax of a lambda expression is : **(lambda (arg1 arg2 ...) [body of the
-function] )** . This expression evaluates to a function, which can be applied
-to arguments. At application time, these arguments are bound to variables
-represented by  arg1 ,  arg2 , ...
+The syntax of a lambda expression is : **(lambda (arg1 arg2 ...) [body of the function] )** . This expression evaluates to a function, which can be applied to arguments. At application time, these arguments are bound to variables represented by  arg1 ,  arg2 , ...
 
-For instance, the lambda expression that defines (4 + (a * b)) with a and b as
-variables is written :
+For instance, the lambda expression that defines (4 + (a * b)) with a and b as variables is written :
 
+```
 (lambda (a b) (+ 4 (* a b))) .
+
+```
 
 ## Functions
 
-Defining Functions : DEFUN
+### Defining Functions : *defun*
 
-Most Lisp programming consists into defining functions. **DEFUN** is a
+Most Lisp programming consists into defining functions. **defun** is a
 particular operator that defines a function bound to a  name  :
 
+```
 (defun my-function-name (arg1 arg2 arg3)
 
-       [ Lisp expression(s) ] 
-
-            result ) 
+```
 
 Once the function is defined, its name represents the function.
 
-Defining Local Variables within a Function : LET
+### Defining Local Variables within a Function : *let*
 
 ![](../res/LET.png)
 
@@ -135,7 +114,7 @@ We can also write it :
 
 **       )** **)**  
   
----|---  
+
   
   * A ,  b and  c are the **arguments** of the function, the variables that are bound to values, when the function is  called . We also have a local variable :  (x = a + 5) .
 
@@ -153,25 +132,22 @@ is evaluated : **(my-function 1 2 3)** => 4
   
 ---|---  
   
-References :
+## References :
 
-  1. Argument
+   *[1} Argument
 
-An argument represents a parameter upon which a function operates. For
-instance, the (om+ x y) function has two arguments : x and y.
+An argument represents a parameter upon which a function operates. For instance, the (om+ x y) function has two arguments : x and y.
 
-  2. Evaluation
+  *[2} Evaluation
 
-In Lisp, evaluating an expression amounts to interpreting and reducing its
-contents in order to return a result.
+In Lisp, evaluating an expression amounts to interpreting and reducing its contents in order to return a result.
 
-In OM, visual programs represent Lisp expressions and evaluating a box
-triggers the calculus that will determine the value of these expressions.
+In OM, visual programs represent Lisp expressions and evaluating a box triggers the calculus that will determine the value of these expressions.
 
 Any kind of box can be evaluated and return something. To evaluate a box, ⤷
 Click and press `v` or `Cmd` click on an outlet.
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -201,7 +177,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Lisp "page précédente\(Lisp
-Programming\)") | [Next](LispEditor "Next\(The Lisp
-Editor\)")
+Navigation : [Previous](Lisp "\(Lisp Programming\)") | [Next](LispEditor "\(The Lisp Editor\)")
 

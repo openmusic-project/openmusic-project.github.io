@@ -1,22 +1,18 @@
-
-Navigation : [Previous](LoopIntro "page précédente\(Iteration\)")
-| [Next](LoopEvaluators "Next\(Evaluators\)")
+Navigation : [Previous](LoopIntro "\(Iteration\)") | [Next](LoopEvaluators "\(Evaluators\)")
 
 # General Features
 
 ![](../res/omloop2_icon.png)
 
-|
 
-The OMLoop module is a specific type of abstraction - or patch. It encloses a
-number of specialized components, which allow to design iterative programs.
-Programming takes place in the internal editor of OMLoop.  
+
+The OMLoop module is a specific type of abstraction - or patch. It encloses a number of specialized components, which allow to design iterative programs. Programming takes place in the internal editor of OMLoop.  
   
----|---  
+
   
 ## OMLoop Editor and Components
 
-Editor
+### Editor
 
 To open the OMLoop editor, double click on the OMLoop box.
 
@@ -24,7 +20,7 @@ To open the OMLoop editor, double click on the OMLoop box.
 
 The OMLoop editor resembles a patch editor.
 
-Components
+### Components
 
 OMLoop provides three types of programming components :
 
@@ -34,77 +30,61 @@ OMLoop provides three types of programming components :
 
   * **accumulators** : gather the result at each step of the iteration in the ongoing process until the iteration is over.
 
-Iterators and accumulators are visible at the top of the OMLoop editor and can
-be added with a click. The choice of iterators and accumulators depends on the
-iteration program.
+Iterators and accumulators are visible at the top of the OMLoop editor and can be added with a click. The choice of iterators and accumulators depends on the iteration program.
 
   * **evaluators** : trigger the evaluation and return the results, at each step or at the end of the iteration. 
 
-The  eachtime and  finally evaluators are essential components which are
-displayed by default in the editor.  Initdo can be added typing its name in
-the editor.
+The **eachtime** and  **finally** evaluators are essential components which are displayed by default in the editor. **Initdo** can be added typing its name in the editor.
 
 ## Adding Inputs and Outputs
 
 ![](../res/omloop2_icon.png)
 
-|
 
-Initially, the OMLoop box has only **one output** **and no input** :
-programming can be done without the use of external data, like with a patch.
+Initially, the OMLoop box has only **one output** **and no input** : programming can be done without the use of external data, like with a patch.
 
 Additional outputs and inputs can be added using the following procedures.  
   
----|---  
+
   
-Inputs
+### Inputs
 
 ![](../res/inputloop_icon.png)
 
-|
 
-**Inputs** transfer incoming data to the programming functions of OMLoop. They
-are represented green top-down arrow inside the editor.  
-  
----|---  
-  
-![The OMLoop editor shows additional inputs, as well as a number of default
-internal components.](../res/addinputsloop.png)
 
-The OMLoop editor shows additional inputs, as well as a number of default
-internal components.
+**Inputs** transfer incoming data to the programming functions of **OMLoop**. They are represented green top-down arrow inside the editor.  
+  
+
+  
+![The OMLoop editor shows additional inputs, as well as a number of default internal components.](../res/addinputsloop.png)
+*The OMLoop editor shows additional inputs, as well as a number of default internal components.*
 
 ![](../res/omloop-box.png)
 
-|
 
-**** To add or delete an input in the OMLoop box,
+To add or delete an input in the **OMLoop** box,
 
   * press `Alt` +  `->` or `<-`
 
   * press  `>` or `<`.
 
   
-  
----|---  
-  
-Outputs
 
-OMLoop outputs are managed with another procedure.
+  
+### Outputs
+
+**OMLoop** outputs are managed with another procedure.
 
 ![](../res/finally-box_icon.png)
 
-|
 
-The finally evaluator represents the  **visible output(s)** of OMLoop. It
-returns the results of the iteration. ** Outputs ** can therefore be added and
-deleted by adding or deleting ** optional inputs **to and from Finally.  
+The finally evaluator represents the  **visible output(s)** of **OMLoop**. It returns the results of the iteration. ** Outputs ** can therefore be added and deleted by adding or deleting ** optional inputs **to and from Finally.  
   
----|---  
+
   
 ![](../res/finally-box2_icon.png)
 
-|
 
 To add or delete inputs to  finally :
 
@@ -113,26 +93,22 @@ To add or delete inputs to  finally :
   * press `>` or `<` .
 
   
-  
 ![](../res/addoutloop_icon.png)
-
-|
-
-Outputs also represented on the OMLoop icon once added.  
+*Outputs also represented on the OMLoop icon once added.*
   
-About Evaluators :
+**About Evaluators :**
 
   * [Evaluators : Eachtime, Finally, Initdo](LoopEvaluators)
 
-About Evaluation in OMLoops
+**About Evaluation in OMLoops:**
 
   * An OMLoop can't be evaluated from the inside of its editor. It will be ineffective until its internal program is defined correctly. 
 
   * Do not evaluate it before it is completed : an infinite loop might get OM stuck for a while...
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -168,6 +144,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](LoopIntro "page précédente\(Iteration\)")
-| [Next](LoopEvaluators "Next\(Evaluators\)")
+Navigation : [Previous](LoopIntro "\(Iteration\)") | [Next](LoopEvaluators "\(Evaluators\)")
 

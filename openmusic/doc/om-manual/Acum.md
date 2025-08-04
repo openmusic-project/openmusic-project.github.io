@@ -1,43 +1,41 @@
-
-Navigation : [Previous](Count "page précédente\(Count\)") | [Next](LoopExample "Next\(Example : A Random Series\)")
+Navigation : [Previous](Count "\(Count\)") | [Next](LoopExample "\(Example : A Random Series\)")
 
 # Acum : Defining Accumulation Procedures
 
-**![](../res/acum_icon.png) Acum** is a generic module used for defining
+![](../res/acum_icon.png) **Acum** is a generic module used for defining
 storage or accumulation procedure.
 
 ## Inputs and Outputs
 
 ![](../res/acum-inouts.png)
 
-|
 
-Contrary to the other accumulators, accum has three default inputs and one
-optional input :
+Contrary to the other accumulators, **accum** has three default inputs and one optional input :
 
-  * "acum" : collects the successive elements of a list returned by an iterator
+  * **acum** : collects the successive elements of a list returned by an iterator
+  
   * "init" :  **initial value** of the accumulator
+  
   * "fun" : an ** accumulation function ** to apply to each collected element.
+  
   * first output : 
 
   1. collects the input value and applies the accumulation function
 
   2. returns the current state of the accumulator.
 
-  * second output : returns the finale value of acum. 
+  * second output : returns the finale value of **acum**. 
+  
   * third output : resets the accumulator to the value specified by "init".
 
   
-  
----|---  
-  
-More information about Lambda Functions :
+**More information about Lambda Functions :**
 
   * [Lambda Mode](LambdaMode)
 
-"Init" : Defining Acum's Behaviour
+"Init" : Defining **Acum**'s Behavior
 
-" **Init** " actually defines the accumulator's behaviour.
+" **Init** " actually defines the accumulator's behavior.
 
 It must take a function or box on[ lambda](LambdaMode) mode, with two
 inputs :
@@ -50,29 +48,24 @@ inputs :
 
 We want to subtract numbers successively - for instance (100-8-2-3-9). For
 this, we need an initial value, x, a list of numbers, the om- function on
-"lambda" mode, and acum.
+"lambda" mode, and **acum**.
 
-The initial value of acum is 100. Om- is set on "lambda" mode it is connected
-to the third output of acum. It is applied recursively to the elements of the
-list and to the initial value. We get (100 - a - b - c - d).
+The initial value of **acum** is 100. Om- is set on "lambda" mode it is connected to the third output of **acum**. It is applied recursively to the elements of the list and to the initial value. We get (100 - a - b - c - d).
 
-  1. Listloop returns the successive elements of the list to acum.
+  1. **Listloop** returns the successive elements of the list to **acum**.
 
-  2. At each step of the iteration, the first print box prints the **successive current values** of acum : 100 ; 100-8 = 92 ; 92-2 = 90 ; ...
+  2. At each step of the iteration, the first print box prints the **successive current values** of **acum** : 100 ; 100-8 = 92 ; 92-2 = 90 ; ...
 
-  3. At each step of the iteration, the second print box prints the result of the subtraction, which is then stored as **the new current value** of accum.
+  3. At each step of the iteration, the second print box prints the result of the subtraction, which is then stored as **the new current value** of **accum**.
 
-  4. When the iteration is over, Finally returns the final state of acum.
+  4. When the iteration is over, **Finally**  returns the final state of **acum**.
 
-|
 
 ![](../res/acum3.png)  
   
----|---  
-  
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -113,5 +106,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Count "page précédente\(Count\)") | [Next](LoopExample "Next\(Example : A Random Series\)")
+Navigation : [Previous](Count "\(Count\)") | [Next](LoopExample "\(Example : A Random Series\)")
 

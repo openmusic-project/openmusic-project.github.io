@@ -1,19 +1,16 @@
-
-Navigation : [Previous](Sum "page précédente\(Sum\)") | 
-[Next](Count "Next\(Count\)")
+Navigation : [Previous](Sum "\(Sum\)") |  [Next](Count "\(Count\)")
 
 # Min and Max : Comparing Values
 
-** ![](../res/minmax_icon.png) Min ** and **max** compare the successive
-values of an iteration, and return the lowest or the highest one.
+ ![](../res/minmax_icon.png) **Min** and **max** compare the successive values of an iteration, and return the lowest or the highest one.
 
 ## Inputs and Outputs
 
 ![](../res/min-inouts.png)
 
-|
 
-Min and max have one default input and three outputs :
+
+**Min** and **max** have one default input and three outputs :
 
   * "what" : collects successive values coming from other boxes.
   * first output :
@@ -23,15 +20,13 @@ Min and max have one default input and three outputs :
   2. returns the  **current** lowest or highest collected value at each step of the loop
 
   * second output : returns the lowest or highest value
-  * third output : reinitializes the accumulator with the highest or lowest possible numbers : 4294967296 and -4294967296. These are comparison references for the next values. 
+  * third output : re-initializes the accumulator with the highest or lowest possible numbers : 4294967296 and -4294967296. These are comparison references for the next values. 
 
-  
-  
----|---  
+ 
   
 ## Example : Selecting the Lowest or Higher Value of a List
 
-  1. Listloop enumerates the numbers of a list and returns them successively to min or max.
+  1. **Listloop** enumerates the numbers of a list and returns them successively to **min** or **max**.
 
   2. Each time, the new number is compared to the current value. 
 
@@ -40,13 +35,13 @@ instead of this current value.
 
   3. The current value is printed. 
 
-  4. The second output of min and max returns the resulting lowest or greatest value of all the list to Finally.
+  4. The second output of **min** and **max** returns the resulting lowest or greatest value of all the list to **Finally**.
 
 ![](../res/minmax-ex.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -87,5 +82,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Sum "page précédente\(Sum\)") | [Next](Count "Next\(Count\)")
+Navigation : [Previous](Sum "\(Sum\)") |  [Next](Count "\(Count\)")
 
