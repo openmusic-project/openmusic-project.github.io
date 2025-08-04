@@ -1,18 +1,15 @@
-
-Navigation : [Previous](Button "page précédente\(Button\)") |
-[Next](MenuBoxes "Next\(Pop-Up Menu Box\)")
+Navigation : [Previous](Button "\(Button\)") | [Next](MenuBoxes "\(Pop-Up Menu Box\)")
 
 # Controlling Values : Slider Box
 
-Contents
+### Contents
 
   1. Features
   2. Settings
   3. Using the "Action" Input
   4. A Musical Application
 
-The  ** slider ** box allows to select a value in a given range with a slider
-interface.
+The  **slider** box allows to select a value in a given range with a slider interface.
 
 ## Features
 
@@ -28,15 +25,15 @@ The  slider has five inputs and outputs :
 
   5. " **action** " : an action to perform specified by a lambda function or patch.
 
-|
+
 
 ![](../res/set-slider.png)  
   
----|---  
+
   
 ## Settings
 
-Completing the Slider's Setting
+### Completing the Slider's Setting
 
 To complete the slider's setting :
 
@@ -46,7 +43,7 @@ To complete the slider's setting :
 
   3. **lock the box afterwards** to avoid resetting the values at subsequent evaluations.
 
-"Direction" Input
+### "Direction" Input
 
 Note that the slider orientation might not be taken into account if it is
 incompatible with the box's size. A horizontal slider can be "resized
@@ -54,7 +51,7 @@ vertically".
 
 ![](../res/slider-direction.png)
 
-Slider's Value(s)
+### Slider's Value(s)
 
 The range, step and value inputs can be used to set the slider. The initial
 value is modified when the user moves the slider.
@@ -69,19 +66,12 @@ current value.
 
 ## Using the "Action" Input
 
-The "action" input of the slider can be used for triggering an operation that
-will integrate the "value" input, that is,  **the slider's position,  ** as a
-parameter.
+The "action" input of the slider can be used for triggering an operation that will integrate the "value" input, that is,  **the slider's position**,  as a parameter.
 
 ![](../res/slider-print.png)
+*The "action" input must be connected to a function or a [box on "lambda" mode](LambdaMode) with one input or argument.*
 
-|
-
-The "action" input must be connected to a function or a [box on "lambda"
-mode](LambdaMode) with one input or argument.
-
-When the slider is moved, this function is called with the value of the
-"value" input as argument.
+When the slider is moved, this function is called with the value of the "value" input as argument.
 
 To set or modify the function associated with the slider :
 
@@ -89,9 +79,7 @@ To set or modify the function associated with the slider :
 
   2. evaluate the slider  box .
 
-  
-  
----|---  
+ 
   
 ## A Musical Application
 
@@ -103,14 +91,12 @@ To set or modify the function associated with the slider :
 
   * The "initial value" of the slider is equal to 48, the lowest pitch of the range.
 
-  * The patch on "lambda" mode is a very simple program that applies the slider's value to the pitch input of the send-midi-note function. 
+  * The patch on "lambda" mode is a very simple program that applies the slider's value to the pitch input of the **send-midi-note** function. 
 
-When the slider is moved, the note played by send-midi-note matches the value
-of the slider.
+When the slider is moved, the note played by **send-midi-note** matches the value of the slider.
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -148,6 +134,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Button "page précédente\(Button\)") |
-[Next](MenuBoxes "Next\(Pop-Up Menu Box\)")
+Navigation : [Previous](Button "\(Button\)") | [Next](MenuBoxes "\(Pop-Up Menu Box\)")
+
 

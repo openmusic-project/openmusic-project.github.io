@@ -1,6 +1,4 @@
-
-Navigation : [Previous](TextBoxes "page précédente\(Text Boxes\)")
-| [Next](ListBoxes "Next\(List Boxes\)")
+Navigation : [Previous](TextBoxes "\(Text Boxes\)") | [Next](ListBoxes "\(List Boxes\)")
 
 # Controlling Operations : the Check Box
 
@@ -11,11 +9,11 @@ associated with **conditional boxes** that will call the programs.
 
 ## Features
 
-Inputs and Outputs
+### Inputs and Outputs
 
 ![](../res/check.png)
 
-|
+
 
 The  check-box object has one input and one output :
 
@@ -25,9 +23,9 @@ The  check-box object has one input and one output :
 
   
   
----|---  
+
   
-Editing the Statement
+### Editing the Statement
 
 To change the box's statement :
 
@@ -37,46 +35,40 @@ To change the box's statement :
 
   3. evaluate the box.
 
-|
+
 
 ![](../res/check-text.png)  
   
----|---  
   
-## Use
+## Usage
 
 Wherever the box is clicked, it is successively checked or unchecked.
 Depending on its state, the box output returns "t" or "nil".
 
-|
 
-![In the first case, the OMIF box returns the second argument, because the
-checkbox returns "nil". In the second case, it returns the first argument,
-because the checkbox returns "t".](../res/check-box-ex.png)
 
-In the first case, the OMIF box returns the second argument, because the
-checkbox returns "nil". In the second case, it returns the first argument,
-because the checkbox returns "t".  
+![In the first case, the OMIF box returns the second argument, because the checkbox returns "nil". In the second case, it returns the first argument, because the checkbox returns "t".](../res/check-box-ex.png)
+*In the first case, the OMIF box returns the second argument, because the checkbox returns "nil". In the second case, it returns the first argument, because the checkbox returns "t".*
   
----|---  
+
   
-Using Conditions in a Program
+**Using Conditions in a Program:**
 
   * [Conditional Operators](ConditionalOps)
 
-For a More than Two Options
+**For a More than Two Options:**
 
   * [Selection : List Boxes](ListBoxes)
 
 ## A Musical Application : an Extended Example
 
-Building a Triad with an Item-List-Box, a Button-Box, and a Check Box
+**Building a Triad with an Item-List-Box, a Button-Box, and a Check Box:**
 
   * [Using the Interface Boxes : Example](InterfaceExample)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -114,6 +106,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](TextBoxes "page précédente\(Text Boxes\)")
-| [Next](ListBoxes "Next\(List Boxes\)")
+Navigation : [Previous](TextBoxes "\(Text Boxes\)") | [Next](ListBoxes "\(List Boxes\)")
 

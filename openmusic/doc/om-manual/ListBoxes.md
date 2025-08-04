@@ -1,25 +1,22 @@
-
-Navigation : [Previous](CheckBox "page précédente\(Check Box\)") |
-[Next](Button "Next\(Button\)")
+Navigation : [Previous](CheckBox "\(Check Box\)") | [Next](Button "\(Button\)")
 
 # Selection : List Boxes
 
-List selection boxes allow to select one or several items among a list, return
-and use it/them in downstream computations.
+List selection boxes allow to select one or several items among a list, return and use it/them in downstream computations.
 
 There exist two list selection boxes :
 
   * **single-item-list**
 
-  * ** multi-item-list **
+  * **multi-item-list**
 
 ## Features
 
-Inputs and Outputs
+### Inputs and Outputs
 
 ![](../res/lists-boxes.png)
 
-|
+
 
 List selection boxes have one input and one output :
 
@@ -27,13 +24,10 @@ List selection boxes have one input and one output :
 
   * the output returns the selected item(s).
 
-  
-  
----|---  
-  
+
 ![](../res/evaluno.png)
 
-|
+
 
 To set the content of a box :
 
@@ -43,20 +37,19 @@ To set the content of a box :
 
 When evaluated, the box returns the selected item.  
   
----|---  
+
   
-Default Item
+### Default Item
 
 By default, the first item is selected and reset when the box is initialized.
 
 Lock the Box to Preserve Its Items
 
-If the box is not locked, the selected item as well as the list of items will
-be reinitialized when the box is evaluated.
+If the box is not locked, the selected item as well as the list of items will be reinitialized when the box is evaluated.
 
 ## Boxes
 
-Single-Item-List
+### Single-Item-List
 
 The  **single-item-list** allows to select only one item at a time.
 
@@ -68,7 +61,7 @@ To select an item,
 
 ![](../res/singleitem.png)
 
-Multi-Item-List
+### Multi-Item-List
 
 This box allows to select one or more items, which are returned as a list.
 
@@ -82,13 +75,13 @@ The  **multi-item-list** is edited and used as as  single-item-list .
 
 ## A Musical Application : an Extended Example
 
-Building a Triad with an Item-List-Box, a Button-Box, and a Check Box
+**Building a Triad with an Item-List-Box, a Button-Box, and a Check Box:**
 
   * [Using the Interface Boxes : Example](InterfaceExample)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)

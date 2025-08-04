@@ -2,7 +2,7 @@ Navigation : [Previous](LoopExample "\(Example : A Random Series\)") | [Next](In
 
 # Instances
 
-An instance represents an **instance** of a given class. When a factory box is evaluated, its inner state is fixed as a **definite entity** , to produce an instance.
+An instance represents a **copy** of a given class. When a factory box is evaluated, its inner state is fixed as a **definite entity** , to produce an instance.
 
 Instances can be materialized via **instance boxes** in OM, and saved as persistent files[1]. They can be used, stored, and modified according to specific procedures. This section provides conceptual and practical information about instance objects and their manipulation.
 

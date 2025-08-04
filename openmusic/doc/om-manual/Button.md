@@ -1,6 +1,4 @@
-
-Navigation : [Previous](ListBoxes "page précédente\(List Boxes\)")
-| [Next](Slider "Next\(Slider Box\)")
+Navigation : [Previous](ListBoxes "\(List Boxes\)") | [Next](Slider "\(Slider Box\)")
 
 # Triggering Operations : The Button Box
 
@@ -11,25 +9,20 @@ When the  button is pressed, an action is executed.
 ## Features
 
 ![](../res/push.png)
+*The  button box has two inputs*
 
-|
-
-The  button box has two inputs
-
-  1. "text" : the button appellation
+  1. "text" : the button text
 
   2. "action" : is simply evaluated, and evaluates upstream connected boxes.
 
   
-  
----|---  
-  
-When the button is pushed, the Listener displays the value returned by the box
-connected to the second input.
 
-Reminder
+  
+When the button is pushed, the Listener displays the value returned by the box connected to the second input.
 
-Displaying and Editing the Button Box Interface
+**Reminder:**
+
+**Displaying and Editing the Button Box Interface:**
 
   * [General Features](GeneralFeatures)
 
@@ -38,21 +31,20 @@ Displaying and Editing the Button Box Interface
 Any box or part of a patch to be evaluated by pushing the button can be
 connected to the second input.
 
-|
+
 
 ![](../res/bouton.png)  
   
----|---  
+ 
   
 ## A Musical Application : an Extended Example
 
-Building a Triad with an Item-List-Box, a Button-Box, and a Check Box
+**Building a Triad with an Item-List-Box, a Button-Box, and a Check Box:**
 
   * [Using the Interface Boxes : Example](InterfaceExample)
 
-References :
 
-Contents :
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -90,6 +82,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ListBoxes "page précédente\(List Boxes\)")
-| [Next](Slider "Next\(Slider Box\)")
+Navigation : [Previous](ListBoxes "\(List Boxes\)") | [Next](Slider "\(Slider Box\)")
 

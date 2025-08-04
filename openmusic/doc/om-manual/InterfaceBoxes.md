@@ -1,6 +1,4 @@
-Navigation : [Previous](Store "page précédente\(The Store
-Object\)") | [Next](GeneralFeatures "Next\(General
-Features\)")
+Navigation : [Previous](Store "\(The Store Object\)") | [Next](GeneralFeatures "\(General Features\)")
 
 # Interface Boxes
 
@@ -10,9 +8,9 @@ operations, choosing options or items, displaying results etc., by mirroring
 "standard" user interfaces or **dialog items** - buttons, pop up menus or
 sliders.
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -50,7 +48,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](Store "page précédente\(The Store
-Object\)") | [Next](GeneralFeatures "Next\(General
-Features\)")
+Navigation : [Previous](Store "\(The Store Object\)") | [Next](GeneralFeatures "\(General Features\)")
 

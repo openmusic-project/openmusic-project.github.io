@@ -1,44 +1,32 @@
-
-Navigation : [Previous](InterfaceBoxes "page précédente\(Interface
-Boxes\)") | [Next](TextBoxes "Next\(Text Boxes\)")
+Navigation : [Previous](InterfaceBoxes "\(Interface Boxes\)") | [Next](TextBoxes "\(Text Boxes\)")
 
 # General Features
 
-To access dialog Items, go to `Classes / Kernel / Interface Boxes /` in the OM
-menus.
+To access dialog Items, go to `Classes / Kernel / Interface Boxes /` in the OM menus.
 
 ## Displaying the Dialog Items
 
-Miniview
+### Miniview
 
 The actual interface of a dialog box is displayed via the miniview.
 
 To display a miniview, select a box and press `m`.
 
-|
-
-![Diplaying the interface for the classes TEXT-BOX and
+![Displaying the interface for the classes TEXT-BOX and
 BUTTON](../res/diboxview.png)
+*Displaying the interface for the classes TEXT-BOX and BUTTON*
+  
 
-Diplaying the interface for the classes TEXT-BOX and BUTTON  
   
----|---  
-  
-Appellation : Displaying and Editing the "Text" Argument
+### Displaying and Editing the "Text" Argument
 
 ![A button-box before and after the evaluation : "click" is a default text
 argument.](../res/untitled2.png)
+*A button-box before and after the evaluation : "click" is a default text argument.*
 
-A button-box before and after the evaluation : "click" is a default text
-argument.
 
-|
-
-Most interface boxes have a display text, generally as a first input. The text
-connected to the input is displayed on the interface when the box is evaluated
-(if not in [locked mode](LockMode)).  
+Most interface boxes have a display text, generally as a first input. The text connected to the input is displayed on the interface when the box is evaluated (if not in [locked mode](LockMode)).  
   
----|---  
   
 To change the value of the "text" argument  :
 
@@ -50,21 +38,16 @@ To change the value of the "text" argument  :
 
 ## Selecting Boxes
 
-Selection, Move, Resize...
+### Selection, Move, Resize...
 
 ![](../res/name.png)
 
 ![](../res/no1.png)
-
-|
-
-Once their miniview is displayed, interface boxes cannot be selected with a
-mouse click, due to the nature of the interface.  
+*Once their miniview is displayed, interface boxes cannot be selected with a mouse click, due to the nature of the interface.*
   
----|---  
+
   
-To select a box, click on the border of the box, or drag the mouse over the
-whole box. The box can then be resized or evaluated as usual.
+To select a box, click on the border of the box, or drag the mouse over the whole box. The box can then be resized or evaluated as usual.
 
 ![](../res/res.png)
 
@@ -74,16 +57,15 @@ Items can be also moved and resized without the mouse, to a certain extent :
 
   * press `i` to restore the initial size.
 
-Hiding the Box Contents
+### Hiding the Box Contents
 
-An easy way to select and move/resize the interface box is to temporarily hide
-their contenst with `m`.
+An easy way to select and move/resize the interface box is to temporarily hide their contenst with `m`.
 
 ![](../res/resizeuntitled1.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -121,6 +103,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](InterfaceBoxes "page précédente\(Interface
-Boxes\)") | [Next](TextBoxes "Next\(Text Boxes\)")
+Navigation : [Previous](InterfaceBoxes "\(Interface Boxes\)") | [Next](TextBoxes "\(Text Boxes\)")
 
