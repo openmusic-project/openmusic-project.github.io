@@ -36,7 +36,7 @@ initializing it again at every subsequent box evaluation.
   
 ## MIDI to Chord-seq/Multi-seq
 
-The MIDIfile box can then be connected to a chord-seq or multi-seq in order to convert the data to OM musical object formats.
+The **MIDIfile** box can then be connected to a chord-seq or multi-seq in order to convert the data to OM musical object formats.
 
 
 
@@ -79,8 +79,7 @@ Creating a MusicXML file from Finale
 MusicXML files can be created by Finale via the` File / MusicXML / Export` menu.
 
 ![](../res/exp_scr.png)
-
-[zoom](../res/exp_scr_1.png "Zoom \(nouvelle fenêtre\)")  
+[zoom](../res/exp_scr_1.png "Zoom")  
   
 ## Contents :
 

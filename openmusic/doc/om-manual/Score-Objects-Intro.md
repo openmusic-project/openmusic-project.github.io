@@ -119,7 +119,7 @@ agrandir")
   
 ## References :
 
-  1. Rhythm Tree
+  * [1] Rhythm Tree
 
 A rhythm tree expresses a rhythmic structure as a list.
 

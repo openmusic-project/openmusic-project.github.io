@@ -1,27 +1,24 @@
-
-Navigation : [Previous](3DC-Lib "page précédente\(3DC-Lib\)") |
-[Next](ArrayObject "Next\(Class-Array Object\)")
+Navigation : [Previous](3DC-Lib "\(3DC-Lib\)") | [Next](ArrayObject "\(Class-Array Object\)")
 
 # Array
 
 
-The class-array is an original tool for the manipulation of **arrays** , that
-is, matrices[1] and other bidimensional data structures. It is specifically
-designed to support description data such as parameters for sound synthesis
-control. This section shows how to design, edit and manipulate arrays.
+The class-array is an original tool for the manipulation of **arrays** , that is, matrices[1] and other bidimensional data structures. It is specifically designed to support description data such as parameters for sound synthesis control. This section shows how to design, edit and manipulate arrays.
 
-References :
+## References :
 
-  1. Matrix
+  * [1] Matrix
 
 A matrix is a rectangular array of m*n numbers, with m rows and n columns,
 such as :
 
-1 2 3
 
-4 5 6
+ 1 2 3
 
-Contents :
+ 4 5 6
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -50,6 +47,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](3DC-Lib "page précédente\(3DC-Lib\)") |
-[Next](ArrayObject "Next\(Class-Array Object\)")
+Navigation : [Previous](3DC-Lib "\(3DC-Lib\)") | [Next](ArrayObject "\(Class-Array Object\)")
 

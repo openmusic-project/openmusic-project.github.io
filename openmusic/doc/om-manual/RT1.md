@@ -106,20 +106,16 @@ Note that groups must be written with a new subordinate level of parenthesis.
   
 ## References :
 
-  1. Group
+  * [1] Group
 
 An internal subdivision, that is, a list of proportions within a measure. A
-group can enclose a sub group. Basic examples are tuplets, groups of eighth,
-sixteenth notes. Groups of quarter, semibreves, whole notes or any other
-values are also admitted in rhythm trees.
+group can enclose a sub group. Basic examples are tuplets, groups of eighth, sixteenth notes. Groups of quarter, semibreves, whole notes or any other values are also admitted in rhythm trees.
 
 For instance :
 
 (? ((4//4 ( (2 ( 1 1)) (1 ( 1 (1 (1 1 1)))) (1 (1 1 1 1 1)) )))).
 
-This one measure tree has one group - two quarter notes - , one group with a
-sub group - one eighth note and a sixteenth notes triplet, and a last group -
-a quintuplet.
+This one measure tree has one group - two quarter notes - , one group with a sub group - one eighth note and a sixteenth notes triplet, and a last group - a quintuplet.
 
 ![](../res/group1_icon.png)
 

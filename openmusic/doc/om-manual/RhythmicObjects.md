@@ -94,7 +94,7 @@ The  **get-measures** function returns a list of measures from a  voice .
   
 ## References :
 
-  1. Rhythm Tree
+  * [1]. Rhythm Tree
 
 A rhythm tree expresses a rhythmic structure as a list.
 

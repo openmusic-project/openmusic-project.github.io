@@ -1,6 +1,4 @@
-
-Navigation : [Previous](textfile "page précédente\(TextFile\)") |
-[Next](TextFileEnvironment "Next\(Outer Environment\)")
+Navigation : [Previous](textfile "\(TextFile\)") | [Next](TextFileEnvironment "\(Outer Environment\)")
 
 # TextFile Edition
 
@@ -8,19 +6,18 @@ Navigation : [Previous](textfile "page précédente\(TextFile\)") |
 
 ![](../res/textedit.png)
 
-|
 
-The textfile box has a basic editor where texts can be edited or modified.
 
-Double click on the box to open the editor.  
+The **textfile** box has a basic editor where texts can be edited or modified.
+
+Double click on the box to open the editor.
   
----|---  
-  
+
 ## Inputs and Outputs
 
 ![](../res/TextFileBoxInputs.png)
 
-The textfile object has four inputs and outputs :
+The **textfile** object has four inputs and outputs :
 
   1. "self" : the object itself
 
@@ -30,57 +27,45 @@ The textfile object has four inputs and outputs :
 
   4. "eval-mode" : format to interprete and return the text to exp-list.
 
-Exp-List : Contents
+### Exp-List : Contents
 
-The " **exp-list** " input and output represent a textual content. The "exp-
-list" input accepts :
+The " **exp-list** " input and output represent a textual content. The "exp-list" input accepts :
 
   * single items - strings, numbers, etc.
-  * lists, whose different items represent successive lines  in the  textfile .
+  * lists, whose different items represent successive lines  in the  **textfile** .
 
-It allows to set or read the contents of the  textfile box within visual
-programs. The implementation and interpretation of the content depends on the
-"eval-mode" and "ed-mode" inputs settings.
+It allows to set or read the contents of the  **textfile** box within visual programs. The implementation and interpretation of the content depends on the "eval-mode" and "ed-mode" inputs settings.
 
-|
 
 ![Inputting contents with "exp-list".](../res/textfileinput.png)
-
-Inputting contents with "exp-list".  
+*Inputting contents with "exp-list".*
   
----|---  
-  
-Ed-Mode : Overwrite or Append New Data
 
-The " **ed-mode** " input determines the way input data is written in the text
-file with **successive evaluations** **.** It offers two options :
+  
+### Ed-Mode : Overwrite or Append New Data
+
+The " **ed-mode** " input determines the way input data is written in the **textfile** with **successive evaluations** **.** It offers two options :
 
   1. "supersede" : the previous content is **overwritten** by new data.
 
   2. "append" : new data is **appended after** the existing contents. 
 
-Hence, the results of several successive iterations can be stored in the text
-buffer.
+Hence, the results of several successive iterations can be stored in the text buffer.
 
 Click on the input to select an option.
 
-![Left, "supersede" : each evaluation reinitializes the TextFile contents.
-Right, "append" : the previous contents is kept in the
-TextFile.](../res/textfileappend.png)
+![Left, "supersede" : each evaluation reinitializes the TextFile contents. Right, "append" : the previous contents is kept in the TextFile.](../res/textfileappend.png)
+*Left, "supersede" : each evaluation reinitializes the TextFile contents. Right, "append" : the previous contents is kept in the TextFile.*
 
-Left, "supersede" : each evaluation reinitializes the TextFile contents.
-Right, "append" : the previous contents is kept in the TextFile.
+### Eval-Mode : Writing Format
 
-Eval-Mode : Writing Format
-
-The " **eval-mode** " input determines the **format** of the contents returned
-by "exp-list".
+The " **eval-mode** " input determines the **format** of the contents returned by "exp-list".
 
 Four formats are available :
 
   1. "text" : returns **a list of strings** corresponding to the successive lines of the text.
 
-  2. "data list"  : returns the items as **a list** , matching each line of the text buffer, interpreted as **" raw" **d** ata ** . 
+  2. "data list"  : returns the items as **a list** , matching each line of the text buffer, interpreted as **"raw"** data . 
 
 Several items on a line are gathered in the same list.
 
@@ -88,19 +73,14 @@ Several items on a line are gathered in the same list.
 
   4. "value" : evaluates the first item of the text file and returns it as a single value. This is useful for files containing lists)
 
-|
 
-![Three options for formatting the text contents with "eval-mode". The result
-appears when evaluating the "exp-list" output.](../res/textevalmode.png)
 
-Three options for formatting the text contents with "eval-mode". The result
-appears when evaluating the "exp-list" output.  
-  
----|---  
-  
-References :
+![Three options for formatting the text contents with "eval-mode". The result appears when evaluating the "exp-list" output.](../res/textevalmode.png)
+*Three options for formatting the text contents with "eval-mode". The result appears when evaluating the "exp-list" output.*
 
-Contents :
+
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -128,6 +108,5 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](textfile "page précédente\(TextFile\)") |
-[Next](TextFileEnvironment "Next\(Outer Environment\)")
+Navigation : [Previous](textfile "\(TextFile\)") | [Next](TextFileEnvironment "\(Outer Environment\)")
 

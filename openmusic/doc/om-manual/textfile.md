@@ -1,29 +1,21 @@
-Navigation : [Previous](ArrayTools "page précédente\(Class-Array
-Tools\)") | [Next](TextFileEdition "Next\(TextFile
-Edition\)")
+Navigation : [Previous](ArrayTools "\(Class-Array Tools\)") | [Next](TextFileEdition "\(TextFile Edition\)")
 
 # TextFile
 
 ![](../res/textfilebox_icon.png)
 
-|
-
-The ** TextFile ** box represents a text buffer in a visual program. It can be
+The **TextFile** box represents a text buffer in a visual program. It can be:
 
   * internal to a patch - by default
   * attached to an **external file** of the computer.
 
-  
----|---  
-  
-Textfile boxes are accessed via the `Classes / Basic Tools / Text / TEXTFILE`
-menu.
+**Textfile** boxes are accessed via the `Classes / Basic Tools / Text / TEXTFILE` menu.
 
 ![](../res/textclass.png)
 
-References :
 
-Contents :
+
+## Contents :
 
   * [OpenMusic Documentation](OM-Documentation)
   * [OM User Manual](OM-User-Manual)
@@ -51,7 +43,6 @@ Contents :
     * [Errors and Problems](errors)
   * [OpenMusic QuickStart](QuickStart-Chapters)
 
-Navigation : [Previous](ArrayTools "page précédente\(Class-Array
-Tools\)") | [Next](TextFileEdition "Next\(TextFile
-Edition\)")
+Navigation : [Previous](ArrayTools "\(Class-Array Tools\)") | [Next](TextFileEdition "\(TextFile Edition\)")
+
 
