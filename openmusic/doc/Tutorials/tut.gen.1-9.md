@@ -1,6 +1,6 @@
 OpenMusic Tutorials  
 ---  
-[Prev](tut.gen)| | [Next](tut.gen.1)  
+[Prev](index)| | [Next](tut.gen.1)  
   
 * * *
 

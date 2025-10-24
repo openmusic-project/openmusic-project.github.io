@@ -1,6 +1,6 @@
 OpenMusic Tutorials  
 ---  
-[Prev](concepts.libraries)| | [Next](tut.gen.1-9)  
+| [Next](tut.gen.1-9)  
   
 * * *
 
@@ -213,7 +213,6 @@ Functions](tut.gen.35)
 
 * * *
 
-[Prev](concepts.libraries) | [Next](tut.gen.1-9)  
----|---  
-Libraries| Using Musical Objects I
+| [Next](tut.gen.1-9)  
+
 
