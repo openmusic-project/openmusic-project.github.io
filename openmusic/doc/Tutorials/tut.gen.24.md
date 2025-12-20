@@ -24,8 +24,8 @@ Instead of working with onsets and durations, the rhythmic information in a
 [**Voice**](voice) object is carried by a special type of tree called a
 rhythm tree. Our goal in this patch is just to construct a simple rhythm tree
 from scratch that will be acceptable to the [**Voice**](voice) box. **An
-entire chapter is devoted to the concept of rhythm trees in the[Main
-Section.](concepts.rhythm-trees)**
+entire chapter is devoted to the concept of rhythm trees in the [main
+documentation.](../om-manual/RT1)**
 
 Consider the following example of a rhythm tree:
 
